@@ -4,6 +4,742 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pet can be your best friend.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201206Z" creationid="SGKoishi" creationdate="20200518T201206Z">
+        <seg>宠物可以作为你最好的朋友。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A room in a house can have Wood Platforms as a floor or ceiling, but NPCs need at least one solid block to stand on.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203357Z" creationid="SGKoishi" creationdate="20200518T203357Z">
+        <seg>平台可以用来作为房间地板和天花板，但是NPC必须要能找到一个实心的方块才能站稳！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advanced players may wish to remap their buttons; you can do this from the Controls Menu in Settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200546Z" creationid="SGKoishi" creationdate="20200518T200529Z">
+        <seg>有经验的玩家或许会想要更改自己的键位：打开“设置”里面的“操作键位”就可以设置了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bosses are easier to defeat with friends.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195718Z" creationid="SGKoishi" creationdate="20200518T195718Z">
+        <seg>一般来说，在多人合力时更容易击败Boss。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bows and guns require the proper ammo in your Ammo Slots.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195742Z" creationid="SGKoishi" creationdate="20200518T195742Z">
+        <seg>许多远程武器需要对应的弹药才能使用。是不是很合理呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a Furnace to craft metal bars out of ore.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202542Z" creationid="SGKoishi" creationdate="20200518T202542Z">
+        <seg>你要制作一个熔炉才可以加工冶炼矿锭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Collect 3 of them to craft a Mana Crystal you can use to increase your Mana.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201149Z" creationid="SGKoishi" creationdate="20200518T201149Z">
+        <seg>每收集到3个，你就可以制作一个魔法水晶来提升你的魔力上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combine them to make a Cloud in a Balloon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201920Z" creationid="SGKoishi" creationdate="20200518T201920Z">
+        <seg>你还可以把他们组合成云彩气球！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defeat the boss in The Underworld to change the World forever.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200814Z" creationid="SGKoishi" creationdate="20200518T200814Z">
+        <seg>击败地狱里的Boss会导致世界发生剧变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demon Altars and Crimson Altars can't be destroyed with a normal hammer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201006Z" creationid="SGKoishi" creationdate="20200518T201006Z">
+        <seg>恶魔祭坛和猩红祭坛并不会被普通的锤子破坏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't fall into lava without drinking an Obsidian Skin Potion first!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195336Z" creationid="SGKoishi" creationdate="20200518T195336Z">
+        <seg>要是没有喝黑曜石皮肤药水，那可就要小心别掉进岩浆里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't shake a Snow Globe unless you want to summon the Frost Legion.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201351Z" creationid="SGKoishi" creationdate="20200518T201351Z">
+        <seg>除非您想召唤冰霜军团，否则请勿摇动雪球仪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double, double, toil and trouble!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202325Z" creationid="SGKoishi" creationdate="20200518T202325Z">
+        <seg>不惮辛劳不惮烦，釜中沸沫已成澜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During a Blood Moon, Zombies can open doors.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195044Z" creationid="SGKoishi" creationdate="20200518T195044Z">
+        <seg>在血月期间，僵尸可以打开门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Falling Stars sometimes appear at night.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201111Z" creationid="SGKoishi" creationdate="20200518T201111Z">
+        <seg>落星有时会在晚上出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find a Guide Voodoo Doll and hurl it into the infernal lava to summon him.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200915Z" creationid="SGKoishi" creationdate="20200518T200915Z">
+        <seg>找到一个向导巫毒娃娃并把它丢下岩浆，你就能看到这个恐怖之物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fishing is a fantastic source of crafting ingredients, accessories, and loot crates!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T205740Z" creationid="SGKoishi" creationdate="20200518T205740Z">
+        <seg>钓鱼是合成材料、饰品和宝藏匣的绝佳来源！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Friendly Truffles will sometimes make themselves at home in Surface Mushroom Biomes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194840Z" creationid="SGKoishi" creationdate="20200518T194840Z">
+        <seg>友好的松露人有时会让自己在地表蘑菇生态中居家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gel can be obtained by defeating slimes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195629Z" creationid="SGKoishi" creationdate="20200518T195629Z">
+        <seg>凝胶一般可以通过打败史莱姆来获得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generating ocean sand</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194213Z" creationid="SGKoishi" creationdate="20200518T194213Z">
+        <seg>产生海洋沙滩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Got some extra walls or platforms?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204234Z" creationid="SGKoishi" creationdate="20200518T204234Z">
+        <seg>有一些多余的背景墙或平台？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grappling Hooks are invaluable tools for exploration.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203155Z" creationid="SGKoishi" creationdate="20200518T203155Z">
+        <seg>钩爪是探索时的无价之宝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He comes to town after the Frost Legion is defeated (and 'tis the season).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201333Z" creationid="SGKoishi" creationdate="20200518T201333Z">
+        <seg>如果你击败了冰霜军团，他就会来到你的小镇（如果季节没错的话）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If only someone could lift his curse...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195856Z" creationid="SGKoishi" creationdate="20200518T195856Z">
+        <seg>不过，前提是他身上的诅咒被解除了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you dig deep enough, you'll end up in The Underworld!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201230Z" creationid="SGKoishi" creationdate="20200518T201230Z">
+        <seg>如果你挖得足够深，那就能挖到地狱！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you don't trust them, use a Safe or Piggy Bank; those items have storage that is exclusive to each player.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194517Z" creationid="SGKoishi" creationdate="20200518T194324Z">
+        <seg>如果你不信任他们，请使用保险柜或猪猪储蓄罐；它们为每个玩家提供私有的的存储空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you find a Magic Mirror, you can use it to teleport back to your spawn point.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194916Z" creationid="SGKoishi" creationdate="20200518T194916Z">
+        <seg>如果你有一个魔镜，就可以使用它来传送回生成点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you get lost or need to find another player, open the World Map.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204157Z" creationid="SGKoishi" creationdate="20200518T204157Z">
+        <seg>如果你迷路了或想要找到其他玩家，那就打开大地图看看吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you need to remove background walls, craft a hammer!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204212Z" creationid="SGKoishi" creationdate="20200518T204212Z">
+        <seg>如果要拆除背景墙，那就要制作锤子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you save up enough, one might move in!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200140Z" creationid="SGKoishi" creationdate="20200518T195947Z">
+        <seg>如果你身上有足够多的钱，那多半就会有商人入住！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you store your Coins in a Chest or Piggy Bank, you will be less likely to lose them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202055Z" creationid="SGKoishi" creationdate="20200518T202055Z">
+        <seg>如果把钱存在猪猪储蓄罐或保险柜里，那你就不会在死亡时丢失钱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you're sick of getting knocked around, try equipping a Cobalt Shield.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203018Z" creationid="SGKoishi" creationdate="20200518T203018Z">
+        <seg>如果不想被击退所扰乱，那就试着装备一个钴蓝盾吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If your house doesn't have background walls, monsters will be able to spawn inside.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202426Z" creationid="SGKoishi" creationdate="20200518T202426Z">
+        <seg>如果你的房子没有背景墙，那么怪物就有可能刷新在里面！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Info accessories don't need to be equipped to provide you and nearby friends with useful information; you can just leave them in your Inventory.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194637Z" creationid="SGKoishi" creationdate="20200518T194637Z">
+        <seg>信息类饰品可以为你和附近的人提供信息，甚至不需要装备起来！只需要把它们放在背包里就可以生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep an explosive in your inventory or a storage container to attract a Demolitionist to your house.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200144Z" creationid="SGKoishi" creationdate="20200518T200109Z">
+        <seg>爆破专家？他只会在你拥有爆炸物时入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Killing Bunnies is cruel.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201049Z" creationid="SGKoishi" creationdate="20200518T201049Z">
+        <seg>杀小兔兔非 常 残 忍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Life Crystals are hidden around the World.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195520Z" creationid="SGKoishi" creationdate="20200518T195520Z">
+        <seg>生命水晶隐藏在地图各处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look for them on Floating Islands.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195414Z" creationid="SGKoishi" creationdate="20200518T195414Z">
+        <seg>你可以在浮空岛上找到它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure you have valid housing with empty rooms, and you may attract new inhabitants to your World.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200226Z" creationid="SGKoishi" creationdate="20200518T200226Z">
+        <seg>这个世界有许多友好的居民，不过你要有符合要求的空房子才能吸引他们入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merchants love money.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195909Z" creationid="SGKoishi" creationdate="20200518T195909Z">
+        <seg>商人爱财。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mind the gaps.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201544Z" creationid="SGKoishi" creationdate="20200518T201544Z">
+        <seg>注意脚下！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mushroom Biomes can be grown above ground as well as below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194812Z" creationid="SGKoishi" creationdate="20200518T194812Z">
+        <seg>蘑菇生态环境既可以在地上也可以在地下生长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other players can loot your chests!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194252Z" creationid="SGKoishi" creationdate="20200518T194252Z">
+        <seg>其他玩家可以偷走你宝箱里的东西！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Period.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201059Z" creationid="SGKoishi" creationdate="20200518T201059Z">
+        <seg>句号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Piggy Bank</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194436Z" creationid="SGKoishi" creationdate="20200518T194436Z">
+        <seg>猪猪储蓄罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protect yourself by equipping an Obsidian Skull or similar accessory.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195506Z" creationid="SGKoishi" creationdate="20200518T195506Z">
+        <seg>不过如果你装备着黑曜石头颅或类似的东西，那就不是问题了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rocket science gave us Rocket Boots.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201646Z" creationid="SGKoishi" creationdate="20200518T201646Z">
+        <seg>研发“火箭”科技，获得火箭靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rope can really help you get around while exploring caves.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194714Z" creationid="SGKoishi" creationdate="20200518T194714Z">
+        <seg>绳索可以帮助你在探索洞穴时移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sand is overpowered.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203926Z" creationid="SGKoishi" creationdate="20200518T203926Z">
+        <seg>沙...沙块太...强了...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Santa Claus is real.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201241Z" creationid="SGKoishi" creationdate="20200518T201241Z">
+        <seg>圣诞老人是真的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Seeds can be used to grow a variety of useful ingredients for crafting potions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204109Z" creationid="SGKoishi" creationdate="20200518T204109Z">
+        <seg>种子可以种出许多制作药水用的材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She can tell you the state of Corruption, Crimson, and Hallow in your World.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200425Z" creationid="SGKoishi" creationdate="20200518T200425Z">
+        <seg>她能告诉你地图上的腐化、猩红和神圣程度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slay a boss to attract a Dryad to your house.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200404Z" creationid="SGKoishi" creationdate="20200518T200404Z">
+        <seg>击败一个Boss后可以吸引树妖入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some ores require better pickaxes to mine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195705Z" creationid="SGKoishi" creationdate="20200518T195649Z">
+        <seg>有一些矿石需要高级的镐子才能挖掘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes you can find NPCs hidden around the World.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195030Z" creationid="SGKoishi" creationdate="20200518T195030Z">
+        <seg>有时你会在世界各地发现隐藏的NPC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Cloud in a Bottle and Shiny Red Balloon accessories both improve your ability to jump.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201739Z" creationid="SGKoishi" creationdate="20200518T201739Z">
+        <seg>瓶中云彩和闪亮红气球都可以提高你的跳跃能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Corruption is full of chasms.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201523Z" creationid="SGKoishi" creationdate="20200518T201523Z">
+        <seg>腐化之地充满了裂沟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Hallow is the only place where Corruption and Crimson cannot spread.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201503Z" creationid="SGKoishi" creationdate="20200518T201503Z">
+        <seg>神圣之地是腐化和猩红无法侵入的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Housing section of the Equipment Menu allows you to decide what rooms you want your NPCs to live in.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202936Z" creationid="SGKoishi" creationdate="20200518T202936Z">
+        <seg>你可以在装备栏的“住房”页面里调整NPC居住的房间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Old Man at the Dungeon is a Clothier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195814Z" creationid="SGKoishi" creationdate="20200518T195814Z">
+        <seg>地牢门口的老人是一个裁缝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The best wizards around use Mana Flowers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203607Z" creationid="SGKoishi" creationdate="20200518T203607Z">
+        <seg>这里最好的巫师都会使用魔力花！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are Floating Islands in the sky.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194954Z" creationid="SGKoishi" creationdate="20200518T194954Z">
+        <seg>天空中有浮空岛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They can be crafted from numerous materials such as Wood, Glass, or even Bones.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200335Z" creationid="SGKoishi" creationdate="20200518T200335Z">
+        <seg>你可以用各种材料制作，例如说木头、玻璃，甚至骨头都行！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time heals all wounds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201551Z" creationid="SGKoishi" creationdate="20200518T201551Z">
+        <seg>时间可以治愈所有伤口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To craft potions, place a Bottle on a Table to make an Alchemy Station.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202354Z" creationid="SGKoishi" creationdate="20200518T202128Z">
+        <seg>想要制作药水，就要把瓶子放在桌子上来当炼金术站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Torches and Glowsticks can be a light for you in dark places when all other lights go out.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195205Z" creationid="SGKoishi" creationdate="20200518T195157Z">
+        <seg>当你在黑暗当中时，火把和荧光棒能够为你提供照明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Torches require Wood and Gel to craft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195609Z" creationid="SGKoishi" creationdate="20200518T195609Z">
+        <seg>你可以使用木头和凝胶来制作火把。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Torches won't work underwater, but Glowsticks will.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195215Z" creationid="SGKoishi" creationdate="20200518T195215Z">
+        <seg>火把不能在水下生效，但荧光棒可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try crafting them with Hooks or gems.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203212Z" creationid="SGKoishi" creationdate="20200518T203212Z">
+        <seg>试着用钩子或宝石制作一个吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use "suspicious looking items" at your own risk!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203656Z" creationid="SGKoishi" creationdate="20200518T203656Z">
+        <seg>使用“可疑”类物品时风险自负。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use them to increase your health.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195554Z" creationid="SGKoishi" creationdate="20200518T195554Z">
+        <seg>使用它们可以提高你的生命值上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Walking on Hellstone and Meteorite can burn you!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195439Z" creationid="SGKoishi" creationdate="20200518T195439Z">
+        <seg>在狱炎石和陨石上行走时会灼伤！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Watch out for Meteorites!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201159Z" creationid="SGKoishi" creationdate="20200518T201159Z">
+        <seg>当心陨石！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water will break your fall.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195105Z" creationid="SGKoishi" creationdate="20200518T195105Z">
+        <seg>水能载舟，亦能止落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wear a Mining Helmet if you don't want to use Torches.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200703Z" creationid="SGKoishi" creationdate="20200518T200703Z">
+        <seg>采矿头盔？它也能提供照明，如果你不想用火把的话，可以试一下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wearing a full set of armor crafted from the same material gives you an extra bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202505Z" creationid="SGKoishi" creationdate="20200518T202505Z">
+        <seg>穿一身同系列成套的装备多半能获得额外的套装效果！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When dealing with a Goblin Army, crowd control is key.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203542Z" creationid="SGKoishi" creationdate="20200518T203542Z">
+        <seg>当面对哥布林军团时，范围控场很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When exploring, it helps to keep some Platforms on hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200302Z" creationid="SGKoishi" creationdate="20200518T200302Z">
+        <seg>随身带着一些平台对你探索应该有帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can buy Wires from the Mechanic and use them to create traps, pumping systems, or other elaborate devices.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202828Z" creationid="SGKoishi" creationdate="20200518T202828Z">
+        <seg>你可以从机械师手里买到电线，然后使用它们来建出陷阱、水泵和其他复杂的电路设施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can change your spawn point by placing and using a bed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194852Z" creationid="SGKoishi" creationdate="20200518T194852Z">
+        <seg>你可以通过放置和使用床来更改生成点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can check if a room is valid housing from the Housing section of the Inventory Menu.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204015Z" creationid="SGKoishi" creationdate="20200518T204015Z">
+        <seg>你可以在装备栏的“住房”页面里检查一个房屋是否可以居住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can destroy Shadow Orbs and Crimson Hearts with a hammer or explosives, but prepare yourself for the forces they unleash.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203509Z" creationid="SGKoishi" creationdate="20200518T203509Z">
+        <seg>你可以使用锤子或爆炸物摧毁暗影之珠或猩红之心，但是在那之前要准备好应对后果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can even craft it into a Rope Coil which can be thrown and automatically unfolds!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194751Z" creationid="SGKoishi" creationdate="20200518T194751Z">
+        <seg>你甚至可以将其制作成绳圈，丢出就可以自动展开！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can find one in the Dungeon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203045Z" creationid="SGKoishi" creationdate="20200518T203045Z">
+        <seg>（可以在地牢中找到）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can harvest Cobwebs and turn them into Silk.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202608Z" creationid="SGKoishi" creationdate="20200518T202608Z">
+        <seg>你可以收集蜘蛛网，然后织成丝绸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can plant Acorns to grow new trees.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201621Z" creationid="SGKoishi" creationdate="20200518T201621Z">
+        <seg>你可以使用种子来植树。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can turn them back into their original materials!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204257Z" creationid="SGKoishi" creationdate="20200518T204257Z">
+        <seg>你可以将它们恢复成原来的材料！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use Hallowed Seeds, Holy Water, or Pearlstone to make Hallow spread.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201427Z" creationid="SGKoishi" creationdate="20200518T201427Z">
+        <seg>您可以使用神圣之种，神圣之水或珍珠石来传播神圣环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use Silk to craft beds, sofas, and more!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202632Z" creationid="SGKoishi" creationdate="20200518T202626Z">
+        <seg>丝绸可以用来制作床、沙发和许多家具！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can wear Buckets on your head!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200715Z" creationid="SGKoishi" creationdate="20200518T200715Z">
+        <seg>你还可以把水桶套在头上！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have to pwn them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201025Z" creationid="SGKoishi" creationdate="20200518T201025Z">
+        <seg>你需要用到一些高级的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You won't take falling damage if you have a Lucky Horseshoe.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195352Z" creationid="SGKoishi" creationdate="20200518T195352Z">
+        <seg>如果你装备有幸运马蹄铁，就不会受到坠落伤害。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
