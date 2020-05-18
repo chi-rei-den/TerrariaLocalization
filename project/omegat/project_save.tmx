@@ -6,10 +6,130 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>'A.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222412Z" creationid="SGKoishi" creationdate="20200518T222412Z">
+        <seg>'A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'C.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222332Z" creationid="SGKoishi" creationdate="20200518T222332Z">
+        <seg>'C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'D.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222418Z" creationid="SGKoishi" creationdate="20200518T222418Z">
+        <seg>'D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'Great for impersonating devs!'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220757Z" creationid="SGKoishi" creationdate="20200518T220757Z">
+        <seg>“非常适合冒充开发者！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'J.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222407Z" creationid="SGKoishi" creationdate="20200518T222407Z">
+        <seg>'J.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'K.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222416Z" creationid="SGKoishi" creationdate="20200518T222416Z">
+        <seg>'K.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'M. J. Duncan'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222420Z" creationid="SGKoishi" creationdate="20200518T222420Z">
+        <seg>'M. J. Duncan'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'R.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222405Z" creationid="SGKoishi" creationdate="20200518T222405Z">
+        <seg>'R.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'S.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222430Z" creationid="SGKoishi" creationdate="20200518T222430Z">
+        <seg>'S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'U.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222435Z" creationid="SGKoishi" creationdate="20200518T222435Z">
+        <seg>'U.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'V.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222359Z" creationid="SGKoishi" creationdate="20200518T222359Z">
+        <seg>'V.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'W.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222404Z" creationid="SGKoishi" creationdate="20200518T222404Z">
+        <seg>'W.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'X.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222437Z" creationid="SGKoishi" creationdate="20200518T222437Z">
+        <seg>'X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;right&gt; to open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220855Z" creationid="SGKoishi" creationdate="20200518T220855Z">
+        <seg>&lt;right&gt;打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A pet can be your best friend.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201206Z" creationid="SGKoishi" creationdate="20200518T201206Z">
         <seg>宠物可以作为你最好的朋友。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A powerful club for long distances</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221944Z" creationid="SGKoishi" creationdate="20200518T221944Z">
+        <seg>强力的球杆，适合长距离</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +142,186 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A specialized club for finishing holes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221818Z" creationid="SGKoishi" creationdate="20200518T221818Z">
+        <seg>为最后进洞所特制的球杆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A well-rounded club best for mid-range distances</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221950Z" creationid="SGKoishi" creationdate="20200518T221103Z">
+        <seg>完善的球杆，适合中距离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accessories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215300Z" creationid="SGKoishi" creationdate="20200518T215300Z">
+        <seg>饰品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adept</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222703Z" creationid="SGKoishi" creationdate="20200518T222703Z">
+        <seg>精巧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advanced players may wish to remap their buttons; you can do this from the Controls Menu in Settings.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200546Z" creationid="SGKoishi" creationdate="20200518T200529Z">
         <seg>有经验的玩家或许会想要更改自己的键位：打开“设置”里面的“操作键位”就可以设置了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Agile</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222915Z" creationid="SGKoishi" creationdate="20200518T222915Z">
+        <seg>灵活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows fishing in lava</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222229Z" creationid="SGKoishi" creationdate="20200518T222229Z">
+        <seg>可以在岩浆中钓鱼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows flight and slow fall</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220805Z" creationid="SGKoishi" creationdate="20200518T220805Z">
+        <seg>可以飞行和缓慢下落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Angry</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222936Z" creationid="SGKoishi" creationdate="20200518T222936Z">
+        <seg>愤怒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Annoying</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222921Z" creationid="SGKoishi" creationdate="20200518T222921Z">
+        <seg>惹恼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arcane</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222932Z" creationid="SGKoishi" creationdate="20200518T222932Z">
+        <seg>奥秘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Armor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215257Z" creationid="SGKoishi" creationdate="20200518T215257Z">
+        <seg>装备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Armored</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222930Z" creationid="SGKoishi" creationdate="20200518T222930Z">
+        <seg>装备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Awful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222659Z" creationid="SGKoishi" creationdate="20200518T222659Z">
+        <seg>可畏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Awkward</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222700Z" creationid="SGKoishi" creationdate="20200518T222700Z">
+        <seg>粗笨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Be careful around Martian Probes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214137Z" creationid="SGKoishi" creationdate="20200518T214137Z">
+        <seg>当心火星探测器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Become invulnerable to damage!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214939Z" creationid="SGKoishi" creationdate="20200518T214939Z">
+        <seg>无懈可击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blocks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215252Z" creationid="SGKoishi" creationdate="20200518T215252Z">
+        <seg>方块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blood Moon Monolith</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223007Z" creationid="SGKoishi" creationdate="20200518T223007Z">
+        <seg>血月巨石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blue Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223143Z" creationid="SGKoishi" creationdate="20200518T223143Z">
+        <seg>蓝染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blue Flame Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223204Z" creationid="SGKoishi" creationdate="20200518T223204Z">
+        <seg>蓝焰染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blue Flame and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223205Z" creationid="SGKoishi" creationdate="20200518T223205Z">
+        <seg>蓝焰黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blue and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223155Z" creationid="SGKoishi" creationdate="20200518T223155Z">
+        <seg>蓝黑染料</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +342,282 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bright Lime Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223344Z" creationid="SGKoishi" creationdate="20200518T223344Z">
+        <seg> Bright Lime Dye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bright Orange Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223214Z" creationid="SGKoishi" creationdate="20200518T223214Z">
+        <seg>淡橙染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bright Red Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223211Z" creationid="SGKoishi" creationdate="20200518T223211Z">
+        <seg>淡红染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brisk</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222938Z" creationid="SGKoishi" creationdate="20200518T222938Z">
+        <seg>轻快</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Broken</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222740Z" creationid="SGKoishi" creationdate="20200518T222740Z">
+        <seg>碎裂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build a Furnace to craft metal bars out of ore.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202542Z" creationid="SGKoishi" creationdate="20200518T202542Z">
         <seg>你要制作一个熔炉才可以加工冶炼矿锭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bulky</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222629Z" creationid="SGKoishi" creationdate="20200518T222629Z">
+        <seg>笨重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Burczyk'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222412Z" creationid="SGKoishi" creationdate="20200518T222412Z">
+        <seg>Burczyk'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By ID</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215747Z" creationid="SGKoishi" creationdate="20200518T215747Z">
+        <seg>按ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calder'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222440Z" creationid="SGKoishi" creationdate="20200518T222440Z">
+        <seg>Calder'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can be hit with a golf club</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221013Z" creationid="SGKoishi" creationdate="20200518T221013Z">
+        <seg>可以使用高尔夫球杆打击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Celestial</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222736Z" creationid="SGKoishi" creationdate="20200518T222736Z">
+        <seg>天界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Time to Dawn</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214823Z" creationid="SGKoishi" creationdate="20200518T214805Z">
+        <seg>黎明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Time to Dusk</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214820Z" creationid="SGKoishi" creationdate="20200518T214820Z">
+        <seg>黄昏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Time to Midnight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214845Z" creationid="SGKoishi" creationdate="20200518T214845Z">
+        <seg>午夜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Time to Noon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214849Z" creationid="SGKoishi" creationdate="20200518T214833Z">
+        <seg>正午</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change your clothes in game at a Dresser or talk to the Stylist for a new hairdo.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213952Z" creationid="SGKoishi" creationdate="20200518T213952Z">
+        <seg>想换一套衣服或发型？去梳妆台或和发型师谈谈吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chlorophyte Bar</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223134Z" creationid="SGKoishi" creationdate="20200518T223134Z">
+        <seg>叶绿锭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chlorophyte Greaves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223133Z" creationid="SGKoishi" creationdate="20200518T223133Z">
+        <seg>叶绿护胫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chlorophyte Headgear</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223131Z" creationid="SGKoishi" creationdate="20200518T223131Z">
+        <seg>叶绿头饰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chlorophyte Helmet</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223130Z" creationid="SGKoishi" creationdate="20200518T223130Z">
+        <seg>叶绿头盔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chlorophyte Mask</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223130Z" creationid="SGKoishi" creationdate="20200518T223130Z">
+        <seg>叶绿面具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chlorophyte Plate Mail</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223132Z" creationid="SGKoishi" creationdate="20200518T223132Z">
+        <seg>叶绿板甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear Sky</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215323Z" creationid="SGKoishi" creationdate="20200518T215323Z">
+        <seg>快晴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Duplication Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214532Z" creationid="SGKoishi" creationdate="20200518T214532Z">
+        <seg>关闭复制菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Enemy Difficulty Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214708Z" creationid="SGKoishi" creationdate="20200518T214621Z">
+        <seg>关闭怪物强度调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Enemy Spawn Rate Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214702Z" creationid="SGKoishi" creationdate="20200518T214702Z">
+        <seg>关闭刷新率调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Personal Power Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214750Z" creationid="SGKoishi" creationdate="20200518T214750Z">
+        <seg>关闭个人能力菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Power Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214722Z" creationid="SGKoishi" creationdate="20200518T214722Z">
+        <seg>关闭能力菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Rain Control Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215120Z" creationid="SGKoishi" creationdate="20200518T215120Z">
+        <seg>关闭雨势调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Research Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214544Z" creationid="SGKoishi" creationdate="20200518T214544Z">
+        <seg>关闭研究菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Time Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214733Z" creationid="SGKoishi" creationdate="20200518T214733Z">
+        <seg>关闭时间菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Time Speed Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215021Z" creationid="SGKoishi" creationdate="20200518T215021Z">
+        <seg>关闭时间流速调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Weather Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214857Z" creationid="SGKoishi" creationdate="20200518T214857Z">
+        <seg>关闭天气菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Wind Control Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215001Z" creationid="SGKoishi" creationdate="20200518T215001Z">
+        <seg>关闭风势调整界面</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +638,102 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confetti Gun</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223129Z" creationid="SGKoishi" creationdate="20200518T223129Z">
+        <seg>彩纸枪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumables</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215303Z" creationid="SGKoishi" creationdate="20200518T215303Z">
+        <seg>消耗品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Costa Moura'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222402Z" creationid="SGKoishi" creationdate="20200518T222402Z">
+        <seg>Costa Moura'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Craig'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222413Z" creationid="SGKoishi" creationdate="20200518T222413Z">
+        <seg>Craig'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crimstone Brick</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223037Z" creationid="SGKoishi" creationdate="20200518T223037Z">
+        <seg>猩红砖块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crimstone Brick Wall</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223049Z" creationid="SGKoishi" creationdate="20200518T223049Z">
+        <seg>猩红砖墙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cyan Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223141Z" creationid="SGKoishi" creationdate="20200518T223141Z">
+        <seg>青染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cyan and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223153Z" creationid="SGKoishi" creationdate="20200518T223153Z">
+        <seg>青黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dale'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222442Z" creationid="SGKoishi" creationdate="20200518T222442Z">
+        <seg>Dale'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damaged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222742Z" creationid="SGKoishi" creationdate="20200518T222742Z">
+        <seg>破损</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dangerous</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222741Z" creationid="SGKoishi" creationdate="20200518T222741Z">
+        <seg>危险</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deadly</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222656Z" creationid="SGKoishi" creationdate="20200518T222656Z">
+        <seg>致命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defeat the boss in The Underworld to change the World forever.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200814Z" creationid="SGKoishi" creationdate="20200518T200814Z">
@@ -82,6 +746,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201006Z" creationid="SGKoishi" creationdate="20200518T201006Z">
         <seg>恶魔祭坛和猩红祭坛并不会被普通的锤子破坏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demonic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222928Z" creationid="SGKoishi" creationdate="20200518T222928Z">
+        <seg>恶魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deranged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222734Z" creationid="SGKoishi" creationdate="20200518T222734Z">
+        <seg>错乱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215233Z" creationid="SGKoishi" creationdate="20200518T215233Z">
+        <seg>已禁用</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +798,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drizzle</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215443Z" creationid="SGKoishi" creationdate="20200518T215443Z">
+        <seg>雾雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dull</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222624Z" creationid="SGKoishi" creationdate="20200518T222617Z">
+        <seg>迟钝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Duplication unlocked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222302Z" creationid="SGKoishi" creationdate="20200518T222302Z">
+        <seg>研究完毕，已解锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During a Blood Moon, Zombies can open doors.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195044Z" creationid="SGKoishi" creationdate="20200518T195044Z">
         <seg>在血月期间，僵尸可以打开门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During a Solar Eclipse, be on the lookout for tons of strange and creepy monsters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214256Z" creationid="SGKoishi" creationdate="20200518T214256Z">
+        <seg>在日食期间，要小心面对独特而奇诡的怪物群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each one is unique!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214115Z" creationid="SGKoishi" creationdate="20200518T214103Z">
+        <seg>每一种都独一无二！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>East</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215716Z" creationid="SGKoishi" creationdate="20200518T215716Z">
+        <seg>东</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Eventually, Life Fruit will grow in the Jungle, and can give you an extra boost to your health.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213913Z" creationid="SGKoishi" creationdate="20200518T213913Z">
+        <seg>生命之果生长在丛林里，可以在生命水晶之后继续提升生命力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +886,82 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flame Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223201Z" creationid="SGKoishi" creationdate="20200518T223201Z">
+        <seg>红焰染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flame and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223201Z" creationid="SGKoishi" creationdate="20200518T223201Z">
+        <seg>红焰黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fleeting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222940Z" creationid="SGKoishi" creationdate="20200518T222940Z">
+        <seg>快速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forceful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222739Z" creationid="SGKoishi" creationdate="20200518T222739Z">
+        <seg>强力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Frenzying</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222926Z" creationid="SGKoishi" creationdate="20200518T222926Z">
+        <seg>暴怒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Friendly Truffles will sometimes make themselves at home in Surface Mushroom Biomes.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194840Z" creationid="SGKoishi" creationdate="20200518T194840Z">
         <seg>友好的松露人有时会让自己在地表蘑菇生态中居家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fully researched items can be created freely</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215741Z" creationid="SGKoishi" creationdate="20200518T215741Z">
+        <seg>研究完毕的物品可以无限刷取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furious</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222737Z" creationid="SGKoishi" creationdate="20200518T222737Z">
+        <seg>狂怒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G. Kolf'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222415Z" creationid="SGKoishi" creationdate="20200518T222415Z">
+        <seg>G. Kolf'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Garner'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222405Z" creationid="SGKoishi" creationdate="20200518T222405Z">
+        <seg>Garner'</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +982,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Godly</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222926Z" creationid="SGKoishi" creationdate="20200518T222926Z">
+        <seg>神级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Godmode Disabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214926Z" creationid="SGKoishi" creationdate="20200518T214926Z">
+        <seg>无敌模式已关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Godmode Enabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214934Z" creationid="SGKoishi" creationdate="20200518T214934Z">
+        <seg>无敌模式已开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Golf balls will carry a good distance with decent vertical loft</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221631Z" creationid="SGKoishi" creationdate="20200518T221631Z">
+        <seg>合适的角度将使高尔夫球飞出一个优秀的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Golf balls will stay close to the ground over short distances for precision shots</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221917Z" creationid="SGKoishi" creationdate="20200518T221917Z">
+        <seg>精确的打击使高尔夫球稍微离地，飞行小段距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Got some extra walls or platforms?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204234Z" creationid="SGKoishi" creationdate="20200518T204234Z">
@@ -182,6 +1038,70 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Green Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223139Z" creationid="SGKoishi" creationdate="20200518T223139Z">
+        <seg>绿染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Green Flame Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223202Z" creationid="SGKoishi" creationdate="20200518T223202Z">
+        <seg>绿焰染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Green Flame and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223203Z" creationid="SGKoishi" creationdate="20200518T223203Z">
+        <seg>绿焰黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Green and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223151Z" creationid="SGKoishi" creationdate="20200518T223151Z">
+        <seg>绿黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guarding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222930Z" creationid="SGKoishi" creationdate="20200518T222930Z">
+        <seg>守护</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hard</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222929Z" creationid="SGKoishi" creationdate="20200518T222929Z">
+        <seg>坚硬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hasty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222645Z" creationid="SGKoishi" creationdate="20200518T222645Z">
+        <seg>急速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hayes'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222408Z" creationid="SGKoishi" creationdate="20200518T222408Z">
+        <seg>Hayes'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He comes to town after the Frost Legion is defeated (and 'tis the season).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201333Z" creationid="SGKoishi" creationdate="20200518T201333Z">
@@ -190,10 +1110,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heavy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222637Z" creationid="SGKoishi" creationdate="20200518T222637Z">
+        <seg>沉重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold UP to boost faster!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220850Z" creationid="SGKoishi" creationdate="20200518T220850Z">
+        <seg>按UP以加快速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hurtful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222923Z" creationid="SGKoishi" creationdate="20200518T222923Z">
+        <seg>致伤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If Searched For</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215248Z" creationid="SGKoishi" creationdate="20200518T215248Z">
+        <seg>搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If only someone could lift his curse...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195856Z" creationid="SGKoishi" creationdate="20200518T195856Z">
         <seg>不过，前提是他身上的诅咒被解除了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If they scan you, they'll summon a Martian Invasion!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214157Z" creationid="SGKoishi" creationdate="20200518T214157Z">
+        <seg>如果你被它们扫到了，火星人可能就要入侵了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,10 +1230,122 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ignorant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222733Z" creationid="SGKoishi" creationdate="20200518T222733Z">
+        <seg>无知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increased Placement Range</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214554Z" creationid="SGKoishi" creationdate="20200518T214554Z">
+        <seg>增加放置范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increases yoyo range</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220039Z" creationid="SGKoishi" creationdate="20200518T220039Z">
+        <seg>提升悠悠球范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inept</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222704Z" creationid="SGKoishi" creationdate="20200518T222704Z">
+        <seg>笨拙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Infection Spread Disabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214611Z" creationid="SGKoishi" creationdate="20200518T214611Z">
+        <seg>环境传播已关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Infection Spread Enabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214602Z" creationid="SGKoishi" creationdate="20200518T214602Z">
+        <seg>环境传播已开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Info accessories don't need to be equipped to provide you and nearby friends with useful information; you can just leave them in your Inventory.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194637Z" creationid="SGKoishi" creationdate="20200518T194637Z">
         <seg>信息类饰品可以为你和附近的人提供信息，甚至不需要装备起来！只需要把它们放在背包里就可以生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intense</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222734Z" creationid="SGKoishi" creationdate="20200518T222734Z">
+        <seg>威猛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intimidating</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222647Z" creationid="SGKoishi" creationdate="20200518T222647Z">
+        <seg>恐怖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intrepid</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222945Z" creationid="SGKoishi" creationdate="20200518T222945Z">
+        <seg>勇猛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Iron Axe</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223126Z" creationid="SGKoishi" creationdate="20200518T223126Z">
+        <seg>铁斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Iron Pickaxe</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223125Z" creationid="SGKoishi" creationdate="20200518T223125Z">
+        <seg>铁镐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>J. Ness'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222422Z" creationid="SGKoishi" creationdate="20200518T222422Z">
+        <seg>J. Ness'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jagged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222934Z" creationid="SGKoishi" creationdate="20200518T222934Z">
+        <seg>锯齿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keen</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222738Z" creationid="SGKoishi" creationdate="20200518T222738Z">
+        <seg>锐利</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,10 +1366,82 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kites can be flown on windy days</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222150Z" creationid="SGKoishi" creationdate="20200518T222150Z">
+        <seg>在大风时可以放风筝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Large</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222726Z" creationid="SGKoishi" creationdate="20200518T222655Z">
+        <seg>加大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lazy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222919Z" creationid="SGKoishi" creationdate="20200518T222919Z">
+        <seg>呆滞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Legendary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222947Z" creationid="SGKoishi" creationdate="20200518T222947Z">
+        <seg>传奇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lethargic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222700Z" creationid="SGKoishi" creationdate="20200518T222700Z">
+        <seg>无力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Life Crystals are hidden around the World.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195520Z" creationid="SGKoishi" creationdate="20200518T195520Z">
         <seg>生命水晶隐藏在地图各处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Life Crystals not enough for you?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213820Z" creationid="SGKoishi" creationdate="20200518T213820Z">
+        <seg>生命水晶无法提升你的生命力了？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222642Z" creationid="SGKoishi" creationdate="20200518T222642Z">
+        <seg>轻灵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lime Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223139Z" creationid="SGKoishi" creationdate="20200518T223139Z">
+        <seg>橙绿染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lime and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223151Z" creationid="SGKoishi" creationdate="20200518T223151Z">
+        <seg>橙绿黑染料</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,10 +1454,98 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Looking for a challenge?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214123Z" creationid="SGKoishi" creationdate="20200518T214123Z">
+        <seg>想要挑战自己？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lucky</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222933Z" creationid="SGKoishi" creationdate="20200518T222933Z">
+        <seg>幸运</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Major improvements to all stats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220929Z" creationid="SGKoishi" creationdate="20200518T220929Z">
+        <seg>大幅提升所有属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Major improvements to all stats and increased life regeneration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222609Z" creationid="SGKoishi" creationdate="20200518T222609Z">
+        <seg>大幅提升所有属性，提升生命恢复速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure you have valid housing with empty rooms, and you may attract new inhabitants to your World.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200226Z" creationid="SGKoishi" creationdate="20200518T200226Z">
         <seg>这个世界有许多友好的居民，不过你要有符合要求的空房子才能吸引他们入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222922Z" creationid="SGKoishi" creationdate="20200518T222922Z">
+        <seg>狂躁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Massive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222706Z" creationid="SGKoishi" creationdate="20200518T222706Z">
+        <seg>巨大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Masterful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222704Z" creationid="SGKoishi" creationdate="20200518T222704Z">
+        <seg>精湛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Materials</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215309Z" creationid="SGKoishi" creationdate="20200518T215309Z">
+        <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Medium improvements to all stats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220922Z" creationid="SGKoishi" creationdate="20200518T220922Z">
+        <seg>中幅提升所有属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Medium improvements to all stats and increased life regeneration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222606Z" creationid="SGKoishi" creationdate="20200518T222606Z">
+        <seg>中幅提升所有属性，提升生命恢复速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Menacing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222937Z" creationid="SGKoishi" creationdate="20200518T222937Z">
+        <seg>险恶</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,10 +1566,274 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Minor improvements to all stats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220912Z" creationid="SGKoishi" creationdate="20200518T220912Z">
+        <seg>小幅提升所有属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minor improvements to all stats and increased life regeneration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222507Z" creationid="SGKoishi" creationdate="20200518T222507Z">
+        <seg>小幅提升所有属性，提升生命恢复速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minor improvements to melee stats &amp; lowered defense</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220953Z" creationid="SGKoishi" creationdate="20200518T220953Z">
+        <seg>小幅提升近战属性，降低防御力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Misc</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215307Z" creationid="SGKoishi" creationdate="20200518T215307Z">
+        <seg>杂物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monsoon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215711Z" creationid="SGKoishi" creationdate="20200518T215313Z">
+        <seg>苍天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moosdijk'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222406Z" creationid="SGKoishi" creationdate="20200518T222406Z">
+        <seg>Moosdijk'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mounts grant the player increased mobility and a variety of useful abilities.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214111Z" creationid="SGKoishi" creationdate="20200518T214051Z">
+        <seg>坐骑会强化你的移动能力，还有各种有帮助的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Murderous</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222917Z" creationid="SGKoishi" creationdate="20200518T222917Z">
+        <seg>残暴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mushroom Biomes can be grown above ground as well as below.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194812Z" creationid="SGKoishi" creationdate="20200518T194812Z">
         <seg>蘑菇生态环境既可以在地上也可以在地下生长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mystic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222702Z" creationid="SGKoishi" creationdate="20200518T222702Z">
+        <seg>神秘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mythical</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222951Z" creationid="SGKoishi" creationdate="20200518T222951Z">
+        <seg>神话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215808Z" creationid="SGKoishi" creationdate="20200518T215808Z">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nasty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222921Z" creationid="SGKoishi" creationdate="20200518T222921Z">
+        <seg>凶险</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nearby players get a bonus against:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220746Z" creationid="SGKoishi" creationdate="20200518T220746Z">
+        <seg>附近的玩家可获得对以下怪物的加成：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nightmare Pickaxe</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223159Z" creationid="SGKoishi" creationdate="20200518T223159Z">
+        <seg>梦魇镐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nimble</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222916Z" creationid="SGKoishi" creationdate="20200518T222916Z">
+        <seg>灵巧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Wind</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215500Z" creationid="SGKoishi" creationdate="20200518T215500Z">
+        <seg>无风</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal Placement Range</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214546Z" creationid="SGKoishi" creationdate="20200518T214546Z">
+        <seg>正常放置范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nothing improves your mobility like Wings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213633Z" creationid="SGKoishi" creationdate="20200518T213616Z">
+        <seg>难道有什么能比用翅膀飞行更好的移动方式吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once enough of &lt;item name&gt; is researched, it will be available infinitely!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214527Z" creationid="SGKoishi" creationdate="20200518T214527Z">
+        <seg>研究足够数量的&lt;item name&gt;后，就可以无限刷取了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222436Z" creationid="SGKoishi" creationdate="20200518T222436Z">
+        <seg>One'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Duplication Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214530Z" creationid="SGKoishi" creationdate="20200518T214530Z">
+        <seg>打开复制菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Enemy Difficulty Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214712Z" creationid="SGKoishi" creationdate="20200518T214619Z">
+        <seg>打开怪物强度调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Enemy Spawn Rate Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214707Z" creationid="SGKoishi" creationdate="20200518T214636Z">
+        <seg>打开刷新率调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Personal Power Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214747Z" creationid="SGKoishi" creationdate="20200518T214747Z">
+        <seg>打开个人能力菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Power Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214731Z" creationid="SGKoishi" creationdate="20200518T214727Z">
+        <seg>打开能力菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Rain Control Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215124Z" creationid="SGKoishi" creationdate="20200518T215124Z">
+        <seg>打开雨势调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Research Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214543Z" creationid="SGKoishi" creationdate="20200518T214543Z">
+        <seg>打开研究菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Time Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214732Z" creationid="SGKoishi" creationdate="20200518T214732Z">
+        <seg>打开时间菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Time Speed Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215014Z" creationid="SGKoishi" creationdate="20200518T215014Z">
+        <seg>打开时间流速调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Weather Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214856Z" creationid="SGKoishi" creationdate="20200518T214856Z">
+        <seg>打开天气菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Wind Control Slider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214955Z" creationid="SGKoishi" creationdate="20200518T214955Z">
+        <seg>打开风势调整界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Orange Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223136Z" creationid="SGKoishi" creationdate="20200518T223136Z">
+        <seg>橙染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Orange and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223149Z" creationid="SGKoishi" creationdate="20200518T223149Z">
+        <seg>橙黑染料</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,10 +1846,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parker III'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222424Z" creationid="SGKoishi" creationdate="20200518T222424Z">
+        <seg>Parker III'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Period.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201059Z" creationid="SGKoishi" creationdate="20200518T201059Z">
         <seg>句号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phelps'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222419Z" creationid="SGKoishi" creationdate="20200518T222419Z">
+        <seg>Phelps'</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,10 +1878,242 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pink Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223146Z" creationid="SGKoishi" creationdate="20200518T223146Z">
+        <seg>粉染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pink and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223200Z" creationid="SGKoishi" creationdate="20200518T223200Z">
+        <seg>粉黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placable Objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215755Z" creationid="SGKoishi" creationdate="20200518T215755Z">
+        <seg>可放置物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placeable on a christmas tree</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220021Z" creationid="SGKoishi" creationdate="20200518T220021Z">
+        <seg>可放置在圣诞树上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222935Z" creationid="SGKoishi" creationdate="20200518T222935Z">
+        <seg>尖锐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poirier'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222431Z" creationid="SGKoishi" creationdate="20200518T222431Z">
+        <seg>Poirier'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powerful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222701Z" creationid="SGKoishi" creationdate="20200518T222701Z">
+        <seg>强大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powers relating to controlling time</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214739Z" creationid="SGKoishi" creationdate="20200518T214739Z">
+        <seg>与控制时间有关的能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powers relating to controlling weather</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214900Z" creationid="SGKoishi" creationdate="20200518T214900Z">
+        <seg>与控制天气有关的能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powers relating to you</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214757Z" creationid="SGKoishi" creationdate="20200518T214757Z">
+        <seg>与个人有关的能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Precise</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222933Z" creationid="SGKoishi" creationdate="20200518T222933Z">
+        <seg>精确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press DOWN to toggle hover</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220809Z" creationid="SGKoishi" creationdate="20200518T220809Z">
+        <seg>按DOWN切换悬停</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press UP to deactivate hover</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220833Z" creationid="SGKoishi" creationdate="20200518T220833Z">
+        <seg>按UP停用悬停</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Protect yourself by equipping an Obsidian Skull or similar accessory.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195506Z" creationid="SGKoishi" creationdate="20200518T195506Z">
         <seg>不过如果你装备着黑曜石头颅或类似的东西，那就不是问题了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Purple Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223144Z" creationid="SGKoishi" creationdate="20200518T223144Z">
+        <seg>紫染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Purple and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223157Z" creationid="SGKoishi" creationdate="20200518T223157Z">
+        <seg>紫黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quick</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222748Z" creationid="SGKoishi" creationdate="20200518T222748Z">
+        <seg>迅捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rain Change Disabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215200Z" creationid="SGKoishi" creationdate="20200518T215200Z">
+        <seg>雨势：固定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rain Change Enabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215202Z" creationid="SGKoishi" creationdate="20200518T215141Z">
+        <seg>雨势：自然变化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rapid</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222651Z" creationid="SGKoishi" creationdate="20200518T222644Z">
+        <seg>迅捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rash</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222944Z" creationid="SGKoishi" creationdate="20200518T222944Z">
+        <seg>鲁莽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Red Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223135Z" creationid="SGKoishi" creationdate="20200518T223135Z">
+        <seg>红染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Red and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223147Z" creationid="SGKoishi" creationdate="20200518T223147Z">
+        <seg>红黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reel it in with &lt;right&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222217Z" creationid="SGKoishi" creationdate="20200518T222217Z">
+        <seg>&lt;right&gt;放绳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Research</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214518Z" creationid="SGKoishi" creationdate="20200518T214518Z">
+        <seg>研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Research Infinite Items</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214541Z" creationid="SGKoishi" creationdate="20200518T214541Z">
+        <seg>研究无限物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Research {0} more to unlock duplication</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222255Z" creationid="SGKoishi" creationdate="20200518T222255Z">
+        <seg>消耗{0}个进行研究即可无限刷取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Researching &lt;item name&gt; will consume it</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214515Z" creationid="SGKoishi" creationdate="20200518T214515Z">
+        <seg>消耗&lt;item name&gt;来进行研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restores {0} life</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215855Z" creationid="SGKoishi" creationdate="20200518T215855Z">
+        <seg>恢复{0}点生命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restores {0} mana</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215909Z" creationid="SGKoishi" creationdate="20200518T215909Z">
+        <seg>恢复{0}点魔力</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,10 +2126,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rohde'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222428Z" creationid="SGKoishi" creationdate="20200518T222428Z">
+        <seg>Rohde'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rope can really help you get around while exploring caves.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194714Z" creationid="SGKoishi" creationdate="20200518T194714Z">
         <seg>绳索可以帮助你在探索洞穴时移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ruthless</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222925Z" creationid="SGKoishi" creationdate="20200518T222925Z">
+        <seg>无情</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,10 +2166,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Savage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222920Z" creationid="SGKoishi" creationdate="20200518T222920Z">
+        <seg>凶残</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Schneider'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222339Z" creationid="SGKoishi" creationdate="20200518T222339Z">
+        <seg>Schneider'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seeds can be used to grow a variety of useful ingredients for crafting potions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204109Z" creationid="SGKoishi" creationdate="20200518T204109Z">
         <seg>种子可以种出许多制作药水用的材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shadow Greaves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223127Z" creationid="SGKoishi" creationdate="20200518T223127Z">
+        <seg>暗影护胫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shadow Helmet</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223148Z" creationid="SGKoishi" creationdate="20200518T223148Z">
+        <seg>暗影头盔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shadow Scalemail</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223138Z" creationid="SGKoishi" creationdate="20200518T223138Z">
+        <seg>暗影鳞甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shameful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222630Z" creationid="SGKoishi" creationdate="20200518T222630Z">
+        <seg>可耻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sharp</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222927Z" creationid="SGKoishi" creationdate="20200518T222927Z">
+        <seg>锋利</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,10 +2238,90 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shoddy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222743Z" creationid="SGKoishi" creationdate="20200518T222743Z">
+        <seg>粗劣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sighted</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222643Z" creationid="SGKoishi" creationdate="20200518T222643Z">
+        <seg>精准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Silver Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223210Z" creationid="SGKoishi" creationdate="20200518T223210Z">
+        <seg>银染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sky Blue Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223142Z" creationid="SGKoishi" creationdate="20200518T223142Z">
+        <seg>天蓝染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sky Blue and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223154Z" creationid="SGKoishi" creationdate="20200518T223154Z">
+        <seg>天蓝黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Slay a boss to attract a Dryad to your house.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200404Z" creationid="SGKoishi" creationdate="20200518T200404Z">
         <seg>击败一个Boss后可以吸引树妖入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222918Z" creationid="SGKoishi" creationdate="20200518T222918Z">
+        <seg>缓慢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sluggish</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222919Z" creationid="SGKoishi" creationdate="20200518T222919Z">
+        <seg>迟钝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Small</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222952Z" creationid="SGKoishi" creationdate="20200518T222952Z">
+        <seg>小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Smooth Sandstone</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223113Z" creationid="SGKoishi" creationdate="20200518T223107Z">
+        <seg>平滑沙石块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Smooth Sandstone Wall</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223120Z" creationid="SGKoishi" creationdate="20200518T223120Z">
+        <seg>平滑沙石墙</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +2338,126 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195030Z" creationid="SGKoishi" creationdate="20200518T195030Z">
         <seg>有时你会在世界各地发现隐藏的NPC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes, enemies may even invade from other dimensions .</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214316Z" creationid="SGKoishi" creationdate="20200518T214316Z">
+        <seg>有时，入侵的敌人甚至可能来自其他位面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spiked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222936Z" creationid="SGKoishi" creationdate="20200518T222936Z">
+        <seg>尖刺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Rain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214902Z" creationid="SGKoishi" creationdate="20200518T214902Z">
+        <seg>开始下雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staunch</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222657Z" creationid="SGKoishi" creationdate="20200518T222657Z">
+        <seg>可靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sterling'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222434Z" creationid="SGKoishi" creationdate="20200518T222434Z">
+        <seg>Sterling'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop Rain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214914Z" creationid="SGKoishi" creationdate="20200518T214914Z">
+        <seg>停止下雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop the passage of time</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214803Z" creationid="SGKoishi" creationdate="20200518T214803Z">
+        <seg>停止时间的流逝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strong</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222923Z" creationid="SGKoishi" creationdate="20200518T222923Z">
+        <seg>强劲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summons a sentry</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221023Z" creationid="SGKoishi" creationdate="20200518T221023Z">
+        <seg>召唤哨卫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Superior</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222739Z" creationid="SGKoishi" creationdate="20200518T222739Z">
+        <seg>高端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T. Myhre'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222410Z" creationid="SGKoishi" creationdate="20200518T222410Z">
+        <seg>T. Myhre'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taboo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222735Z" creationid="SGKoishi" creationdate="20200518T222735Z">
+        <seg>禁忌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Teal Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223140Z" creationid="SGKoishi" creationdate="20200518T223140Z">
+        <seg>青绿染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Teal and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223152Z" creationid="SGKoishi" creationdate="20200518T223152Z">
+        <seg>青绿黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Terrible</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222951Z" creationid="SGKoishi" creationdate="20200518T222951Z">
+        <seg>可怕</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,10 +2526,74 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Throws a counterweight after hitting an enemy with a yoyo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220719Z" creationid="SGKoishi" creationdate="20200518T220719Z">
+        <seg>使用悠悠球击中敌人后，投出花式平衡锤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time Frozen</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214800Z" creationid="SGKoishi" creationdate="20200518T214800Z">
+        <seg>时间冻结</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time Unfrozen</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214759Z" creationid="SGKoishi" creationdate="20200518T214759Z">
+        <seg>时间解冻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time heals all wounds.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201551Z" creationid="SGKoishi" creationdate="20200518T201551Z">
         <seg>时间可以治愈所有伤口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time is set to 12:00 AM</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214855Z" creationid="SGKoishi" creationdate="20200518T214855Z">
+        <seg>时间设置为晚上12:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time is set to 12:00 PM</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214841Z" creationid="SGKoishi" creationdate="20200518T214841Z">
+        <seg>时间设置为中午12:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time is set to 4:30 AM</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214815Z" creationid="SGKoishi" creationdate="20200518T214815Z">
+        <seg>时间设置为早上4:30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time is set to 7:30 PM</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214830Z" creationid="SGKoishi" creationdate="20200518T214830Z">
+        <seg>时间设置为晚上7:30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tiny</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222946Z" creationid="SGKoishi" creationdate="20200518T222946Z">
+        <seg>微小</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,10 +2630,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try Expert mode!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214130Z" creationid="SGKoishi" creationdate="20200518T214130Z">
+        <seg>试下专家模式吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try crafting them with Hooks or gems.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203212Z" creationid="SGKoishi" creationdate="20200518T203212Z">
         <seg>试着用钩子或宝石制作一个吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unhappy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222627Z" creationid="SGKoishi" creationdate="20200518T222627Z">
+        <seg>倒霉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unpleasant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222924Z" creationid="SGKoishi" creationdate="20200518T222924Z">
+        <seg>粗鲁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unreal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222950Z" creationid="SGKoishi" creationdate="20200518T222950Z">
+        <seg>虚幻</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,10 +2686,74 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Used for special crafting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220751Z" creationid="SGKoishi" creationdate="20200518T220751Z">
+        <seg>用于特殊制作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uses {0} life</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215858Z" creationid="SGKoishi" creationdate="20200518T215830Z">
+        <seg>消耗{0}点生命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uses {0} mana</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215901Z" creationid="SGKoishi" creationdate="20200518T215840Z">
+        <seg>消耗{0}点魔力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Violent</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222946Z" creationid="SGKoishi" creationdate="20200518T222946Z">
+        <seg>暴力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Violet Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223145Z" creationid="SGKoishi" creationdate="20200518T223145Z">
+        <seg>蓝紫染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Violet and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223158Z" creationid="SGKoishi" creationdate="20200518T223158Z">
+        <seg>蓝紫黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Walking on Hellstone and Meteorite can burn you!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195439Z" creationid="SGKoishi" creationdate="20200518T195439Z">
         <seg>在狱炎石和陨石上行走时会灼伤！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Walls</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215801Z" creationid="SGKoishi" creationdate="20200518T215801Z">
+        <seg>背景墙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222931Z" creationid="SGKoishi" creationdate="20200518T222931Z">
+        <seg>护佑</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +2774,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Weak</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222924Z" creationid="SGKoishi" creationdate="20200518T222924Z">
+        <seg>软弱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215254Z" creationid="SGKoishi" creationdate="20200518T215254Z">
+        <seg>武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wear a Mining Helmet if you don't want to use Torches.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200703Z" creationid="SGKoishi" creationdate="20200518T200703Z">
@@ -614,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>West</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215448Z" creationid="SGKoishi" creationdate="20200518T215448Z">
+        <seg>西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When dealing with a Goblin Army, crowd control is key.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203542Z" creationid="SGKoishi" creationdate="20200518T203542Z">
@@ -626,6 +2826,86 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200302Z" creationid="SGKoishi" creationdate="20200518T200302Z">
         <seg>随身带着一些平台对你探索应该有帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who wouldn't want to fly?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213626Z" creationid="SGKoishi" creationdate="20200518T213626Z">
+        <seg>谁又不想飞呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wild</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222943Z" creationid="SGKoishi" creationdate="20200518T222943Z">
+        <seg>狂野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will cause rain to start falling</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214912Z" creationid="SGKoishi" creationdate="20200518T214912Z">
+        <seg>开始下雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will cause rain to stop falling</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214917Z" creationid="SGKoishi" creationdate="20200518T214917Z">
+        <seg>停止下雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wind Change Disabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215216Z" creationid="SGKoishi" creationdate="20200518T215216Z">
+        <seg>风势：固定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wind Change Enabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215223Z" creationid="SGKoishi" creationdate="20200518T215223Z">
+        <seg>风势：自然变化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Witzig'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222426Z" creationid="SGKoishi" creationdate="20200518T222426Z">
+        <seg>Witzig'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wright'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222417Z" creationid="SGKoishi" creationdate="20200518T222417Z">
+        <seg>Wright'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yellow Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223137Z" creationid="SGKoishi" creationdate="20200518T223137Z">
+        <seg>黄染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yellow and Black Dye</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223150Z" creationid="SGKoishi" creationdate="20200518T223150Z">
+        <seg>黄黑染料</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have no permission for this power</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215821Z" creationid="SGKoishi" creationdate="20200518T215821Z">
+        <seg>你没有权限使用这个能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have to pwn them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201025Z" creationid="SGKoishi" creationdate="20200518T201025Z">
@@ -738,6 +3026,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195352Z" creationid="SGKoishi" creationdate="20200518T195352Z">
         <seg>如果你装备有幸运马蹄铁，就不会受到坠落伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zealous</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222928Z" creationid="SGKoishi" creationdate="20200518T222928Z">
+        <seg>狂热</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} minute duration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220003Z" creationid="SGKoishi" creationdate="20200518T220003Z">
+        <seg>持续{0}分钟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} second duration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220013Z" creationid="SGKoishi" creationdate="20200518T220013Z">
+        <seg>持续{0}秒钟</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
