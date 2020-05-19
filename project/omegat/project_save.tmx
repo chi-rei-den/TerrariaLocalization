@@ -6,30 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
-        <seg>'A.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222412Z" creationid="SGKoishi" creationdate="20200518T222412Z">
-        <seg>'A.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'C.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222332Z" creationid="SGKoishi" creationdate="20200518T222332Z">
-        <seg>'C.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'D.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222418Z" creationid="SGKoishi" creationdate="20200518T222418Z">
-        <seg>'D.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>'Great for impersonating devs!'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220757Z" creationid="SGKoishi" creationdate="20200518T220757Z">
@@ -38,82 +14,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>'J.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222407Z" creationid="SGKoishi" creationdate="20200518T222407Z">
-        <seg>'J.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'K.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222416Z" creationid="SGKoishi" creationdate="20200518T222416Z">
-        <seg>'K.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'M. J. Duncan'</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222420Z" creationid="SGKoishi" creationdate="20200518T222420Z">
-        <seg>'M. J. Duncan'</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'R.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222405Z" creationid="SGKoishi" creationdate="20200518T222405Z">
-        <seg>'R.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'S.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222430Z" creationid="SGKoishi" creationdate="20200518T222430Z">
-        <seg>'S.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'U.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222435Z" creationid="SGKoishi" creationdate="20200518T222435Z">
-        <seg>'U.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'V.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222359Z" creationid="SGKoishi" creationdate="20200518T222359Z">
-        <seg>'V.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'W.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222404Z" creationid="SGKoishi" creationdate="20200518T222404Z">
-        <seg>'W.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>'X.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222437Z" creationid="SGKoishi" creationdate="20200518T222437Z">
-        <seg>'X.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&lt;right&gt; to open</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220855Z" creationid="SGKoishi" creationdate="20200518T220855Z">
         <seg>&lt;right&gt;打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Painter will move in and sell paints if enough townsfolk move in.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073203Z" creationid="SGKoishi" creationdate="20200519T035642Z">
+        <seg>如果已经有许多NPC入住了，那么出售涂料的油漆人也会跟着入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Pumpkin Medallion can be used to summon the Pumpkin Moon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034038Z" creationid="SGKoishi" creationdate="20200519T034015Z">
+        <seg>南瓜月纪念章可以用来召唤南瓜月。</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +162,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200546Z" creationid="SGKoishi" creationdate="20200518T200529Z">
         <seg>有经验的玩家或许会想要更改自己的键位：打开“设置”里面的“操作键位”就可以设置了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Afterall, what's a party without lots of guests?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T042523Z" creationid="SGKoishi" creationdate="20200519T042515Z">
+        <seg>毕竟，没有人的话哪里能算是派对呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clouds are nice and soft, and you won't get hurt falling on them no matter how far you fall.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080325Z" creationid="SGKoishi" creationdate="20200519T080159Z">
+        <seg>云朵优雅而轻柔，无论从多高处摔进云里，你都不会受到伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collect 3 of them to craft a Mana Crystal you can use to increase your Mana.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201149Z" creationid="SGKoishi" creationdate="20200518T201149Z">
@@ -754,6 +690,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222413Z" creationid="SGKoishi" creationdate="20200518T222413Z">
         <seg>Craig'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create Character</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033457Z" creationid="SGKoishi" creationdate="20200519T033457Z">
+        <seg>创建角色</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +758,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cycle Left</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033604Z" creationid="SGKoishi" creationdate="20200519T033604Z">
+        <seg>向左循环</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cycle Right</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033608Z" creationid="SGKoishi" creationdate="20200519T033608Z">
+        <seg>向右循环</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DISGUST!!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T072718Z" creationid="SGKoishi" creationdate="20200519T055455Z">
+        <seg>恶心！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dale'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222442Z" creationid="SGKoishi" creationdate="20200518T222442Z">
@@ -842,6 +810,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222656Z" creationid="SGKoishi" creationdate="20200518T222656Z">
         <seg>致命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Decrease Transparency</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033504Z" creationid="SGKoishi" creationdate="20200519T033504Z">
+        <seg>降低透明度</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Did you know you can order your Summons to attack a specific target?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080409Z" creationid="SGKoishi" creationdate="20200519T080409Z">
+        <seg>你知道你可以选定召唤物的攻击目标吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disabled</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215233Z" creationid="SGKoishi" creationdate="20200518T215233Z">
@@ -898,6 +882,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201351Z" creationid="SGKoishi" creationdate="20200518T201351Z">
         <seg>除非您想召唤冰霜军团，否则请勿摇动雪球仪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double click on the Map to ping a location for everyone to see!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080545Z" creationid="SGKoishi" creationdate="20200519T080545Z">
+        <seg>双击小地图即可提醒其他玩家！</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enemies aren't the only danger when exploring Underground.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080635Z" creationid="SGKoishi" creationdate="20200519T080635Z">
+        <seg>探索地下时怪物并不是唯一的危险来源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Eventually, Life Fruit will grow in the Jungle, and can give you an extra boost to your health.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213913Z" creationid="SGKoishi" creationdate="20200518T213913Z">
@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feeling up for the chill of winter?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034041Z" creationid="SGKoishi" creationdate="20200519T034041Z">
+        <seg>感觉到冬天的寒冷？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find a Guide Voodoo Doll and hurl it into the infernal lava to summon him.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200915Z" creationid="SGKoishi" creationdate="20200518T200915Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235453Z" creationid="SGKoishi" creationdate="20200518T235453Z">
         <seg>正在寻找方块架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First they invade your world, and then they move into your houses!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073043Z" creationid="SGKoishi" creationdate="20200519T073043Z">
+        <seg>他们先侵入这个世界，然后住进你的家里。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,6 +1042,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222940Z" creationid="SGKoishi" creationdate="20200518T222940Z">
         <seg>快速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Focus on what matters!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080508Z" creationid="SGKoishi" creationdate="20200519T080508Z">
+        <seg>专注重点，抛开无关</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have something on the Map to show a friend?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080529Z" creationid="SGKoishi" creationdate="20200519T080529Z">
+        <seg>想在地图标记点什么给队友？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hayes'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222408Z" creationid="SGKoishi" creationdate="20200518T222408Z">
@@ -1374,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an enemy steals your money after you die in Expert Mode, hunt it down!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073721Z" creationid="SGKoishi" creationdate="20200519T073701Z">
+        <seg>在专家模式里，怪物可以捡走你的钱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If only someone could lift his curse...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195856Z" creationid="SGKoishi" creationdate="20200518T195856Z">
@@ -1382,10 +1422,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If only there were a way to purify him .</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T043627Z" creationid="SGKoishi" creationdate="20200519T043610Z">
+        <seg>如果能把他净化回税收官的话...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If only there were a way to purify him . . .</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T072428Z" creationid="SGKoishi" creationdate="20200519T072334Z">
+        <seg>如果能把他净化回税收官的话...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If they scan you, they'll summon a Martian Invasion!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214157Z" creationid="SGKoishi" creationdate="20200518T214157Z">
         <seg>如果你被它们扫到了，火星人可能就要入侵了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you defeat it, you can get your money back.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073729Z" creationid="SGKoishi" creationdate="20200519T073718Z">
+        <seg>要是你的钱被捡走了，那就去追杀它抢回来吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,10 +1470,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you ever defeat any giant robots, a Steampunker might move in to your World.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073127Z" creationid="SGKoishi" creationdate="20200519T073127Z">
+        <seg>在你击败了任何某些巨大的机械后，蒸汽朋克人可能会进入您的世界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you ever want to get stylish, try dyes!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034714Z" creationid="SGKoishi" creationdate="20200519T034714Z">
+        <seg>想变得时髦？试下染色吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you find a Magic Mirror, you can use it to teleport back to your spawn point.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194916Z" creationid="SGKoishi" creationdate="20200518T194916Z">
         <seg>如果你有一个魔镜，就可以使用它来传送回生成点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you find one, he might move in.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034556Z" creationid="SGKoishi" creationdate="20200519T034231Z">
+        <seg>如果你找到了一些枪，他就可能会入住。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,10 +1510,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you like rockets, the Cyborg may have some for sale.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073430Z" creationid="SGKoishi" creationdate="20200519T073430Z">
+        <seg>喜欢火箭弹？赛博人那可有不少！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you need a new haircut, go check out a nearby Spider Biome.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T035448Z" creationid="SGKoishi" creationdate="20200519T035448Z">
+        <seg>如果想要来个新发型，那就去周围的蜘蛛洞找找吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you need to remove background walls, craft a hammer!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204212Z" creationid="SGKoishi" creationdate="20200518T204212Z">
         <seg>如果要拆除背景墙，那就要制作锤子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you open them, you can find all sorts of spooky items.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T074206Z" creationid="SGKoishi" creationdate="20200519T074206Z">
+        <seg>他们里面藏着各种节日物品...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,6 +1578,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222733Z" creationid="SGKoishi" creationdate="20200518T222733Z">
         <seg>无知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase Transparency</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033514Z" creationid="SGKoishi" creationdate="20200519T033501Z">
+        <seg>提升透明度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's worth it to explore your Oceans.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T042249Z" creationid="SGKoishi" creationdate="20200519T042249Z">
+        <seg>探索海洋总有收获。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>J. Ness'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222422Z" creationid="SGKoishi" creationdate="20200518T222422Z">
@@ -1586,6 +1714,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200144Z" creationid="SGKoishi" creationdate="20200518T200109Z">
         <seg>爆破专家？他只会在你拥有爆炸物时入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep an eye out for Goodie Bags around Halloween.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T074135Z" creationid="SGKoishi" creationdate="20200519T074135Z">
+        <seg>留意万圣节前后的福袋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New enemies, reduced visibility, and it can even be hard to move!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034140Z" creationid="SGKoishi" creationdate="20200519T034140Z">
+        <seg>新的敌人，黑暗的视野，而且还难以移动！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nightmare Pickaxe</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223159Z" creationid="SGKoishi" creationdate="20200518T223159Z">
@@ -1974,6 +2118,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not all Skeletons are evil.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073510Z" creationid="SGKoishi" creationdate="20200519T073510Z">
+        <seg>并非所有骷髅都是邪恶的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not sure what to do next?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073555Z" creationid="SGKoishi" creationdate="20200519T073555Z">
+        <seg>不知道要干什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nothing improves your mobility like Wings.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213633Z" creationid="SGKoishi" creationdate="20200518T213616Z">
@@ -1986,6 +2146,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214527Z" creationid="SGKoishi" creationdate="20200518T214527Z">
         <seg>研究足够数量的&lt;item name&gt;后，就可以无限刷取了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you use a Life Crystal, a Nurse might move in!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034550Z" creationid="SGKoishi" creationdate="20200519T034550Z">
+        <seg>一旦你使用了生命水晶，护士就可能会入住！</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2322,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223200Z" creationid="SGKoishi" creationdate="20200518T223200Z">
         <seg>粉黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pirates are so unpredictable.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073015Z" creationid="SGKoishi" creationdate="20200519T073015Z">
+        <seg>海盗的行为真是难以预测。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2358,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press the + and - keys to zoom in &amp; out!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080441Z" creationid="SGKoishi" creationdate="20200519T080441Z">
+        <seg>按+和-键放大和缩小！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Protect yourself by equipping an Obsidian Skull or similar accessory.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195506Z" creationid="SGKoishi" creationdate="20200518T195506Z">
@@ -2454,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Regular Wood and Stone not vibrant enough for you?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T035523Z" creationid="SGKoishi" creationdate="20200519T035523Z">
+        <seg>普通的木头和石头对你来说还不够充满生气？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214518Z" creationid="SGKoishi" creationdate="20200518T214518Z">
@@ -2506,6 +2698,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215909Z" creationid="SGKoishi" creationdate="20200518T215909Z">
         <seg>恢复{0}点魔力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Riding Minecarts is one of the best ways of getting around.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033917Z" creationid="SGKoishi" creationdate="20200519T033917Z">
+        <seg>乘坐矿车是一种方便的出行方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some are even known to sell unique items to those that can find them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073546Z" creationid="SGKoishi" creationdate="20200519T073546Z">
+        <seg>其中甚至有一些以其出售的独特商品而闻名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some ores require better pickaxes to mine.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195705Z" creationid="SGKoishi" creationdate="20200518T195649Z">
@@ -2766,10 +2974,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes, enemies may even invade from other dimensions . . .</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T072931Z" creationid="SGKoishi" creationdate="20200519T072931Z">
+        <seg>有时，入侵的敌人甚至可能来自其他位面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speak to her for healing at any time .</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034642Z" creationid="SGKoishi" creationdate="20200519T034621Z">
+        <seg>你可以随时向她寻求治疗...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speak to her for healing at any time . . .</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T072937Z" creationid="SGKoishi" creationdate="20200519T072937Z">
+        <seg>你可以随时向她寻求治疗...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spiked</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222936Z" creationid="SGKoishi" creationdate="20200518T222936Z">
         <seg>尖刺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spooky!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034027Z" creationid="SGKoishi" creationdate="20200519T034027Z">
+        <seg>幽~魂！</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stylists always end up lost in them!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T035501Z" creationid="SGKoishi" creationdate="20200519T035501Z">
+        <seg>理发师经常在那附近迷路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Summons a sentry</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221023Z" creationid="SGKoishi" creationdate="20200518T221023Z">
@@ -2862,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take a look at the Achievement Guide for a clue!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073614Z" creationid="SGKoishi" creationdate="20200519T073614Z">
+        <seg>看看“成就指南”来寻找线索吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Teal Dye</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223140Z" creationid="SGKoishi" creationdate="20200518T223140Z">
@@ -2886,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Arms Dealer knows more about guns than anyone.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034158Z" creationid="SGKoishi" creationdate="20200519T034158Z">
+        <seg>军火商人比任何人都更了解枪支。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Cloud in a Bottle and Shiny Red Balloon accessories both improve your ability to jump.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201739Z" creationid="SGKoishi" creationdate="20200518T201739Z">
@@ -2898,6 +3162,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201523Z" creationid="SGKoishi" creationdate="20200518T201523Z">
         <seg>腐化之地充满了裂沟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Dye Trader can help you turn some materials into new dye colors.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034751Z" creationid="SGKoishi" creationdate="20200519T034751Z">
+        <seg>染料商人可以帮你把材料制成染料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Goblin Tinkerer found in Underground Caverns will sell you many useful items, including a Tinkerer's Workshop.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033832Z" creationid="SGKoishi" creationdate="20200519T033832Z">
+        <seg>在地下洞穴中发现的哥布林工匠出售许多有用的物品，例如合成饰品用的工匠作坊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,10 +3198,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Mechanic got lost in the Dungeon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034504Z" creationid="SGKoishi" creationdate="20200519T034425Z">
+        <seg>电路专家迷失在地牢里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Old Man at the Dungeon is a Clothier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195814Z" creationid="SGKoishi" creationdate="20200518T195814Z">
         <seg>地牢门口的老人是一个裁缝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Party Girl won't move in unless your World is full of other townsfolk.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T042443Z" creationid="SGKoishi" creationdate="20200519T042443Z">
+        <seg>派对女孩？她只会在地图里住满了NPC的时候入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Tavernkeep is a guest from a faraway land called Etheria.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T035402Z" creationid="SGKoishi" creationdate="20200519T035402Z">
+        <seg>旅店老板是来自遥远的艾特尼亚的客人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Tax Collector spends his days wandering the Underworld as a Tortured Soul.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T043613Z" creationid="SGKoishi" creationdate="20200519T043228Z">
+        <seg>受折磨的灵魂终日游荡在地狱里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Traveling Merchant never stays in one place for long, but he always brings different wares when he visits!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073503Z" creationid="SGKoishi" creationdate="20200519T073503Z">
+        <seg>旅行商人永远不会在一个地方呆很长时间，但是每次总能带来不同的商品！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Void Bag is a magical artifact that will store items for you when your inventory is full.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080621Z" creationid="SGKoishi" creationdate="20200519T080621Z">
+        <seg>虚空宝袋是一个神奇造物，可以在你的背包装满的时候继续储存物品！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Wizard sells some useful magic artifacts, but he has a tendency to wander off Underground.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T042603Z" creationid="SGKoishi" creationdate="20200519T042603Z">
+        <seg>巫师会出售一些有用的魔法造物，不过他一般只在地下出现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3030,6 +3366,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle Full Map</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033602Z" creationid="SGKoishi" creationdate="20200519T033602Z">
+        <seg>切换完整地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Map Style</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033555Z" creationid="SGKoishi" creationdate="20200519T033555Z">
+        <seg>切换地图样式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Torches and Glowsticks can be a light for you in dark places when all other lights go out.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195205Z" creationid="SGKoishi" creationdate="20200518T195157Z">
@@ -3050,6 +3402,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195215Z" creationid="SGKoishi" creationdate="20200518T195215Z">
         <seg>火把不能在水下生效，但荧光棒可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trick or Treat!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T074218Z" creationid="SGKoishi" creationdate="20200519T074218Z">
+        <seg>不给糖就捣蛋！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,6 +3458,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203656Z" creationid="SGKoishi" creationdate="20200518T203656Z">
         <seg>使用“可疑”类物品时风险自负。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use a Naughty Present to summon the Frost Moon!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034102Z" creationid="SGKoishi" creationdate="20200519T034102Z">
+        <seg>使用顽皮的礼物来召唤霜月吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,6 +3558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Watch out for traps too!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080722Z" creationid="SGKoishi" creationdate="20200519T080722Z">
+        <seg>你还要当心陷阱！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Water will break your fall.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195105Z" creationid="SGKoishi" creationdate="20200518T195105Z">
@@ -3238,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a Sandstorm hits, deserts can be very dangerous.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034114Z" creationid="SGKoishi" creationdate="20200519T034114Z">
+        <seg>沙尘暴袭来时，沙漠可能非常危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When dealing with a Goblin Army, crowd control is key.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203542Z" creationid="SGKoishi" creationdate="20200518T203542Z">
@@ -3250,6 +3634,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200302Z" creationid="SGKoishi" creationdate="20200518T200302Z">
         <seg>随身带着一些平台对你探索应该有帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While holding a Summoning Weapon, Right Click an enemy!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080434Z" creationid="SGKoishi" creationdate="20200519T080434Z">
+        <seg>手持召唤武器时，右键点击敌人试试！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With the Block Swap mechanic enabled, you can replace one block with another directly, rather than having to mine it first.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T074118Z" creationid="SGKoishi" creationdate="20200519T074109Z">
+        <seg>启用“物块替换”后，你可以直接在方块上放置来替换，而不需要提前挖掘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Witzig'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222426Z" creationid="SGKoishi" creationdate="20200518T222426Z">
@@ -3342,10 +3742,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can build your own tracks, or find them Underground.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033940Z" creationid="SGKoishi" creationdate="20200519T033940Z">
+        <seg>你可以建造自己的轨道，也可以在地下找到一些现成的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can buy Wires from the Mechanic and use them to create traps, pumping systems, or other elaborate devices.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202828Z" creationid="SGKoishi" creationdate="20200518T202828Z">
-        <seg>你可以从机械师手里买到电线，然后使用它们来建出陷阱、水泵和其他复杂的电路设施。</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034439Z" creationid="SGKoishi" creationdate="20200518T202828Z">
+        <seg>你可以从电路专家手里买到电线，然后使用它们来建出陷阱、水泵和其他复杂的电路设施。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3386,6 +3794,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203045Z" creationid="SGKoishi" creationdate="20200518T203045Z">
         <seg>（可以在地牢中找到）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can find treasure, dyes, and even sleeping fishermen.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T042314Z" creationid="SGKoishi" creationdate="20200519T042314Z">
+        <seg>宝藏、染料，甚至还能找到一个睡着的渔夫！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3438,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You could get a Witch Doctor to come to your World if you defeat the Queen Bee.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T042407Z" creationid="SGKoishi" creationdate="20200519T042407Z">
+        <seg>在击败蜂后以后，你应该能见到一个入住的巫医。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have no permission for this power</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215821Z" creationid="SGKoishi" creationdate="20200518T215821Z">
@@ -3462,10 +3886,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You'll have to help her out if you want her to move in.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034529Z" creationid="SGKoishi" creationdate="20200519T034529Z">
+        <seg>如果你想得到她的帮助，就要先解救她。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zealous</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222928Z" creationid="SGKoishi" creationdate="20200518T222928Z">
         <seg>狂热</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom In</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033453Z" creationid="SGKoishi" creationdate="20200519T033453Z">
+        <seg>放大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom Out</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033454Z" creationid="SGKoishi" creationdate="20200519T033454Z">
+        <seg>缩小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>for a price, of course.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034648Z" creationid="SGKoishi" creationdate="20200519T034637Z">
+        <seg>当然，不是免费的</seg>
       </tuv>
     </tu>
     <tu>
@@ -3661,8 +4117,8 @@
       <tuv lang="en-US">
         <seg>Allowed Users: Friends</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015047Z" creationid="SGKoishi" creationdate="20200519T015047Z">
-        <seg>允许用户：好友</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031907Z" creationid="SGKoishi" creationdate="20200519T015047Z">
+        <seg>允许用户：全部好友</seg>
       </tuv>
     </tu>
     <tu>
@@ -3833,6 +4289,16 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001129Z" creationid="SGKoishi" creationdate="20200519T001129Z">
         <seg>贝基姨妈的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.160</prop>
+      <tuv lang="en-US">
+        <seg>Auto Select</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031714Z" creationid="SGKoishi" creationdate="20200519T031714Z">
+        <seg>自动选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -5507,6 +5973,16 @@
     </tu>
     <tu>
       <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.15</prop>
+      <tuv lang="en-US">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031713Z" creationid="SGKoishi" creationdate="20200519T031713Z">
+        <seg>退出游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
       <prop type="path">Main.RandomWorldName_Adjective.Exotic</prop>
       <tuv lang="en-US">
         <seg>Exotic</seg>
@@ -5537,6 +6013,26 @@
     </tu>
     <tu>
       <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.167</prop>
+      <tuv lang="en-US">
+        <seg>Gamepad Settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031736Z" creationid="SGKoishi" creationdate="20200519T031736Z">
+        <seg>手柄设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.164</prop>
+      <tuv lang="en-US">
+        <seg>Gameplay Controls</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031721Z" creationid="SGKoishi" creationdate="20200519T031721Z">
+        <seg>游戏按键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
       <prop type="path">Legacy.LegacyMenu.114</prop>
       <tuv lang="en-US">
         <seg>General</seg>
@@ -5557,12 +6053,32 @@
     </tu>
     <tu>
       <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.166</prop>
+      <tuv lang="en-US">
+        <seg>Hotbar Controls</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031735Z" creationid="SGKoishi" creationdate="20200519T031735Z">
+        <seg>快捷栏按键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
       <prop type="path">Legacy.LegacyMenu.111</prop>
       <tuv lang="en-US">
         <seg>Increase Transparency</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014459Z" creationid="SGKoishi" creationdate="20200519T014459Z">
         <seg>增加透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.163</prop>
+      <tuv lang="en-US">
+        <seg>Interact</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031720Z" creationid="SGKoishi" creationdate="20200519T031720Z">
+        <seg>互动</seg>
       </tuv>
     </tu>
     <tu>
@@ -5653,6 +6169,16 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014939Z" creationid="SGKoishi" creationdate="20200519T014939Z">
         <seg>地图键位设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.165</prop>
+      <tuv lang="en-US">
+        <seg>Map Controls</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031733Z" creationid="SGKoishi" creationdate="20200519T031733Z">
+        <seg>地图按键</seg>
       </tuv>
     </tu>
     <tu>
@@ -5777,12 +6303,42 @@
     </tu>
     <tu>
       <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.157</prop>
+      <tuv lang="en-US">
+        <seg>Quick Buff</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031500Z" creationid="SGKoishi" creationdate="20200519T031500Z">
+        <seg>快速使用增益</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.159</prop>
+      <tuv lang="en-US">
+        <seg>Quick Heal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031711Z" creationid="SGKoishi" creationdate="20200519T031558Z">
+        <seg>快速恢复生命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
       <prop type="path">Legacy.LegacyMenu.156</prop>
       <tuv lang="en-US">
         <seg>Quick Mana</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015157Z" creationid="SGKoishi" creationdate="20200519T015157Z">
-        <seg>快速</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031655Z" creationid="SGKoishi" creationdate="20200519T015157Z">
+        <seg>快速恢复魔力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.158</prop>
+      <tuv lang="en-US">
+        <seg>Quick Mount</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031651Z" creationid="SGKoishi" creationdate="20200519T031556Z">
+        <seg>快速骑乘</seg>
       </tuv>
     </tu>
     <tu>
@@ -5842,6 +6398,16 @@
         <seg>Smart Cursor</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014950Z" creationid="SGKoishi" creationdate="20200519T014950Z">
+        <seg>智能光标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.161</prop>
+      <tuv lang="en-US">
+        <seg>Smart Cursor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031718Z" creationid="SGKoishi" creationdate="20200519T031718Z">
         <seg>智能光标</seg>
       </tuv>
     </tu>
@@ -5967,6 +6533,16 @@
     </tu>
     <tu>
       <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.162</prop>
+      <tuv lang="en-US">
+        <seg>Use Item</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031719Z" creationid="SGKoishi" creationdate="20200519T031719Z">
+        <seg>使用物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
       <prop type="path">Main.RandomWorldName_Location.World</prop>
       <tuv lang="en-US">
         <seg>World</seg>
@@ -5991,7 +6567,7 @@
       <tuv lang="en-US">
         <seg>Zoom In</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014453Z" creationid="SGKoishi" creationdate="20200519T014453Z">
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T033442Z" creationid="SGKoishi" creationdate="20200519T014453Z">
         <seg>放大</seg>
       </tuv>
     </tu>

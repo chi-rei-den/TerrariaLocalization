@@ -1,3 +1,4 @@
 chest	宝箱
 Piggy Bank	猪猪储蓄罐
 crate	宝藏匣	钓鱼获得的可放置、可开启物（匣、板条箱）
+Etheria	艾特尼亚
