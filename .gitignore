@@ -264,3 +264,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/project/project-level1.tmx
+/project/project-level2.tmx
+/project/project-omegat.tmx

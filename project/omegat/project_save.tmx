@@ -166,6 +166,70 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding gems</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234652Z" creationid="SGKoishi" creationdate="20200518T234652Z">
+        <seg>正在石中嵌入宝石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding mushroom patches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234155Z" creationid="SGKoishi" creationdate="20200518T234155Z">
+        <seg>正在添加蘑菇环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding sand</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234603Z" creationid="SGKoishi" creationdate="20200518T234603Z">
+        <seg>正在图中添加沙块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding shinies</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234511Z" creationid="SGKoishi" creationdate="20200518T234511Z">
+        <seg>正在添加闪亮矿石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding silt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234221Z" creationid="SGKoishi" creationdate="20200518T234221Z">
+        <seg>正在图中添加泥沙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding snow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235501Z" creationid="SGKoishi" creationdate="20200518T235501Z">
+        <seg>正在添加冰雪方块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding water bodies</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234553Z" creationid="SGKoishi" creationdate="20200518T234553Z">
+        <seg>正在图中添加水体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding webs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234522Z" creationid="SGKoishi" creationdate="20200518T234522Z">
+        <seg>正在洞中添加蛛丝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adept</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222703Z" creationid="SGKoishi" creationdate="20200518T222703Z">
@@ -258,6 +322,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222700Z" creationid="SGKoishi" creationdate="20200518T222700Z">
         <seg>粗笨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Backing up world file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235420Z" creationid="SGKoishi" creationdate="20200518T235401Z">
+        <seg>正在备份地图文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Checking tile alignment:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235410Z" creationid="SGKoishi" creationdate="20200518T235410Z">
+        <seg>正在检查方块对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chlorophyte Bar</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223134Z" creationid="SGKoishi" creationdate="20200518T223134Z">
@@ -522,6 +602,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223132Z" creationid="SGKoishi" creationdate="20200518T223132Z">
         <seg>叶绿板甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cleaning up dirt backgrounds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234716Z" creationid="SGKoishi" creationdate="20200518T234716Z">
+        <seg>正在清理泥土背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +754,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222413Z" creationid="SGKoishi" creationdate="20200518T222413Z">
         <seg>Craig'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating beaches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234636Z" creationid="SGKoishi" creationdate="20200518T234636Z">
+        <seg>正在海边生成沙滩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating dungeon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235906Z" creationid="SGKoishi" creationdate="20200518T235906Z">
+        <seg>正在图中创建地牢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating underworld</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234543Z" creationid="SGKoishi" creationdate="20200518T234543Z">
+        <seg>正在准备地狱地势</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finding tile frames:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235453Z" creationid="SGKoishi" creationdate="20200518T235453Z">
+        <seg>正在寻找方块架构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fishing is a fantastic source of crafting ingredients, accessories, and loot crates!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T205740Z" creationid="SGKoishi" creationdate="20200518T205740Z">
@@ -914,6 +1034,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222739Z" creationid="SGKoishi" creationdate="20200518T222739Z">
         <seg>强力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Freeing unused resources</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235149Z" creationid="SGKoishi" creationdate="20200518T235149Z">
+        <seg>正在清理多余资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,10 +1102,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generating floating islands</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234142Z" creationid="SGKoishi" creationdate="20200518T234142Z">
+        <seg>正在创建浮空岛屿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generating hills</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234807Z" creationid="SGKoishi" creationdate="20200518T234807Z">
+        <seg>正在产生山脉地形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generating jungle</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234133Z" creationid="SGKoishi" creationdate="20200518T234133Z">
+        <seg>正在生成丛林环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generating mountain caves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234626Z" creationid="SGKoishi" creationdate="20200518T234626Z">
+        <seg>正在创建山脉洞穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generating ocean sand</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194213Z" creationid="SGKoishi" creationdate="20200518T194213Z">
         <seg>产生海洋沙滩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generating surface caves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234125Z" creationid="SGKoishi" creationdate="20200518T234125Z">
+        <seg>正在地表挖出洞穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generating world terrain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234106Z" creationid="SGKoishi" creationdate="20200518T234106Z">
+        <seg>正在创建世界地势</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gravitating sand</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234706Z" creationid="SGKoishi" creationdate="20200518T234706Z">
+        <seg>正在让沙自由坠落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Green Dye</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223139Z" creationid="SGKoishi" creationdate="20200518T223139Z">
@@ -1066,6 +1250,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223151Z" creationid="SGKoishi" creationdate="20200518T223151Z">
         <seg>绿黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Growing cacti</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234940Z" creationid="SGKoishi" creationdate="20200518T234940Z">
+        <seg>正在沙漠种仙人掌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Growing vines</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235105Z" creationid="SGKoishi" creationdate="20200518T235105Z">
+        <seg>正在洞中放置藤蔓</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1314,38 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222637Z" creationid="SGKoishi" creationdate="20200518T222637Z">
         <seg>沉重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hiding jungle treasure</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234848Z" creationid="SGKoishi" creationdate="20200518T234848Z">
+        <seg>正在隐藏丛林宝藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hiding more treasure</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234840Z" creationid="SGKoishi" creationdate="20200518T234840Z">
+        <seg>正在隐藏更多宝藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hiding treasure</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234825Z" creationid="SGKoishi" creationdate="20200518T234825Z">
+        <seg>正在隐藏秘密宝藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hiding water treasure</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234851Z" creationid="SGKoishi" creationdate="20200518T234851Z">
+        <seg>正在隐藏水下宝藏</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,6 +1678,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load failed!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235426Z" creationid="SGKoishi" creationdate="20200518T235426Z">
+        <seg>加载失败！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading world data:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235423Z" creationid="SGKoishi" creationdate="20200518T235404Z">
+        <seg>正在加载地图数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Look for them on Floating Islands.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195414Z" creationid="SGKoishi" creationdate="20200518T195414Z">
@@ -1490,6 +1738,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200226Z" creationid="SGKoishi" creationdate="20200518T200226Z">
         <seg>这个世界有许多友好的居民，不过你要有符合要求的空房子才能吸引他们入住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Making the world evil</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234612Z" creationid="SGKoishi" creationdate="20200518T234612Z">
+        <seg>正在创建邪恶环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No backup found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235437Z" creationid="SGKoishi" creationdate="20200518T235437Z">
+        <seg>没有找到备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normal Placement Range</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214546Z" creationid="SGKoishi" creationdate="20200518T214546Z">
@@ -1910,6 +2174,118 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Placing altars</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234727Z" creationid="SGKoishi" creationdate="20200518T234727Z">
+        <seg>正在放置邪恶祭坛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placing breakables</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234858Z" creationid="SGKoishi" creationdate="20200518T234858Z">
+        <seg>正在放置易碎物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placing hellforges</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234900Z" creationid="SGKoishi" creationdate="20200518T234900Z">
+        <seg>正在放置地狱熔炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placing life crystals</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234750Z" creationid="SGKoishi" creationdate="20200518T234750Z">
+        <seg>正在放置生命水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placing mud in the dirt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234207Z" creationid="SGKoishi" creationdate="20200518T234207Z">
+        <seg>正在泥中嵌入土块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placing rocks in the dirt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235356Z" creationid="SGKoishi" creationdate="20200518T235345Z">
+        <seg>正在土中嵌入石块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placing statues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234759Z" creationid="SGKoishi" creationdate="20200518T234759Z">
+        <seg>正在放置随机雕像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placing traps</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234856Z" creationid="SGKoishi" creationdate="20200518T234856Z">
+        <seg>正在放置机关陷阱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Planting flowers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235124Z" creationid="SGKoishi" creationdate="20200518T235124Z">
+        <seg>正在草坪种植花卉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Planting herbs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235020Z" creationid="SGKoishi" creationdate="20200518T235020Z">
+        <seg>正在种植随机草药</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Planting mushrooms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235138Z" creationid="SGKoishi" creationdate="20200518T235138Z">
+        <seg>正在催生荧光蘑菇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Planting sunflowers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234954Z" creationid="SGKoishi" creationdate="20200518T234954Z">
+        <seg>正在草坪种向日葵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Planting trees</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235013Z" creationid="SGKoishi" creationdate="20200518T235013Z">
+        <seg>正在种植随机树木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Planting weeds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235048Z" creationid="SGKoishi" creationdate="20200518T235030Z">
+        <seg>正在催生地面杂草</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222935Z" creationid="SGKoishi" creationdate="20200518T222935Z">
@@ -2002,6 +2378,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223157Z" creationid="SGKoishi" creationdate="20200518T223157Z">
         <seg>紫黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Putting dirt behind dirt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235000Z" creationid="SGKoishi" creationdate="20200518T235000Z">
+        <seg>正在将土置于土后</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resetting game objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235203Z" creationid="SGKoishi" creationdate="20200518T235203Z">
+        <seg>正在清理游戏内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restores {0} life</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215855Z" creationid="SGKoishi" creationdate="20200518T215855Z">
@@ -2174,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saving world data:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235416Z" creationid="SGKoishi" creationdate="20200518T235307Z">
+        <seg>正在保存地图数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Schneider'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222339Z" creationid="SGKoishi" creationdate="20200518T222339Z">
@@ -2186,6 +2586,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T204109Z" creationid="SGKoishi" creationdate="20200518T204109Z">
         <seg>种子可以种出许多制作药水用的材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting hard mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235303Z" creationid="SGKoishi" creationdate="20200518T235303Z">
+        <seg>正在设置困难模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settling liquids</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234739Z" creationid="SGKoishi" creationdate="20200518T234739Z">
+        <seg>正在安置流动液体</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,6 +2770,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222936Z" creationid="SGKoishi" creationdate="20200518T222936Z">
         <seg>尖刺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spreading grass</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234931Z" creationid="SGKoishi" creationdate="20200518T234931Z">
+        <seg>正在土上种植草坪</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>World</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235932Z" creationid="SGKoishi" creationdate="20200518T235932Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wright'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222417Z" creationid="SGKoishi" creationdate="20200518T222417Z">
@@ -3053,5 +3485,2525 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Abandoned</prop>
+      <tuv lang="en-US">
+        <seg>Abandoned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T000959Z" creationid="SGKoishi" creationdate="20200519T000950Z">
+        <seg>遗弃的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Abhorrent</prop>
+      <tuv lang="en-US">
+        <seg>Abhorrent</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T000956Z" creationid="SGKoishi" creationdate="20200519T000956Z">
+        <seg>可恶的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Abusive</prop>
+      <tuv lang="en-US">
+        <seg>Abusive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001005Z" creationid="SGKoishi" creationdate="20200519T001005Z">
+        <seg>恶意的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.131</prop>
+      <tuv lang="en-US">
+        <seg>Achievements</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015024Z" creationid="SGKoishi" creationdate="20200519T015024Z">
+        <seg>成就</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Adorable</prop>
+      <tuv lang="en-US">
+        <seg>Adorable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001008Z" creationid="SGKoishi" creationdate="20200519T001008Z">
+        <seg>可爱的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Adventurous</prop>
+      <tuv lang="en-US">
+        <seg>Adventurous</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001009Z" creationid="SGKoishi" creationdate="20200519T001009Z">
+        <seg>冒险的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Ageless</prop>
+      <tuv lang="en-US">
+        <seg>Ageless</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001011Z" creationid="SGKoishi" creationdate="20200519T001011Z">
+        <seg>不朽的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Aggravating</prop>
+      <tuv lang="en-US">
+        <seg>Aggravating</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001016Z" creationid="SGKoishi" creationdate="20200519T001016Z">
+        <seg>加重的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Aggressive</prop>
+      <tuv lang="en-US">
+        <seg>Aggressive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001018Z" creationid="SGKoishi" creationdate="20200519T001018Z">
+        <seg>好斗的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Agile</prop>
+      <tuv lang="en-US">
+        <seg>Agile</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001021Z" creationid="SGKoishi" creationdate="20200519T001021Z">
+        <seg>敏捷的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Agreeable</prop>
+      <tuv lang="en-US">
+        <seg>Agreeable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001023Z" creationid="SGKoishi" creationdate="20200519T001023Z">
+        <seg>合适的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Alert</prop>
+      <tuv lang="en-US">
+        <seg>Alert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001027Z" creationid="SGKoishi" creationdate="20200519T001027Z">
+        <seg>警觉的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Alien</prop>
+      <tuv lang="en-US">
+        <seg>Alien</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001030Z" creationid="SGKoishi" creationdate="20200519T001030Z">
+        <seg>外星的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Alive</prop>
+      <tuv lang="en-US">
+        <seg>Alive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001035Z" creationid="SGKoishi" creationdate="20200519T001035Z">
+        <seg>生活的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Alleged</prop>
+      <tuv lang="en-US">
+        <seg>Alleged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001040Z" creationid="SGKoishi" creationdate="20200519T001040Z">
+        <seg>传说的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.142</prop>
+      <tuv lang="en-US">
+        <seg>Allow Friends Of Friends: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015102Z" creationid="SGKoishi" creationdate="20200519T015102Z">
+        <seg>允许好友的好友加入：关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.143</prop>
+      <tuv lang="en-US">
+        <seg>Allow Friends Of Friends: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015111Z" creationid="SGKoishi" creationdate="20200519T015111Z">
+        <seg>允许好友的好友加入：开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.139</prop>
+      <tuv lang="en-US">
+        <seg>Allowed Users: Friends</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015047Z" creationid="SGKoishi" creationdate="20200519T015047Z">
+        <seg>允许用户：好友</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.138</prop>
+      <tuv lang="en-US">
+        <seg>Allowed Users: Invite Only</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015044Z" creationid="SGKoishi" creationdate="20200519T015044Z">
+        <seg>允许用户：仅限邀请</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.119</prop>
+      <tuv lang="en-US">
+        <seg>Ambient:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014947Z" creationid="SGKoishi" creationdate="20200519T014947Z">
+        <seg>环境：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Amethyst</prop>
+      <tuv lang="en-US">
+        <seg>Amethyst</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001044Z" creationid="SGKoishi" creationdate="20200519T001044Z">
+        <seg>紫晶的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Amusing</prop>
+      <tuv lang="en-US">
+        <seg>Amusing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001047Z" creationid="SGKoishi" creationdate="20200519T001047Z">
+        <seg>有趣的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Ancient</prop>
+      <tuv lang="en-US">
+        <seg>Ancient</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001114Z" creationid="SGKoishi" creationdate="20200519T001051Z">
+        <seg>远古的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Angelic</prop>
+      <tuv lang="en-US">
+        <seg>Angelic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001054Z" creationid="SGKoishi" creationdate="20200519T001054Z">
+        <seg>天使的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Angry</prop>
+      <tuv lang="en-US">
+        <seg>Angry</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001057Z" creationid="SGKoishi" creationdate="20200519T001057Z">
+        <seg>愤怒的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Annoyed</prop>
+      <tuv lang="en-US">
+        <seg>Annoyed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001059Z" creationid="SGKoishi" creationdate="20200519T001059Z">
+        <seg>懊恼的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Annoying</prop>
+      <tuv lang="en-US">
+        <seg>Annoying</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001101Z" creationid="SGKoishi" creationdate="20200519T001101Z">
+        <seg>烦人的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Anxious</prop>
+      <tuv lang="en-US">
+        <seg>Anxious</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001105Z" creationid="SGKoishi" creationdate="20200519T001105Z">
+        <seg>焦急的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.134</prop>
+      <tuv lang="en-US">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015029Z" creationid="SGKoishi" creationdate="20200519T015029Z">
+        <seg>应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Archaic</prop>
+      <tuv lang="en-US">
+        <seg>Archaic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001108Z" creationid="SGKoishi" creationdate="20200519T001108Z">
+        <seg>古老的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Ardent</prop>
+      <tuv lang="en-US">
+        <seg>Ardent</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001117Z" creationid="SGKoishi" creationdate="20200519T001117Z">
+        <seg>热心的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Arrogant</prop>
+      <tuv lang="en-US">
+        <seg>Arrogant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001119Z" creationid="SGKoishi" creationdate="20200519T001119Z">
+        <seg>傲慢的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Ashamed</prop>
+      <tuv lang="en-US">
+        <seg>Ashamed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001122Z" creationid="SGKoishi" creationdate="20200519T001122Z">
+        <seg>羞愧的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Attractive</prop>
+      <tuv lang="en-US">
+        <seg>Attractive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001126Z" creationid="SGKoishi" creationdate="20200519T001126Z">
+        <seg>魅力的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.AuntBeckys</prop>
+      <tuv lang="en-US">
+        <seg>Aunt Becky's</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001129Z" creationid="SGKoishi" creationdate="20200519T001129Z">
+        <seg>贝基姨妈的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Average</prop>
+      <tuv lang="en-US">
+        <seg>Average</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001131Z" creationid="SGKoishi" creationdate="20200519T001131Z">
+        <seg>平均的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Awful</prop>
+      <tuv lang="en-US">
+        <seg>Awful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001133Z" creationid="SGKoishi" creationdate="20200519T001133Z">
+        <seg>可怕的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Awkward</prop>
+      <tuv lang="en-US">
+        <seg>Awkward</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001135Z" creationid="SGKoishi" creationdate="20200519T001135Z">
+        <seg>尴尬的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Babbling</prop>
+      <tuv lang="en-US">
+        <seg>Babbling</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001137Z" creationid="SGKoishi" creationdate="20200519T001137Z">
+        <seg>胡说的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.101</prop>
+      <tuv lang="en-US">
+        <seg>Background Off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014442Z" creationid="SGKoishi" creationdate="20200519T014442Z">
+        <seg>背景：关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.100</prop>
+      <tuv lang="en-US">
+        <seg>Background On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014439Z" creationid="SGKoishi" creationdate="20200519T014439Z">
+        <seg>背景：开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bad</prop>
+      <tuv lang="en-US">
+        <seg>Bad</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001141Z" creationid="SGKoishi" creationdate="20200519T001141Z">
+        <seg>不好的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bashful</prop>
+      <tuv lang="en-US">
+        <seg>Bashful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001143Z" creationid="SGKoishi" creationdate="20200519T001143Z">
+        <seg>害羞的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Beautiful</prop>
+      <tuv lang="en-US">
+        <seg>Beautiful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001145Z" creationid="SGKoishi" creationdate="20200519T001145Z">
+        <seg>美丽的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Best</prop>
+      <tuv lang="en-US">
+        <seg>Best</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001148Z" creationid="SGKoishi" creationdate="20200519T001148Z">
+        <seg>最好的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bewildered</prop>
+      <tuv lang="en-US">
+        <seg>Bewildered</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001151Z" creationid="SGKoishi" creationdate="20200519T001151Z">
+        <seg>迷惑的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bitter</prop>
+      <tuv lang="en-US">
+        <seg>Bitter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001156Z" creationid="SGKoishi" creationdate="20200519T001156Z">
+        <seg>苦涩的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bizarre</prop>
+      <tuv lang="en-US">
+        <seg>Bizarre</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001158Z" creationid="SGKoishi" creationdate="20200519T001158Z">
+        <seg>怪异的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Black</prop>
+      <tuv lang="en-US">
+        <seg>Black</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001200Z" creationid="SGKoishi" creationdate="20200519T001200Z">
+        <seg>黑色的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Blackish</prop>
+      <tuv lang="en-US">
+        <seg>Blackish</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001202Z" creationid="SGKoishi" creationdate="20200519T001202Z">
+        <seg>黑色的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bleeding</prop>
+      <tuv lang="en-US">
+        <seg>Bleeding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001205Z" creationid="SGKoishi" creationdate="20200519T001205Z">
+        <seg>流血的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Blistering</prop>
+      <tuv lang="en-US">
+        <seg>Blistering</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001207Z" creationid="SGKoishi" creationdate="20200519T001207Z">
+        <seg>起泡的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Blocky</prop>
+      <tuv lang="en-US">
+        <seg>Blocky</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001209Z" creationid="SGKoishi" creationdate="20200519T001209Z">
+        <seg>块状的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.133</prop>
+      <tuv lang="en-US">
+        <seg>Blood and Gore Off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015028Z" creationid="SGKoishi" creationdate="20200519T015028Z">
+        <seg>溅血效果：关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.132</prop>
+      <tuv lang="en-US">
+        <seg>Blood and Gore On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015026Z" creationid="SGKoishi" creationdate="20200519T015026Z">
+        <seg>溅血效果：开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bloody</prop>
+      <tuv lang="en-US">
+        <seg>Bloody</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001218Z" creationid="SGKoishi" creationdate="20200519T001211Z">
+        <seg>猩红的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Blooming</prop>
+      <tuv lang="en-US">
+        <seg>Blooming</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001214Z" creationid="SGKoishi" creationdate="20200519T001214Z">
+        <seg>盛开的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Blue</prop>
+      <tuv lang="en-US">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001222Z" creationid="SGKoishi" creationdate="20200519T001222Z">
+        <seg>蓝色的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Blushful</prop>
+      <tuv lang="en-US">
+        <seg>Blushful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001224Z" creationid="SGKoishi" creationdate="20200519T001224Z">
+        <seg>羞怯的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Blushing</prop>
+      <tuv lang="en-US">
+        <seg>Blushing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001226Z" creationid="SGKoishi" creationdate="20200519T001226Z">
+        <seg>脸红的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Boatmurdered</prop>
+      <tuv lang="en-US">
+        <seg>Boatmurdered</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001227Z" creationid="SGKoishi" creationdate="20200519T001227Z">
+        <seg>谋杀的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Boorish</prop>
+      <tuv lang="en-US">
+        <seg>Boorish</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001229Z" creationid="SGKoishi" creationdate="20200519T001229Z">
+        <seg>粗野的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bored</prop>
+      <tuv lang="en-US">
+        <seg>Bored</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001231Z" creationid="SGKoishi" creationdate="20200519T001231Z">
+        <seg>无聊的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Boundless</prop>
+      <tuv lang="en-US">
+        <seg>Boundless</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001234Z" creationid="SGKoishi" creationdate="20200519T001234Z">
+        <seg>无边的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Brainy</prop>
+      <tuv lang="en-US">
+        <seg>Brainy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001236Z" creationid="SGKoishi" creationdate="20200519T001236Z">
+        <seg>聪明的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Brash</prop>
+      <tuv lang="en-US">
+        <seg>Brash</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001258Z" creationid="SGKoishi" creationdate="20200519T001258Z">
+        <seg>傲慢的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Brave</prop>
+      <tuv lang="en-US">
+        <seg>Brave</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001300Z" creationid="SGKoishi" creationdate="20200519T001300Z">
+        <seg>勇敢的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Breakable</prop>
+      <tuv lang="en-US">
+        <seg>Breakable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001302Z" creationid="SGKoishi" creationdate="20200519T001302Z">
+        <seg>易碎的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Breakless</prop>
+      <tuv lang="en-US">
+        <seg>Breakless</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001310Z" creationid="SGKoishi" creationdate="20200519T001310Z">
+        <seg>无阻的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Breathtaking</prop>
+      <tuv lang="en-US">
+        <seg>Breathtaking</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001311Z" creationid="SGKoishi" creationdate="20200519T001311Z">
+        <seg>惊险的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Bright</prop>
+      <tuv lang="en-US">
+        <seg>Bright</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001316Z" creationid="SGKoishi" creationdate="20200519T001316Z">
+        <seg>光亮的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Brightish</prop>
+      <tuv lang="en-US">
+        <seg>Brightish</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001322Z" creationid="SGKoishi" creationdate="20200519T001322Z">
+        <seg>光亮的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Brilliant</prop>
+      <tuv lang="en-US">
+        <seg>Brilliant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001324Z" creationid="SGKoishi" creationdate="20200519T001324Z">
+        <seg>辉煌的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Broken</prop>
+      <tuv lang="en-US">
+        <seg>Broken</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001326Z" creationid="SGKoishi" creationdate="20200519T001326Z">
+        <seg>破碎的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Brown</prop>
+      <tuv lang="en-US">
+        <seg>Brown</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001327Z" creationid="SGKoishi" creationdate="20200519T001327Z">
+        <seg>棕色的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Brutal</prop>
+      <tuv lang="en-US">
+        <seg>Brutal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001329Z" creationid="SGKoishi" creationdate="20200519T001329Z">
+        <seg>野蛮的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Budding</prop>
+      <tuv lang="en-US">
+        <seg>Budding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001331Z" creationid="SGKoishi" creationdate="20200519T001331Z">
+        <seg>发芽的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Burning</prop>
+      <tuv lang="en-US">
+        <seg>Burning</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001335Z" creationid="SGKoishi" creationdate="20200519T001335Z">
+        <seg>燃烧的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Busy</prop>
+      <tuv lang="en-US">
+        <seg>Busy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001338Z" creationid="SGKoishi" creationdate="20200519T001338Z">
+        <seg>忙碌的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Calm</prop>
+      <tuv lang="en-US">
+        <seg>Calm</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001340Z" creationid="SGKoishi" creationdate="20200519T001340Z">
+        <seg>平静的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Canadian</prop>
+      <tuv lang="en-US">
+        <seg>Canadian</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001348Z" creationid="SGKoishi" creationdate="20200519T001348Z">
+        <seg>枫叶的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Careful</prop>
+      <tuv lang="en-US">
+        <seg>Careful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001351Z" creationid="SGKoishi" creationdate="20200519T001351Z">
+        <seg>小心的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cautious</prop>
+      <tuv lang="en-US">
+        <seg>Cautious</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001353Z" creationid="SGKoishi" creationdate="20200519T001353Z">
+        <seg>谨慎的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Celestial</prop>
+      <tuv lang="en-US">
+        <seg>Celestial</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001358Z" creationid="SGKoishi" creationdate="20200519T001358Z">
+        <seg>天界的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Chads</prop>
+      <tuv lang="en-US">
+        <seg>Chad's</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001417Z" creationid="SGKoishi" creationdate="20200519T001417Z">
+        <seg>Chad的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Charming</prop>
+      <tuv lang="en-US">
+        <seg>Charming</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001419Z" creationid="SGKoishi" creationdate="20200519T001419Z">
+        <seg>迷人的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Chartreuse</prop>
+      <tuv lang="en-US">
+        <seg>Chartreuse</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001423Z" creationid="SGKoishi" creationdate="20200519T001423Z">
+        <seg>淡黄的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cheap</prop>
+      <tuv lang="en-US">
+        <seg>Cheap</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001425Z" creationid="SGKoishi" creationdate="20200519T001425Z">
+        <seg>便宜的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cheerful</prop>
+      <tuv lang="en-US">
+        <seg>Cheerful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001427Z" creationid="SGKoishi" creationdate="20200519T001427Z">
+        <seg>快乐的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Clean</prop>
+      <tuv lang="en-US">
+        <seg>Clean</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001433Z" creationid="SGKoishi" creationdate="20200519T001433Z">
+        <seg>洁净的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Clear</prop>
+      <tuv lang="en-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001438Z" creationid="SGKoishi" creationdate="20200519T001438Z">
+        <seg>明朗的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Clearable</prop>
+      <tuv lang="en-US">
+        <seg>Clearable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001450Z" creationid="SGKoishi" creationdate="20200519T001450Z">
+        <seg>可清的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Clever</prop>
+      <tuv lang="en-US">
+        <seg>Clever</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001452Z" creationid="SGKoishi" creationdate="20200519T001452Z">
+        <seg>聪明的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cleverish</prop>
+      <tuv lang="en-US">
+        <seg>Cleverish</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001453Z" creationid="SGKoishi" creationdate="20200519T001453Z">
+        <seg>机灵的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.118</prop>
+      <tuv lang="en-US">
+        <seg>Close Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014946Z" creationid="SGKoishi" creationdate="20200519T014946Z">
+        <seg>关闭菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cloudy</prop>
+      <tuv lang="en-US">
+        <seg>Cloudy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001455Z" creationid="SGKoishi" creationdate="20200519T001455Z">
+        <seg>多云的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Clumsy</prop>
+      <tuv lang="en-US">
+        <seg>Clumsy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001456Z" creationid="SGKoishi" creationdate="20200519T001456Z">
+        <seg>笨拙的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cold</prop>
+      <tuv lang="en-US">
+        <seg>Cold</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001500Z" creationid="SGKoishi" creationdate="20200519T001500Z">
+        <seg>冰冷的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Colorful</prop>
+      <tuv lang="en-US">
+        <seg>Colorful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001502Z" creationid="SGKoishi" creationdate="20200519T001502Z">
+        <seg>七彩的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Combative</prop>
+      <tuv lang="en-US">
+        <seg>Combative</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001503Z" creationid="SGKoishi" creationdate="20200519T001503Z">
+        <seg>好斗的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Comfortable</prop>
+      <tuv lang="en-US">
+        <seg>Comfortable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001505Z" creationid="SGKoishi" creationdate="20200519T001505Z">
+        <seg>自在的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Comical</prop>
+      <tuv lang="en-US">
+        <seg>Comical</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001507Z" creationid="SGKoishi" creationdate="20200519T001507Z">
+        <seg>滑稽的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Common</prop>
+      <tuv lang="en-US">
+        <seg>Common</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001509Z" creationid="SGKoishi" creationdate="20200519T001509Z">
+        <seg>共同的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Complacent</prop>
+      <tuv lang="en-US">
+        <seg>Complacent</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001511Z" creationid="SGKoishi" creationdate="20200519T001511Z">
+        <seg>自满的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Compulsive</prop>
+      <tuv lang="en-US">
+        <seg>Compulsive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001513Z" creationid="SGKoishi" creationdate="20200519T001513Z">
+        <seg>强迫性的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Concerned</prop>
+      <tuv lang="en-US">
+        <seg>Concerned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001515Z" creationid="SGKoishi" creationdate="20200519T001515Z">
+        <seg>关心的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Condemnable</prop>
+      <tuv lang="en-US">
+        <seg>Condemnable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001517Z" creationid="SGKoishi" creationdate="20200519T001517Z">
+        <seg>难受的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Condemned</prop>
+      <tuv lang="en-US">
+        <seg>Condemned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001518Z" creationid="SGKoishi" creationdate="20200519T001518Z">
+        <seg>谴责的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Confident</prop>
+      <tuv lang="en-US">
+        <seg>Confident</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001520Z" creationid="SGKoishi" creationdate="20200519T001520Z">
+        <seg>信心的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Confusable</prop>
+      <tuv lang="en-US">
+        <seg>Confusable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001526Z" creationid="SGKoishi" creationdate="20200519T001526Z">
+        <seg>困惑的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Confused</prop>
+      <tuv lang="en-US">
+        <seg>Confused</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001528Z" creationid="SGKoishi" creationdate="20200519T001528Z">
+        <seg>困惑的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Constant</prop>
+      <tuv lang="en-US">
+        <seg>Constant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001530Z" creationid="SGKoishi" creationdate="20200519T001530Z">
+        <seg>不变的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cooperative</prop>
+      <tuv lang="en-US">
+        <seg>Cooperative</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001532Z" creationid="SGKoishi" creationdate="20200519T001532Z">
+        <seg>合作的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Corrupted</prop>
+      <tuv lang="en-US">
+        <seg>Corrupted</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001534Z" creationid="SGKoishi" creationdate="20200519T001534Z">
+        <seg>腐败的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cosmic</prop>
+      <tuv lang="en-US">
+        <seg>Cosmic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001535Z" creationid="SGKoishi" creationdate="20200519T001535Z">
+        <seg>宇宙的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Courageous</prop>
+      <tuv lang="en-US">
+        <seg>Courageous</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001537Z" creationid="SGKoishi" creationdate="20200519T001537Z">
+        <seg>勇敢的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cracked</prop>
+      <tuv lang="en-US">
+        <seg>Cracked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001539Z" creationid="SGKoishi" creationdate="20200519T001539Z">
+        <seg>开裂的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cranky</prop>
+      <tuv lang="en-US">
+        <seg>Cranky</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001546Z" creationid="SGKoishi" creationdate="20200519T001546Z">
+        <seg>混乱的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Crass</prop>
+      <tuv lang="en-US">
+        <seg>Crass</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001607Z" creationid="SGKoishi" creationdate="20200519T001607Z">
+        <seg>愚钝的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Crazy</prop>
+      <tuv lang="en-US">
+        <seg>Crazy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001610Z" creationid="SGKoishi" creationdate="20200519T001610Z">
+        <seg>疯狂的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Creepy</prop>
+      <tuv lang="en-US">
+        <seg>Creepy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001612Z" creationid="SGKoishi" creationdate="20200519T001612Z">
+        <seg>爬行的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Crowded</prop>
+      <tuv lang="en-US">
+        <seg>Crowded</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001617Z" creationid="SGKoishi" creationdate="20200519T001617Z">
+        <seg>拥挤的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Crude</prop>
+      <tuv lang="en-US">
+        <seg>Crude</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001627Z" creationid="SGKoishi" creationdate="20200519T001627Z">
+        <seg>粗糙的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cruel</prop>
+      <tuv lang="en-US">
+        <seg>Cruel</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001630Z" creationid="SGKoishi" creationdate="20200519T001630Z">
+        <seg>残忍的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cuddly</prop>
+      <tuv lang="en-US">
+        <seg>Cuddly</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001631Z" creationid="SGKoishi" creationdate="20200519T001631Z">
+        <seg>可爱的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Curious</prop>
+      <tuv lang="en-US">
+        <seg>Curious</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001633Z" creationid="SGKoishi" creationdate="20200519T001633Z">
+        <seg>好奇的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cursed</prop>
+      <tuv lang="en-US">
+        <seg>Cursed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001635Z" creationid="SGKoishi" creationdate="20200519T001635Z">
+        <seg>诅咒的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Cute</prop>
+      <tuv lang="en-US">
+        <seg>Cute</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001637Z" creationid="SGKoishi" creationdate="20200519T001637Z">
+        <seg>可爱的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Daft</prop>
+      <tuv lang="en-US">
+        <seg>Daft</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001651Z" creationid="SGKoishi" creationdate="20200519T001651Z">
+        <seg>愚蠢的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Damaged</prop>
+      <tuv lang="en-US">
+        <seg>Damaged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001653Z" creationid="SGKoishi" creationdate="20200519T001653Z">
+        <seg>破损的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dangerous</prop>
+      <tuv lang="en-US">
+        <seg>Dangerous</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001655Z" creationid="SGKoishi" creationdate="20200519T001655Z">
+        <seg>危险的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dank</prop>
+      <tuv lang="en-US">
+        <seg>Dank</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001723Z" creationid="SGKoishi" creationdate="20200519T001723Z">
+        <seg>潮湿的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dark</prop>
+      <tuv lang="en-US">
+        <seg>Dark</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001726Z" creationid="SGKoishi" creationdate="20200519T001726Z">
+        <seg>黑暗的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Daunting</prop>
+      <tuv lang="en-US">
+        <seg>Daunting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001730Z" creationid="SGKoishi" creationdate="20200519T001730Z">
+        <seg>生畏的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dead</prop>
+      <tuv lang="en-US">
+        <seg>Dead</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001733Z" creationid="SGKoishi" creationdate="20200519T001733Z">
+        <seg>死亡的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Decaying</prop>
+      <tuv lang="en-US">
+        <seg>Decaying</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001735Z" creationid="SGKoishi" creationdate="20200519T001735Z">
+        <seg>腐烂的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Deceased</prop>
+      <tuv lang="en-US">
+        <seg>Deceased</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001806Z" creationid="SGKoishi" creationdate="20200519T001806Z">
+        <seg>逝去的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.110</prop>
+      <tuv lang="en-US">
+        <seg>Decrease Transparency</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014458Z" creationid="SGKoishi" creationdate="20200519T014458Z">
+        <seg>减少透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Defeated</prop>
+      <tuv lang="en-US">
+        <seg>Defeated</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001811Z" creationid="SGKoishi" creationdate="20200519T001811Z">
+        <seg>失败的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Defiant</prop>
+      <tuv lang="en-US">
+        <seg>Defiant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001815Z" creationid="SGKoishi" creationdate="20200519T001815Z">
+        <seg>反抗的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Delightful</prop>
+      <tuv lang="en-US">
+        <seg>Delightful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001817Z" creationid="SGKoishi" creationdate="20200519T001817Z">
+        <seg>愉快的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Demented</prop>
+      <tuv lang="en-US">
+        <seg>Demented</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001818Z" creationid="SGKoishi" creationdate="20200519T001818Z">
+        <seg>痴呆的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Demonic</prop>
+      <tuv lang="en-US">
+        <seg>Demonic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001823Z" creationid="SGKoishi" creationdate="20200519T001823Z">
+        <seg>恶魔的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dense</prop>
+      <tuv lang="en-US">
+        <seg>Dense</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001825Z" creationid="SGKoishi" creationdate="20200519T001825Z">
+        <seg>稠密的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Depressed</prop>
+      <tuv lang="en-US">
+        <seg>Depressed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001826Z" creationid="SGKoishi" creationdate="20200519T001826Z">
+        <seg>郁闷的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Deranged</prop>
+      <tuv lang="en-US">
+        <seg>Deranged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001828Z" creationid="SGKoishi" creationdate="20200519T001828Z">
+        <seg>疯狂的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Desolate</prop>
+      <tuv lang="en-US">
+        <seg>Desolate</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001830Z" creationid="SGKoishi" creationdate="20200519T001830Z">
+        <seg>荒凉的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Desperate</prop>
+      <tuv lang="en-US">
+        <seg>Desperate</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001833Z" creationid="SGKoishi" creationdate="20200519T001833Z">
+        <seg>绝望的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Determined</prop>
+      <tuv lang="en-US">
+        <seg>Determined</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001835Z" creationid="SGKoishi" creationdate="20200519T001835Z">
+        <seg>决心的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Devious</prop>
+      <tuv lang="en-US">
+        <seg>Devious</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001843Z" creationid="SGKoishi" creationdate="20200519T001843Z">
+        <seg>弯曲的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Diamond</prop>
+      <tuv lang="en-US">
+        <seg>Diamond</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001845Z" creationid="SGKoishi" creationdate="20200519T001845Z">
+        <seg>钻石的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Different</prop>
+      <tuv lang="en-US">
+        <seg>Different</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001847Z" creationid="SGKoishi" creationdate="20200519T001847Z">
+        <seg>不同的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Difficult</prop>
+      <tuv lang="en-US">
+        <seg>Difficult</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001851Z" creationid="SGKoishi" creationdate="20200519T001851Z">
+        <seg>困难的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dire</prop>
+      <tuv lang="en-US">
+        <seg>Dire</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001853Z" creationid="SGKoishi" creationdate="20200519T001853Z">
+        <seg>可怕的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dirty</prop>
+      <tuv lang="en-US">
+        <seg>Dirty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001857Z" creationid="SGKoishi" creationdate="20200519T001857Z">
+        <seg>肮脏的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Disappointing</prop>
+      <tuv lang="en-US">
+        <seg>Disappointing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001901Z" creationid="SGKoishi" creationdate="20200519T001901Z">
+        <seg>失望的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Discarded</prop>
+      <tuv lang="en-US">
+        <seg>Discarded</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001904Z" creationid="SGKoishi" creationdate="20200519T001904Z">
+        <seg>舍弃的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Disgusting</prop>
+      <tuv lang="en-US">
+        <seg>Disgusting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001906Z" creationid="SGKoishi" creationdate="20200519T001906Z">
+        <seg>恶心的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Disloyal</prop>
+      <tuv lang="en-US">
+        <seg>Disloyal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001925Z" creationid="SGKoishi" creationdate="20200519T001925Z">
+        <seg>不义的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Distant</prop>
+      <tuv lang="en-US">
+        <seg>Distant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001927Z" creationid="SGKoishi" creationdate="20200519T001927Z">
+        <seg>遥远的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Distinct</prop>
+      <tuv lang="en-US">
+        <seg>Distinct</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001929Z" creationid="SGKoishi" creationdate="20200519T001929Z">
+        <seg>不同的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Distorted</prop>
+      <tuv lang="en-US">
+        <seg>Distorted</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001930Z" creationid="SGKoishi" creationdate="20200519T001930Z">
+        <seg>扭曲的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Distressing</prop>
+      <tuv lang="en-US">
+        <seg>Distressing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001933Z" creationid="SGKoishi" creationdate="20200519T001933Z">
+        <seg>苦恼的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Disturbed</prop>
+      <tuv lang="en-US">
+        <seg>Disturbed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001935Z" creationid="SGKoishi" creationdate="20200519T001935Z">
+        <seg>不安的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Divine</prop>
+      <tuv lang="en-US">
+        <seg>Divine</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001936Z" creationid="SGKoishi" creationdate="20200519T001936Z">
+        <seg>神圣的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dizzy</prop>
+      <tuv lang="en-US">
+        <seg>Dizzy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001940Z" creationid="SGKoishi" creationdate="20200519T001940Z">
+        <seg>头晕的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Docile</prop>
+      <tuv lang="en-US">
+        <seg>Docile</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001942Z" creationid="SGKoishi" creationdate="20200519T001942Z">
+        <seg>温顺的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Doubtful</prop>
+      <tuv lang="en-US">
+        <seg>Doubtful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001948Z" creationid="SGKoishi" creationdate="20200519T001948Z">
+        <seg>困惑的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.149</prop>
+      <tuv lang="en-US">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015127Z" creationid="SGKoishi" creationdate="20200519T015127Z">
+        <seg>向下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Drab</prop>
+      <tuv lang="en-US">
+        <seg>Drab</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001950Z" creationid="SGKoishi" creationdate="20200519T001950Z">
+        <seg>单调的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dreadful</prop>
+      <tuv lang="en-US">
+        <seg>Dreadful</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001952Z" creationid="SGKoishi" creationdate="20200519T001952Z">
+        <seg>可怕的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dreamy</prop>
+      <tuv lang="en-US">
+        <seg>Dreamy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T001957Z" creationid="SGKoishi" creationdate="20200519T001957Z">
+        <seg>梦幻的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dry</prop>
+      <tuv lang="en-US">
+        <seg>Dry</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002000Z" creationid="SGKoishi" creationdate="20200519T002000Z">
+        <seg>干燥的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dubious</prop>
+      <tuv lang="en-US">
+        <seg>Dubious</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002002Z" creationid="SGKoishi" creationdate="20200519T002002Z">
+        <seg>可疑的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dull</prop>
+      <tuv lang="en-US">
+        <seg>Dull</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002004Z" creationid="SGKoishi" creationdate="20200519T002004Z">
+        <seg>沉闷的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Dumb</prop>
+      <tuv lang="en-US">
+        <seg>Dumb</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002016Z" creationid="SGKoishi" creationdate="20200519T002016Z">
+        <seg>愚钝的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Eager</prop>
+      <tuv lang="en-US">
+        <seg>Eager</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002021Z" creationid="SGKoishi" creationdate="20200519T002021Z">
+        <seg>急躁的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Easy</prop>
+      <tuv lang="en-US">
+        <seg>Easy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002023Z" creationid="SGKoishi" creationdate="20200519T002023Z">
+        <seg>简单的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Eerie</prop>
+      <tuv lang="en-US">
+        <seg>Eerie</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002025Z" creationid="SGKoishi" creationdate="20200519T002025Z">
+        <seg>怪异的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Elated</prop>
+      <tuv lang="en-US">
+        <seg>Elated</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002034Z" creationid="SGKoishi" creationdate="20200519T002034Z">
+        <seg>高昂的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Elegant</prop>
+      <tuv lang="en-US">
+        <seg>Elegant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002036Z" creationid="SGKoishi" creationdate="20200519T002036Z">
+        <seg>优雅的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Embarrassed</prop>
+      <tuv lang="en-US">
+        <seg>Embarrassed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002037Z" creationid="SGKoishi" creationdate="20200519T002037Z">
+        <seg>尴尬的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Embarrassing</prop>
+      <tuv lang="en-US">
+        <seg>Embarrassing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002039Z" creationid="SGKoishi" creationdate="20200519T002039Z">
+        <seg>尴尬的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Emerald</prop>
+      <tuv lang="en-US">
+        <seg>Emerald</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002049Z" creationid="SGKoishi" creationdate="20200519T002049Z">
+        <seg>翡翠的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Empty</prop>
+      <tuv lang="en-US">
+        <seg>Empty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002054Z" creationid="SGKoishi" creationdate="20200519T002054Z">
+        <seg>空灵的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Enchanting</prop>
+      <tuv lang="en-US">
+        <seg>Enchanting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002103Z" creationid="SGKoishi" creationdate="20200519T002103Z">
+        <seg>附魔的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Encouraging</prop>
+      <tuv lang="en-US">
+        <seg>Encouraging</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002107Z" creationid="SGKoishi" creationdate="20200519T002107Z">
+        <seg>鼓舞的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Enduring</prop>
+      <tuv lang="en-US">
+        <seg>Enduring</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002108Z" creationid="SGKoishi" creationdate="20200519T002108Z">
+        <seg>持久的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Energetic</prop>
+      <tuv lang="en-US">
+        <seg>Energetic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002118Z" creationid="SGKoishi" creationdate="20200519T002118Z">
+        <seg>充能的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Enthusiastic</prop>
+      <tuv lang="en-US">
+        <seg>Enthusiastic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002120Z" creationid="SGKoishi" creationdate="20200519T002120Z">
+        <seg>热情的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Envious</prop>
+      <tuv lang="en-US">
+        <seg>Envious</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002121Z" creationid="SGKoishi" creationdate="20200519T002121Z">
+        <seg>羡慕的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Erratic</prop>
+      <tuv lang="en-US">
+        <seg>Erratic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002125Z" creationid="SGKoishi" creationdate="20200519T002125Z">
+        <seg>不稳的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Eternal</prop>
+      <tuv lang="en-US">
+        <seg>Eternal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002126Z" creationid="SGKoishi" creationdate="20200519T002126Z">
+        <seg>永恒的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Euphoric</prop>
+      <tuv lang="en-US">
+        <seg>Euphoric</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002128Z" creationid="SGKoishi" creationdate="20200519T002128Z">
+        <seg>欣快的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.123</prop>
+      <tuv lang="en-US">
+        <seg>Event Progress Bar</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015003Z" creationid="SGKoishi" creationdate="20200519T015003Z">
+        <seg>事件进度条</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Everlasting</prop>
+      <tuv lang="en-US">
+        <seg>Everlasting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002132Z" creationid="SGKoishi" creationdate="20200519T002132Z">
+        <seg>永恒的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Evil</prop>
+      <tuv lang="en-US">
+        <seg>Evil</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002138Z" creationid="SGKoishi" creationdate="20200519T002138Z">
+        <seg>邪恶的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Exalted</prop>
+      <tuv lang="en-US">
+        <seg>Exalted</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002141Z" creationid="SGKoishi" creationdate="20200519T002141Z">
+        <seg>尊贵的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Excellent</prop>
+      <tuv lang="en-US">
+        <seg>Excellent</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002143Z" creationid="SGKoishi" creationdate="20200519T002143Z">
+        <seg>优秀的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Excited</prop>
+      <tuv lang="en-US">
+        <seg>Excited</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002149Z" creationid="SGKoishi" creationdate="20200519T002149Z">
+        <seg>激动的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Exiled</prop>
+      <tuv lang="en-US">
+        <seg>Exiled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002150Z" creationid="SGKoishi" creationdate="20200519T002150Z">
+        <seg>放逐的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Existential</prop>
+      <tuv lang="en-US">
+        <seg>Existential</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002153Z" creationid="SGKoishi" creationdate="20200519T002153Z">
+        <seg>存在的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Adjective.Exotic</prop>
+      <tuv lang="en-US">
+        <seg>Exotic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T002159Z" creationid="SGKoishi" creationdate="20200519T002159Z">
+        <seg>异域的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.140</prop>
+      <tuv lang="en-US">
+        <seg>Friends Can Invite: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015054Z" creationid="SGKoishi" creationdate="20200519T015054Z">
+        <seg>好友可邀请：关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.141</prop>
+      <tuv lang="en-US">
+        <seg>Friends Can Invite: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015055Z" creationid="SGKoishi" creationdate="20200519T015055Z">
+        <seg>好友可邀请：开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.114</prop>
+      <tuv lang="en-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014508Z" creationid="SGKoishi" creationdate="20200519T014508Z">
+        <seg>常规</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.155</prop>
+      <tuv lang="en-US">
+        <seg>Grapple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015145Z" creationid="SGKoishi" creationdate="20200519T015145Z">
+        <seg>钩爪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.111</prop>
+      <tuv lang="en-US">
+        <seg>Increase Transparency</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014459Z" creationid="SGKoishi" creationdate="20200519T014459Z">
+        <seg>增加透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.154</prop>
+      <tuv lang="en-US">
+        <seg>Inventory</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015141Z" creationid="SGKoishi" creationdate="20200519T015141Z">
+        <seg>物品栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.147</prop>
+      <tuv lang="en-US">
+        <seg>Invite Friends</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015126Z" creationid="SGKoishi" creationdate="20200519T015126Z">
+        <seg>邀请好友</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.146</prop>
+      <tuv lang="en-US">
+        <seg>Join via IP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015125Z" creationid="SGKoishi" creationdate="20200519T015125Z">
+        <seg>通过IP加入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.145</prop>
+      <tuv lang="en-US">
+        <seg>Join via Steam</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015124Z" creationid="SGKoishi" creationdate="20200519T015124Z">
+        <seg>通过Steam加入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.152</prop>
+      <tuv lang="en-US">
+        <seg>Jump</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015137Z" creationid="SGKoishi" creationdate="20200519T015130Z">
+        <seg>跳跃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.103</prop>
+      <tuv lang="en-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014445Z" creationid="SGKoishi" creationdate="20200519T014445Z">
+        <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.150</prop>
+      <tuv lang="en-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015129Z" creationid="SGKoishi" creationdate="20200519T015129Z">
+        <seg>向左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.10</prop>
+      <tuv lang="en-US">
+        <seg>Load Backup</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014456Z" creationid="SGKoishi" creationdate="20200519T014456Z">
+        <seg>加载备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.115</prop>
+      <tuv lang="en-US">
+        <seg>Map Controls</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014939Z" creationid="SGKoishi" creationdate="20200519T014939Z">
+        <seg>地图键位设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.113</prop>
+      <tuv lang="en-US">
+        <seg>Map Disabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014504Z" creationid="SGKoishi" creationdate="20200519T014504Z">
+        <seg>地图：禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.112</prop>
+      <tuv lang="en-US">
+        <seg>Map Enabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014506Z" creationid="SGKoishi" creationdate="20200519T014500Z">
+        <seg>地图：启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.130</prop>
+      <tuv lang="en-US">
+        <seg>Mount</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015023Z" creationid="SGKoishi" creationdate="20200519T015023Z">
+        <seg>坐骑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.116</prop>
+      <tuv lang="en-US">
+        <seg>Multicore Lighting:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014943Z" creationid="SGKoishi" creationdate="20200519T014943Z">
+        <seg>多核照明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.13</prop>
+      <tuv lang="en-US">
+        <seg>Multiplayer</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015048Z" creationid="SGKoishi" creationdate="20200519T015048Z">
+        <seg>多人模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.105</prop>
+      <tuv lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014447Z" creationid="SGKoishi" creationdate="20200519T014447Z">
+        <seg>否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.11</prop>
+      <tuv lang="en-US">
+        <seg>No backup found</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014949Z" creationid="SGKoishi" creationdate="20200519T014949Z">
+        <seg>找不到备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.117</prop>
+      <tuv lang="en-US">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014944Z" creationid="SGKoishi" creationdate="20200519T014944Z">
+        <seg>关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.124</prop>
+      <tuv lang="en-US">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015004Z" creationid="SGKoishi" creationdate="20200519T015004Z">
+        <seg>关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.126</prop>
+      <tuv lang="en-US">
+        <seg>On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015013Z" creationid="SGKoishi" creationdate="20200519T015013Z">
+        <seg>开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.129</prop>
+      <tuv lang="en-US">
+        <seg>Placement Preview Off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015021Z" creationid="SGKoishi" creationdate="20200519T015021Z">
+        <seg>放置预览：关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.128</prop>
+      <tuv lang="en-US">
+        <seg>Placement Preview On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015017Z" creationid="SGKoishi" creationdate="20200519T015017Z">
+        <seg>放置预览：开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.156</prop>
+      <tuv lang="en-US">
+        <seg>Quick Mana</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015157Z" creationid="SGKoishi" creationdate="20200519T015157Z">
+        <seg>快速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.151</prop>
+      <tuv lang="en-US">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015129Z" creationid="SGKoishi" creationdate="20200519T015129Z">
+        <seg>向右</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.102</prop>
+      <tuv lang="en-US">
+        <seg>Select language</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014444Z" creationid="SGKoishi" creationdate="20200519T014444Z">
+        <seg>选择语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.135</prop>
+      <tuv lang="en-US">
+        <seg>Server Settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015031Z" creationid="SGKoishi" creationdate="20200519T015031Z">
+        <seg>服务器设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.14</prop>
+      <tuv lang="en-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015128Z" creationid="SGKoishi" creationdate="20200519T015128Z">
+        <seg>设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.12</prop>
+      <tuv lang="en-US">
+        <seg>Single Player</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015022Z" creationid="SGKoishi" creationdate="20200519T015022Z">
+        <seg>单人模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.120</prop>
+      <tuv lang="en-US">
+        <seg>Smart Cursor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014950Z" creationid="SGKoishi" creationdate="20200519T014950Z">
+        <seg>智能光标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.122</prop>
+      <tuv lang="en-US">
+        <seg>Smart Cursor Mode: Hold</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015001Z" creationid="SGKoishi" creationdate="20200519T015001Z">
+        <seg>智能光标模式：长按</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.121</prop>
+      <tuv lang="en-US">
+        <seg>Smart Cursor Mode: Toggle</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014959Z" creationid="SGKoishi" creationdate="20200519T014959Z">
+        <seg>智能光标模式：切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.144</prop>
+      <tuv lang="en-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015122Z" creationid="SGKoishi" creationdate="20200519T015122Z">
+        <seg>开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.0</prop>
+      <tuv lang="en-US">
+        <seg>Start a new instance of Terraria to join!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014435Z" creationid="SGKoishi" creationdate="20200519T014435Z">
+        <seg>启动另一个泰拉瑞亚来加入！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.136</prop>
+      <tuv lang="en-US">
+        <seg>Steam Multiplayer: Disabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015037Z" creationid="SGKoishi" creationdate="20200519T015037Z">
+        <seg>Steam多人模式：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.137</prop>
+      <tuv lang="en-US">
+        <seg>Steam Multiplayer: Enabled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015041Z" creationid="SGKoishi" creationdate="20200519T015041Z">
+        <seg>Steam多人模式：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.127</prop>
+      <tuv lang="en-US">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015014Z" creationid="SGKoishi" creationdate="20200519T015014Z">
+        <seg>类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.153</prop>
+      <tuv lang="en-US">
+        <seg>Throw</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015131Z" creationid="SGKoishi" creationdate="20200519T015131Z">
+        <seg>投掷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.125</prop>
+      <tuv lang="en-US">
+        <seg>Timed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015004Z" creationid="SGKoishi" creationdate="20200519T015004Z">
+        <seg>定时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.107</prop>
+      <tuv lang="en-US">
+        <seg>Toggle Fullscreen</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014452Z" creationid="SGKoishi" creationdate="20200519T014452Z">
+        <seg>切换全屏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.106</prop>
+      <tuv lang="en-US">
+        <seg>Toggle Map Style</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014450Z" creationid="SGKoishi" creationdate="20200519T014450Z">
+        <seg>切换地图类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.148</prop>
+      <tuv lang="en-US">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015126Z" creationid="SGKoishi" creationdate="20200519T015126Z">
+        <seg>向上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.RandomWorldName_Location.World</prop>
+      <tuv lang="en-US">
+        <seg>World</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T000005Z" creationid="SGKoishi" creationdate="20200519T000005Z">
+        <seg>世界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.104</prop>
+      <tuv lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014446Z" creationid="SGKoishi" creationdate="20200519T014446Z">
+        <seg>是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.108</prop>
+      <tuv lang="en-US">
+        <seg>Zoom In</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014453Z" creationid="SGKoishi" creationdate="20200519T014453Z">
+        <seg>放大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Legacy.LegacyMenu.109</prop>
+      <tuv lang="en-US">
+        <seg>Zoom Out</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T014454Z" creationid="SGKoishi" creationdate="20200519T014454Z">
+        <seg>缩小</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
