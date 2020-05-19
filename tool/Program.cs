@@ -79,33 +79,9 @@ namespace Chireiden.Terraria.Converter
 
             if (languages.Count == 2)
             {
-                foreach (var item in langFileDict)
+                foreach (var (Language, FileName) in langFileDict)
                 {
-                    foreach (var node in JsonConvert.DeserializeObject<Dictionary<string, Dictionary<string, string>>>(File.ReadAllText(item.FileName)))
-                    {
-                        foreach (var kvp in node.Value)
-                        {
-                            var fileName = Path.GetExtension(Path.GetFileNameWithoutExtension(item.FileName)).Trim('.');
-                            if (fileName == item.Language)
-                            {
-                                fileName = "Main";
-                            }
-
-                            list.MergeEntry(item.Language == languages[0] ? new Element
-                            {
-                                FileName = fileName,
-                                NodeName = node.Key,
-                                KeyName = kvp.Key,
-                                Source = kvp.Value
-                            } : new Element
-                            {
-                                FileName = fileName,
-                                NodeName = node.Key,
-                                KeyName = kvp.Key,
-                                Target = kvp.Value
-                            });
-                        }
-                    }
+                    Load(list, FileName, Language == languages[0]);
                 }
             }
 
@@ -122,9 +98,72 @@ namespace Chireiden.Terraria.Converter
             new POGenerator().Generate(File.OpenWrite("output.po"), catalog);
         }
 
+        private static void Load(List<Element> list, string path, bool source)
+        {
+            foreach (var node in JsonConvert.DeserializeObject<Dictionary<string, Dictionary<string, string>>>(File.ReadAllText(path)))
+            {
+                foreach (var kvp in node.Value)
+                {
+                    var fileName = Path.GetExtension(Path.GetFileNameWithoutExtension(path)).Trim('.');
+                    if (fileName.Contains("-"))
+                    {
+                        fileName = "Main";
+                    }
+                    else if (string.IsNullOrEmpty(fileName))
+                    {
+                        fileName = Path.GetFileNameWithoutExtension(path);
+                    }
+
+                    list.MergeEntry(source ? new Element
+                    {
+                        FileName = fileName,
+                        NodeName = node.Key,
+                        KeyName = kvp.Key,
+                        Source = kvp.Value
+                    } : new Element
+                    {
+                        FileName = fileName,
+                        NodeName = node.Key,
+                        KeyName = kvp.Key,
+                        Target = kvp.Value
+                    });
+                }
+            }
+        }
+
         private static void ConvertCommand(string[] args)
         {
-            throw new NotImplementedException();
+            if (args.Length < 3)
+            {
+                Usage();
+                return;
+            }
+
+            var srcLang = args[1];
+            var tgtLang = args[2];
+            var list = new List<Element>();
+
+            foreach (var item in Directory.GetFiles(srcLang))
+            {
+                Load(list, item, true);
+            }
+
+            foreach (var item in Directory.GetFiles(tgtLang))
+            {
+                Load(list, item, false);
+            }
+
+            var catalog = new POCatalog
+            {
+                Encoding = "UTF-8"
+            };
+
+            foreach (var item in list)
+            {
+                catalog.AddEntry(item.Source, $"{item.FileName}.{item.NodeName}.{item.KeyName}", item.Target);
+            }
+
+            new POGenerator().Generate(File.OpenWrite("output.po"), catalog);
         }
 
         private static void RepackCommand(string[] args)
@@ -226,7 +265,7 @@ namespace Chireiden.Terraria.Converter
                         item.Target = element.Target;
                     }
 
-                    break;
+                    return;
                 }
             }
 
