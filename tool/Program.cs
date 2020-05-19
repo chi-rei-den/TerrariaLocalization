@@ -90,7 +90,7 @@ namespace Chireiden.Terraria.Converter
                 Encoding = "UTF-8"
             };
 
-            foreach (var item in list)
+            foreach (var item in list.OrderBy(i => i.FileName).ThenBy(i => i.NodeName).ThenBy(i => int.TryParse(i.KeyName, out var r) ? r.ToString("000000") : i.KeyName))
             {
                 catalog.AddEntry(item.Source, $"{item.FileName}.{item.NodeName}.{item.KeyName}", item.Target);
             }
@@ -158,7 +158,7 @@ namespace Chireiden.Terraria.Converter
                 Encoding = "UTF-8"
             };
 
-            foreach (var item in list)
+            foreach (var item in list.OrderBy(i => i.FileName).ThenBy(i => i.NodeName).ThenBy(i => int.TryParse(i.KeyName, out var r) ? r.ToString("000000") : i.KeyName))
             {
                 catalog.AddEntry(item.Source, $"{item.FileName}.{item.NodeName}.{item.KeyName}", item.Target);
             }
