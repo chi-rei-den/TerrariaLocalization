@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'M. J. Duncan'</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>'M. J. Duncan'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'Makes you look cool!'</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -950,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Mod Sources folders can't have spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>(Mod Sources文件夹不能含有空格)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(PvP)</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -962,6 +978,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>（标准泰拉瑞亚体验）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Try making sure your computer has speakers attached and audio devices enabled)</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>(请尝试确保你的电脑已连接扬声器并已启用音频设备)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(see {0} for full trace)</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>(请参阅 {0} 以获取完整跟踪)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1062,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Disabled</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>- 禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Missing</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>- 缺少</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>-&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/me</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -1086,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 day ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>1天前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 defense</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -1102,10 +1174,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 hour ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>1小时前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 minute ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>1分钟前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 month ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>1月前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 new mod.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>新增1个模组.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 player connected.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>1个玩家已连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 second ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>1秒前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 year ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>1年前</seg>
       </tuv>
     </tu>
     <tu>
@@ -1806,6 +1926,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;-</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>&lt;-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;Server&gt; {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>&lt;Server&gt; {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;Unbound&gt;</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -1914,6 +2050,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>&lt;right&gt;时按住不放可编辑电线设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>???</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>???</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A mod's internal name cannot contain a period</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组的内部名称不能含有句号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A powerful javelin that unleashes tiny eaters</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -2122,6 +2274,30 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>威力强大的回旋锤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A problem was encountered during world generation</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>生成世界时遇到问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A problem was encountered when loading custom data for a player</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>加载人物自定义数据时遇到问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A problem was encountered when trying to load a world</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>尝试加载世界时遇到问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,6 +2822,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AddItem can only be called from Mod.Load or Mod.Autoload</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>添加的项目只能从[Mod.Load]或[Mod.Autoload]中调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding Recipes...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>添加合成配方...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adding clay</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -2658,6 +2850,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>正在添加宝石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding mod content...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>添加模组内容...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +3086,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allow Greater Resolutions: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>允许更高分辨率：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allow Greater Resolutions: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>允许更高分辨率：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allowed Users: Friends</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -3034,6 +3250,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>允许你查看附近的危险源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Always Log Exceptions: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>始终记录异常：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Always Log Exceptions: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>始终记录异常：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,6 +3482,38 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>附魔灯笼将为你照亮前路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error occurred while downloading {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>下载时发生错误 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error occurred while extracting {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>提取时发生错误 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error occurred while loading {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>该模组加载时发生错误 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error ocurred while building {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0} 编译时发生错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -3822,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>April Fools Joke</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>愚人节玩笑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aqua Scepter</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -4178,6 +4450,38 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>自动锤炼机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatically enable and reload mods when leaving Mod Browser: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>离开模组浏览器时自动启用并重新加载模组: 关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatically enable and reload mods when leaving Mod Browser: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>离开模组浏览器时自动启用并重新加载模组: 开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatically enabled newly downloaded mods: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>自动启用新下载的模组: 关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatically enabled newly downloaded mods: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>自动启用新下载的模组: 开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -7654,6 +7958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bug</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>Bug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bug Net</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -7694,6 +8006,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build + Reload</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>生成并重新加载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build + Reload All</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>生成并重新加载全部模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build All</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>生成全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build a house in a mushroom biome and have Truffle move in.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -7730,6 +8066,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>建筑工药水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Building: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>生成中: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7878,6 +8222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Busy</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>繁忙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But I was almost done putting blinking lights up here!</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -7978,6 +8330,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>买价：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>作者: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot load compressed effects.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>无法加载已压缩的效果.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot regenerate life</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -8810,6 +9178,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Celled</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>Celled</seg>
       </tuv>
     </tu>
     <tu>
@@ -9622,6 +9998,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clear Mod Browser Credentials</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>清空模组浏览器证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear Special Filter: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>清除特殊筛选器: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clear the console window.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -9658,6 +10050,70 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>环境改造枪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to migrate players...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>点击[这里]转移人物存档...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to migrate worlds...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>点击[这里]转移地图...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to disable</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to download just the targetting pack (not recommended)</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>点击下载目标包 (不推荐)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to enable</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open config</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>点击打开配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to update</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>点击更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client Mods:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>客户端模组:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10190,6 +10646,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compilation finished with {0} errors and {1} warnings</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>编译完成时,出现{0}个错误与{1}个警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compiling {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>编译中 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compiling {0} failed with {1} errors and {2} warnings</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0} 编译失败,出现{1}个错误与 {2} 警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Complete a grand total of 200 quests for the angler.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -10338,6 +10818,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>含有无限多的水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>继续</seg>
       </tuv>
     </tu>
     <tu>
@@ -10881,7 +11369,7 @@
         <seg>Craft a drax or pickaxe axe using hallowed bars, and the souls of the three mechanical bosses.</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>用神圣锭和三个机械老怪的灵魂制作斧钻或镐斧。</seg>
+        <seg>用神圣锭和三个机械boss的灵魂制作斧钻或镐斧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10994,6 +11482,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>创建角色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create Mod</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>创建模组</seg>
       </tuv>
     </tu>
     <tu>
@@ -12174,6 +12670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DOWN</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DPS Meter</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -12865,7 +13369,7 @@
         <seg>Defeat every boss in Terraria.</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>打败泰拉瑞亚中的每个老怪。</seg>
+        <seg>打败泰拉瑞亚中的每个boss。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13210,6 +13714,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>魔矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dependencies</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>依赖</seg>
       </tuv>
     </tu>
     <tu>
@@ -13598,6 +14110,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable All</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>禁用全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disable Mod to Delete</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>禁用模组以删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disabled</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -13690,6 +14218,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>显示命令列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays a list of loaded mods.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>显示已加载模组的列表.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13926,6 +14462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't show again</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>不再提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't you ever stop just to say 'Hi?'</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -13970,6 +14514,78 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>向下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Downgrade</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>降级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Downgrade with dependencies</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>降级(附带依赖)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download All</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>下载全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download Mods From Servers: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>从服务器下载模组：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download Mods From Servers: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>从服务器下载模组：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download with dependencies</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>下载(附带依赖)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Downloading mods finished, returning to browser</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>下载完成,返回浏览器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Downloading: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>下载中: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15038,6 +15654,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Edit and continue is only supported on windows.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>仅在Windows上支持编辑并继续.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit and continue path: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>编辑并继续路径: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effects</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -15286,6 +15918,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable All</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>启用全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable Developer Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>启用开发者模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable only this List</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>仅启用该列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable this List</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>启用该列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -15446,6 +16110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter Mod Pack name</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>输入整合包名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter Seed (Leave Blank For Random)</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -15569,7 +16241,7 @@
         <seg>Equip your first grappling hook.</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>装备第一个爪钩。</seg>
+        <seg>装备第一个抓钩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15618,6 +16290,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>消息 {0} 出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error reading mod file {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>读取模组文件时发生错误 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15862,10 +16542,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exit and Disable All</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>退出并禁用全部模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exotic Scimitar</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>外星弯刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experimental Features: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>实验功能：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experimental Features: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>实验功能：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -16034,6 +16738,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>光彩夺目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extra libraries can be downloaded from github when running on an up-to-date version of Mono.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>运行最新版本的Mono时,可以从GitHub上下载额外库.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extract</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>提取</seg>
       </tuv>
     </tu>
     <tu>
@@ -16226,6 +16946,38 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>褪色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to handle {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>无法处理 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to load precompiled: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>无法加载预编译: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to load {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>加载失败 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to read mod reference {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>读取模组引用 {0} 失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -16510,6 +17262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Files:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>文件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fin Wings</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -16534,10 +17294,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finding Mods...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>查找模组...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finding tile frames:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>正在寻找图格框架：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finishing Resource Loading</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>资源加载完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -18598,6 +19374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting data...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>获取数据中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Geyser</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -20353,7 +21137,7 @@
         <seg>Grappling Hook</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>爪钩</seg>
+        <seg>抓钩</seg>
       </tuv>
     </tu>
     <tu>
@@ -21766,6 +22550,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hash mismatch</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>散列匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hash mismatch, data blob has been modified or corrupted</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>散列不匹配,数据[blob]已被修改或损坏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hasty</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -22406,6 +23206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hoardagron</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>Hoardagron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hold on Tight!</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -22713,7 +23521,7 @@
         <seg>Hook</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>钩子</seg>
+        <seg>爪钩</seg>
       </tuv>
     </tu>
     <tu>
@@ -23122,6 +23930,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>我不知道什么是“肚皮波浪”，所以别问了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I don't know why I can't heal you, the modder forgot to give me a chat message.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>我也不知道为什么我无法治愈你,模组作者忘记给我一个聊天信息了.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24150,6 +24966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Incenerated by solar rays</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>Incenerated by solar rays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Incorrect password.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -24750,6 +25574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Initializing: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>初始化：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inlet Pump</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -24770,6 +25602,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>超快速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Installing: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>安装中: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instantiating Mods...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>初始化...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25118,6 +25966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It doesn't seem to work without an Etheria Crystal nearby...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>It doesn't seem to work without an Etheria Crystal nearby...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It gets pretty cold up there</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -25218,6 +26074,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>物品架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Item: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>物品: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27742,6 +28606,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading pre-compiled {0} from {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>从 {1} 加载预编译的 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading specified modpack: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>加载指定模组整合包: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading world data:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -27754,6 +28634,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>正在加载：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>加载中：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28470,6 +29358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure you have exactly one class extending Mod.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>请确保只有一个类以扩展模组.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Makes surrounding creatures less hostile</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -28666,6 +29562,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>魔力疾病</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage Published</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>管理已发布模组</seg>
       </tuv>
     </tu>
     <tu>
@@ -30158,6 +31062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Middle Mouse</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>鼠标中键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Midnight Confetti Block</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -30186,6 +31098,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>强风</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Migrating...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>转移中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30422,6 +31342,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Missing 1 mod.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>缺少1个模组.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Missing mod: {0} required by {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>缺少模组: {0} 需求来源: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Missing {0} mods.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>缺少{0}个模组.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mister Stabby</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -30434,6 +31378,134 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>戳刺先生旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mod Browser</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组浏览器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mod Controls</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组按键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mod Info:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组信息:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mod Packs</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组整合包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mod Sources</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组源码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mod name {0} does not match assembly name {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组名称 {0} 与程序集名称 {1} 不匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mod was not signed by the Mod Browser</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组未在模组浏览器中签名认证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mod: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ModCompile folder up to date.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>[ModCompile]文件夹已最新.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modlist</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modlist:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组列表:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modpack {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组整合包 {0} 不存在.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mods List</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mods must actually have stuff in their names</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组必须填写模组名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mods names cannot be named Terraria</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组不能被命名为[Terraria]</seg>
       </tuv>
     </tu>
     <tu>
@@ -30718,6 +31790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More info</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>更多信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moss Hornet</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -30834,6 +31914,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>老鼠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse 4</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>鼠标#4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse 5</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>鼠标#5</seg>
       </tuv>
     </tu>
     <tu>
@@ -31369,7 +32465,7 @@
         <seg>Music Box (Boss 1)</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>八音盒（老怪1）</seg>
+        <seg>八音盒(Boss 1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31377,7 +32473,7 @@
         <seg>Music Box (Boss 2)</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>八音盒（老怪2）</seg>
+        <seg>八音盒(Boss 2(</seg>
       </tuv>
     </tu>
     <tu>
@@ -31385,7 +32481,7 @@
         <seg>Music Box (Boss 3)</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>八音盒（老怪3）</seg>
+        <seg>八音盒(Boss 3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31393,7 +32489,7 @@
         <seg>Music Box (Boss 4)</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>八音盒（老怪4）</seg>
+        <seg>八音盒(Boss 4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31401,7 +32497,7 @@
         <seg>Music Box (Boss 5)</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>八音盒（老怪5）</seg>
+        <seg>八音盒(Boss 5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31497,7 +32593,7 @@
         <seg>Music Box (Lunar Boss)</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>八音盒（月怪）</seg>
+        <seg>八音盒（月亮Boss）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31670,6 +32766,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Music Stream Mode: Convert On Demand</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>音乐串流模式：实时转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Music Stream Mode: Stream From Cache</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>音乐串流模式：缓存优先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Music Wallpaper</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -31718,6 +32830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>My Published Mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>已发布模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>My expedition efficiency was critically reduced when a projectile impacted my locomotive actuator.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -31738,6 +32858,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>白天可召唤不了我的主人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>My modder forgot to give me a chat message.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组作者忘记给我一个聊天信息了.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32494,6 +33622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No description available</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>无可用描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No enemies nearby</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -32506,6 +33642,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>无击退力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No mods found</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>未找到模组</seg>
       </tuv>
     </tu>
     <tu>
@@ -32562,6 +33706,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>不，我才不会告诉你我的蛋糕上有几根蜡烛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No-Name</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>无名氏</seg>
       </tuv>
     </tu>
     <tu>
@@ -32730,6 +33882,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>宁芙旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OFFLINE ({0})</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>- 离线({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>好的</seg>
       </tuv>
     </tu>
     <tu>
@@ -33057,7 +34225,7 @@
         <seg>Obtain a boss-summoning item.</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>获得召唤老怪的物品。</seg>
+        <seg>获得召唤boss的物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33310,6 +34478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Old mod, enable at own risk</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>旧模组,有风险</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Omega Banner</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -33354,6 +34530,30 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>独眼海盗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One or more errors occured while unloading and tModLoader must be restarted to prevent further issues.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>卸载时发生一个或多个错误,必须重新启动tModLoader以防止发生更多问题.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only Download Signed Mods From Servers: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只从服务器下载带签名认证的模组：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only Download Signed Mods From Servers: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只从服务器下载带签名认证的模组：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -33414,10 +34614,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Logs</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>打开日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Map</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>打开地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Mods Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>打开模组文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Sources</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>打开源码文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Web Help</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>打开网页帮助</seg>
       </tuv>
     </tu>
     <tu>
@@ -33706,6 +34938,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>个人数字助手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Packaging: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>合包中: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Packet too large {0} &gt; {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>数据包太大 {0} &gt; {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34414,6 +35662,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paste Passphrase (ctrl-v)</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>粘贴密码 (ctrl-v)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paste SteamID (ctrl-v)</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>粘贴SteamID (ctrl-v)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peace Candle</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -34962,6 +36226,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>闪光染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phasic Warp Ejector</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>Phasic Warp Ejector</seg>
       </tuv>
     </tu>
     <tu>
@@ -36382,10 +37654,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Please launch the game from your Steam client.</seg>
+        <seg>Please Enter Your Passcode</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>请输入你的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please Enter Your SteamID</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>请输入你的SteamID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please ensure Stream is logged in and running.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>请从 Steam 客户端启动游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please show your support:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>欢迎表示您的支持:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36530,6 +37826,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>胡闹鬼旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Populating browser...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>填充浏览器中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37026,6 +38330,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>变态刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Publish</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>发布</seg>
       </tuv>
     </tu>
     <tu>
@@ -38134,6 +39446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rapid Lighting On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>Rapid Lighting On</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rapidly launches snowballs</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -38274,6 +39594,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>阅读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reading properties: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>读取中: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ready to compile targetting .NET 4.5</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>请准备好编译[.NET 4.5 目标包]</seg>
       </tuv>
     </tu>
     <tu>
@@ -39046,6 +40382,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Releasing file handle for {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>释放文件句柄 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reload Forced</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>强制重新加载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reload Mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>重新加载模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reload Required</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>需要重新加载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reload browser</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>重新加载浏览器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove Forced Minimum Zoom: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>禁用强制最小缩放：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove Forced Minimum Zoom: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>禁用强制最小缩放：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removes wire</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -39090,6 +40482,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>需要鱼饵才能抓鱼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Requires {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>需要 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39202,6 +40602,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>激光眼纪念章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retry</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>重试</seg>
       </tuv>
     </tu>
     <tu>
@@ -40046,6 +41454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sandboxing: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>增容中: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sandfall</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -40294,6 +41710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save Enabled as New Mod Pack</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>将已启用的模组生成为新的整合包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save the game world.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -40502,6 +41926,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search by Author name</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按作者名称搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search by Mod name</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按模组名称搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seashell</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -40686,6 +42126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Server Mods:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>服务器模组:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Server Requires Password:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -40746,6 +42194,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>正在设置困难模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting up...</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>安装中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -41782,6 +43238,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show Mod Memory Estimates: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>显示模组内存估算: 关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Mod Memory Estimates: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>显示模组内存估算: 开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Server Console: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>显示服务器控制台: 关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Server Console: On</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>显示服务器控制台: 开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show all mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>显示全部模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show client side only mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只显示客户端的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show installed mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>显示已安装的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show me some gears!</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -41798,6 +43310,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show mods not installed and updates</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>显示未安装及可更新的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show no sync only mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只显示不同步的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show normal side only mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只显示共同端的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show only disabled mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只显示已禁用的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show only enabled mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只显示已启用的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show only updates</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只显示可更新的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show password.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -41810,6 +43370,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>显示房间旗帜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show server side only mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>只显示服务器的模组</seg>
       </tuv>
     </tu>
     <tu>
@@ -42018,6 +43586,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>寂静</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Silently Caught Exception:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>静默捕获异常:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42546,6 +44122,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>皮肤颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skip Loading Mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>跳过加载模组</seg>
       </tuv>
     </tu>
     <tu>
@@ -43934,6 +45518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some starting items couldn't fit in your inventory</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>部分起始物品无法正常放入背包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Something Evil is Watching You</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -43982,10 +45574,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sort by downloads ascending</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按下载量排序(L-H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort by downloads descending</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按下载量排序(H-L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort by popularity</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按人气程度排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort by recently changed</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按最近更改排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort by recently updated</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按最近更新排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sort inventory</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>将物品栏分类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort mod names alphabetically</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按名称排序(A-Z)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort mod names reverse-alphabetically</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>按名称排序(Z-A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45466,6 +47114,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>启动泰拉瑞亚新副本来加入！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start scripts have been updated and require tModLoader to be restarted.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>启动脚本已更新,需重新启动tModLoader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Starting Bag</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>起始包</seg>
       </tuv>
     </tu>
     <tu>
@@ -47150,6 +48814,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Synced Mods:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>已同步模组:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Syncing Mods</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>同步模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Syringe</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -47505,7 +49185,7 @@
         <seg>Teleports you to the position of the mouse</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>将你传送至老鼠的位置</seg>
+        <seg>将你传送至鼠标的位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -48078,6 +49758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank you for your support!</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>感谢您的支持!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That Red Hat of yours looks familiar...</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -48521,7 +50209,7 @@
         <seg>The Undertaker</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>送命枪</seg>
+        <seg>夺命枪</seg>
       </tuv>
     </tu>
     <tu>
@@ -48558,6 +50246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The effect file at {0} failed to load</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>在 {0} 的效果文件加载失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The eternia crystal rejects this area and pops away instantly, the Tavernkeep mentioned it should rest in a large flat open area...</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -48570,6 +50266,54 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>你首先需要了解的是我准备出售的特殊防御道具，但前提是你拥有些护卫奖章！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following mods are different since last time you played:</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>下列模组与上次使用此存档时启用的模组有所不同:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following mods are installed on the server but cannot be downloaded</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>下列模组已在服务器中安装,但无法下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following mods were not found on the Mod Browser: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>在模组浏览器中未找到下列模组: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following mods were not found: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>未找到下列模组: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The font file at {0} failed to load</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>在 {0} 的字体文件加载失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The game encountered a mod data problem for a world.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>游戏遇到一个关于地图的模组数据问题.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48610,6 +50354,54 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>火星人已被打败！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mod browser encountered an error.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组浏览器发生错误.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mod responsible is unknown and tModLoader must be restarted.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>该模组错误原因未知,必须重新启动tModLoader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mod(s) have been automatically disabled.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>该模组已被自动禁用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The modder has chosen to hide the code from tModReader.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>该模组的作者选择将源码隐藏在[tModReader]中.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The modder has not chosen to include their source code.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>该模组的作者未选择包含模组源码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mp3 sound file at {0} failed to load</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>在 {0} 的[mp3]音频文件加载失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -48750,10 +50542,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The texture file at {0} failed to load</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>在 {0} 的纹理文件加载失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The twins will fight for you</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>双子魔眼将为你而战</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wav sound file at {0} failed to load</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>在 {0} 的[vav]音频文件加载失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -48778,6 +50586,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>世界处于平衡状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {0} modpack failed to be read properly, it might be malformed.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>模组整合包 {0} 正常读取失败,它可能已损坏.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48810,6 +50626,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>原来有个炸弹就在这儿，但现在我似乎找不到了...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was a problem while trying to migrate Player files</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>尝试转移人物存档时发生错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was a problem, try again</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>出现问题,请重试</seg>
       </tuv>
     </tu>
     <tu>
@@ -48934,6 +50766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a server side mod</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>这是一个服务器的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a solid block!</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -48954,6 +50794,22 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>这不是有效的房屋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This mod originated from the Mod Browser</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>该模组来源于模组浏览器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This mod was built on beta version and can't be published</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>该模组生成于测试版本,不能发布</seg>
       </tuv>
     </tu>
     <tu>
@@ -50894,6 +52750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tutorial</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tuxedo Pants</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -50966,6 +52830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Two mods share the internal name {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>两个模组共享相同的内部名称 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type 'help' for a list of commands.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -50974,10 +52846,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type to search</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Typhoon</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>台风</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UFO</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>UFO</seg>
       </tuv>
     </tu>
     <tu>
@@ -51002,6 +52890,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>UI比例：{0}% ({1}%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UP</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>UP</seg>
       </tuv>
     </tu>
     <tu>
@@ -51358,6 +53254,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unloaded Item</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>卸载物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unloading: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>卸载中: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unlock one of the dungeon's large, mysterious chests with a special key.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -51422,6 +53334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unpublish</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>取消发布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unreal</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -51434,6 +53354,62 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>向上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update All</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>更新全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update List with Enabled</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>将已启用的模组更新至该列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update Scripts</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>更新脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update with dependencies</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>更新(附带依赖)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upgrade .csproj file</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>更新[.csproj]文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uploading: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>上传中: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -52142,6 +54118,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View List</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>查看列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View Mods in Mod Browser</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>在模组浏览器中查看</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Viking Helmet</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -52282,6 +54274,30 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>可见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit Website to Generate Passphrase</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>访问网站以生成密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit the Mod's Homepage for even more info</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>访问模组主页查看更多信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visual Studio</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>Visual Studio</seg>
       </tuv>
     </tu>
     <tu>
@@ -52913,7 +54929,7 @@
         <seg>Waves Quality: {0}</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>进攻波质量：{0}</seg>
+        <seg>水波质量：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -54702,6 +56718,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You cannot publish a Mod built on a Beta version of tModLoader</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>你无法发布生成于tModLoader测试版本的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot publish a Mod built on an old version of tModLoader</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>你无法发布生成于tModLoader旧版本的模组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You feel an evil presence watching you...</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -54858,6 +56890,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>你需要一个砧子才能充分锤炼金属锭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will need to change your settings or acquire the mods from the server owner.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>你需要更改设置或向该服务器的服主索要模组.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55166,6 +57206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>abc / ABC / !@#</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>abc / ABC / !@#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and increased life regeneration</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -55194,6 +57242,30 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>封禁&lt;player&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>because you have disabled automatic mod downloading</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>因为你已关闭[从服务器下载模组]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>because you only accept mods signed by the mod browser</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>因为你已开启[只从服务器下载带签名认证的模组]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>being eaten by cells</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>being eaten by cells</seg>
       </tuv>
     </tu>
     <tu>
@@ -55282,6 +57354,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>退出并不保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fps</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>fps</seg>
       </tuv>
     </tu>
     <tu>
@@ -55441,7 +57521,7 @@
         <seg>n</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>否</seg>
+        <seg>新</seg>
       </tuv>
     </tu>
     <tu>
@@ -55638,6 +57718,2390 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AnglerFish}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AnglerFish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AngryBones}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AngryBones}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AngryNimbus}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AngryNimbus}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AngryTrapper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AngryTrapper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AnomuraFungus}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.AnomuraFungus}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Antlion}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Antlion}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Arapaima}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Arapaima}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ArmoredSkeleton}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ArmoredSkeleton}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ArmoredViking}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ArmoredViking}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Bird}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Bird}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlackRecluse}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlackRecluse}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlackSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlackSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BloodCrawler}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BloodCrawler}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BloodFeeder}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BloodFeeder}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BloodJelly}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BloodJelly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BloodZombie}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BloodZombie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlueArmoredBones}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlueArmoredBones}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlueJellyfish}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlueJellyfish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlueSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BlueSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BoneLee}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BoneLee}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BoneSerpentHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BoneSerpentHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BrainScrambler}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.BrainScrambler}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Bunny}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Bunny}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Butcher}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Butcher}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CaveBat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CaveBat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ChaosElemental}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ChaosElemental}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Clinger}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Clinger}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Clown}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Clown}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CochinealBeetle}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CochinealBeetle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptBunny}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptBunny}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptGoldfish}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptGoldfish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptPenguin}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptPenguin}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Corruptor}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Corruptor}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Crab}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Crab}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Crawdad}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Crawdad}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CreatureFromTheDeep}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CreatureFromTheDeep}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Crimera}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Crimera}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Crimslime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Crimslime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CrimsonAxe}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CrimsonAxe}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CultistArcherBlue}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CultistArcherBlue}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CultistArcherWhite}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CultistArcherWhite}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CursedHammer}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CursedHammer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CursedSkull}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CursedSkull}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CyanBeetle}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.CyanBeetle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DarkCaster}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DarkCaster}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DarkMummy}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DarkMummy}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DeadlySphere}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DeadlySphere}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DemonEye}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DemonEye}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Demon}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Demon}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Derpling}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Derpling}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertBeast}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertBeast}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertDjinn}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertDjinn}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertGhoul}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertGhoul}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertLamiaDark}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertLamiaDark}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertScorpionWalk}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DesertScorpionWalk}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DevourerHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DevourerHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DiabolistRed}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DiabolistRed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DoctorBones}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DoctorBones}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DrManFly}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DrManFly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Drippler}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Drippler}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DuneSplicerHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DuneSplicerHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DungeonSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DungeonSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DungeonSpirit}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.DungeonSpirit}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.EaterofSouls}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.EaterofSouls}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ElfArcher}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ElfArcher}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ElfCopter}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ElfCopter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.EnchantedSword}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.EnchantedSword}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FireImp}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FireImp}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FloatyGross}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FloatyGross}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Flocko}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Flocko}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingAntlion}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingAntlion}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingFish}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingFish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingSnake}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingSnake}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Frankenstein}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Frankenstein}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Fritz}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Fritz}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FungiBulb}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FungiBulb}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FungoFish}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.FungoFish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Gastropod}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Gastropod}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Ghost}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Ghost}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantBat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantBat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantCursedSkull}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantCursedSkull}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantFlyingFox}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantFlyingFox}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantShelly}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantShelly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantTortoise}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantTortoise}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantWormHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GiantWormHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GigaZapper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GigaZapper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GingerbreadMan}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GingerbreadMan}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinArcher}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinArcher}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinPeon}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinPeon}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinScout}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinScout}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinSorcerer}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinSorcerer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinSummoner}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinSummoner}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinThief}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinThief}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinWarrior}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinWarrior}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Goldfish}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Goldfish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GraniteFlyer}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GraniteFlyer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GraniteGolem}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GraniteGolem}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GrayGrunt}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GrayGrunt}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GreekSkeleton}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GreekSkeleton}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GreenJellyfish}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GreenJellyfish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GreenSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.GreenSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Harpy}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Harpy}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Hellhound}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Hellhound}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Herpling}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Herpling}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.HoppinJack}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.HoppinJack}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Hornet}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Hornet}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceBat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceBat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceElemental}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceElemental}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceGolem}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceGolem}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceTortoise}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IceTortoise}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IchorSticker}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IchorSticker}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IcyMerman}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IcyMerman}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IlluminantBat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IlluminantBat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IlluminantSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.IlluminantSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.JungleBat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.JungleBat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.JungleCreeper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.JungleCreeper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.JungleSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.JungleSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Krampus}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Krampus}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.LacBeetle}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.LacBeetle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.LavaSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.LavaSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Lavabat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Lavabat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.LightMummy}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.LightMummy}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.LihzahrdCrawler}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.LihzahrdCrawler}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ManEater}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ManEater}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianDrone}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianDrone}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianEngineer}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianEngineer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianOfficer}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianOfficer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianTurret}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianTurret}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianWalker}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MartianWalker}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Medusa}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Medusa}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MeteorHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MeteorHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Mimic}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Mimic}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MisterStabby}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MisterStabby}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MotherSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MotherSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Mothron}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Mothron}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Moth}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Moth}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Mummy}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Mummy}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MushiLadybug}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.MushiLadybug}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaBeast}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaBeast}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaBrain}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaBrain}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaHeadcrab}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaHeadcrab}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaSoldier}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaSoldier}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Necromancer}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Necromancer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.None}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.None}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Nutcracker}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Nutcracker}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Nymph}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Nymph}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Paladin}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Paladin}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Parrot}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Parrot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Penguin}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Penguin}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PigronCorruption}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PigronCorruption}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PinkJellyfish}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PinkJellyfish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Pinky}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Pinky}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Piranha}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Piranha}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateCaptain}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateCaptain}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateCorsair}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateCorsair}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateCrossbower}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateCrossbower}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateDeadeye}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateDeadeye}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateDeckhand}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PirateDeckhand}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Pixie}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Pixie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Poltergeist}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Poltergeist}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PresentMimic}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PresentMimic}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Psycho}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Psycho}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PurpleSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.PurpleSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RaggedCaster}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RaggedCaster}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RainbowSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RainbowSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Raven}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Raven}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RayGunner}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RayGunner}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Reaper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Reaper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RedDevil}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RedDevil}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RedSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RedSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RuneWizard}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RuneWizard}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RustyArmoredBonesAxe}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.RustyArmoredBonesAxe}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Salamander}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Salamander}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandElemental}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandElemental}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandShark}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandShark}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandsharkCorrupt}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandsharkCorrupt}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandsharkCrimson}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandsharkCrimson}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandsharkHallow}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SandsharkHallow}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Scarecrow1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Scarecrow1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ScutlixRider}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ScutlixRider}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Scutlix}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Scutlix}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SeaSnail}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SeaSnail}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SeekerHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SeekerHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Shark}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Shark}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonArcher}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonArcher}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonCommando}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonCommando}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonSniper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonSniper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Skeleton}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Skeleton}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Slimer}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Slimer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Snatcher}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Snatcher}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SnowBalla}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SnowBalla}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SnowFlinx}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SnowFlinx}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SnowmanGangsta}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SnowmanGangsta}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarCorite}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarCorite}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarCrawltipedeHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarCrawltipedeHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarDrakomireRider}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarDrakomireRider}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarDrakomire}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarDrakomire}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarSolenian}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarSolenian}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarSroller}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SolarSroller}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SpikedIceSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SpikedIceSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SpikedJungleSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SpikedJungleSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Splinterling}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Splinterling}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Squid}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Squid}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustCellBig}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustCellBig}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustJellyfishBig}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustJellyfishBig}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustSoldier}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustSoldier}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustSpiderBig}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustSpiderBig}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustWormHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.StardustWormHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SwampThing}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.SwampThing}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.TacticalSkeleton}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.TacticalSkeleton}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.TheGroom}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.TheGroom}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ThePossessed}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ThePossessed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Tim}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Tim}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.TombCrawlerHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.TombCrawlerHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ToxicSludge}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ToxicSludge}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Tumbleweed}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Tumbleweed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.UmbrellaSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.UmbrellaSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.UndeadMiner}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.UndeadMiner}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.UndeadViking}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.UndeadViking}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Unicorn}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Unicorn}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VampireBat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VampireBat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexHornetQueen}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexHornetQueen}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexHornet}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexHornet}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexLarva}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexLarva}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexRifleman}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexRifleman}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexSoldier}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.VortexSoldier}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Vulture}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Vulture}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.WalkingAntlion}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.WalkingAntlion}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.WallCreeper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.WallCreeper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Werewolf}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Werewolf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Wolf}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Wolf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Wraith}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Wraith}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.WyvernHead}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.WyvernHead}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.YellowSlime}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.YellowSlime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Yeti}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Yeti}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieElf}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieElf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieEskimo}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieEskimo}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMushroom}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMushroom}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieRaincoat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieRaincoat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Zombie}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.BannerBonus}{$NPCName.Zombie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.Counterweight}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.Counterweight}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.DevItem}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.DevItem}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.FlightAndSlowfall}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.FlightAndSlowfall}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.MinorStats}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.MinorStats}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.PlaceableOnXmasTree}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.PlaceableOnXmasTree}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.RightClickToOpen}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.RightClickToOpen}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.SpecialCrafting}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.SpecialCrafting}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonItemTooltip.String}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$CommonItemTooltip.String}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemName.CrystalDresser}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemName.CrystalDresser}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemName.DynastyDresser}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemName.DynastyDresser}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemName.FrozenDresser}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemName.FrozenDresser}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemName.LivingWoodDresser}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemName.LivingWoodDresser}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemName.SkeletronBossBag}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemName.SkeletronBossBag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemTooltip.ArkhalisHat}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemTooltip.ArkhalisHat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemTooltip.DD2BallistraTowerT1Popper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemTooltip.DD2BallistraTowerT1Popper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemTooltip.DD2ExplosiveTrapT1Popper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemTooltip.DD2ExplosiveTrapT1Popper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemTooltip.DD2FlameburstTowerT1Popper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemTooltip.DD2FlameburstTowerT1Popper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemTooltip.DD2LightningAuraT1Popper}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemTooltip.DD2LightningAuraT1Popper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ItemTooltip.HuntressBuckler}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ItemTooltip.HuntressBuckler}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$LegacyMenu.168}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$LegacyMenu.168}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$LegacyMenu.169}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$LegacyMenu.169}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$LegacyMultiplayer.21}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$LegacyMultiplayer.21}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$LegacyMultiplayer.6}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$LegacyMultiplayer.6}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$LegacyMultiplayer.8}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$LegacyMultiplayer.8}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2DarkMageT1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2DarkMageT1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2DrakinT2}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2DrakinT2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2GoblinBomberT1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2GoblinBomberT1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2GoblinT1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2GoblinT1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2JavelinstT1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2JavelinstT1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2KoboldFlyerT2}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2KoboldFlyerT2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2KoboldWalkerT2}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2KoboldWalkerT2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2OgreT2}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2OgreT2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2SkeletonT1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2SkeletonT1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2WitherBeastT2}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2WitherBeastT2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$NPCName.DD2WyvernT1}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$NPCName.DD2WyvernT1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Burczyk}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Burczyk}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Craig}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Craig}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Crowno}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Crowno}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Duncan}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Duncan}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Garner}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Garner}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Kolf}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Kolf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Lazure}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Lazure}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Moosdijk}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Moosdijk}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Myhre}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Myhre}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Ness}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Ness}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Phelps}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Phelps}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$PaintingArtist.Wright}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$PaintingArtist.Wright}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$ProjectileName.DD2JavelinHostile}</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{$ProjectileName.DD2JavelinHostile}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} ({1}%) Fishing Power</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -55654,6 +60118,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} NPCs</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}个生物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} Total, {1} Enabled, {2} Disabled, {3} Missing</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>总共{0}个,已启用{1}个,已禁用{2}个,缺少{3}个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} World</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -55662,10 +60142,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} buffs</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}个Buff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} by {1}'s {2}.</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>{0}，凶器是{1}的{2}。</seg>
+        <seg>{0}，凶手是{1}的{2}。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55673,7 +60161,7 @@
         <seg>{0} by {1}.</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>{0}，凶器是{1}。</seg>
+        <seg>{0}，凶手是{1}。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55734,6 +60222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} days ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}天前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} detected nearby!</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -55762,6 +60258,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>{0}在{1}前死了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} downloads ({1} latest version)</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}次下载({1}次为最新版本)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55974,6 +60478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} hours ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}小时前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} is already on this server.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -55986,6 +60498,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>{0}正在连接...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} is installed</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>已安装 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -56070,6 +60590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} items</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}个物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} just became another dirt pile.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -56102,10 +60630,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} minutes ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}分钟前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} months ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}月前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} mounts</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}个坐骑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} mph</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0} mph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} needs to be swept up.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>{0}需要被清走了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} new mods.</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>新增{0}个模组.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56126,10 +60694,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} requires {2} version {1} or greater but version {3} is installed</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0} 需要 {1}+ 版本的 {2} ,但你安装的为 {3} 版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} second duration</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>{0}秒持续时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} seconds ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}秒前</seg>
       </tuv>
     </tu>
     <tu>
@@ -56150,6 +60734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} tiles</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}个物块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} tried to escape.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -56162,6 +60754,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>{0}试图在熔岩中游泳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} walls</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}个墙壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -56310,6 +60910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} years ago</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>{0}年前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0}% bait power</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -56322,6 +60930,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>{0}%渔力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}% increased damage</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>增加{0}%伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -56615,6 +61231,76 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">output.po</prop>
+      <prop type="path">tModLoader.tModLoader.MSBuild</prop>
+      <tuv lang="en-US">
+        <seg>Build</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Projectiles.ProjectileName.DualHookBlue</prop>
+      <tuv lang="en-US">
+        <seg>Hook</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>钩子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Projectiles.ProjectileName.DualHookRed</prop>
+      <tuv lang="en-US">
+        <seg>Hook</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>钩子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Projectiles.ProjectileName.Hook</prop>
+      <tuv lang="en-US">
+        <seg>Hook</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>钩子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Projectiles.ProjectileName.IlluminantHook</prop>
+      <tuv lang="en-US">
+        <seg>Hook</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>钩子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Projectiles.ProjectileName.TendonHook</prop>
+      <tuv lang="en-US">
+        <seg>Hook</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>钩子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Projectiles.ProjectileName.ThornHook</prop>
+      <tuv lang="en-US">
+        <seg>Hook</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>钩子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
       <prop type="path">Items.ItemTooltip.ManaRegenerationPotion</prop>
       <tuv lang="en-US">
         <seg>Increased mana regeneration</seg>
@@ -56635,12 +61321,12 @@
     </tu>
     <tu>
       <prop type="file">output.po</prop>
-      <prop type="path">Main.CLI.NewWorld_Command</prop>
+      <prop type="path">Main.CLI.ShortNo</prop>
       <tuv lang="en-US">
         <seg>n</seg>
       </tuv>
       <tuv lang="zh-CN">
-        <seg>新</seg>
+        <seg>否</seg>
       </tuv>
     </tu>
   </body>
