@@ -214,10 +214,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A blue lunar seal protected by powerful guardians.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085126Z" creationid="SGKoishi" creationdate="20200521T085126Z">
+        <seg>被强大的守护者捍卫的蓝月封印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A charge is used to damage enemies you touch</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T003114Z" creationid="SGKoishi" creationdate="20200520T003055Z">
         <seg>冲刺，对冲撞到的敌人造成伤害和爆炸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A glistening, dark material adorns the caverns here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044535Z" creationid="SGKoishi" creationdate="20200521T044535Z">
+        <seg>洞穴中装饰着闪闪发亮的深色材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A green lunar seal protected by powerful guardians.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085444Z" creationid="SGKoishi" creationdate="20200521T085444Z">
+        <seg>被强大的守护者捍卫的绿月封印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A hive mind of grotesque, biological infections which aim to consume all life whilst feeling absolutely nothing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T041648Z" creationid="SGKoishi" creationdate="20200521T041648Z">
+        <seg>怪异而被感染的思维，在这猩红的环境中试图抹平一切生灵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A persistent arctic jet stream left a part of the world permanently cold.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084844Z" creationid="SGKoishi" creationdate="20200521T084844Z">
+        <seg>极地的冰冷气流冲刷着这个世界，带来不融的冰雪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +278,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A purple lunar seal protected by powerful guardians.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084938Z" creationid="SGKoishi" creationdate="20200521T060443Z">
+        <seg>被强大的守护者捍卫的紫月封印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A ragtag army of crude, barbaric goblins set out to conquer and destroy.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044448Z" creationid="SGKoishi" creationdate="20200521T044448Z">
+        <seg>一群粗暴野蛮的哥布林出发远征的目的只有征服和破坏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A red lunar seal protected by powerful guardians.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084932Z" creationid="SGKoishi" creationdate="20200521T084932Z">
+        <seg>被强大的守护者捍卫的红月封印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A room in a house can have Wood Platforms as a floor or ceiling, but NPCs need at least one solid block to stand on.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203357Z" creationid="SGKoishi" creationdate="20200518T203357Z">
         <seg>平台可以用来作为房间地板和天花板，但是NPC必须要能找到一个实心的方块才能站稳！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A seafaring horde of armed bandits that lust after the riches of the land, collecting treasures and taking no prisoners.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T083814Z" creationid="SGKoishi" creationdate="20200521T083814Z">
+        <seg>一群来自海上的土匪见财起意，四处劫掠而不留活口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A smooth material wrought with pleasing veins of color coat the walls of this cavern.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T045812Z" creationid="SGKoishi" creationdate="20200521T045812Z">
+        <seg>一种光滑的材料，带有令人愉悦的彩色脉络，覆盖了这个洞穴的墙壁。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +438,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After 4:30am, the sun rises in the sky and the most dangerous of beings flee from the light.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T042158Z" creationid="SGKoishi" creationdate="20200521T042140Z">
+        <seg>在早上4:30后，太阳在天上升起，而危险的生物都正试图逃离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 7:30pm, the moon rises in the sky.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T060605Z" creationid="SGKoishi" creationdate="20200521T060605Z">
+        <seg>在晚上7:30后，月亮在天上升起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Afterall, what's a party without lots of guests?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T042523Z" creationid="SGKoishi" creationdate="20200519T042515Z">
@@ -374,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All manner of evil things, living and dead, roam the lands in the dark.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T060606Z" creationid="SGKoishi" creationdate="20200521T060606Z">
+        <seg>或生或死，邪恶的怪物在暗色的大地漫行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows fishing in lava</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222229Z" creationid="SGKoishi" creationdate="20200518T222229Z">
@@ -386,6 +490,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220805Z" creationid="SGKoishi" creationdate="20200518T220805Z">
         <seg>可以飞行和缓慢下落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An ancient civilization of monsters dwell here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T045814Z" creationid="SGKoishi" creationdate="20200521T045814Z">
+        <seg>有一个古老的文明居住在这里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An endless ocean stretched to the horizon awaits at the world's edge, filled with infinitely hungry creatures from the watery depths.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T061432Z" creationid="SGKoishi" creationdate="20200521T061432Z">
+        <seg>无尽的海洋延伸到地平线，世界的边缘，而深海之下潜藏着饥饿的巨口，随时准备吞噬误入其中的外来者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +546,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222930Z" creationid="SGKoishi" creationdate="20200518T222930Z">
         <seg>装备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As the Hallow responds to the encroaching evils, it inadvertently awakens things that have slept beneath the sands for centuries.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044736Z" creationid="SGKoishi" creationdate="20200521T044736Z">
+        <seg>在神圣应对迫近的邪恶之时，无意中唤醒了沉睡在沙漠之下数百年之物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,10 +654,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beware the angered clouds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084402Z" creationid="SGKoishi" creationdate="20200521T084402Z">
+        <seg>当心会动的云！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blizzard</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054722Z" creationid="SGKoishi" creationdate="20200521T054704Z">
+        <seg>暴雪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blocks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215252Z" creationid="SGKoishi" creationdate="20200518T215252Z">
         <seg>方块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blood Moon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054713Z" creationid="SGKoishi" creationdate="20200521T054713Z">
+        <seg>血月</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Christmas</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054717Z" creationid="SGKoishi" creationdate="20200521T054717Z">
+        <seg>圣诞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cleaning up dirt backgrounds</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234716Z" creationid="SGKoishi" creationdate="20200518T234716Z">
@@ -910,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cold ice infused with even colder Corruption results in bitterly-frozen terrors lurking beneath the treacherous icy caverns.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T041137Z" creationid="SGKoishi" creationdate="20200521T041137Z">
+        <seg>冰中混合着更冷的腐化，令人毛骨悚然的恐怖之物潜伏在诡异的冰之洞穴之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collect 3 of them to craft a Mana Crystal you can use to increase your Mana.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T225205Z" creationid="SGKoishi" creationdate="20200518T201149Z">
@@ -1018,6 +1186,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234543Z" creationid="SGKoishi" creationdate="20200518T234543Z">
         <seg>正在准备地狱地势</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures of evil and darkness spook the lands, killing everything in their path.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084229Z" creationid="SGKoishi" creationdate="20200521T084229Z">
+        <seg>黑暗与邪恶的怪物惊扰了大地，消灭能见到的任何生灵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures which normally thrive in water may roam the land and sky.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084335Z" creationid="SGKoishi" creationdate="20200521T084335Z">
+        <seg>平时在水中的小生物现在或许在地面或天空中漫行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1310,6 +1494,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Eclipse</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054728Z" creationid="SGKoishi" creationdate="20200521T054728Z">
+        <seg>日蚀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Endless dunes of sand reside here, scorched by the never-ending sun.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T042323Z" creationid="SGKoishi" creationdate="20200521T042323Z">
+        <seg>烈日烧灼着无边的沙丘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enemies aren't the only danger when exploring Underground.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080635Z" creationid="SGKoishi" creationdate="20200519T080635Z">
@@ -1336,8 +1536,8 @@
       <tuv lang="en-US">
         <seg>Explosive Traps recharge faster and oil enemies</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T235412Z" creationid="SGKoishi" creationdate="20200519T230714Z">
-        <seg>提升爆炸陷阱充能速度，并给敌人符加“油腻”状态</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T083441Z" creationid="SGKoishi" creationdate="20200519T230714Z">
+        <seg>提升爆炸陷阱哨卫充能速度，并给敌人符加“油腻”状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,10 +1558,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Familiar creatures of horror rapidly grip the lands this day, for no mere mortal can resist the evil of the blackened sun.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T042703Z" creationid="SGKoishi" creationdate="20200521T042703Z">
+        <seg>熟悉的生物在这个白天变得恐怖起来：没有谁能抵挡暗日的邪恶气息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Feeling up for the chill of winter?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034041Z" creationid="SGKoishi" creationdate="20200519T034041Z">
         <seg>感觉到冬天的寒冷？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Few things have adapted to survive in this environment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T042345Z" creationid="SGKoishi" creationdate="20200521T042345Z">
+        <seg>想在这种环境下生存，就必须做出适应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1666,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080508Z" creationid="SGKoishi" creationdate="20200519T080508Z">
         <seg>专注重点，抛开无关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For reasons beyond any meteorological explanation, slimy things are raining down from above by the buckets!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084657Z" creationid="SGKoishi" creationdate="20200521T084657Z">
+        <seg>由于超自然的原因，天空中正有一块块黏糊糊的东西掉下来！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Granite paves the way for progress in architectural fashion and durable monsters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044537Z" creationid="SGKoishi" creationdate="20200521T044537Z">
+        <seg>作为材料，花岗岩为时尚的建筑和厚实的怪物付出了一份力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grappling Hooks are invaluable tools for exploration.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203155Z" creationid="SGKoishi" creationdate="20200518T203155Z">
@@ -1790,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Halloween</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054732Z" creationid="SGKoishi" creationdate="20200521T054732Z">
+        <seg>万圣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hard</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222929Z" creationid="SGKoishi" creationdate="20200518T222929Z">
@@ -1878,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ho Ho Ho!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T043618Z" creationid="SGKoishi" creationdate="20200521T043618Z">
+        <seg>啊啊哈！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hold UP to boost faster!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220850Z" creationid="SGKoishi" creationdate="20200518T220850Z">
@@ -1890,6 +2138,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222923Z" creationid="SGKoishi" creationdate="20200518T222923Z">
         <seg>致伤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ice serves as a catalyst for the blessing, the Hallow's luminous source of power.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044905Z" creationid="SGKoishi" creationdate="20200521T044905Z">
+        <seg>冰可以作为祝福的催化剂，也就是神圣的力量之源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2486,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is rumored that there is a land far above the clouds, where ancient treasures are guarded by powerful winged creatures.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084534Z" creationid="SGKoishi" creationdate="20200521T084534Z">
+        <seg>有传言说，在遥远的云层之上有一块土地，远古宝藏被强大的飞行生物所保护着。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's a great time to explore!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T042146Z" creationid="SGKoishi" creationdate="20200521T042146Z">
+        <seg>正是探索好时机！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's worth it to explore your Oceans.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T042249Z" creationid="SGKoishi" creationdate="20200519T042249Z">
@@ -2352,8 +2624,8 @@
       <tuv lang="en-US">
         <seg>Lightning Aura can now crit and strikes faster</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T235945Z" creationid="SGKoishi" creationdate="20200519T235945Z">
-        <seg>提升闪电光环的攻击速度，且有几率造成暴击</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T083520Z" creationid="SGKoishi" creationdate="20200519T235945Z">
+        <seg>提升闪电光环哨卫的攻击速度，且有几率造成暴击</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2834,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201544Z" creationid="SGKoishi" creationdate="20200518T201544Z">
         <seg>注意脚下！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minions from Etheria - they may have mistakenly invaded this world, but they wish to rule it nonetheless!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T063744Z" creationid="SGKoishi" creationdate="20200521T063744Z">
+        <seg>虽然这些来自艾特尼亚的随从们虽然是不小心来到这里的，但这并不会影响他们的征服欲。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2782,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On this not-so-silent night, festive beings wish to shower the world with gifts of blood and carnage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T043732Z" creationid="SGKoishi" creationdate="20200521T043732Z">
+        <seg>在这个不太平静的夜里，许多节日客人准备带来一些鲜红的礼物...只是没那么喜庆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once enough of &lt;item name&gt; is researched, it will be available infinitely!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214527Z" creationid="SGKoishi" creationdate="20200518T214527Z">
@@ -2802,6 +3090,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222436Z" creationid="SGKoishi" creationdate="20200518T222436Z">
         <seg>One'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only the hardiest of beasts can survive this harsh region.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084908Z" creationid="SGKoishi" creationdate="20200521T084908Z">
+        <seg>只有最抗寒的野兽才能在这片区域生存。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,6 +3218,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222424Z" creationid="SGKoishi" creationdate="20200518T222424Z">
         <seg>Parker III'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Party</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054736Z" creationid="SGKoishi" creationdate="20200521T054736Z">
+        <seg>派对</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pumpkins grow wildly across the land, and certain creatures masquerade in unusual costumes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044837Z" creationid="SGKoishi" creationdate="20200521T044837Z">
+        <seg>南瓜在这片土地上疯狂生长，还有些奇装异服的家伙开始搞事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Purple Dye</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223144Z" creationid="SGKoishi" creationdate="20200518T223144Z">
@@ -3226,6 +3538,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222748Z" creationid="SGKoishi" creationdate="20200518T222748Z">
         <seg>迅捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054743Z" creationid="SGKoishi" creationdate="20200521T054743Z">
+        <seg>雨天</seg>
       </tuv>
     </tu>
     <tu>
@@ -3414,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sandstorm</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054747Z" creationid="SGKoishi" creationdate="20200521T054747Z">
+        <seg>沙暴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Santa Claus is real.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201241Z" creationid="SGKoishi" creationdate="20200518T201241Z">
@@ -3582,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Slime Rain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054757Z" creationid="SGKoishi" creationdate="20200521T054757Z">
+        <seg>史莱姆雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Slow</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222918Z" creationid="SGKoishi" creationdate="20200518T222918Z">
@@ -3658,6 +3994,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195705Z" creationid="SGKoishi" creationdate="20200518T195649Z">
         <seg>有一些矿石需要高级的镐子才能挖掘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some wield dark, evil magic.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044503Z" creationid="SGKoishi" creationdate="20200521T044503Z">
+        <seg>其中一部分甚至还会用一些偏门的黑魔法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Strong entities take advantage of this light.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044910Z" creationid="SGKoishi" creationdate="20200521T044910Z">
+        <seg>强大的生灵从圣光中汲取力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stylists always end up lost in them!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T035501Z" creationid="SGKoishi" creationdate="20200519T035501Z">
@@ -3886,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Technologically advanced beings from another world who want to eradicate all primitive life with their superior weaponry.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T045950Z" creationid="SGKoishi" creationdate="20200521T045950Z">
+        <seg>来自异界的先进科技和它们的主人试图使用优越的武器抹杀所有原始的生灵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Terrible</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222951Z" creationid="SGKoishi" creationdate="20200518T222951Z">
@@ -3926,10 +4286,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Corruption's hold in the sandstone weakened the seals that held an assortment of ancient magicked beings at bay.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T041407Z" creationid="SGKoishi" creationdate="20200521T041407Z">
+        <seg>砂岩中的腐化侵蚀着远古的封印，逐步唤起魔化之物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Crimson</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034254Z" creationid="SGKoishi" creationdate="20200520T034237Z">
         <seg>猩红之地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Crimson's bloody veins broke up the tombs that once held magicked beings, which are now released to commit mayhem.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T042115Z" creationid="SGKoishi" creationdate="20200521T042115Z">
+        <seg>猩红的脉络渗入了封印魔化之物的墓中，释放出一片混乱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4078,6 +4454,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The blessing swept through the ancient sands, awakening dangerous creatures once forgotten to time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T045030Z" creationid="SGKoishi" creationdate="20200521T045030Z">
+        <seg>神圣祝福穿过了尘封的沙漠，唤醒了被遗忘的危险生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The clandestine pools of water glittering in the desert sun are the only source of life in these desolate sands.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T060628Z" creationid="SGKoishi" creationdate="20200521T060628Z">
+        <seg>在这些荒凉的沙滩上，闪闪发光的秘密水池是唯一的生命之源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The fragments left behind from plummeting meteorites burn endlessly with astrological energy, some of which appears to be alive.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T050221Z" creationid="SGKoishi" creationdate="20200521T050221Z">
+        <seg>坠落的陨石碎块留下的星能似乎可以无尽的燃烧下去，仿佛有着生命一般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most vile, stone-cold entities emerge in the blinding chaos of bone-piercing icy wind and snow.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T060408Z" creationid="SGKoishi" creationdate="20200520T054911Z">
@@ -4086,10 +4486,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The sands of the desert rage like a stormy sea, with deadly creatures swimming among them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084516Z" creationid="SGKoishi" creationdate="20200521T084516Z">
+        <seg>大漠中的沙子如同肆虐的大海，里面游荡着致命的怪物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are Floating Islands in the sky.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194954Z" creationid="SGKoishi" creationdate="20200518T194954Z">
         <seg>天空中有浮空岛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's always time for a celebration!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T083648Z" creationid="SGKoishi" creationdate="20200521T083648Z">
+        <seg>总能找到理由！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These bitterly cold caverns of ice, saturated with the blood of Crimson, host a new variety of menacing frozen fiends.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T041729Z" creationid="SGKoishi" creationdate="20200521T041729Z">
+        <seg>这些冰冷的山洞里充满了猩红之血，居住着各种令人生畏的邪恶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4106,6 +4530,70 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200335Z" creationid="SGKoishi" creationdate="20200518T200335Z">
         <seg>你可以用各种材料制作，例如说木头、玻璃，甚至骨头都行！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thick trees, brambled vines, and relentless beasts of nature inhabit this dense canopy of lush growth, sprouted from seemingly limitless mud.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T045707Z" creationid="SGKoishi" creationdate="20200521T045707Z">
+        <seg>茂密的树木，带刺的藤蔓，无情的野兽和稀有的饰品藏在无边无尽的淤泥之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This day, for no particular reason, everyone decided to throw a party.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T083628Z" creationid="SGKoishi" creationdate="20200521T083628Z">
+        <seg>没有什么特殊原因，大家就是想开个排队！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is no mirage!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T060625Z" creationid="SGKoishi" creationdate="20200521T060625Z">
+        <seg>这可不是海市蜃楼！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This one representing a deep celestial void known as 'vortex'.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085605Z" creationid="SGKoishi" creationdate="20200521T085605Z">
+        <seg>它象征着？？般的星？，“漩涡”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This one representing a flaming celestial event known as 'solar flares'.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085411Z" creationid="SGKoishi" creationdate="20200521T085121Z">
+        <seg>它象征着耀光般的星闪，“日耀”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This one representing a glittering celestial remnant known as 'stardust'.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085439Z" creationid="SGKoishi" creationdate="20200521T085344Z">
+        <seg>它象征着？？般的星碎，“星尘”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This one representing a stormy celestial body known as 'nebula'.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T084941Z" creationid="SGKoishi" creationdate="20200521T060541Z">
+        <seg>它象征着云雾般的星体，“星云”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This organized family of cold-hearted killers wish to ice any who cross them, and they don't like snitches... capisce?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T043448Z" creationid="SGKoishi" creationdate="20200521T043448Z">
+        <seg>这一群高度组织的无情杀手要咔擦掉所有忤逆者... 和告密者。识得唔识得啊？</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,6 +4658,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T214830Z" creationid="SGKoishi" creationdate="20200518T214830Z">
         <seg>时间设置为晚上7:30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time to celebrate with twinkling lights, ugly sweaters, and a fat old fellow wearing a bright red suit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T041053Z" creationid="SGKoishi" creationdate="20200521T041053Z">
+        <seg>叮叮当，叮叮当，铃儿响叮当~</seg>
       </tuv>
     </tu>
     <tu>
@@ -4241,6 +4737,14 @@
         <seg>Trick or Treat!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T074218Z" creationid="SGKoishi" creationdate="20200519T074218Z">
+        <seg>不给糖就捣蛋！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trick or treat!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044847Z" creationid="SGKoishi" creationdate="20200521T044847Z">
         <seg>不给糖就捣蛋！</seg>
       </tuv>
     </tu>
@@ -4534,6 +5038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When areas of death become littered with graves, a thick mist of concentrated eeriness blankets the land.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T044718Z" creationid="SGKoishi" creationdate="20200521T044718Z">
+        <seg>遍布着坟墓的地方，一层恐怖的浓雾慢慢笼罩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When dealing with a Goblin Army, crowd control is key.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203542Z" creationid="SGKoishi" creationdate="20200518T203542Z">
@@ -4554,6 +5066,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T223154Z" creationid="SGKoishi" creationdate="20200519T223154Z">
         <seg>在NPC商店里，你可以按{InputTriggerUI_SellItem}出售背包里的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the Corruption grows through the desert, vile things long since buried in the sand awaken with pure malice.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T041158Z" creationid="SGKoishi" creationdate="20200521T041158Z">
+        <seg>在腐化传透沙漠之时，埋葬在沙中的邪恶之物带着纯粹的恶意醒来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4622,10 +5142,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Windy Day</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054802Z" creationid="SGKoishi" creationdate="20200521T054802Z">
+        <seg>风天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Winter is here!</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T062813Z" creationid="SGKoishi" creationdate="20200520T062813Z">
-        <seg>冬天来了！</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T071651Z" creationid="SGKoishi" creationdate="20200520T062813Z">
+        <seg>圣诞节！</seg>
       </tuv>
     </tu>
     <tu>
@@ -4634,6 +5162,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T074118Z" creationid="SGKoishi" creationdate="20200519T074109Z">
         <seg>启用“物块替换”后，你可以直接在方块上放置来替换，而不需要提前挖掘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the Crimson seeping through the sands, dark things long forgotten rise again to seek out and destroy life.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T041705Z" creationid="SGKoishi" creationdate="20200521T041705Z">
+        <seg>当猩红在沙漠上蔓延，早已被遗忘的黑暗之物又重新崛起，寻找并摧毁生灵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4898,6 +5434,86 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T001439Z" creationid="SGKoishi" creationdate="20200520T001439Z">
         <seg>拾取后可以获得增益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.AngryBones}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054809Z" creationid="SGKoishi" creationdate="20200521T054809Z">
+        <seg>{$CommonBestiaryFlavor.AngryBones}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.BlueArmoredBones}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054844Z" creationid="SGKoishi" creationdate="20200521T054844Z">
+        <seg>{$CommonBestiaryFlavor.BlueArmoredBones}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.DemonEye}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054622Z" creationid="SGKoishi" creationdate="20200521T054622Z">
+        <seg>{$CommonBestiaryFlavor.DemonEye}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.Dragonfly}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054616Z" creationid="SGKoishi" creationdate="20200521T054616Z">
+        <seg>{$CommonBestiaryFlavor.Dragonfly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.HellArmoredBones}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054603Z" creationid="SGKoishi" creationdate="20200521T054603Z">
+        <seg>{$CommonBestiaryFlavor.HellArmoredBones}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.Jellyfish}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054626Z" creationid="SGKoishi" creationdate="20200521T054626Z">
+        <seg>{$CommonBestiaryFlavor.Jellyfish}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.Mummy}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054859Z" creationid="SGKoishi" creationdate="20200521T054859Z">
+        <seg>{$CommonBestiaryFlavor.Mummy}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.Skeleton}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054610Z" creationid="SGKoishi" creationdate="20200521T054610Z">
+        <seg>{$CommonBestiaryFlavor.Skeleton}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.Slime}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054631Z" creationid="SGKoishi" creationdate="20200521T054631Z">
+        <seg>{$CommonBestiaryFlavor.Slime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{$CommonBestiaryFlavor.Zombie}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T054816Z" creationid="SGKoishi" creationdate="20200521T054816Z">
+        <seg>{$CommonBestiaryFlavor.Zombie}</seg>
       </tuv>
     </tu>
     <tu>
