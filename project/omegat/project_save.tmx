@@ -22,10 +22,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 defense</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034037Z" creationid="SGKoishi" creationdate="20200520T034037Z">
+        <seg>提升1防御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>10% increased damage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T002111Z" creationid="SGKoishi" creationdate="20200520T002111Z">
+        <seg>提升10%伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10% increased damage and crit chance,</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T230355Z" creationid="SGKoishi" creationdate="20200519T230355Z">
         <seg>提升10％伤害和暴击率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>10% increased magic critical strike chance</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034033Z" creationid="SGKoishi" creationdate="20200520T034033Z">
+        <seg>提升10%魔法暴击率</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>20% increased movement speed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T001647Z" creationid="SGKoishi" creationdate="20200520T001647Z">
+        <seg>提升20%移动速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>25% chance to not consume ammo</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T225342Z" creationid="SGKoishi" creationdate="20200519T225342Z">
@@ -138,6 +170,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T235815Z" creationid="SGKoishi" creationdate="20200519T235815Z">
         <seg>提升30%挖掘速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4 defense</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T002102Z" creationid="SGKoishi" creationdate="20200520T002102Z">
+        <seg>提升4防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A charge is used to damage enemies you touch</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T003114Z" creationid="SGKoishi" creationdate="20200520T003055Z">
+        <seg>冲刺，对冲撞到的敌人造成伤害和爆炸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A pet can be your best friend.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201206Z" creationid="SGKoishi" creationdate="20200518T201206Z">
@@ -202,6 +250,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221818Z" creationid="SGKoishi" creationdate="20200518T221818Z">
         <seg>为最后进洞所特制的球杆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A stardust guardian will protect you from nearby enemies</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T022003Z" creationid="SGKoishi" creationdate="20200520T022003Z">
+        <seg>星尘守卫保护你免受攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +430,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attackers also take double damage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T033826Z" creationid="SGKoishi" creationdate="20200520T031439Z">
+        <seg>双倍反弹所受的碰撞伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attacking generates a defensive barrier of titanium shards</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T023633Z" creationid="SGKoishi" creationdate="20200520T023633Z">
+        <seg>攻击时产生防御性的钛金碎片屏障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Awful</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222659Z" creationid="SGKoishi" creationdate="20200518T222659Z">
@@ -394,6 +466,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T235420Z" creationid="SGKoishi" creationdate="20200518T235401Z">
         <seg>正在备份地图文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ballista pierces more targets and panics when you take damage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T015634Z" creationid="SGKoishi" creationdate="20200520T015634Z">
+        <seg>提升弓弩炮台哨卫的穿透力，且在你受伤后提升攻击速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +674,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T221013Z" creationid="SGKoishi" creationdate="20200518T221013Z">
         <seg>可以使用高尔夫球杆打击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caverns</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034049Z" creationid="SGKoishi" creationdate="20200520T034049Z">
+        <seg>洞穴层</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,6 +942,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumed charges explode &amp; damage enemies</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T003120Z" creationid="SGKoishi" creationdate="20200520T003108Z">
+        <seg>冲刺会消耗护盾能量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corrupt Cave Desert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034213Z" creationid="SGKoishi" creationdate="20200520T034213Z">
+        <seg>腐化地下沙漠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corrupt Desert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034057Z" creationid="SGKoishi" creationdate="20200520T034057Z">
+        <seg>腐化沙漠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corrupt Ice</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034449Z" creationid="SGKoishi" creationdate="20200520T034449Z">
+        <seg>腐化雪地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Costa Moura'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222402Z" creationid="SGKoishi" creationdate="20200518T222402Z">
@@ -898,6 +1018,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234543Z" creationid="SGKoishi" creationdate="20200518T234543Z">
         <seg>正在准备地狱地势</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crimson Cave Desert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034303Z" creationid="SGKoishi" creationdate="20200520T034303Z">
+        <seg>猩红地下沙漠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crimson Desert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034244Z" creationid="SGKoishi" creationdate="20200520T034244Z">
+        <seg>猩红沙漠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crimson Ice</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034455Z" creationid="SGKoishi" creationdate="20200520T034455Z">
+        <seg>猩红雪地</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034305Z" creationid="SGKoishi" creationdate="20200520T034305Z">
+        <seg>沙漠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Did you know you can order your Summons to attack a specific target?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080409Z" creationid="SGKoishi" creationdate="20200519T080409Z">
@@ -1082,6 +1234,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T230434Z" creationid="SGKoishi" creationdate="20200519T230434Z">
         <seg>双击{0}在光标位置召唤远古风暴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double tap {0} to toggle stealth,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034002Z" creationid="SGKoishi" creationdate="20200520T033928Z">
+        <seg>双击{0}切换潜行状态，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1322,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213913Z" creationid="SGKoishi" creationdate="20200518T213913Z">
         <seg>生命之果生长在丛林里，可以在生命水晶之后继续提升生命力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every step is cold and dangerous.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T060338Z" creationid="SGKoishi" creationdate="20200520T060338Z">
+        <seg>在这里踏出的每一步都充满了危险和冷意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1434,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222940Z" creationid="SGKoishi" creationdate="20200518T222940Z">
         <seg>快速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flower petals will fall on your target for extra damage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T001754Z" creationid="SGKoishi" creationdate="20200520T001754Z">
+        <seg>攻击会附带高速的山铜花瓣，造成额外的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Granite</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034313Z" creationid="SGKoishi" creationdate="20200520T034313Z">
+        <seg>花岗岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grappling Hooks are invaluable tools for exploration.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203155Z" creationid="SGKoishi" creationdate="20200518T203155Z">
@@ -1462,10 +1646,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Graveyard</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034320Z" creationid="SGKoishi" creationdate="20200520T034320Z">
+        <seg>墓地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gravitating sand</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234706Z" creationid="SGKoishi" creationdate="20200518T234706Z">
         <seg>正在让沙自由坠落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Greatly enhances Ballista effectiveness</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T021816Z" creationid="SGKoishi" creationdate="20200520T021816Z">
+        <seg>大幅强化弓弩炮台哨卫</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1698,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T230335Z" creationid="SGKoishi" creationdate="20200519T230335Z">
         <seg>大幅提升生命恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Greatly increases life regeneration after striking an enemy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T002058Z" creationid="SGKoishi" creationdate="20200520T001943Z">
+        <seg>攻击敌人后大幅提升生命恢复速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1762,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222930Z" creationid="SGKoishi" creationdate="20200518T222930Z">
         <seg>守护</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hallow Cave Desert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034340Z" creationid="SGKoishi" creationdate="20200520T034340Z">
+        <seg>神圣地下沙漠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hallow Desert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034332Z" creationid="SGKoishi" creationdate="20200520T034332Z">
+        <seg>神圣沙漠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hallow Ice</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034500Z" creationid="SGKoishi" creationdate="20200520T034500Z">
+        <seg>神圣雪地</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +2118,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increases minion damage by 12%</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T003625Z" creationid="SGKoishi" creationdate="20200520T003625Z">
+        <seg>提升12%召唤伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increases minion damage by 25%</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T003632Z" creationid="SGKoishi" creationdate="20200520T003632Z">
+        <seg>提升25%召唤伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increases your max number of minions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T022019Z" creationid="SGKoishi" creationdate="20200520T022019Z">
+        <seg>提升召唤物数量上限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increases your max number of sentries</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T235919Z" creationid="SGKoishi" creationdate="20200519T235919Z">
@@ -2158,6 +2414,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Magic damage done to enemies heals the player with lowest health</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T003516Z" creationid="SGKoishi" creationdate="20200520T003307Z">
+        <seg>造成的魔法伤害会吸取生命，治疗血量最低的玩家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Magic damage done will hurt extra nearby enemies</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T003327Z" creationid="SGKoishi" creationdate="20200520T003251Z">
+        <seg>造成魔法伤害后会造成额外的溅射伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Magic damage has a chance to spawn buff boosters,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T001416Z" creationid="SGKoishi" creationdate="20200520T001416Z">
+        <seg>造成魔法伤害后有几率出现强化星云，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Major improvements to all stats</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T220929Z" creationid="SGKoishi" creationdate="20200518T220929Z">
@@ -2194,6 +2474,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222922Z" creationid="SGKoishi" creationdate="20200518T222922Z">
         <seg>狂躁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marble</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034349Z" creationid="SGKoishi" creationdate="20200520T034349Z">
+        <seg>大理石</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2546,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195909Z" creationid="SGKoishi" creationdate="20200518T195909Z">
         <seg>商人爱财。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meteor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034355Z" creationid="SGKoishi" creationdate="20200520T034355Z">
+        <seg>陨石</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nebula Pillar</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034402Z" creationid="SGKoishi" creationdate="20200520T034402Z">
+        <seg>星云柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New enemies, reduced visibility, and it can even be hard to move!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034140Z" creationid="SGKoishi" creationdate="20200519T034140Z">
@@ -2438,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not moving puts you in stealth,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T002147Z" creationid="SGKoishi" creationdate="20200520T002147Z">
+        <seg>原地不动会进入潜行状态，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not sure what to do next?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073555Z" creationid="SGKoishi" creationdate="20200519T073555Z">
@@ -2450,6 +2762,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T213633Z" creationid="SGKoishi" creationdate="20200518T213616Z">
         <seg>难道有什么能比用翅膀飞行更好的移动方式吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oasis</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034407Z" creationid="SGKoishi" creationdate="20200520T034407Z">
+        <seg>绿洲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ocean</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034412Z" creationid="SGKoishi" creationdate="20200520T034412Z">
+        <seg>海洋</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,10 +3278,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reduces damage taken by 15%</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T033848Z" creationid="SGKoishi" creationdate="20200520T033753Z">
+        <seg>降低15%所受伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reduces damage taken by 5%</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T230236Z" creationid="SGKoishi" creationdate="20200519T230236Z">
-        <seg>降低5%受到的伤害</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T033848Z" creationid="SGKoishi" creationdate="20200519T230236Z">
+        <seg>降低5%所受伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -3016,16 +3352,16 @@
       <tuv lang="en-US">
         <seg>Restores {0} life</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215855Z" creationid="SGKoishi" creationdate="20200518T215855Z">
-        <seg>恢复{0}点生命</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T001952Z" creationid="SGKoishi" creationdate="20200518T215855Z">
+        <seg>回复{0}点生命</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Restores {0} mana</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T225207Z" creationid="SGKoishi" creationdate="20200518T215909Z">
-        <seg>恢复{0}点法力</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T002001Z" creationid="SGKoishi" creationdate="20200518T215909Z">
+        <seg>回复{0}点法力</seg>
       </tuv>
     </tu>
     <tu>
@@ -3120,8 +3456,8 @@
       <tuv lang="en-US">
         <seg>Set oiled enemies on fire for extra damage</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T235501Z" creationid="SGKoishi" creationdate="20200519T230901Z">
-        <seg>提升“油腻”状态的敌人受到的火焰伤害</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T033902Z" creationid="SGKoishi" creationdate="20200519T230901Z">
+        <seg>提升“油腻”状态的敌人所受的火焰伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sky</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034422Z" creationid="SGKoishi" creationdate="20200520T034422Z">
+        <seg>天空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sky Blue Dye</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223142Z" creationid="SGKoishi" creationdate="20200518T223142Z">
@@ -3274,6 +3618,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223120Z" creationid="SGKoishi" creationdate="20200518T223120Z">
         <seg>平滑沙石墙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Snow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034437Z" creationid="SGKoishi" creationdate="20200520T034437Z">
+        <seg>雪地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Solar Pillar</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034507Z" creationid="SGKoishi" creationdate="20200520T034507Z">
+        <seg>日耀柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Solar shields charge over time to protect you &amp; let you dash</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T002910Z" creationid="SGKoishi" creationdate="20200520T002910Z">
+        <seg>日耀护盾随时间充能，并且可以</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spider Nest</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034515Z" creationid="SGKoishi" creationdate="20200520T034515Z">
+        <seg>蜘蛛巢穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spiked</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222936Z" creationid="SGKoishi" creationdate="20200518T222936Z">
@@ -3362,6 +3738,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T234931Z" creationid="SGKoishi" creationdate="20200518T234931Z">
         <seg>正在土上种植草坪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stardust Pillar</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034519Z" creationid="SGKoishi" creationdate="20200520T034519Z">
+        <seg>星尘柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -3446,6 +3830,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Surface</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034524Z" creationid="SGKoishi" creationdate="20200520T034524Z">
+        <seg>地表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Surface Mushroom</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034533Z" creationid="SGKoishi" creationdate="20200520T034533Z">
+        <seg>地表蘑菇地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>T. Myhre'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222410Z" creationid="SGKoishi" creationdate="20200518T222410Z">
@@ -3510,10 +3910,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Corruption</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034539Z" creationid="SGKoishi" creationdate="20200520T034539Z">
+        <seg>腐化之地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Corruption is full of chasms.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201523Z" creationid="SGKoishi" creationdate="20200518T201523Z">
         <seg>腐化之地充满了裂沟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Crimson</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034254Z" creationid="SGKoishi" creationdate="20200520T034237Z">
+        <seg>猩红之地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Dungeon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034547Z" creationid="SGKoishi" creationdate="20200520T034547Z">
+        <seg>地牢</seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Hallow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034328Z" creationid="SGKoishi" creationdate="20200520T034328Z">
+        <seg>神圣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Hallow is the only place where Corruption and Crimson cannot spread.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T201503Z" creationid="SGKoishi" creationdate="20200518T201503Z">
@@ -3546,6 +3978,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T202936Z" creationid="SGKoishi" creationdate="20200518T202936Z">
         <seg>你可以在装备栏的“住房”页面里调整NPC居住的房间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Jungle</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034346Z" creationid="SGKoishi" creationdate="20200520T034346Z">
+        <seg>丛林</seg>
       </tuv>
     </tu>
     <tu>
@@ -3590,10 +4030,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Temple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034552Z" creationid="SGKoishi" creationdate="20200520T034552Z">
+        <seg>神庙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Traveling Merchant never stays in one place for long, but he always brings different wares when he visits!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073503Z" creationid="SGKoishi" creationdate="20200519T073503Z">
         <seg>旅行商人永远不会在一个地方呆很长时间，但是每次总能带来不同的商品！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Underworld</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034558Z" creationid="SGKoishi" creationdate="20200520T034558Z">
+        <seg>地狱</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,10 +4078,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most vile, stone-cold entities emerge in the blinding chaos of bone-piercing icy wind and snow.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T060408Z" creationid="SGKoishi" creationdate="20200520T054911Z">
+        <seg>最为邪恶无情的怪物从这刺骨寒风暴雪的混乱中现出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are Floating Islands in the sky.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T194954Z" creationid="SGKoishi" creationdate="20200518T194954Z">
         <seg>天空中有浮空岛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These macabre creatures seek to add fresh meat to their dripping ranks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T062747Z" creationid="SGKoishi" creationdate="20200520T062747Z">
+        <seg>毛骨悚然的它们还希望为队伍中增添新的同伴。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3758,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tough monsters, abandoned cabins, and golden treasure adorn the dark, vacant caverns tunneled beneath the underground.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T062807Z" creationid="SGKoishi" creationdate="20200520T062807Z">
+        <seg>厚实的怪物，废弃的小屋和金色的宝藏装饰着地下地下黑暗又空旷的洞穴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trick or Treat!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T074218Z" creationid="SGKoishi" creationdate="20200519T074218Z">
@@ -3778,6 +4258,70 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T203212Z" creationid="SGKoishi" creationdate="20200518T203212Z">
         <seg>试着用钩子或宝石制作一个吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034606Z" creationid="SGKoishi" creationdate="20200520T034606Z">
+        <seg>地下层</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground Corruption</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034735Z" creationid="SGKoishi" creationdate="20200520T034613Z">
+        <seg>地下腐化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground Crimson</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034738Z" creationid="SGKoishi" creationdate="20200520T034620Z">
+        <seg>地下猩红</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground Desert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034742Z" creationid="SGKoishi" creationdate="20200520T034631Z">
+        <seg>沙漠地下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground Hallow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034744Z" creationid="SGKoishi" creationdate="20200520T034642Z">
+        <seg>地下神圣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground Jungle</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034746Z" creationid="SGKoishi" creationdate="20200520T034652Z">
+        <seg>丛林地下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground Mushroom</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034711Z" creationid="SGKoishi" creationdate="20200520T034711Z">
+        <seg>地下蘑菇地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground Snow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034732Z" creationid="SGKoishi" creationdate="20200520T034732Z">
+        <seg>雪地地下</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,6 +4418,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T223158Z" creationid="SGKoishi" creationdate="20200518T223158Z">
         <seg>蓝紫黑染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vortex Pillar</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T034806Z" creationid="SGKoishi" creationdate="20200520T034806Z">
+        <seg>漩涡柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,6 +4558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the moon rises drenched in blood, the dead rise with it!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T060542Z" creationid="SGKoishi" creationdate="20200520T060542Z">
+        <seg>当月亮在猩红中升起时，逝去之物也随之归来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While holding a Summoning Weapon, Right Click an enemy!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T080434Z" creationid="SGKoishi" creationdate="20200519T080434Z">
@@ -4058,6 +4618,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T215223Z" creationid="SGKoishi" creationdate="20200518T215223Z">
         <seg>风势：自然变化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Winter is here!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T062813Z" creationid="SGKoishi" creationdate="20200520T062813Z">
+        <seg>冬天来了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -4322,6 +4890,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034648Z" creationid="SGKoishi" creationdate="20200519T034637Z">
         <seg>当然，不是免费的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pick boosters up to get stacking buffs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T001439Z" creationid="SGKoishi" creationdate="20200520T001439Z">
+        <seg>拾取后可以获得增益。</seg>
       </tuv>
     </tu>
     <tu>

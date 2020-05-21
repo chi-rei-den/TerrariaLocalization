@@ -15,3 +15,6 @@ frostburn	霜焰
 Flameburst	爆裂魔焰
 Explosive Trap	爆炸陷阱
 Lightning Aura	闪电光环
+regeneration	恢复
+life regeneration	生命恢复
+Ballista	弓弩炮台
