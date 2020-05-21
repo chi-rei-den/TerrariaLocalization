@@ -23616,7 +23616,7 @@ msgid "Purple Moss"
 msgstr ""
 
 msgctxt "Items.ItemName.PurpleMucos"
-msgid "Purple Mucous"
+msgid "Purple Mucus"
 msgstr ""
 
 msgctxt "Items.ItemName.PurpleOozeDye"
@@ -28528,7 +28528,7 @@ msgid "Venus Magnum"
 msgstr ""
 
 msgctxt "Items.ItemName.Vertebrae"
-msgid "Vertebrae"
+msgid "Vertebra"
 msgstr ""
 
 msgctxt "Items.ItemName.VialofVenom"
@@ -54127,6 +54127,10 @@ msgctxt "Main.UI.WorldDescriptionSizeSmall"
 msgid "Ideal for a quick, single player experience."
 msgstr ""
 
+msgctxt "Main.UI.WorldGenEasterEgg_GeneratingBees"
+msgid "Generating bees"
+msgstr ""
+
 msgctxt "Main.UI.WorldSizeFormat"
 msgid "{0} World"
 msgstr ""
@@ -60884,7 +60888,7 @@ msgstr ""
 
 msgctxt "Town.AnglerSpecialText.Storm2"
 msgid ""
-"This one time at fishing camp, lighting struck the lake! Suddenly, all the "
+"This one time at fishing camp, lightning struck the lake! Suddenly, all the "
 "fish floated up to the surface for free!"
 msgstr ""
 
@@ -62554,6 +62558,10 @@ msgctxt "Town.DogNames_Labrador.Monroe"
 msgid "Monroe"
 msgstr ""
 
+msgctxt "Town.DogNames_Labrador.Pebbles"
+msgid "Pebbles"
+msgstr ""
+
 msgctxt "Town.DogNames_Labrador.Penny"
 msgid "Penny"
 msgstr ""
@@ -63326,7 +63334,7 @@ msgstr ""
 msgctxt "Town.GuideHelpTextSpecific.Help_1140"
 msgid ""
 "Your next step should be to explore the caverns of the Crimson. Find and "
-"destroy and Crimson Hearts that you find."
+"destroy any Crimson Hearts that you come across."
 msgstr ""
 
 msgctxt "Town.GuideHelpTextSpecific.Help_1141"
@@ -64067,7 +64075,7 @@ msgid "I'm good, now fetch me a fish!"
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Angler.DislikeBiome"
-msgid "Did you hit your head? {BiomeName} doesn't have fish! I hate that!"
+msgid "Did you hit your head? Duh, {BiomeName} doesn't have fish!"
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Angler.DislikeCrowded"
@@ -64185,8 +64193,8 @@ msgstr ""
 
 msgctxt "Town.TownNPCMood_BestiaryGirl.DislikeBiome"
 msgid ""
-"It's like, weird having instincts and all. {BiomeName} really makes me want "
-"to run away!"
+"It's like, weird having instincts and all, and {BiomeName} really makes me "
+"want to run away!"
 msgstr ""
 
 msgctxt "Town.TownNPCMood_BestiaryGirl.DislikeCrowded"
@@ -64267,7 +64275,7 @@ msgid "Grrawr... home! far FAR! CANNOT TRACK."
 msgstr ""
 
 msgctxt "Town.TownNPCMood_BestiaryGirlTransformed.HateBiome"
-msgid "Gughhh. {BiomeName}... I LOATHE. BAD SCENERY."
+msgid "Gughhh, {BiomeName}... I LOATHE. BAD SCENERY."
 msgstr ""
 
 msgctxt "Town.TownNPCMood_BestiaryGirlTransformed.HateCrowded"
@@ -64439,7 +64447,7 @@ msgid "I'm livin' the dream."
 msgstr ""
 
 msgctxt "Town.TownNPCMood_DD2Bartender.DislikeBiome"
-msgid "I'm not a fan of this {BiomeName} place, it's bitter."
+msgid "I'm not a fan of {BiomeName}, it's bitter."
 msgstr ""
 
 msgctxt "Town.TownNPCMood_DD2Bartender.DislikeCrowded"
@@ -64639,7 +64647,7 @@ msgid ""
 msgstr ""
 
 msgctxt "Town.TownNPCMood_DyeTrader.HateBiome"
-msgid "Gross, this {BiomeName} is draining the color from my palettes!"
+msgid "Gross, {BiomeName} is draining the color from my palettes!"
 msgstr ""
 
 msgctxt "Town.TownNPCMood_DyeTrader.HateCrowded"
@@ -65168,7 +65176,7 @@ msgid "Yarr. I be in ship shape!"
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Pirate.DislikeBiome"
-msgid "Argh! {BiomeName} be a bit cramped for me style, ye scurvy dog!"
+msgid "Argh, {BiomeName} be a bit cramped for me style, ye scurvy dog!"
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Pirate.DislikeCrowded"
@@ -65202,7 +65210,7 @@ msgid ""
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Pirate.LikeBiome"
-msgid "Hardy har har, matey! {BiomeName} is me true home!"
+msgid "Hardy har har, matey, {BiomeName} is me true home!"
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Pirate.LikeNPC"
@@ -65378,7 +65386,7 @@ msgid "I'm too far from my tools..."
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Stylist.HateBiome"
-msgid "This awful {BiomeName} is causing severe damage to my hair!"
+msgid "Ugh, {BiomeName} is causing severe damage to my hair!"
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Stylist.HateCrowded"
@@ -65518,7 +65526,7 @@ msgid ""
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Truffle.LikeBiome"
-msgid "I like {BiomeName}."
+msgid "I feel right at home, like I am one with {BiomeName} biome."
 msgstr ""
 
 msgctxt "Town.TownNPCMood_Truffle.LikeNPC"
