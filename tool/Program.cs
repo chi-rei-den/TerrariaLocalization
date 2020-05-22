@@ -245,7 +245,7 @@ namespace Chireiden.Terraria.Converter
             catalog.Add(new POSingularEntry(new POKey(source, contextId: context))
             {
                 Translation = translation,
-                Comments = new List<POComment>()
+                Comments = new List<POComment> { new POExtractedComment { Text = context } }
             });
         }
 
