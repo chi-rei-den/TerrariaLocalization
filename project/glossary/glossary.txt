@@ -18,3 +18,6 @@ Lightning Aura	闪电光环
 regeneration	恢复
 life regeneration	生命恢复
 Ballista	弓弩炮台
+Bleeding	流血
+Weakness	虚弱
+Broken Armor	破甲
