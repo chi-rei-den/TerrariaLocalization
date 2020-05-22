@@ -274,7 +274,8 @@
 		"HoverControlSettingIsClick": "Hover Controls: Click",
 		"HoverControlSettingIsHold": "Hover Controls: Hold",
 		"ToggleCreativeMenu": "Toggle Journey Powers",
-		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Error: This world has an invalid data!"
+		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Error: This world has an invalid data!",
+		"WorldGenEasterEgg_GeneratingBees": "Generating bees"
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Complete!",
