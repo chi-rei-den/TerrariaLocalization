@@ -40888,7 +40888,7 @@ msgstr ""
 #. Items.ItemTooltip.GolfPainting4
 msgctxt "Items.ItemTooltip.GolfPainting4"
 msgid ""
-"'Ceci n'est pas un bâton de golf.'\n"
+"'Ceci n'est pas un golf club.'\n"
 "{$PaintingArtist.Crowno}"
 msgstr ""
 
@@ -41665,7 +41665,7 @@ msgstr ""
 
 #. Items.ItemTooltip.InvisibilityPotion
 msgctxt "Items.ItemTooltip.InvisibilityPotion"
-msgid "Grants invisibility"
+msgid "Grants invisibility and lowers the spawn rate of enemies"
 msgstr ""
 
 #. Items.ItemTooltip.IronAnvil
@@ -43401,17 +43401,17 @@ msgstr ""
 
 #. Items.ItemTooltip.NinjaHood
 msgctxt "Items.ItemTooltip.NinjaHood"
-msgid "3% increased crit chance"
+msgid "3% increased critical strike chance"
 msgstr ""
 
 #. Items.ItemTooltip.NinjaPants
 msgctxt "Items.ItemTooltip.NinjaPants"
-msgid "3% increased crit chance"
+msgid "3% increased critical strike chance"
 msgstr ""
 
 #. Items.ItemTooltip.NinjaShirt
 msgctxt "Items.ItemTooltip.NinjaShirt"
-msgid "3% increased crit chance"
+msgid "3% increased critical strike chance"
 msgstr ""
 
 #. Items.ItemTooltip.NorthPole
@@ -46112,7 +46112,7 @@ msgstr ""
 
 #. Items.ItemTooltip.SuperStarCannon
 msgctxt "Items.ItemTooltip.SuperStarCannon"
-msgid "'Sure, Brain, but where are going to get enough stars for this?'"
+msgid "'Sure, Brain, but where are you going to get enough stars for this?'"
 msgstr ""
 
 #. Items.ItemTooltip.SuspiciousLookingEye
