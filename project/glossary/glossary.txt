@@ -1,13 +1,10 @@
-chest	宝箱
 Piggy Bank	猪猪储蓄罐
 crate	宝藏匣	钓鱼获得的可放置、可开启物（匣、板条箱）
 Etheria	艾特尼亚
-Torch	火把
 Accessory	饰品
 Inventory	背包
 Inventory Menu	背包界面
 mana usage	法力消耗
-mana	法力
 sentry	哨卫
 minion damage	召唤伤害
 melee damage	近战伤害
@@ -18,6 +15,6 @@ Lightning Aura	闪电光环
 regeneration	恢复
 life regeneration	生命恢复
 Ballista	弓弩炮台
-Bleeding	流血
-Weakness	虚弱
-Broken Armor	破甲
+Clentaminator	环境改造器
+cursed flame	咒火
+frostburn	霜焰
