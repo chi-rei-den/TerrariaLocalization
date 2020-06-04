@@ -9455,7 +9455,7 @@ msgstr ""
 
 #. Game.EmojiName.BossEmpressOfLight
 msgctxt "Game.EmojiName.BossEmpressOfLight"
-msgid "empressoflight"
+msgid "eol"
 msgstr ""
 
 #. Game.EmojiName.BossEoC
@@ -26066,6 +26066,11 @@ msgctxt "Items.ItemName.MusicBoxCorruption"
 msgid "Music Box (Corruption)"
 msgstr ""
 
+#. Items.ItemName.MusicBoxCredits
+msgctxt "Items.ItemName.MusicBoxCredits"
+msgid "Music Box (Journey's End)"
+msgstr ""
+
 #. Items.ItemName.MusicBoxCrimson
 msgctxt "Items.ItemName.MusicBoxCrimson"
 msgid "Music Box (Crimson)"
@@ -26393,7 +26398,7 @@ msgstr ""
 
 #. Items.ItemName.MusicBoxTitleAlt
 msgctxt "Items.ItemName.MusicBoxTitleAlt"
-msgid "Music Box (Journey's End)"
+msgid "Music Box (Journey's Beginning)"
 msgstr ""
 
 #. Items.ItemName.MusicBoxTowers
@@ -34776,6 +34781,11 @@ msgctxt "Items.ItemName.Torch"
 msgid "Torch"
 msgstr ""
 
+#. Items.ItemName.TorchGodsFavor
+msgctxt "Items.ItemName.TorchGodsFavor"
+msgid "Torch God's Favor"
+msgstr ""
+
 #. Items.ItemName.TortoiseBanner
 msgctxt "Items.ItemName.TortoiseBanner"
 msgid "Giant Tortoise Banner"
@@ -36914,7 +36924,7 @@ msgstr ""
 
 #. Items.ItemTooltip.AncientNecroHelmet
 msgctxt "Items.ItemTooltip.AncientNecroHelmet"
-msgid "5% increased ranged damage."
+msgid "5% increased ranged damage"
 msgstr ""
 
 #. Items.ItemTooltip.AncientShadowGreaves
@@ -40888,7 +40898,7 @@ msgstr ""
 #. Items.ItemTooltip.GolfPainting4
 msgctxt "Items.ItemTooltip.GolfPainting4"
 msgid ""
-"'Ceci n'est pas un golf club.'\n"
+"'Ceci n'est pas un club de golf.'\n"
 "{$PaintingArtist.Crowno}"
 msgstr ""
 
@@ -43324,17 +43334,17 @@ msgstr ""
 
 #. Items.ItemTooltip.NecroBreastplate
 msgctxt "Items.ItemTooltip.NecroBreastplate"
-msgid "5% increased ranged damage."
+msgid "5% increased ranged damage"
 msgstr ""
 
 #. Items.ItemTooltip.NecroGreaves
 msgctxt "Items.ItemTooltip.NecroGreaves"
-msgid "5% increased ranged damage."
+msgid "5% increased ranged damage"
 msgstr ""
 
 #. Items.ItemTooltip.NecroHelmet
 msgctxt "Items.ItemTooltip.NecroHelmet"
-msgid "5% increased ranged damage."
+msgid "5% increased ranged damage"
 msgstr ""
 
 #. Items.ItemTooltip.NecromancerBanner
@@ -46560,6 +46570,13 @@ msgstr ""
 #. Items.ItemTooltip.Torch
 msgctxt "Items.ItemTooltip.Torch"
 msgid "Provides light"
+msgstr ""
+
+#. Items.ItemTooltip.TorchGodsFavor
+msgctxt "Items.ItemTooltip.TorchGodsFavor"
+msgid ""
+"Unlocks an ability toggle to the left of the inventory\n"
+"When enabled normal torches change according to your biome"
 msgstr ""
 
 #. Items.ItemTooltip.TortoiseBanner
@@ -55928,7 +55945,7 @@ msgstr ""
 
 #. Main.DeathTextGeneric.Plead
 msgctxt "Main.DeathTextGeneric.Plead"
-msgid "{0}'s plead for death was answered"
+msgid "{0}'s plea for death was answered"
 msgstr ""
 
 #. Main.DeathTextGeneric.Removed
@@ -57095,6 +57112,16 @@ msgstr ""
 #. Main.GameUI.TimePastMorning
 msgctxt "Main.GameUI.TimePastMorning"
 msgid "PM"
+msgstr ""
+
+#. Main.GameUI.TorchTypeSwapperOff
+msgctxt "Main.GameUI.TorchTypeSwapperOff"
+msgid "Biome torch swap off"
+msgstr ""
+
+#. Main.GameUI.TorchTypeSwapperOn
+msgctxt "Main.GameUI.TorchTypeSwapperOn"
+msgid "Biome torch swap on"
 msgstr ""
 
 #. Main.GameUI.UIScale
@@ -62532,9 +62559,9 @@ msgctxt "Main.RandomWorldName_Noun.Anger"
 msgid "Anger"
 msgstr ""
 
-#. Main.RandomWorldName_Noun.Angry
-msgctxt "Main.RandomWorldName_Noun.Angry"
-msgid "Angry"
+#. Main.RandomWorldName_Noun.AngryGamers
+msgctxt "Main.RandomWorldName_Noun.AngryGamers"
+msgid "Angry Gamers"
 msgstr ""
 
 #. Main.RandomWorldName_Noun.Anguish
@@ -62645,6 +62672,11 @@ msgstr ""
 #. Main.RandomWorldName_Noun.BadJokes
 msgctxt "Main.RandomWorldName_Noun.BadJokes"
 msgid "Bad Jokes"
+msgstr ""
+
+#. Main.RandomWorldName_Noun.BadLuck
+msgctxt "Main.RandomWorldName_Noun.BadLuck"
+msgid "Bad Luck"
 msgstr ""
 
 #. Main.RandomWorldName_Noun.BadOmens
@@ -65935,6 +65967,11 @@ msgstr ""
 #. Main.RandomWorldName_Noun.the Tooth
 msgctxt "Main.RandomWorldName_Noun.the Tooth"
 msgid "the Tooth"
+msgstr ""
+
+#. Main.RandomWorldName_Noun.The Torch God
+msgctxt "Main.RandomWorldName_Noun.The Torch God"
+msgid "The Torch God"
 msgstr ""
 
 #. Main.RandomWorldName_Noun.the Tortoise
@@ -74429,6 +74466,11 @@ msgctxt "Projectiles.ProjectileName.TopazBolt"
 msgid "Topaz Bolt"
 msgstr ""
 
+#. Projectiles.ProjectileName.TorchGod
+msgctxt "Projectiles.ProjectileName.TorchGod"
+msgid "The Torch God"
+msgstr ""
+
 #. Projectiles.ProjectileName.TowerDamageBolt
 msgctxt "Projectiles.ProjectileName.TowerDamageBolt"
 msgid "Released Energy"
@@ -74541,7 +74583,7 @@ msgstr ""
 
 #. Projectiles.ProjectileName.VampireFrog
 msgctxt "Projectiles.ProjectileName.VampireFrog"
-msgid "VampireFrog"
+msgid "Vampire Frog"
 msgstr ""
 
 #. Projectiles.ProjectileName.VampireHeal
@@ -78986,9 +79028,7 @@ msgstr ""
 
 #. Town.SantaSpecialText.Party
 msgctxt "Town.SantaSpecialText.Party"
-msgid ""
-"Many say that parties give you the richest of memories. So buy something and "
-"make this memory rich!"
+msgid "Come now, you didn't think I only celebrated on Christmas did you?"
 msgstr ""
 
 #. Town.SantaSpecialText.Rain1
@@ -79676,7 +79716,8 @@ msgstr ""
 #. Town.TownNPCMood_Cyborg.DislikeCrowded
 msgctxt "Town.TownNPCMood_Cyborg.DislikeCrowded"
 msgid ""
-"Too many other lifeforms. I am experiencing negative emotional neural patterns"
+"Too many other lifeforms. I am experiencing negative emotional neural "
+"patterns."
 msgstr ""
 
 #. Town.TownNPCMood_Cyborg.DislikeNPC
@@ -80603,7 +80644,7 @@ msgstr ""
 
 #. Town.TownNPCMood_PartyGirl.HateCrowded
 msgctxt "Town.TownNPCMood_PartyGirl.HateCrowded"
-msgid "Wow, there's so many people here, I hate that it's not for a party"
+msgid "Wow, there's so many people here, I hate that it's not for a party."
 msgstr ""
 
 #. Town.TownNPCMood_PartyGirl.HateNPC
