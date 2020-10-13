@@ -43,6 +43,9 @@ namespace Chireiden.Terraria.Converter
                 case "repack":
                     RepackCommand(args);
                     return;
+                case "tojson":
+                    ToJsonCommand(args);
+                    return;
             }
         }
 
@@ -230,6 +233,51 @@ namespace Chireiden.Terraria.Converter
             }
 
             asm.Write(Path.Combine(Path.GetDirectoryName(filePath), "Terraria_locpatched.exe"));
+        }
+
+        private static void ToJsonCommand(string[] args)
+        {
+            if (args.Length < 2)
+            {
+                Usage();
+                return;
+            }
+
+            var locFiles = args.Skip(1).ToList();
+            var pofile = locFiles[0];
+
+            var list = new List<Element>();
+            var parseResult = new POParser().Parse(File.OpenRead(pofile));
+            var catalog = parseResult.Catalog;
+            foreach (var item in catalog)
+            {
+                var context = item.Key.ContextId.Split('.');
+                if (!string.IsNullOrWhiteSpace(catalog.GetTranslation(item.Key)))
+                {
+                    list.Add(new Element
+                    {
+                        FileName = context[0],
+                        NodeName = context[1],
+                        KeyName = context[2],
+                        Target = catalog.GetTranslation(item.Key)
+                    });
+                }
+            }
+
+            var result = new Dictionary<string, Dictionary<string, Dictionary<string, string>>>();
+            foreach (var fileGroup in list.GroupBy(i => i.FileName))
+            {
+                result[fileGroup.Key] = new Dictionary<string, Dictionary<string, string>>();
+                foreach (var node in fileGroup.GroupBy(i => i.NodeName))
+                {
+                    result[fileGroup.Key][node.Key] = node.ToDictionary(i => i.KeyName, i => i.Target);
+                }
+            }
+
+            foreach (var item in result)
+            {
+                File.WriteAllBytes(item.Key + ".json", Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(item.Value, Formatting.Indented)));
+            }
         }
     }
 
