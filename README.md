@@ -1,8 +1,8 @@
 # Terraria Translations
-Unofficial Terraria 1.4 Chinese localization.
+Unofficial Terraria 1.4.1 Chinese localization.
 * `tool`: Tool to extract localizations, and convert between gettext style (`.PO`) and Terraria style (`.json`) localization file.
-* `legacy`: Legacy Terraria 1.3 localization files.
-* `source`: Terraria 1.4 localization files.
+* `legacy`: Legacy Terraria 1.4 localization files.
+* `source`: Terraria 1.4.1 localization files.
 * `project`: OmegaT project
 
 ### Usage

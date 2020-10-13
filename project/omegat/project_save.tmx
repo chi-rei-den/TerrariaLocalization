@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bitter harvest rises in the dead of night.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200615T205206Z" creationid="SGKoishi" creationdate="20200615T205206Z">
+        <seg>苦涩渐渐在死寂之夜中升起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A blue lunar seal protected by powerful guardians.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085126Z" creationid="SGKoishi" creationdate="20200521T085126Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200523T034843Z" creationid="SGKoishi" creationdate="20200523T034824Z">
         <seg>一种在敌人靠近后爆炸的陷阱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A vision of a deadly omen wrought forth by a powerful cultist, often appears with reckless cosmic summoning of wyvern spirits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T210016Z" creationid="SGKoishi" creationdate="20200618T210016Z">
+        <seg>死兆之星缓缓升起，飞龙之魂渐渐显现。拜月教徒带着来自宇宙的力量来了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,8 +1664,8 @@
       <tuv lang="en-US">
         <seg>Attackers also take double damage</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T033826Z" creationid="SGKoishi" creationdate="20200520T031439Z">
-        <seg>双倍反弹所受的碰撞伤害</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200720T005408Z" creationid="SGKoishi" creationdate="20200520T031439Z">
+        <seg>受到碰撞伤害后使敌方受到双倍伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,8 +2504,8 @@
       <tuv lang="en-US">
         <seg>Consumed charges explode &amp; damage enemies</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T003120Z" creationid="SGKoishi" creationdate="20200520T003108Z">
-        <seg>冲刺会消耗护盾能量。</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200717T050402Z" creationid="SGKoishi" creationdate="20200520T003108Z">
+        <seg>受到伤害后会爆炸且对敌方造成伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2866,6 +2882,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T195336Z" creationid="SGKoishi" creationdate="20200518T195336Z">
         <seg>要是没有喝黑曜石皮肤药水，那可就要小心别掉进岩浆里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't get carried away!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T205431Z" creationid="SGKoishi" creationdate="20200618T205431Z">
+        <seg>可别被吹走啦！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3854,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He rewards random items, entertained by any misfortunes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T210252Z" creationid="SGKoishi" creationdate="20200618T210252Z">
+        <seg>他给的回报时好时坏，还整天对你的不幸比加以嘲笑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heat Distortion: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T200832Z" creationid="SGKoishi" creationdate="20200521T200832Z">
@@ -4250,6 +4282,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200523T004412Z" creationid="SGKoishi" creationdate="20200523T004412Z">
         <seg>与鞋钉合成后效果更佳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this deadly place, there lurk arachnids with many legs, many eyes, and a thirst for blood.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200615T205626Z" creationid="SGKoishi" creationdate="20200615T205626Z">
+        <seg>危险的巢穴里游荡着一些坏家伙。多腿。多眼。渴血。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5306,6 +5346,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222921Z" creationid="SGKoishi" creationdate="20200518T222921Z">
         <seg>凶险</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nature is throwing a party and wishes to sweep everybody - and everything - off their feet!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T205531Z" creationid="SGKoishi" creationdate="20200618T205531Z">
+        <seg>这大风就像是要把所有人和所有事物都从地面上吹走一样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6846,6 +6894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some angler fish are content to lie in wait for their prey, but these are perfectly happy to aggressively chase down an underwater meal.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T210753Z" creationid="SGKoishi" creationdate="20200618T210753Z">
+        <seg>这些凶猛的食肉鱼类常常休息着守株待兔，不过在也十分乐意主动猎取食物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some are even known to sell unique items to those that can find them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T073546Z" creationid="SGKoishi" creationdate="20200519T073546Z">
@@ -7478,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Angler, a rude fishing genius, sends others to find weird, rare fish.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T210102Z" creationid="SGKoishi" creationdate="20200618T210102Z">
+        <seg>渔夫，粗鲁的天才，常常差遣别人去寻找稀有的怪奇鱼类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Arms Dealer knows more about guns than anyone.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034158Z" creationid="SGKoishi" creationdate="20200519T034158Z">
@@ -7838,6 +7902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These crab-like creatures scuttle about in glowing mushroom fields, heavily infested by the fungal spores.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T211325Z" creationid="SGKoishi" creationdate="20200618T211325Z">
+        <seg>这些螃蟹般的生物在蘑菇地中爬行，其中已被无尽的真菌感染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These macabre creatures seek to add fresh meat to their dripping ranks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200520T062747Z" creationid="SGKoishi" creationdate="20200520T062747Z">
@@ -7854,6 +7926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They sow thick webs threaded with malice.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T205153Z" creationid="SGKoishi" creationdate="20200618T205153Z">
+        <seg>满网恶意接近你！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thick trees, brambled vines, and relentless beasts of nature inhabit this dense canopy of lush growth, sprouted from seemingly limitless mud.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T045707Z" creationid="SGKoishi" creationdate="20200521T045707Z">
@@ -7866,6 +7946,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T202414Z" creationid="SGKoishi" creationdate="20200521T202414Z">
         <seg>下弦月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This cloud in particular is especially livid!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T210906Z" creationid="SGKoishi" creationdate="20200618T210848Z">
+        <seg>而这朵云想必就是点睛之笔了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7888,24 +7976,24 @@
       <tuv lang="en-US">
         <seg>This one representing a deep celestial void known as 'vortex'.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085605Z" creationid="SGKoishi" creationdate="20200521T085605Z">
-        <seg>它象征着？？般的星？，“漩涡”</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T205422Z" creationid="SGKoishi" creationdate="20200521T085605Z">
+        <seg>它象征着无尽般的虚无，“漩涡”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>This one representing a flaming celestial event known as 'solar flares'.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085411Z" creationid="SGKoishi" creationdate="20200521T085121Z">
-        <seg>它象征着耀光般的星闪，“日耀”</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T205238Z" creationid="SGKoishi" creationdate="20200521T085121Z">
+        <seg>它象征着燃焰般的星闪，“日耀”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>This one representing a glittering celestial remnant known as 'stardust'.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T085439Z" creationid="SGKoishi" creationdate="20200521T085344Z">
-        <seg>它象征着？？般的星碎，“星尘”</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T205250Z" creationid="SGKoishi" creationdate="20200521T085344Z">
+        <seg>它象征着微光般的星碎，“星尘”</seg>
       </tuv>
     </tu>
     <tu>
@@ -8590,6 +8678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a Man Eater consumes enough human flesh, it undergoes a cocoon-like metamorphosis into a far deadlier form.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T211130Z" creationid="SGKoishi" creationdate="20200618T211130Z">
+        <seg>食人花长大后会变成更恐怖的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a Sandstorm hits, deserts can be very dangerous.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T034114Z" creationid="SGKoishi" creationdate="20200519T034114Z">
@@ -8618,6 +8714,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T200302Z" creationid="SGKoishi" creationdate="20200518T200302Z">
         <seg>随身带着一些平台对你探索应该有帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it rains, it pours.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200615T205341Z" creationid="SGKoishi" creationdate="20200615T205341Z">
+        <seg>不雨则已，一雨倾盆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When severe storms roll through, it is said that the skies are angry.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200618T210901Z" creationid="SGKoishi" creationdate="20200618T210821Z">
+        <seg>据传暴雨是上天的愤怒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9058,6 +9170,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200521T204339Z" creationid="SGKoishi" creationdate="20200521T204339Z">
         <seg>时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>increasing ranged ability and reducing chance for enemies to target you</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200615T205025Z" creationid="SGKoishi" creationdate="20200615T205025Z">
+        <seg>提升远程攻击属性，且敌人会优先攻击其他玩家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>increasing ranged ability and reducing chance for enemies to target you but slowing movement speed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200615T205046Z" creationid="SGKoishi" creationdate="20200615T205046Z">
+        <seg>提升远程攻击属性，且敌人会优先攻击其他玩家，但移动速度变慢</seg>
       </tuv>
     </tu>
     <tu>
@@ -12513,6 +12641,36 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T031651Z" creationid="SGKoishi" creationdate="20200519T031556Z">
         <seg>快速骑乘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.GameUI.Rain</prop>
+      <tuv lang="en-US">
+        <seg>Rain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200717T044110Z" creationid="SGKoishi" creationdate="20200717T044110Z">
+        <seg>雨落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Projectiles.ProjectileName.RainFriendly</prop>
+      <tuv lang="en-US">
+        <seg>Rain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200717T044243Z" creationid="SGKoishi" creationdate="20200717T044243Z">
+        <seg>落雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Projectiles.ProjectileName.RainNimbus</prop>
+      <tuv lang="en-US">
+        <seg>Rain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200717T044248Z" creationid="SGKoishi" creationdate="20200717T044248Z">
+        <seg>落雨</seg>
       </tuv>
     </tu>
     <tu>
