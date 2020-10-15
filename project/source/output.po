@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 #. Game.Announcement.HasArrived
 msgctxt "Game.Announcement.HasArrived"
 msgid "{0} has arrived!"
@@ -37406,7 +37411,7 @@ msgstr "{$CommonItemTooltip.BannerBonus}{$NPCName.Antlion}"
 msgctxt "Items.ItemTooltip.Apple"
 msgid ""
 "{$CommonItemTooltip.MinorStats}\n"
-"'An apple a day keeps Dr Bones away!'"
+"'An apple a day keeps Doctor Bones away!'"
 msgstr ""
 
 #. Items.ItemTooltip.AppleJuice
@@ -37527,7 +37532,7 @@ msgstr ""
 msgctxt "Items.ItemTooltip.ArcticDivingGear"
 msgid ""
 "Grants the ability to swim and greatly extends underwater breathing\n"
-"Provides xtra mobility on ice\n"
+"Provides extra mobility on ice\n"
 "Generates a very suble glow which becomes more vibrant underwater"
 msgstr ""
 "可游泳并大大延长水下呼吸时间\n"
@@ -57041,6 +57046,11 @@ msgctxt "Main.CreditsRollCategory_Graphics.9"
 msgid "Gabriel “Red Yoshi” Kiesshau"
 msgstr ""
 
+#. Main.CreditsRollCategory_Graphics.10
+msgctxt "Main.CreditsRollCategory_Graphics.10"
+msgid "Sarah “Waffles” Data"
+msgstr ""
+
 #. Main.CreditsRollCategory_Marketing.1
 msgctxt "Main.CreditsRollCategory_Marketing.1"
 msgid "Marketing"
@@ -57411,11 +57421,6 @@ msgctxt "Main.CreditsRollCategory_Playtesting.70"
 msgid "Yrimir"
 msgstr ""
 
-#. Main.CreditsRollCategory_Playtesting.71
-msgctxt "Main.CreditsRollCategory_Playtesting.71"
-msgid "Peter “Pedguin” Mann"
-msgstr ""
-
 #. Main.CreditsRollCategory_Programming.1
 msgctxt "Main.CreditsRollCategory_Programming.1"
 msgid "Programming"
@@ -57543,31 +57548,36 @@ msgstr ""
 
 #. Main.CreditsRollCategory_SpecialThanksto.6
 msgctxt "Main.CreditsRollCategory_SpecialThanksto.6"
-msgid "Brandon Reinhart"
+msgid "Peter “Pedguin” Mann"
 msgstr ""
 
 #. Main.CreditsRollCategory_SpecialThanksto.7
 msgctxt "Main.CreditsRollCategory_SpecialThanksto.7"
-msgid "Nathan “Rartrin” Stonestreet"
+msgid "Brandon Reinhart"
 msgstr ""
 
 #. Main.CreditsRollCategory_SpecialThanksto.8
 msgctxt "Main.CreditsRollCategory_SpecialThanksto.8"
-msgid "Lord Gaben"
+msgid "Nathan “Rartrin” Stonestreet"
 msgstr ""
 
 #. Main.CreditsRollCategory_SpecialThanksto.9
 msgctxt "Main.CreditsRollCategory_SpecialThanksto.9"
-msgid "Markus “Notch” Persson"
+msgid "Lord Gaben"
 msgstr ""
 
 #. Main.CreditsRollCategory_SpecialThanksto.10
 msgctxt "Main.CreditsRollCategory_SpecialThanksto.10"
-msgid "Augusta Butlin"
+msgid "Markus “Notch” Persson"
 msgstr ""
 
 #. Main.CreditsRollCategory_SpecialThanksto.11
 msgctxt "Main.CreditsRollCategory_SpecialThanksto.11"
+msgid "Augusta Butlin"
+msgstr ""
+
+#. Main.CreditsRollCategory_SpecialThanksto.12
+msgctxt "Main.CreditsRollCategory_SpecialThanksto.12"
 msgid "Ethan “flibitijibibo” Lee"
 msgstr ""
 
@@ -79717,7 +79727,7 @@ msgstr ""
 #. Town.DryadSpecialText.AfterDD2Tier1
 msgctxt "Town.DryadSpecialText.AfterDD2Tier1"
 msgid ""
-"When I was in Etheria, I felt so disconnected from {WorldName}. Its good to "
+"When I was in Etheria, I felt so disconnected from {WorldName}. It's good to "
 "be back."
 msgstr "身处埃特尼亚时，我感觉与{WorldName}断了联系。能回来真是太好了。"
 
@@ -79756,7 +79766,7 @@ msgstr ""
 
 #. Town.DryadSpecialText.Rain2
 msgctxt "Town.DryadSpecialText.Rain2"
-msgid "When it rains, many kind of fish acquire some mystical properties."
+msgid "When it rains, many kinds of fish acquire mystical properties."
 msgstr ""
 
 #. Town.DryadSpecialText.Storm1
@@ -80022,7 +80032,7 @@ msgstr ""
 msgctxt "Town.GolferChatter.Chatter_11"
 msgid ""
 "{Armsdealer} has mistaken my golf balls as ammo for his musket on several "
-"occassions."
+"occasions."
 msgstr ""
 
 #. Town.GolferChatter.Chatter_12
@@ -80228,7 +80238,7 @@ msgstr ""
 #. Town.GolferSpecialText.FirstMeeting2
 msgctxt "Town.GolferSpecialText.FirstMeeting2"
 msgid ""
-"Why, thank you! I been stuck in this sand pit for days. Good thing you can "
+"Why, thank you! I've been stuck in this sand pit for days. Good thing you can "
 "get water out of a cactus."
 msgstr ""
 
@@ -80919,7 +80929,7 @@ msgstr ""
 #. Town.NurseSpecialText.Windy2
 msgctxt "Town.NurseSpecialText.Windy2"
 msgid ""
-"I been chasing my medical instruments all day. This gale is keeping me fit!"
+"I've been chasing my medical instruments all day. This gale is keeping me fit!"
 msgstr ""
 
 #. Town.PainterSpecialText.Graveyard1
@@ -81872,7 +81882,7 @@ msgstr ""
 
 #. Town.TownNPCMood_BestiaryGirl.FarFromHome
 msgctxt "Town.TownNPCMood_BestiaryGirl.FarFromHome"
-msgid "I'm uh, like, a little homesick,? Plus I need to feed my pets!"
+msgid "I'm uh, like, a little homesick? Plus I need to feed my pets!"
 msgstr ""
 
 #. Town.TownNPCMood_BestiaryGirl.HateBiome
@@ -81984,6 +81994,11 @@ msgstr ""
 #. Town.TownNPCMood_BestiaryGirlTransformed.LikeNPC
 msgctxt "Town.TownNPCMood_BestiaryGirlTransformed.LikeNPC"
 msgid "{NPCName}. Rrr... GOOD. FEEL."
+msgstr ""
+
+#. Town.TownNPCMood_BestiaryGirlTransformed.LikeNPC_Princess
+msgctxt "Town.TownNPCMood_BestiaryGirlTransformed.LikeNPC_Princess"
+msgid "{NPCName}... PINK. GOOD."
 msgstr ""
 
 #. Town.TownNPCMood_BestiaryGirlTransformed.LoveBiome
@@ -83401,8 +83416,8 @@ msgctxt "Town.TownNPCMood_Princess.LoveNPC_Princess"
 msgid "{NPCName} is a little unsettling to be around, but terribly cute!"
 msgstr ""
 
-#. Town.TownNPCMood_Princess.LoveNPC_Santa
-msgctxt "Town.TownNPCMood_Princess.LoveNPC_Santa"
+#. Town.TownNPCMood_Princess.LoveNPC_SantaClaus
+msgctxt "Town.TownNPCMood_Princess.LoveNPC_SantaClaus"
 msgid "{NPCName} is so jolly, I just want to give him a gift!"
 msgstr ""
 
