@@ -83783,3 +83783,33 @@ msgstr ""
 msgctxt "Town.WizardSpecialText.Windy2"
 msgid "A blast of wind terrorizing our world? Did I do that?"
 msgstr ""
+
+#. Main.CreditsRollCategory_EndingNotes.2
+msgctxt "Main.CreditsRollCategory_EndingNotes.2"
+msgid "Placeholder"
+msgstr ""
+
+#. Main.CreditsRollCategory_EndingNotes.3
+msgctxt "Main.CreditsRollCategory_EndingNotes.3"
+msgid "Placeholder"
+msgstr ""
+
+#. Main.CreditsRollCategory_EndingNotes.4
+msgctxt "Main.CreditsRollCategory_EndingNotes.4"
+msgid "Placeholder"
+msgstr ""
+
+#. Main.CreditsRollCategory_EndingNotes.5
+msgctxt "Main.CreditsRollCategory_EndingNotes.5"
+msgid "Placeholder"
+msgstr ""
+
+#. Main.CreditsRollCategory_EndingNotes.6
+msgctxt "Main.CreditsRollCategory_EndingNotes.6"
+msgid "Placeholder"
+msgstr ""
+
+#. Main.CreditsRollCategory_EndingNotes.7
+msgctxt "Main.CreditsRollCategory_EndingNotes.7"
+msgid "Placeholder"
+msgstr ""

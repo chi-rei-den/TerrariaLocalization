@@ -5854,6 +5854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Placeholder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20201016T091356Z" creationid="SGKoishi" creationdate="20201016T091356Z">
+        <seg>所有参与非官方汉化的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Places blue wire</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200522T235902Z" creationid="SGKoishi" creationdate="20200522T235902Z">
@@ -7530,6 +7538,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200518T222951Z" creationid="SGKoishi" creationdate="20200518T222951Z">
         <seg>可怕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thank you for playing!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20201016T091329Z" creationid="SGKoishi" creationdate="20201016T091329Z">
+        <seg>感谢</seg>
       </tuv>
     </tu>
     <tu>
@@ -12581,6 +12597,56 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200519T015013Z" creationid="SGKoishi" creationdate="20200519T015013Z">
         <seg>开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.CreditsRollCategory_EndingNotes.3</prop>
+      <tuv lang="en-US">
+        <seg>Placeholder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20201016T091416Z" creationid="SGKoishi" creationdate="20201016T091416Z">
+        <seg>各位群友、吧友、网友们</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.CreditsRollCategory_EndingNotes.4</prop>
+      <tuv lang="en-US">
+        <seg>Placeholder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20201016T091505Z" creationid="SGKoishi" creationdate="20201016T091453Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.CreditsRollCategory_EndingNotes.5</prop>
+      <tuv lang="en-US">
+        <seg>Placeholder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20201016T091528Z" creationid="SGKoishi" creationdate="20201016T091528Z">
+        <seg>以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.CreditsRollCategory_EndingNotes.6</prop>
+      <tuv lang="en-US">
+        <seg>Placeholder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20201016T091535Z" creationid="SGKoishi" creationdate="20201016T091535Z">
+        <seg>正在游戏的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Main.CreditsRollCategory_EndingNotes.7</prop>
+      <tuv lang="en-US">
+        <seg>Placeholder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20201016T091543Z" creationid="SGKoishi" creationdate="20201016T091543Z">
+        <seg>你</seg>
       </tuv>
     </tu>
     <tu>
