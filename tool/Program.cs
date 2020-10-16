@@ -93,12 +93,19 @@ namespace Chireiden.Terraria.Converter
                 Encoding = "UTF-8"
             };
 
+            var emptyCatalog = new POCatalog
+            {
+                Encoding = "UTF-8"
+            };
+
             foreach (var item in list.OrderBy(i => i.FileName).ThenBy(i => i.NodeName).ThenBy(i => int.TryParse(i.KeyName, out var r) ? r.ToString("000000") : i.KeyName))
             {
                 catalog.AddEntry(item.Source, $"{item.FileName}.{item.NodeName}.{item.KeyName}", item.Target);
+                emptyCatalog.AddEntry(item.Source, $"{item.FileName}.{item.NodeName}.{item.KeyName}", "");
             }
 
             new POGenerator().Generate(File.OpenWrite("output.po"), catalog);
+            new POGenerator().Generate(File.OpenWrite("empty.po"), emptyCatalog);
         }
 
         private static void Load(List<Element> list, string path, bool source)
