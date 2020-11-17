@@ -241,8 +241,8 @@ msgstr ""
 #. Game.ArmorSetBonus.ObsidianOutlaw
 msgctxt "Game.ArmorSetBonus.ObsidianOutlaw"
 msgid ""
-"Increases whip range and speed by 50%,\n"
-"Increases minion damage by 25%"
+"Increases whip range by 50% and speed by 35%,\n"
+"Increases minion damage by 15%"
 msgstr ""
 
 #. Game.ArmorSetBonus.Orichalcum
@@ -1393,7 +1393,7 @@ msgstr ""
 msgctxt "Game.Bestiary_FlavorText.npc_BrainofCthulhu"
 msgid ""
 "A piece of Cthulhu torn asunder, this vile mastermind pulses with agony and "
-"aids the Crimson to an attempt to avenge its master."
+"aids the Crimson in an attempt to avenge its master."
 msgstr ""
 
 #. Game.Bestiary_FlavorText.npc_BrainScrambler
@@ -2596,7 +2596,7 @@ msgstr ""
 
 #. Game.Bestiary_FlavorText.npc_Grubby
 msgctxt "Game.Bestiary_FlavorText.npc_Grubby"
-msgid "Slimy, yet satisfying! Fish are especially attracted to these."
+msgid "Slimy, yet satisfying! Fish are somewhat attracted to these."
 msgstr ""
 
 #. Game.Bestiary_FlavorText.npc_Guide
@@ -3859,7 +3859,8 @@ msgstr ""
 
 #. Game.Bestiary_FlavorText.npc_Sluggy
 msgctxt "Game.Bestiary_FlavorText.npc_Sluggy"
-msgid "Slow and covered in a slick mucus. Fish are somewhat attracted to these."
+msgid ""
+"Slow and covered in a slick mucus. Fish are especially attracted to these."
 msgstr ""
 
 #. Game.Bestiary_FlavorText.npc_Snail
@@ -21889,7 +21890,7 @@ msgstr ""
 
 #. Items.ItemName.GypsyRobe
 msgctxt "Items.ItemName.GypsyRobe"
-msgid "Gypsy Robe"
+msgid "Mystic Robe"
 msgstr ""
 
 #. Items.ItemName.HadesDye
@@ -37481,7 +37482,7 @@ msgctxt "Items.ItemTooltip.ArcticDivingGear"
 msgid ""
 "Grants the ability to swim and greatly extends underwater breathing\n"
 "Provides extra mobility on ice\n"
-"Generates a very suble glow which becomes more vibrant underwater"
+"Generates a very subtle glow which becomes more vibrant underwater"
 msgstr ""
 
 #. Items.ItemTooltip.ArgonMoss
@@ -40409,7 +40410,7 @@ msgstr ""
 
 #. Items.ItemTooltip.FlinxFur
 msgctxt "Items.ItemTooltip.FlinxFur"
-msgid "'Its so FLUFFY!'"
+msgid "'It's so FLUFFY!'"
 msgstr ""
 
 #. Items.ItemTooltip.FlinxFurCoat
@@ -40462,7 +40463,7 @@ msgstr ""
 #. Items.ItemTooltip.FloretProtectorChestplate
 msgctxt "Items.ItemTooltip.FloretProtectorChestplate"
 msgid ""
-"'ID.170122 RSS ZEPHYRUS III - Yikescloud Space Industries'\n"
+"'ID.170122 - RSS ZEPHYRUS III'\n"
 "Concept by yikescloud"
 msgstr ""
 
@@ -42162,12 +42163,12 @@ msgctxt "Items.ItemTooltip.JellyfishDivingGear"
 msgid ""
 "Grants the ability to swim and greatly extends underwater "
 "breathing\n"
-"Generates a very suble glow which becomes more vibrant underwater"
+"Generates a very subtle glow which becomes more vibrant underwater"
 msgstr ""
 
 #. Items.ItemTooltip.JellyfishNecklace
 msgctxt "Items.ItemTooltip.JellyfishNecklace"
-msgid "Generates a very suble glow which becomes more vibrant underwater"
+msgid "Generates a very subtle glow which becomes more vibrant underwater"
 msgstr ""
 
 #. Items.ItemTooltip.Jetpack
@@ -43502,7 +43503,7 @@ msgstr ""
 msgctxt "Items.ItemTooltip.MonkPants"
 msgid ""
 "10% increased minion damage,\n"
-"15% increased critical strike chance and 20% increased movement speed"
+"15% increased melee critical strike chance and 20% increased movement speed"
 msgstr ""
 
 #. Items.ItemTooltip.MonkShirt
@@ -43922,7 +43923,7 @@ msgstr ""
 
 #. Items.ItemTooltip.ObsidianHelm
 msgctxt "Items.ItemTooltip.ObsidianHelm"
-msgid "Increases minion damage by 9%"
+msgid "Increases minion damage by 8%"
 msgstr ""
 
 #. Items.ItemTooltip.ObsidianHorseshoe
@@ -43941,7 +43942,7 @@ msgstr ""
 
 #. Items.ItemTooltip.ObsidianPants
 msgctxt "Items.ItemTooltip.ObsidianPants"
-msgid "Increases minion damage by 9%"
+msgid "Increases minion damage by 8%"
 msgstr ""
 
 #. Items.ItemTooltip.ObsidianRose
@@ -46288,21 +46289,20 @@ msgstr ""
 #. Items.ItemTooltip.SquireAltHead
 msgctxt "Items.ItemTooltip.SquireAltHead"
 msgid ""
-"Increases your max number of sentries by 2 and grants you 10% minion damage"
+"Increases your max number of sentries by 2 and increases minion and melee "
+"damage by 10%"
 msgstr ""
 
 #. Items.ItemTooltip.SquireAltPants
 msgctxt "Items.ItemTooltip.SquireAltPants"
 msgid ""
-"20% increased minion damage and melee critical strike chance and 20% movement "
+"20% increased minion damage and melee critical strike chance and movement "
 "speed"
 msgstr ""
 
 #. Items.ItemTooltip.SquireAltShirt
 msgctxt "Items.ItemTooltip.SquireAltShirt"
-msgid ""
-"30% increased minion damage, 10% increased melee damage and massively "
-"increased life regeneration"
+msgid "30% increased minion damage and massively increased life regeneration"
 msgstr ""
 
 #. Items.ItemTooltip.SquireGreatHelm
@@ -76965,7 +76965,7 @@ msgstr ""
 #. Town.ArmsDealerSpecialText.Rain1
 msgctxt "Town.ArmsDealerSpecialText.Rain1"
 msgid ""
-"Heard a rumor that some clouds are literally out to get you! Show 'em whose "
+"Heard a rumor that some clouds are literally out to get you! Show 'em who's "
 "boss with one of my guns!"
 msgstr ""
 
@@ -80500,8 +80500,8 @@ msgstr ""
 #. Town.PrincessChatter.Chatter_10
 msgctxt "Town.PrincessChatter.Chatter_10"
 msgid ""
-"The Pumpking can be rather two-faced, it seems. I shall not give up on peace "
-"with his spooky people!"
+"{?PumpkingDefeated}The Pumpking can be rather two-faced, it seems. I shall "
+"not give up on peace with his spooky people!"
 msgstr ""
 
 #. Town.PrincessChatter.Chatter_11
@@ -80512,8 +80512,8 @@ msgstr ""
 #. Town.PrincessChatter.Chatter_12
 msgctxt "Town.PrincessChatter.Chatter_12"
 msgid ""
-"I once met with a Duke on the beach. He looked kinda fishy, and lacked good "
-"manners!"
+"{?DukeFishronDefeated}I once met with a Duke on the beach. He looked kinda "
+"fishy, and lacked good manners!"
 msgstr ""
 
 #. Town.PrincessChatter.Chatter_13
@@ -80558,14 +80558,15 @@ msgstr ""
 
 #. Town.PrincessChatter.Chatter_3
 msgctxt "Town.PrincessChatter.Chatter_3"
-msgid "I tried to pet a lihzahrd once. Um... they didn't mind at all!"
+msgid ""
+"{?GolemDefeated}I tried to pet a lihzahrd once. Um... they didn't mind at all!"
 msgstr ""
 
 #. Town.PrincessChatter.Chatter_4
 msgctxt "Town.PrincessChatter.Chatter_4"
 msgid ""
-"I wish the martians were a little nicer. Our world doesn't normally get "
-"visitors!"
+"{?MartiansDefeated}I wish the martians were a little nicer. Our world doesn't "
+"normally get visitors!"
 msgstr ""
 
 #. Town.PrincessChatter.Chatter_5
@@ -80581,8 +80582,8 @@ msgstr ""
 #. Town.PrincessChatter.Chatter_7
 msgctxt "Town.PrincessChatter.Chatter_7"
 msgid ""
-"Worry not, concerned citizen! I am well aware of the organized crime problem "
-"among snowfolk."
+"{?FrostLegionDefeated}Worry not, concerned citizen! I am well aware of the "
+"organized crime problem among snowfolk."
 msgstr ""
 
 #. Town.PrincessChatter.Chatter_8
@@ -80595,8 +80596,8 @@ msgstr ""
 #. Town.PrincessChatter.Chatter_9
 msgctxt "Town.PrincessChatter.Chatter_9"
 msgid ""
-"Diplomacy did not work so well with the Ice Queen, I'm afraid. She's rather "
-"cold-hearted! He he!"
+"{?IceQueenDefeated}Diplomacy did not work so well with the Ice Queen, I'm "
+"afraid. She's rather cold-hearted! He he!"
 msgstr ""
 
 #. Town.PrincessNames.Ai
@@ -82738,7 +82739,7 @@ msgstr ""
 
 #. Town.TownNPCMood_Princess.LoveNPC_Golfer
 msgctxt "Town.TownNPCMood_Princess.LoveNPC_Golfer"
-msgid "{NPCName} passion for golf inspires me!"
+msgid "{NPCName}'s passion for golf inspires me!"
 msgstr ""
 
 #. Town.TownNPCMood_Princess.LoveNPC_Guide
@@ -83394,7 +83395,7 @@ msgstr ""
 
 #. Town.TownNPCMood_Wizard.LikeNPC_Princess
 msgctxt "Town.TownNPCMood_Wizard.LikeNPC_Princess"
-msgid "{NPCName}? We had a princess? Fascinating, she seems nice."
+msgid "{NPCName}? We have a princess? Fascinating, she seems nice."
 msgstr ""
 
 #. Town.TownNPCMood_Wizard.LoveBiome
