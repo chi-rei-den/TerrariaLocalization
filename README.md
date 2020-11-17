@@ -5,18 +5,18 @@ Unofficial Terraria 1.4.1 Chinese localization.
 * `source`: Terraria 1.4.1 localization files.
 * `project`: OmegaT project
 
-### Usage
+### Sample Usage
 1. Compile `Chireiden.Terraria.sln`
 
-2. Run `Chireiden.Terraria.Localization extract path\to\Terraria.exe sourceLanguage targetLanguage`  
+2. Run `Chireiden.Terraria.Localization asm Terraria.exe false [sourceLanguage] [targetLanguage] -- po <pathPO>`  
    (`de-DE`, `en-US`, `es-ES`, `fr-FR`, `it-IT`, `pl-PL`, `pt-BR`, `ru-RU`, `zh-Hans`)
   
-3. Copy the `output.po` created by converter to `project\source`
+3. Copy the po file created to `project\source`
 
 4. Open OmegaT, start your translation
 
-5. After you done translation, run `Chireiden.Terraria.Localization repack path\to\Terraria.exe targetLanguage path\to\po`  
+5. After you done translation, run `Chireiden.Terraria.Localization po <pathPO> -- asm <pathGameExecutable> <targetLanguage>`  
    (Target po file usually locate in `project\target`)
 
 6. Now you should get a patched version of Terraria!  
-It will be in the same folder as `Terraria.exe` but called `Terraria_locpatched.exe`
+It will be in the same folder as `<pathGameExecutable>` but called `Terraria_locpatched.exe`
