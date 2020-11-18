@@ -260,11 +260,9 @@ paket-files/
 __pycache__/
 *.pyc
 
-/project/project-level1.tmx
-/project/project-level2.tmx
-/project/project-omegat.tmx
-/project/omegat/*.bak
-/project/omegat/last_entry.properties
-/project/omegat/project_stats.txt
-/project/target
+*.tmx
+*.bak
+last_entry.properties
 launchSettings.json
+target
+project_stats.txt
