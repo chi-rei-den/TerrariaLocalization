@@ -1,8 +1,8 @@
 # Terraria Translations
-Unofficial Terraria 1.4.1 Chinese localization.
+Unofficial Terraria 1.4 Chinese localization.
 * `tool`: Tool to extract localizations, and convert between gettext style (`.PO`) and Terraria style (`.json`) localization file.
 * `legacy`: Legacy Terraria 1.4 localization files.
-* `source`: Terraria 1.4.1 localization files.
+* `source`: Terraria 1.4 localization files.
 * `project`: OmegaT project
 
 ### Sample Usage
@@ -11,7 +11,7 @@ Unofficial Terraria 1.4.1 Chinese localization.
 2. Run `Chireiden.Terraria.Localization asm Terraria.exe false [sourceLanguage] [targetLanguage] -- po <pathPO>`  
    (`de-DE`, `en-US`, `es-ES`, `fr-FR`, `it-IT`, `pl-PL`, `pt-BR`, `ru-RU`, `zh-Hans`)
   
-3. Copy the po file created to `project\source`
+3. Copy the po file created to `yourLanguage\project\source`
 
 4. Open OmegaT, start your translation
 

@@ -360,7 +360,7 @@
 		"Chatter_10": "我没有妈妈，也没有爸爸，但我有很多鱼！这就够了！",
 		"Chatter_2": "什…么？！难道你没看见我在收钓鱼线吗？？",
 		"Chatter_3": "我的鱼够了！我现在不需要你的帮助！",
-		"Chatter_4": "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！ ",
+		"Chatter_4": "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！",
 		"Chatter_5": "嘿！当心！我设了许多机关，用来实施史上最大的恶作剧！没人会发觉！你胆敢告诉任何人！",
 		"Chatter_6": "听听小孩的忠告吧，永远不要用舌头碰冰块！等一下，就当我没说，我就想看你这样做！",
 		"Chatter_7": "听说过会叫的鱼吗？！我没听说过，只是想知道你听说过没！",
@@ -469,8 +469,8 @@
 	},
 	"PrincessChatter": {
 		"Chatter_1": "我非常感谢你为这片土地所做的一切善事！谢谢！",
-		"Chatter_11": "粉红色是任何人都梦寐以求的最佳颜色！ ",
-		"Chatter_13": "呃...当公主有时候挺平淡的，所以我养成了许多爱好！ ",
+		"Chatter_11": "粉红色是任何人都梦寐以求的最佳颜色！",
+		"Chatter_13": "呃...当公主有时候挺平淡的，所以我养成了许多爱好！",
 		"Chatter_14": "我很高兴终于能环游世界，结交新朋友了！",
 		"Chatter_15": "尽管我很爱人民，但我特别害羞。我花了很长时间才打破僵局...",
 		"Chatter_16": "{?BloodMoon}河流泛起红波，所有人看上去都非常紧张不安，嗯...这真是个难熬的夜晚！",
@@ -806,7 +806,7 @@
 		"NoHome": "我没有地方可住！"
 	},
 	"TownNPCMood_PartyGirl": {
-		"LikeNPC_Princess": "是的，{NPCName}喜欢粉红色和闪闪发亮的东西，她超级喜欢派对！ ",
+		"LikeNPC_Princess": "是的，{NPCName}喜欢粉红色和闪闪发亮的东西，她超级喜欢派对！",
 		"Content": "我现在心情很好！",
 		"DislikeBiome": "呃，{BiomeName}太没劲了。你怎么会在这样的地方开派对呢？",
 		"DislikeCrowded": "我周围有很多人，但我不喜欢他们不参加派对！",
@@ -885,7 +885,7 @@
 		"LoveNPC_SantaClaus": "{NPCName}特别开心，我只是想送给他一份礼物！"
 	},
 	"TownNPCMood_SantaClaus": {
-		"LikeNPC_Princess": "嗬嗬嗬，{NPCName}无疑是头号乖乖仔。 ",
+		"LikeNPC_Princess": "嗬嗬嗬，{NPCName}无疑是头号乖乖仔。",
 		"Content": "我很快乐！",
 		"DislikeBiome": "我不喜欢{BiomeName}。",
 		"DislikeCrowded": "在有精灵的情况下，我更喜欢独自行动。我不喜欢一切干扰！",
@@ -970,7 +970,7 @@
 		"NoHome": "我需要一个让我有安全感和归属感的地方。"
 	},
 	"TownNPCMood_WitchDoctor": {
-		"LikeNPC_Princess": "{NPCName}对我的人很好。我非常感谢。 ",
+		"LikeNPC_Princess": "{NPCName}对我的人很好。我非常感谢。",
 		"Content": "我简直太满意了。",
 		"DislikeBiome": "{BiomeName}的魔法充满压迫，而且不纯洁，我的心和灵魂都被激怒了。",
 		"DislikeCrowded": "周围出现了这么多人，扰乱了我的魔法和正常生活。",
@@ -1266,7 +1266,7 @@
 		"Aurora": "奥罗拉",
 		"Dotty": "多蒂",
 		"Firebug": "纵火犯",
-		"Lucky": "乐奇",
+		"Lucky": "幸运",
 		"Marshall": "马歇尔",
 		"Mizore": "米若蕾",
 		"Polka": "波尔卡",
@@ -1288,7 +1288,7 @@
 		"Miska": "米斯卡",
 		"Rosalie": "罗莎莉",
 		"Sasha": "萨莎",
-		"Sky": "斯凯",
+		"Sky": "天空",
 		"Snowdog": "雪狗狗",
 		"Sven": "斯文",
 		"Toya": "托亚",
@@ -1303,7 +1303,7 @@
 		"Daisy": "黛西",
 		"John": "约翰",
 		"Kittie": "基蒂",
-		"Lucky": "乐奇",
+		"Lucky": "幸运",
 		"Mike": "迈克",
 		"Monroe": "门罗",
 		"Pebbles": "卵石",

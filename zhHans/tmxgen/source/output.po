@@ -274,8 +274,8 @@ msgid ""
 "Increases whip range by 50% and speed by 35%,\n"
 "Increases minion damage by 15%"
 msgstr ""
-"鞭子的范围和速度增加50%，\n"
-"仆从伤害增加25%"
+"鞭子的范围增加50%，速度提高35%，\n"
+"仆从伤害增加15%"
 
 #. Game.ArmorSetBonus.Orichalcum
 msgctxt "Game.ArmorSetBonus.Orichalcum"
@@ -729,7 +729,7 @@ msgctxt "Game.Bestiary_BiomeText.biome_Eclipse"
 msgid ""
 "Familiar creatures of horror rapidly grip the lands this day, for no mere "
 "mortal can resist the evil of the blackened sun. "
-msgstr "这一天，常见的恐怖生物迅速占领大地，因为没有凡灵能抵挡住日食带来的邪恶力量。 "
+msgstr "这一天，常见的恐怖生物迅速占领大地，因为没有凡灵能抵挡住日食带来的邪恶力量。"
 
 #. Game.Bestiary_BiomeText.biome_FrostLegion
 msgctxt "Game.Bestiary_BiomeText.biome_FrostLegion"
@@ -743,7 +743,7 @@ msgctxt "Game.Bestiary_BiomeText.biome_FrostMoon"
 msgid ""
 "Ho Ho Ho! On this not-so-silent night, festive beings wish to shower the "
 "world with gifts of blood and carnage. "
-msgstr "嚯嚯嚯！在这个不那么寂静的夜晚，喜庆生物希望掀起一场血腥屠杀。 "
+msgstr "嚯嚯嚯！在这个不那么寂静的夜晚，喜庆生物希望掀起一场血腥屠杀。"
 
 #. Game.Bestiary_BiomeText.biome_Goblins
 msgctxt "Game.Bestiary_BiomeText.biome_Goblins"
@@ -1163,7 +1163,7 @@ msgctxt "Game.Bestiary_FlavorText.npc_AnomuraFungus"
 msgid ""
 "These crab-like creatures scuttle about in glowing mushroom fields, heavily "
 "infested by the fungal spores. "
-msgstr "这些形似螃蟹的生物在发光的蘑菇地里跑来跑去，滋生了大量真菌孢子。 "
+msgstr "这些形似螃蟹的生物在发光的蘑菇地里跑来跑去，滋生了大量真菌孢子。"
 
 #. Game.Bestiary_FlavorText.npc_Antlion
 msgctxt "Game.Bestiary_FlavorText.npc_Antlion"
@@ -1230,7 +1230,7 @@ msgctxt "Game.Bestiary_FlavorText.npc_BabySlime"
 msgid ""
 "Clinging tightly to their parents and rarely seen, these miniature slimes "
 "will swarm anyone who harms their mother. "
-msgstr "这些小史莱姆会紧紧黏住母体，很少看到它们单独行动，一旦它们的母体受到伤害，它们便会围攻对方。 "
+msgstr "这些小史莱姆会紧紧黏住母体，很少看到它们单独行动，一旦它们的母体受到伤害，它们便会围攻对方。"
 
 #. Game.Bestiary_FlavorText.npc_BaldZombie
 msgctxt "Game.Bestiary_FlavorText.npc_BaldZombie"
@@ -2094,7 +2094,7 @@ msgctxt "Game.Bestiary_FlavorText.npc_ElfCopter"
 msgid ""
 "The elves aren't just flying toy helicopters, these are fully combat ready. "
 "All that inventing finally paid off! "
-msgstr "这些精灵不仅仅是会飞的玩具直升机，它们已经做好了战斗准备。所有的发明终于有了回报！ "
+msgstr "这些精灵不仅仅是会飞的玩具直升机，它们已经做好了战斗准备。所有的发明终于有了回报！"
 
 #. Game.Bestiary_FlavorText.npc_EmpressButterfly
 msgctxt "Game.Bestiary_FlavorText.npc_EmpressButterfly"
@@ -2807,7 +2807,7 @@ msgctxt "Game.Bestiary_FlavorText.npc_IceTortoise"
 msgid ""
 "Like their jungle cousins, ice tortoises are an unexpectedly serious threat, "
 "possessing surprising speed and mobility. "
-msgstr "冰雪陆龟和它们的近亲丛林陆龟一样，也是一种意想不到的严重威胁，拥有惊人的速度和移动能力。 "
+msgstr "冰雪陆龟和它们的近亲丛林陆龟一样，也是一种意想不到的严重威胁，拥有惊人的速度和移动能力。"
 
 #. Game.Bestiary_FlavorText.npc_IchorSticker
 msgctxt "Game.Bestiary_FlavorText.npc_IchorSticker"
@@ -3243,7 +3243,7 @@ msgstr "{$CommonBestiaryFlavor.Dragonfly}"
 msgctxt "Game.Bestiary_FlavorText.npc_Owl"
 msgid ""
 "A large, wise predatory bird which hunts nocturnally from the tree tops. "
-msgstr "一种聪明的大型食肉鸟，夜间从树顶捕食。 "
+msgstr "一种聪明的大型食肉鸟，夜间从树顶捕食。"
 
 #. Game.Bestiary_FlavorText.npc_Painter
 msgctxt "Game.Bestiary_FlavorText.npc_Painter"
@@ -3740,7 +3740,7 @@ msgstr "栖息在沿海地区的大鸟。小心粪便！"
 #. Game.Bestiary_FlavorText.npc_Seahorse
 msgctxt "Game.Bestiary_FlavorText.npc_Seahorse"
 msgid "A gentle critter which swims harmlessly in the ocean depths. "
-msgstr "一种温和的小动物，毫无恶意地畅游在深海中。 "
+msgstr "一种温和的小动物，毫无恶意地畅游在深海中。"
 
 #. Game.Bestiary_FlavorText.npc_SeaSnail
 msgctxt "Game.Bestiary_FlavorText.npc_SeaSnail"
@@ -4047,7 +4047,7 @@ msgstr "一种长有触角的海洋生物，在遇到威胁时会喷出浓稠的
 msgctxt "Game.Bestiary_FlavorText.npc_Squirrel"
 msgid ""
 "Fast moving and erratic woodland creatures with greyish-brown fur. Got nuts? "
-msgstr "快速移动和居无定所的林地生物，长有灰褐色的毛。有坚果吗？ "
+msgstr "快速移动和居无定所的林地生物，长有灰褐色的毛。有坚果吗？"
 
 #. Game.Bestiary_FlavorText.npc_SquirrelGold
 msgctxt "Game.Bestiary_FlavorText.npc_SquirrelGold"
@@ -4410,7 +4410,7 @@ msgctxt "Game.Bestiary_FlavorText.npc_WindyBalloon"
 msgid ""
 "Some enterprising slimes ride wind currents with balloons in an effort to "
 "find food. Pop their balloons to bring them back down to earth. "
-msgstr "有些大胆的史莱姆通过依附于气球升向了空中，以求寻找食物。击破气球就能把它们带回地面。 "
+msgstr "有些大胆的史莱姆通过依附于气球升向了空中，以求寻找食物。击破气球就能把它们带回地面。"
 
 #. Game.Bestiary_FlavorText.npc_WitchDoctor
 msgctxt "Game.Bestiary_FlavorText.npc_WitchDoctor"
@@ -5611,7 +5611,7 @@ msgstr "魔力再生增加"
 #. Game.BuffDescription.ManaSickness
 msgctxt "Game.BuffDescription.ManaSickness"
 msgid "Magic damage reduced by "
-msgstr "魔法伤害减少"
+msgstr "魔法伤害减少 "
 
 #. Game.BuffDescription.MartianPet
 msgctxt "Game.BuffDescription.MartianPet"
@@ -11164,7 +11164,7 @@ msgstr "圣诞灯"
 #. Game.MapObject.Cobalt
 msgctxt "Game.MapObject.Cobalt"
 msgid "Cobalt"
-msgstr "钴"
+msgstr "寇伯特"
 
 #. Game.MapObject.Copper
 msgctxt "Game.MapObject.Copper"
@@ -11234,7 +11234,7 @@ msgstr "化石"
 #. Game.MapObject.GeyserTrap
 msgctxt "Game.MapObject.GeyserTrap"
 msgid "Geyser"
-msgstr "间歇泉"
+msgstr "喷泉"
 
 #. Game.MapObject.GiantMushroom
 msgctxt "Game.MapObject.GiantMushroom"
@@ -15563,7 +15563,7 @@ msgstr "服装商巫毒娃娃"
 #. Items.ItemName.Cloud
 msgctxt "Items.ItemName.Cloud"
 msgid "Cloud"
-msgstr "云"
+msgstr "克劳德"
 
 #. Items.ItemName.Cloudfish
 msgctxt "Items.ItemName.Cloudfish"
@@ -21963,7 +21963,7 @@ msgstr "盖伊·福克斯面具"
 #. Items.ItemName.GypsyRobe
 msgctxt "Items.ItemName.GypsyRobe"
 msgid "Mystic Robe"
-msgstr "吉普赛长袍"
+msgstr "神秘长袍"
 
 #. Items.ItemName.HadesDye
 msgctxt "Items.ItemName.HadesDye"
@@ -22448,7 +22448,7 @@ msgstr "蜂巢魔棒"
 #. Items.ItemName.Holly
 msgctxt "Items.ItemName.Holly"
 msgid "Holly"
-msgstr "冬青树"
+msgstr "霍利"
 
 #. Items.ItemName.HolyArrow
 msgctxt "Items.ItemName.HolyArrow"
@@ -30598,7 +30598,7 @@ msgstr "皇家头冠"
 #. Items.ItemName.Ruby
 msgctxt "Items.ItemName.Ruby"
 msgid "Ruby"
-msgstr "红玉"
+msgstr "鲁比"
 
 #. Items.ItemName.RubyBunnyCage
 msgctxt "Items.ItemName.RubyBunnyCage"
@@ -30983,7 +30983,7 @@ msgstr "圣诞衣"
 #. Items.ItemName.Sapphire
 msgctxt "Items.ItemName.Sapphire"
 msgid "Sapphire"
-msgstr "蓝玉"
+msgstr "萨菲"
 
 #. Items.ItemName.SapphireBunnyCage
 msgctxt "Items.ItemName.SapphireBunnyCage"
@@ -32773,7 +32773,7 @@ msgstr "烁石壁纸"
 #. Items.ItemName.SparkyPainting
 msgctxt "Items.ItemName.SparkyPainting"
 msgid "Sparky"
-msgstr "狗狗斯派基"
+msgstr "斯派基"
 
 #. Items.ItemName.SpazmatismTrophy
 msgctxt "Items.ItemName.SpazmatismTrophy"
@@ -33043,7 +33043,7 @@ msgstr "蜘蛛工作台"
 #. Items.ItemName.Spike
 msgctxt "Items.ItemName.Spike"
 msgid "Spike"
-msgstr "尖刺"
+msgstr "斯派克"
 
 #. Items.ItemName.SpikedIceSlimeBanner
 msgctxt "Items.ItemName.SpikedIceSlimeBanner"
@@ -43812,7 +43812,7 @@ msgstr ""
 #. Items.ItemTooltip.ManaRegenerationPotion
 msgctxt "Items.ItemTooltip.ManaRegenerationPotion"
 msgid "Increased mana regeneration"
-msgstr "增加魔力再生"
+msgstr "魔力再生增加"
 
 #. Items.ItemTooltip.ManEaterBanner
 msgctxt "Items.ItemTooltip.ManEaterBanner"
@@ -44203,7 +44203,7 @@ msgid ""
 "15% increased melee critical strike chance and 20% increased movement speed"
 msgstr ""
 "仆从伤害增加10%，\n"
-"暴击率增加15%，移动速度提高20%"
+"近战暴击率提高15%，移动速度提高20%"
 
 #. Items.ItemTooltip.MonkShirt
 msgctxt "Items.ItemTooltip.MonkShirt"
@@ -44645,7 +44645,7 @@ msgstr "{$CommonItemTooltip.RightClickToOpen}"
 #. Items.ItemTooltip.ObsidianHelm
 msgctxt "Items.ItemTooltip.ObsidianHelm"
 msgid "Increases minion damage by 8%"
-msgstr "仆从伤害增加9%"
+msgstr "仆从伤害增加8%"
 
 #. Items.ItemTooltip.ObsidianHorseshoe
 msgctxt "Items.ItemTooltip.ObsidianHorseshoe"
@@ -44668,7 +44668,7 @@ msgstr ""
 #. Items.ItemTooltip.ObsidianPants
 msgctxt "Items.ItemTooltip.ObsidianPants"
 msgid "Increases minion damage by 8%"
-msgstr "仆从伤害增加9%"
+msgstr "仆从伤害增加8%"
 
 #. Items.ItemTooltip.ObsidianRose
 msgctxt "Items.ItemTooltip.ObsidianRose"
@@ -47241,7 +47241,7 @@ msgctxt "Items.ItemTooltip.SquireAltHead"
 msgid ""
 "Increases your max number of sentries by 2 and increases minion and melee "
 "damage by 10%"
-msgstr "哨兵数量上限提高2个，为你带来10%的仆从伤害"
+msgstr "哨兵数量上限提高2个，仆从和近战伤害各增加10%"
 
 #. Items.ItemTooltip.SquireAltPants
 msgctxt "Items.ItemTooltip.SquireAltPants"
@@ -47253,7 +47253,7 @@ msgstr "仆从伤害、近战暴击率和移动速度各增加20%"
 #. Items.ItemTooltip.SquireAltShirt
 msgctxt "Items.ItemTooltip.SquireAltShirt"
 msgid "30% increased minion damage and massively increased life regeneration"
-msgstr "仆从伤害增加30%，近战伤害增加10%，生命再生速度大幅提高"
+msgstr "仆从伤害增加30%，生命再生速度大幅提高"
 
 #. Items.ItemTooltip.SquireGreatHelm
 msgctxt "Items.ItemTooltip.SquireGreatHelm"
@@ -48676,11 +48676,6 @@ msgctxt "Items.ItemTooltip.WarriorEmblem"
 msgid "15% increased melee damage"
 msgstr "近战伤害增加15%"
 
-#. Items.ItemTooltip.WaspGun
-msgctxt "Items.ItemTooltip.WaspGun"
-msgid "Wasp Gun"
-msgstr "胡蜂枪"
-
 #. Items.ItemTooltip.WatchfulAntlion
 msgctxt "Items.ItemTooltip.WatchfulAntlion"
 msgid "{$PaintingArtist.Aurora} (Restored)"
@@ -49499,7 +49494,7 @@ msgstr "无力"
 #. Items.Prefix.Light
 msgctxt "Items.Prefix.Light"
 msgid "Light"
-msgstr "轻"
+msgstr "莱特"
 
 #. Items.Prefix.Lucky
 msgctxt "Items.Prefix.Lucky"
@@ -51971,7 +51966,7 @@ msgctxt "Legacy.LegacyDialog.336"
 msgid ""
 "Hey! Just the sacrifi- I mean competent fishing master that I've been looking "
 "for! "
-msgstr "嘿！你就是我一直在找的牺...我是说称职的钓鱼大师！ "
+msgstr "嘿！你就是我一直在找的牺...我是说称职的钓鱼大师！"
 
 #. Legacy.LegacyDialog.337
 msgctxt "Legacy.LegacyDialog.337"
@@ -51981,7 +51976,7 @@ msgstr "{Angler}想让你正式成为{WorldName}的跑腿官！"
 #. Legacy.LegacyDialog.338
 msgctxt "Legacy.LegacyDialog.338"
 msgid "Whaaaat?! Can't you see I'm winding up fishing line??"
-msgstr "什....么？！难道你没看见我在收钓鱼线吗？？"
+msgstr "什…么？！难道你没看见我在收钓鱼线吗？？"
 
 #. Legacy.LegacyDialog.339
 msgctxt "Legacy.LegacyDialog.339"
@@ -51993,7 +51988,7 @@ msgctxt "Legacy.LegacyDialog.340"
 msgid ""
 "There's no chefs in all of {WorldName}, so I have to cook all this fish "
 "myself! "
-msgstr "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！ "
+msgstr "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！"
 
 #. Legacy.LegacyDialog.341
 msgctxt "Legacy.LegacyDialog.341"
@@ -52277,7 +52272,7 @@ msgstr "你刚刚才拿到你的酬劳，多一分钱也没有！滚开！"
 #. Legacy.LegacyDialog.397
 msgctxt "Legacy.LegacyDialog.397"
 msgid "Money doesn't grow on trees, so don't overpick my fruit! Bah! "
-msgstr "钱不是从树上掉下来的，所以我的钱你别拿太多了！呸！ "
+msgstr "钱不是从树上掉下来的，所以我的钱你别拿太多了！呸！"
 
 #. Legacy.LegacyDialog.398
 msgctxt "Legacy.LegacyDialog.398"
@@ -52289,14 +52284,14 @@ msgstr "你已经花光了我付给你的每一分钱！？呸，我可不是慈
 #. Legacy.LegacyDialog.399
 msgctxt "Legacy.LegacyDialog.399"
 msgid "Not so fast! You got your money, now begone! "
-msgstr "没那么快！你已经拿到钱了，赶紧滚开！ "
+msgstr "没那么快！你已经拿到钱了，赶紧滚开！"
 
 #. Legacy.LegacyDialog.400
 msgctxt "Legacy.LegacyDialog.400"
 msgid ""
 "Begging so soon?! Don't look at me like I'll have a change of heart "
 "overnight! "
-msgstr "这么快就乞讨了？！别看我，别以为过了一晚上我就会改变主意！ "
+msgstr "这么快就乞讨了？！别看我，别以为过了一晚上我就会改变主意！"
 
 #. Legacy.LegacyDialog.401
 msgctxt "Legacy.LegacyDialog.401"
@@ -53524,32 +53519,32 @@ msgstr "全屏分辨率"
 #. Legacy.LegacyMenu.74
 msgctxt "Legacy.LegacyMenu.74"
 msgid "Up                "
-msgstr "向上                "
+msgstr "向上"
 
 #. Legacy.LegacyMenu.75
 msgctxt "Legacy.LegacyMenu.75"
 msgid "Down             "
-msgstr "向下             "
+msgstr "向下"
 
 #. Legacy.LegacyMenu.76
 msgctxt "Legacy.LegacyMenu.76"
 msgid "Left               "
-msgstr "向左               "
+msgstr "向左"
 
 #. Legacy.LegacyMenu.77
 msgctxt "Legacy.LegacyMenu.77"
 msgid "Right             "
-msgstr "向右             "
+msgstr "向右"
 
 #. Legacy.LegacyMenu.78
 msgctxt "Legacy.LegacyMenu.78"
 msgid "Jump             "
-msgstr "跳             "
+msgstr "跳"
 
 #. Legacy.LegacyMenu.79
 msgctxt "Legacy.LegacyMenu.79"
 msgid "Throw            "
-msgstr "投掷            "
+msgstr "投掷"
 
 #. Legacy.LegacyMenu.80
 msgctxt "Legacy.LegacyMenu.80"
@@ -53574,7 +53569,7 @@ msgstr "快速增益       "
 #. Legacy.LegacyMenu.84
 msgctxt "Legacy.LegacyMenu.84"
 msgid "Grapple           "
-msgstr "抓钩           "
+msgstr "抓钩"
 
 #. Legacy.LegacyMenu.85
 msgctxt "Legacy.LegacyMenu.85"
@@ -53684,22 +53679,22 @@ msgstr "否"
 #. Legacy.LegacyMenu.106
 msgctxt "Legacy.LegacyMenu.106"
 msgid "Toggle Map Style           "
-msgstr "切换地图类型           "
+msgstr "切换地图类型"
 
 #. Legacy.LegacyMenu.107
 msgctxt "Legacy.LegacyMenu.107"
 msgid "Toggle Fullscreen           "
-msgstr "切换全屏           "
+msgstr "切换全屏"
 
 #. Legacy.LegacyMenu.108
 msgctxt "Legacy.LegacyMenu.108"
 msgid "Zoom In                      "
-msgstr "放大                      "
+msgstr "放大"
 
 #. Legacy.LegacyMenu.109
 msgctxt "Legacy.LegacyMenu.109"
 msgid "Zoom Out                    "
-msgstr "缩小                    "
+msgstr "缩小"
 
 #. Legacy.LegacyMenu.110
 msgctxt "Legacy.LegacyMenu.110"
@@ -53804,7 +53799,7 @@ msgstr "放置预览关"
 #. Legacy.LegacyMenu.130
 msgctxt "Legacy.LegacyMenu.130"
 msgid "Mount             "
-msgstr "坐骑             "
+msgstr "坐骑"
 
 #. Legacy.LegacyMenu.131
 msgctxt "Legacy.LegacyMenu.131"
@@ -57004,7 +56999,7 @@ msgstr ""
 #. Main.CLI.AutomaticPortForward
 msgctxt "Main.CLI.AutomaticPortForward"
 msgid "Automatically forward port? (y/n): "
-msgstr "自动转发端口？（是/否）： "
+msgstr "自动转发端口？（是/否）："
 
 #. Main.CLI.AvailableCommands
 msgctxt "Main.CLI.AvailableCommands"
@@ -57039,22 +57034,22 @@ msgstr "已从服务器封禁。"
 #. Main.CLI.ChooseDifficulty
 msgctxt "Main.CLI.ChooseDifficulty"
 msgid "Choose difficulty: "
-msgstr "选择难度： "
+msgstr "选择难度："
 
 #. Main.CLI.ChooseEvil
 msgctxt "Main.CLI.ChooseEvil"
 msgid "Choose world evil: "
-msgstr "选择世界恶魔： "
+msgstr "选择世界恶魔："
 
 #. Main.CLI.ChooseSize
 msgctxt "Main.CLI.ChooseSize"
 msgid "Choose size: "
-msgstr "选择大小： "
+msgstr "选择大小："
 
 #. Main.CLI.ChooseWorld
 msgctxt "Main.CLI.ChooseWorld"
 msgid "Choose World: "
-msgstr "选择世界： "
+msgstr "选择世界："
 
 #. Main.CLI.Clear_Command
 msgctxt "Main.CLI.Clear_Command"
@@ -57134,12 +57129,12 @@ msgstr "输入种子（随机留空）："
 #. Main.CLI.EnterServerPassword
 msgctxt "Main.CLI.EnterServerPassword"
 msgid "Server password (press enter for none): "
-msgstr "服务器密码（按enter表示不设置）： "
+msgstr "服务器密码（按enter表示不设置）："
 
 #. Main.CLI.EnterWorldName
 msgctxt "Main.CLI.EnterWorldName"
 msgid "Enter world name: "
-msgstr "输入世界名称： "
+msgstr "输入世界名称："
 
 #. Main.CLI.Exit_Command
 msgctxt "Main.CLI.Exit_Command"
@@ -57434,12 +57429,12 @@ msgstr "服务器已启动"
 #. Main.CLI.SetInitialMaxPlayers
 msgctxt "Main.CLI.SetInitialMaxPlayers"
 msgid "Max players (press enter for 16): "
-msgstr "最大玩家数（按enter表示16）： "
+msgstr "最大玩家数（按enter表示16）："
 
 #. Main.CLI.SetInitialPort
 msgctxt "Main.CLI.SetInitialPort"
 msgid "Server port (press enter for 7777): "
-msgstr "服务器端口（按enter表示7777）: "
+msgstr "服务器端口（按enter表示7777）:"
 
 #. Main.CLI.SetMOTD_Command
 msgctxt "Main.CLI.SetMOTD_Command"
@@ -57484,7 +57479,7 @@ msgstr "放置所有水域。"
 #. Main.CLI.ShortNo
 msgctxt "Main.CLI.ShortNo"
 msgid "n"
-msgstr "否"
+msgstr "新"
 
 #. Main.CLI.ShortYes
 msgctxt "Main.CLI.ShortYes"
@@ -58149,7 +58144,7 @@ msgstr "特别鸣谢"
 #. Main.CreditsRollCategory_SpecialThanksto.2
 msgctxt "Main.CreditsRollCategory_SpecialThanksto.2"
 msgid "The Torch God"
-msgstr "The Torch God"
+msgstr "火把神"
 
 #. Main.CreditsRollCategory_SpecialThanksto.3
 msgctxt "Main.CreditsRollCategory_SpecialThanksto.3"
@@ -59553,12 +59548,12 @@ msgstr "（{0}英尺）"
 #. Main.GameUI.PlayerLifeMax
 msgctxt "Main.GameUI.PlayerLifeMax"
 msgid " HP"
-msgstr "生命值"
+msgstr " 生命值"
 
 #. Main.GameUI.PlayerManaMax
 msgctxt "Main.GameUI.PlayerManaMax"
 msgid " MP"
-msgstr "魔力值"
+msgstr " 魔力值"
 
 #. Main.GameUI.PotionOfReturnExitPortal
 msgctxt "Main.GameUI.PotionOfReturnExitPortal"
@@ -59633,7 +59628,7 @@ msgstr "{0} mph"
 #. Main.GameUI.Storm
 msgctxt "Main.GameUI.Storm"
 msgid "Storm"
-msgstr "暴风雨"
+msgstr "斯托姆"
 
 #. Main.GameUI.StormEffects
 msgctxt "Main.GameUI.StormEffects"
@@ -59833,7 +59828,7 @@ msgstr "分辨率更改为：{0}x{1}。"
 #. Main.Misc.ShortDays
 msgctxt "Main.Misc.ShortDays"
 msgid "d"
-msgstr "天"
+msgstr "删除"
 
 #. Main.Misc.ShortHours
 msgctxt "Main.Misc.ShortHours"
@@ -61648,7 +61643,7 @@ msgstr "传奇"
 #. Main.RandomWorldName_Adjective.Light
 msgctxt "Main.RandomWorldName_Adjective.Light"
 msgid "Light"
-msgstr "轻"
+msgstr "莱特"
 
 #. Main.RandomWorldName_Adjective.Lightful
 msgctxt "Main.RandomWorldName_Adjective.Lightful"
@@ -61753,7 +61748,7 @@ msgstr "悲惨"
 #. Main.RandomWorldName_Adjective.Misty
 msgctxt "Main.RandomWorldName_Adjective.Misty"
 msgid "Misty"
-msgstr "有雾"
+msgstr "米斯蒂"
 
 #. Main.RandomWorldName_Adjective.Modern
 msgctxt "Main.RandomWorldName_Adjective.Modern"
@@ -62268,7 +62263,7 @@ msgstr "皇家"
 #. Main.RandomWorldName_Adjective.Ruby
 msgctxt "Main.RandomWorldName_Adjective.Ruby"
 msgid "Ruby"
-msgstr "深红"
+msgstr "鲁比"
 
 #. Main.RandomWorldName_Adjective.Rude
 msgctxt "Main.RandomWorldName_Adjective.Rude"
@@ -62308,7 +62303,7 @@ msgstr "蜡黄"
 #. Main.RandomWorldName_Adjective.Sapphire
 msgctxt "Main.RandomWorldName_Adjective.Sapphire"
 msgid "Sapphire"
-msgstr "蓝玉"
+msgstr "萨菲"
 
 #. Main.RandomWorldName_Adjective.Savage
 msgctxt "Main.RandomWorldName_Adjective.Savage"
@@ -62538,7 +62533,7 @@ msgstr "静止"
 #. Main.RandomWorldName_Adjective.Stinky
 msgctxt "Main.RandomWorldName_Adjective.Stinky"
 msgid "Stinky"
-msgstr "奇臭"
+msgstr "恶臭"
 
 #. Main.RandomWorldName_Adjective.Stormy
 msgctxt "Main.RandomWorldName_Adjective.Stormy"
@@ -63543,7 +63538,7 @@ msgstr "嘻哈舞区"
 #. Main.RandomWorldName_Location.Dale
 msgctxt "Main.RandomWorldName_Location.Dale"
 msgid "Dale"
-msgstr "河谷"
+msgstr "戴尔"
 
 #. Main.RandomWorldName_Location.Dam
 msgctxt "Main.RandomWorldName_Location.Dam"
@@ -63743,7 +63738,7 @@ msgstr "田地"
 #. Main.RandomWorldName_Location.Figment
 msgctxt "Main.RandomWorldName_Location.Figment"
 msgid "Figment"
-msgstr "幻觉"
+msgstr "费格门特"
 
 #. Main.RandomWorldName_Location.Firmament
 msgctxt "Main.RandomWorldName_Location.Firmament"
@@ -63828,7 +63823,7 @@ msgstr "花园"
 #. Main.RandomWorldName_Location.Geyser
 msgctxt "Main.RandomWorldName_Location.Geyser"
 msgid "Geyser"
-msgstr "间歇泉"
+msgstr "喷泉"
 
 #. Main.RandomWorldName_Location.Glacier
 msgctxt "Main.RandomWorldName_Location.Glacier"
@@ -63903,7 +63898,7 @@ msgstr "避风港"
 #. Main.RandomWorldName_Location.Heart
 msgctxt "Main.RandomWorldName_Location.Heart"
 msgid "Heart"
-msgstr "要地"
+msgstr "心"
 
 #. Main.RandomWorldName_Location.Heaven
 msgctxt "Main.RandomWorldName_Location.Heaven"
@@ -65638,7 +65633,7 @@ msgstr "云层"
 #. Main.RandomWorldName_Noun.Cobalt
 msgctxt "Main.RandomWorldName_Noun.Cobalt"
 msgid "Cobalt"
-msgstr "钴"
+msgstr "寇伯特"
 
 #. Main.RandomWorldName_Noun.Coconuts
 msgctxt "Main.RandomWorldName_Noun.Coconuts"
@@ -66238,7 +66233,7 @@ msgstr "手指"
 #. Main.RandomWorldName_Noun.Fireblossom
 msgctxt "Main.RandomWorldName_Noun.Fireblossom"
 msgid "Fireblossom"
-msgstr "火舌花"
+msgstr "火焰花"
 
 #. Main.RandomWorldName_Noun.Fireflies
 msgctxt "Main.RandomWorldName_Noun.Fireflies"
@@ -66563,7 +66558,7 @@ msgstr "憎恨"
 #. Main.RandomWorldName_Noun.Heart
 msgctxt "Main.RandomWorldName_Noun.Heart"
 msgid "Heart"
-msgstr "要地"
+msgstr "心"
 
 #. Main.RandomWorldName_Noun.Heartache
 msgctxt "Main.RandomWorldName_Noun.Heartache"
@@ -66913,7 +66908,7 @@ msgstr "谎言"
 #. Main.RandomWorldName_Noun.Life
 msgctxt "Main.RandomWorldName_Noun.Life"
 msgid "Life"
-msgstr "生命"
+msgstr "生命值"
 
 #. Main.RandomWorldName_Noun.LightningBugs
 msgctxt "Main.RandomWorldName_Noun.LightningBugs"
@@ -66928,7 +66923,7 @@ msgstr "百合花"
 #. Main.RandomWorldName_Noun.Lilith
 msgctxt "Main.RandomWorldName_Noun.Lilith"
 msgid "Lilith"
-msgstr "女妖"
+msgstr "莉莉斯"
 
 #. Main.RandomWorldName_Noun.Lilypad
 msgctxt "Main.RandomWorldName_Noun.Lilypad"
@@ -67253,7 +67248,7 @@ msgstr "死灵法术"
 #. Main.RandomWorldName_Noun.Night
 msgctxt "Main.RandomWorldName_Noun.Night"
 msgid "Night"
-msgstr "夜晚"
+msgstr "奈特"
 
 #. Main.RandomWorldName_Noun.Nightcrawlers
 msgctxt "Main.RandomWorldName_Noun.Nightcrawlers"
@@ -69167,10 +69162,20 @@ msgctxt "Main.UI.HoverControlSettingIsHold"
 msgid "Hover Controls: Hold"
 msgstr "悬停控制：按住"
 
+#. Main.UI.Import
+msgctxt "Main.UI.Import"
+msgid "Import"
+msgstr "导入"
+
 #. Main.UI.Info
 msgctxt "Main.UI.Info"
 msgid "Info"
 msgstr "信息"
+
+#. Main.UI.IssueReporterHasThingsToShow
+msgctxt "Main.UI.IssueReporterHasThingsToShow"
+msgid "See issues"
+msgstr "查看问题"
 
 #. Main.UI.ItemCannotBePlacedInsideItself
 msgctxt "Main.UI.ItemCannotBePlacedInsideItself"
@@ -69300,7 +69305,7 @@ msgstr "你的冒险之旅即将开始…"
 #. Main.UI.NPCCheckHappiness
 msgctxt "Main.UI.NPCCheckHappiness"
 msgid " Happiness"
-msgstr "快乐"
+msgstr " 快乐"
 
 #. Main.UI.OffsetTexturePackPriorityDown
 msgctxt "Main.UI.OffsetTexturePackPriorityDown"
@@ -69367,10 +69372,20 @@ msgctxt "Main.UI.RandomizePlayer"
 msgid "Randomize player"
 msgstr "随机玩家"
 
+#. Main.UI.Rename
+msgctxt "Main.UI.Rename"
+msgid "Rename"
+msgstr "重命名"
+
+#. Main.UI.ReportsPage
+msgctxt "Main.UI.ReportsPage"
+msgid "Reports Page"
+msgstr "报告页面"
+
 #. Main.UI.ResourcePacks
 msgctxt "Main.UI.ResourcePacks"
-msgid "Texture Packs"
-msgstr "纹理包"
+msgid "Resource Packs"
+msgstr "资源包"
 
 #. Main.UI.RestoreButton
 msgctxt "Main.UI.RestoreButton"
@@ -69486,6 +69501,31 @@ msgstr "取消收藏"
 msgctxt "Main.UI.Version"
 msgid "Version {0}"
 msgstr "版本{0}"
+
+#. Main.UI.Workshop
+msgctxt "Main.UI.Workshop"
+msgid "Workshop"
+msgstr "创意工坊"
+
+#. Main.UI.WorkshopHub
+msgctxt "Main.UI.WorkshopHub"
+msgid "Workshop Hub"
+msgstr "创意工坊枢纽"
+
+#. Main.UI.WorkshopImportWorld
+msgctxt "Main.UI.WorkshopImportWorld"
+msgid "Import Workshop Worlds"
+msgstr "导入创意工坊世界"
+
+#. Main.UI.WorkshopSelectResourcePackToPublishMenuTitle
+msgctxt "Main.UI.WorkshopSelectResourcePackToPublishMenuTitle"
+msgid "Select Resource Pack To Publish"
+msgstr "选择要发布的资源包"
+
+#. Main.UI.WorkshopSelectWorldToPublishMenuTitle
+msgctxt "Main.UI.WorkshopSelectWorldToPublishMenuTitle"
+msgid "Select World To Publish"
+msgstr "选择要发布的世界"
 
 #. Main.UI.WorldCannotBeLoadedBecauseItHasAnInvalidGameMode
 msgctxt "Main.UI.WorldCannotBeLoadedBecauseItHasAnInvalidGameMode"
@@ -69656,6 +69696,553 @@ msgstr "{$LegacyMenu.168}"
 msgctxt "Main.UI.ZoomOut"
 msgid "{$LegacyMenu.169}"
 msgstr "{$LegacyMenu.169}"
+
+#. Main.Workshop.CategoryTitleDisclaimer
+msgctxt "Main.Workshop.CategoryTitleDisclaimer"
+msgid "Service Agreement"
+msgstr "服务协议"
+
+#. Main.Workshop.CategoryTitlePublicity
+msgctxt "Main.Workshop.CategoryTitlePublicity"
+msgid "Visibility"
+msgstr "可见性"
+
+#. Main.Workshop.CategoryTitleTags
+msgctxt "Main.Workshop.CategoryTitleTags"
+msgid "Tags"
+msgstr "标签"
+
+#. Main.Workshop.EnterNewNameForImportedWorld
+msgctxt "Main.Workshop.EnterNewNameForImportedWorld"
+msgid "Enter World Name:"
+msgstr "输入世界名称："
+
+#. Main.Workshop.HubDescriptionDefault
+msgctxt "Main.Workshop.HubDescriptionDefault"
+msgid "Choose an option for more information."
+msgstr "选择一个选项以了解更多信息。"
+
+#. Main.Workshop.HubDescriptionImportWorlds
+msgctxt "Main.Workshop.HubDescriptionImportWorlds"
+msgid ""
+"Import Worlds you've subscribed to from the Steam Workshop to your own list "
+"of Worlds, so that you can explore them."
+msgstr "将你已订阅的世界从Steam创意工坊导入到你自己的世界列表中，以便你可以探索这些世界。"
+
+#. Main.Workshop.HubDescriptionPublishResourcePacks
+msgctxt "Main.Workshop.HubDescriptionPublishResourcePacks"
+msgid ""
+"Publish your Resource Packs to the Steam Workshop, so that others can enjoy "
+"them."
+msgstr "将你的资源包发布到Steam创意工坊，以便其他人可以使用。"
+
+#. Main.Workshop.HubDescriptionPublishWorlds
+msgctxt "Main.Workshop.HubDescriptionPublishWorlds"
+msgid ""
+"Publish your Worlds to the Steam Workshop, so that others can enjoy them."
+msgstr "将你的世界发布到Steam创意工坊，以便其他人可以使用。"
+
+#. Main.Workshop.HubDescriptionUseResourcePacks
+msgctxt "Main.Workshop.HubDescriptionUseResourcePacks"
+msgid ""
+"Use Resource Packs you've downloaded or subscribed to from the Steam "
+"Workshop, so that you can enjoy their art & localizations."
+msgstr "使用通过Steam创意工坊下载或订阅的资源包，畅享画面精美的世界，还可使用本地语言游玩。"
+
+#. Main.Workshop.HubPublishResourcePacks
+msgctxt "Main.Workshop.HubPublishResourcePacks"
+msgid "Publish Resource Packs"
+msgstr "发布资源包"
+
+#. Main.Workshop.HubPublishWorlds
+msgctxt "Main.Workshop.HubPublishWorlds"
+msgid "Publish Worlds"
+msgstr "发布世界"
+
+#. Main.Workshop.HubResourcePacks
+msgctxt "Main.Workshop.HubResourcePacks"
+msgid "Use Resource Packs"
+msgstr "使用资源包"
+
+#. Main.Workshop.HubWorlds
+msgctxt "Main.Workshop.HubWorlds"
+msgid "Import Worlds"
+msgstr "导入世界"
+
+#. Main.Workshop.InfoDescriptionDefault
+msgctxt "Main.Workshop.InfoDescriptionDefault"
+msgid "Please choose how your item will be published with the options above"
+msgstr "请选择如何使用上述选项发布你的物品"
+
+#. Main.Workshop.PreviewImagePathDescription
+msgctxt "Main.Workshop.PreviewImagePathDescription"
+msgid ""
+"Choose a preview image for this item,\n"
+"this image will be displayed when browsing the workshop (max size 512x512)"
+msgstr ""
+"为此物品选择预览图像，\n"
+"该图像将在你浏览创意工坊时显示（最大尺寸为512x512）"
+
+#. Main.Workshop.PreviewImagePathEmpty
+msgctxt "Main.Workshop.PreviewImagePathEmpty"
+msgid "Empty"
+msgstr "空荡"
+
+#. Main.Workshop.PreviewImagePathTitle
+msgctxt "Main.Workshop.PreviewImagePathTitle"
+msgid "Image:"
+msgstr "图像："
+
+#. Main.Workshop.Publish
+msgctxt "Main.Workshop.Publish"
+msgid "Publish"
+msgstr "发布"
+
+#. Main.Workshop.ReportIssue_CannotPublishZips
+msgctxt "Main.Workshop.ReportIssue_CannotPublishZips"
+msgid "Zipped Resource Packs cannot be published to the workshop!"
+msgstr "压缩资源包无法发布到创意工坊！"
+
+#. Main.Workshop.ReportIssue_CouldNotCreateResourcePackManifestFile
+msgctxt "Main.Workshop.ReportIssue_CouldNotCreateResourcePackManifestFile"
+msgid "Could not create resource pack manifest! reason: {Reason}"
+msgstr "无法创建资源包清单！原因：{Reason}"
+
+#. Main.Workshop.ReportIssue_CouldNotCreateTemporaryFolder
+msgctxt "Main.Workshop.ReportIssue_CouldNotCreateTemporaryFolder"
+msgid "Could not create temporary folder!"
+msgstr "无法创建临时文件夹！"
+
+#. Main.Workshop.ReportIssue_FailedToLoadSubscribedFile
+msgctxt "Main.Workshop.ReportIssue_FailedToLoadSubscribedFile"
+msgid "Failed to load subscribed file! path: {FilePath}! reason: {Reason}"
+msgstr "无法加载已订阅文件！路径：{FilePath}！原因：{Reason}"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLicenseForApp
+msgctxt ""
+"Main.Workshop.ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLice"
+"nseForApp"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} If this issue repeats, try "
+"restarting steam please!"
+msgstr "{$Workshop.ReportIssue_FailedToPublish_Common} 如果此问题反复出现，请尝试重新启动Steam！"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_Common
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_Common"
+msgid "Failed to publish the item to steam!"
+msgstr "无法将该物品发布到Steam！"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_CouldNotFindFolderToUpload
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_CouldNotFindFolderToUpload"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} The content folder for the "
+"published item is missing?!"
+msgstr "{$Workshop.ReportIssue_FailedToPublish_Common} 已发布物品的内容文件夹缺失？！"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_ImageSizeIsTooLarge
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_ImageSizeIsTooLarge"
+msgid ""
+"The image you're trying to use has to be 512x512 pixels or less in "
+"size!\n"
+"Current Size: {Width}x{Height}."
+msgstr ""
+"你要使用的图像的大小不得超过512x512像素！\n"
+"当前大小：{Width}x{Height}。"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_InvalidParametersForPublishing
+msgctxt ""
+"Main.Workshop.ReportIssue_FailedToPublish_InvalidParametersForPublishing"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} Did you modify the game's "
+"steam application ID?"
+msgstr "{$Workshop.ReportIssue_FailedToPublish_Common} 你是否修改了游戏的Steam应用程序ID？"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_LimitExceeded
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_LimitExceeded"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} Size limit exceeded! Please "
+"make sure your preview image is under 1mb in size, and that you have space "
+"for you to publish to your steam cloud"
+msgstr ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} 已超出大小限制！请确保预览图像小于1mb，而且Steam "
+"Cloud上有足够的空间供你发布"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_SteamFileLockFailed
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_SteamFileLockFailed"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} Failed to acquire UGC Lock. If "
+"this issue repeats, try restarting steam please!"
+msgstr ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} "
+"无法获取UGC锁。如果此问题反复出现，请尝试重新启动Steam！"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_UserDidNotAcceptWorkshopTermsOfService
+msgctxt ""
+"Main.Workshop.ReportIssue_FailedToPublish_UserDidNotAcceptWorkshopTermsOfServi"
+"ce"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} You need to accept the "
+"Workshop's terms of service!"
+msgstr "{$Workshop.ReportIssue_FailedToPublish_Common} 你需要接受创意工坊的服务条款！"
+
+#. Main.Workshop.ReportIssue_FailedToPublish_WithoutKnownReason
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_WithoutKnownReason"
+msgid "{$Workshop.ReportIssue_FailedToPublish_Common} Error Code: {Reason}"
+msgstr "{$Workshop.ReportIssue_FailedToPublish_Common} 错误代码：{Reason}"
+
+#. Main.Workshop.ReportLogsButton
+msgctxt "Main.Workshop.ReportLogsButton"
+msgid "Logs"
+msgstr "日志"
+
+#. Main.Workshop.ReportLogsInitialMessage
+msgctxt "Main.Workshop.ReportLogsInitialMessage"
+msgid "There is nothing to show yet."
+msgstr "目前尚无可显示的内容。"
+
+#. Main.Workshop.ResourcePackName
+msgctxt "Main.Workshop.ResourcePackName"
+msgid "Name:"
+msgstr "名字："
+
+#. Main.Workshop.ResourcePackPublishDescription
+msgctxt "Main.Workshop.ResourcePackPublishDescription"
+msgid ""
+"Publishing a resource pack will upload it to the Steam Workshop as private - "
+"visibly only to you, by default. You can adjust its preview image, title, and "
+"description as you wish from its steam Entry page, and then set it public "
+"when you're ready. By submitting this resource pack, you agree to the "
+"workshop terms of service."
+msgstr ""
+"默认情况下，发布资源包会将其作为私密内容（仅对你可见）上传到Steam创意工坊。你可以从其Steam入口页面随意调整其预览图像、标题和说明，然后在准备好以后"
+"将其设置为公开内容。提交该资源包，即表示你同意创意工坊的服务条款。"
+
+#. Main.Workshop.SettingsPublicityDescriptionSharedNote
+msgctxt "Main.Workshop.SettingsPublicityDescriptionSharedNote"
+msgid ""
+"You can adjust your content's visibility setting through its workshop page at "
+"any time"
+msgstr "你随时可以通过相应的创意工坊页面调整内容的可见性设置"
+
+#. Main.Workshop.SettingsPublicityFriendsOnly
+msgctxt "Main.Workshop.SettingsPublicityFriendsOnly"
+msgid "Friends Only"
+msgstr "仅限好友"
+
+#. Main.Workshop.SettingsPublicityFriendsOnlyDescription
+msgctxt "Main.Workshop.SettingsPublicityFriendsOnlyDescription"
+msgid ""
+"Your content will only be visible & usable by you & your friends once "
+"published\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+msgstr ""
+"一经发布，你的内容将仅对你和你的好友可见且可用\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+
+#. Main.Workshop.SettingsPublicityPrivate
+msgctxt "Main.Workshop.SettingsPublicityPrivate"
+msgid "Private"
+msgstr "私密"
+
+#. Main.Workshop.SettingsPublicityPrivateDescription
+msgctxt "Main.Workshop.SettingsPublicityPrivateDescription"
+msgid ""
+"Your content will only be visible to you once "
+"published\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+msgstr ""
+"一经发布，你的内容将仅对你可见\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+
+#. Main.Workshop.SettingsPublicityPublic
+msgctxt "Main.Workshop.SettingsPublicityPublic"
+msgid "Public"
+msgstr "公开"
+
+#. Main.Workshop.SettingsPublicityPublicDescription
+msgctxt "Main.Workshop.SettingsPublicityPublicDescription"
+msgid ""
+"Your content will be visible & available to everyone as soon as it is "
+"published\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+msgstr ""
+"一经发布，你的内容将对所有人可见且可用\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+
+#. Main.Workshop.SteamDisclaimer
+msgctxt "Main.Workshop.SteamDisclaimer"
+msgid "By submitting this item, you agree to the Workshop terms of service."
+msgstr "提交此物品，即表示你同意创意工坊的服务条款。"
+
+#. Main.Workshop.SteamDisclaimerDescrpition
+msgctxt "Main.Workshop.SteamDisclaimerDescrpition"
+msgid ""
+"Open the full steam terms of service page\n"
+"Please upload content responsibly"
+msgstr ""
+"打开完整Steam服务条款的页面\n"
+"请负责任地上传内容"
+
+#. Main.Workshop.WorldName
+msgctxt "Main.Workshop.WorldName"
+msgid "Name:"
+msgstr "名字："
+
+#. Main.Workshop.WorldPublishDescription
+msgctxt "Main.Workshop.WorldPublishDescription"
+msgid ""
+"Publishing a world will upload it to the Steam Workshop as private - visibly "
+"only to you, by default. You can adjust its preview image, title, and "
+"description as you wish from its steam Entry page, and then set it public "
+"when you're ready. By submitting this world, you agree to the workshop terms "
+"of service."
+msgstr ""
+"默认情况下，发布世界会将其作为私密内容（仅对你可见）上传到Steam创意工坊。你可以从其Steam入口页面随意调整其预览图像、标题和说明，然后在准备好以后将"
+"其设置为公开内容。提交该世界，即表示你同意创意工坊的服务条款。"
+
+#. Main.WorkshopTags.AdventureWorlds
+msgctxt "Main.WorkshopTags.AdventureWorlds"
+msgid "Adventure"
+msgstr "探险"
+
+#. Main.WorkshopTags.AdventureWorldsDescription
+msgctxt "Main.WorkshopTags.AdventureWorldsDescription"
+msgid ""
+"Hand-crafted Worlds where you go on an awesome adventure with defined rules!"
+msgstr "手工制作的世界，你可以在这里按照既定的规则开展惊心动魄的冒险之旅！"
+
+#. Main.WorkshopTags.AllItemsWorlds
+msgctxt "Main.WorkshopTags.AllItemsWorlds"
+msgid "All Items"
+msgstr "所有物品"
+
+#. Main.WorkshopTags.AllItemsWorldsDescription
+msgctxt "Main.WorkshopTags.AllItemsWorldsDescription"
+msgid "Worlds where you can find every item in chests."
+msgstr "可让你在其中找到宝箱内每个物品的世界。"
+
+#. Main.WorkshopTags.ChallengeWorlds
+msgctxt "Main.WorkshopTags.ChallengeWorlds"
+msgid "Challenge"
+msgstr "挑战"
+
+#. Main.WorkshopTags.ChallengeWorldsDescription
+msgctxt "Main.WorkshopTags.ChallengeWorldsDescription"
+msgid "Worlds that challenge your abilities! From Parkour to Puzzles and more!"
+msgstr "挑战能力的世界！跑酷、智力游戏等等！"
+
+#. Main.WorkshopTags.ClassicWorlds
+msgctxt "Main.WorkshopTags.ClassicWorlds"
+msgid "Classic"
+msgstr "经典"
+
+#. Main.WorkshopTags.ClassicWorldsDescription
+msgctxt "Main.WorkshopTags.ClassicWorldsDescription"
+msgid "Worlds based in the standard Terraria experience setting."
+msgstr "用于打造标准泰拉瑞亚体验的世界。"
+
+#. Main.WorkshopTags.CorruptionWorlds
+msgctxt "Main.WorkshopTags.CorruptionWorlds"
+msgid "Corruption"
+msgstr "腐化"
+
+#. Main.WorkshopTags.CorruptionWorldsDescription
+msgctxt "Main.WorkshopTags.CorruptionWorldsDescription"
+msgid "Worlds infected by the evil Corruption."
+msgstr "受到恶灵腐化感染的世界。"
+
+#. Main.WorkshopTags.CrimsonWorlds
+msgctxt "Main.WorkshopTags.CrimsonWorlds"
+msgid "Crimson"
+msgstr "猩红"
+
+#. Main.WorkshopTags.CrimsonWorldsDescription
+msgctxt "Main.WorkshopTags.CrimsonWorldsDescription"
+msgid "Worlds afflicted by the all-devouring Crimson."
+msgstr "遭到吞噬一切的猩红之地折磨的世界。"
+
+#. Main.WorkshopTags.ExpertWorlds
+msgctxt "Main.WorkshopTags.ExpertWorlds"
+msgid "Expert"
+msgstr "专家"
+
+#. Main.WorkshopTags.ExpertWorldsDescription
+msgctxt "Main.WorkshopTags.ExpertWorldsDescription"
+msgid "Worlds based on expert difficulty -  fortune and glory, kid!"
+msgstr "基于专家难度的世界——孩子，去追寻财富和荣耀吧！"
+
+#. Main.WorkshopTags.FromTerrariaMods
+msgctxt "Main.WorkshopTags.FromTerrariaMods"
+msgid "From Mods"
+msgstr "源自模组"
+
+#. Main.WorkshopTags.FromTerrariaModsDescription
+msgctxt "Main.WorkshopTags.FromTerrariaModsDescription"
+msgid "Resource packs with content based on mods."
+msgstr "含有基于模组内容的资源包。"
+
+#. Main.WorkshopTags.FunSilly
+msgctxt "Main.WorkshopTags.FunSilly"
+msgid "Fun/Silly"
+msgstr "有趣/蠢萌"
+
+#. Main.WorkshopTags.FunSillyDescription
+msgctxt "Main.WorkshopTags.FunSillyDescription"
+msgid "Resource packs of amusing, silly things. Your memes go here!"
+msgstr "含有趣事和蠢事的资源包。你的弥母来了！"
+
+#. Main.WorkshopTags.GolfWorlds
+msgctxt "Main.WorkshopTags.GolfWorlds"
+msgid "Golf"
+msgstr "高尔夫"
+
+#. Main.WorkshopTags.GolfWorldsDescription
+msgctxt "Main.WorkshopTags.GolfWorldsDescription"
+msgid ""
+"Handmade Terraria Golf Courses where you can tee off to set the course record."
+msgstr "手工制作的泰拉瑞亚高尔夫球场，你可以在这里开球，创造球场纪录。"
+
+#. Main.WorkshopTags.HighResolution
+msgctxt "Main.WorkshopTags.HighResolution"
+msgid "High-Res"
+msgstr "高分辨率"
+
+#. Main.WorkshopTags.HighResolutionDescription
+msgctxt "Main.WorkshopTags.HighResolutionDescription"
+msgid "Resource packs which focus on high resolution content."
+msgstr "专注于高分辨率内容的资源包。"
+
+#. Main.WorkshopTags.JourneyWorlds
+msgctxt "Main.WorkshopTags.JourneyWorlds"
+msgid "Journey"
+msgstr "旅行"
+
+#. Main.WorkshopTags.JourneyWorldsDescription
+msgctxt "Main.WorkshopTags.JourneyWorldsDescription"
+msgid ""
+"Worlds requiring Journey Mode characters – great power & great responsibility!"
+msgstr "要求旅行模式角色参与的世界——能力大、责任感强的角色！"
+
+#. Main.WorkshopTags.LanguageTranslations
+msgctxt "Main.WorkshopTags.LanguageTranslations"
+msgid "Translations"
+msgstr "译文"
+
+#. Main.WorkshopTags.LanguageTranslationsDescription
+msgctxt "Main.WorkshopTags.LanguageTranslationsDescription"
+msgid "Resource packs that adjust translations, or add completely new ones!"
+msgstr "可调整译文或添加全新译文的资源包！"
+
+#. Main.WorkshopTags.LargeWorlds
+msgctxt "Main.WorkshopTags.LargeWorlds"
+msgid "Large"
+msgstr "大"
+
+#. Main.WorkshopTags.LargeWorldsDescription
+msgctxt "Main.WorkshopTags.LargeWorldsDescription"
+msgid "Worlds large enough for a full party!"
+msgstr "足以容纳一群人的大世界！"
+
+#. Main.WorkshopTags.MasterWorlds
+msgctxt "Main.WorkshopTags.MasterWorlds"
+msgid "Master"
+msgstr "大师"
+
+#. Main.WorkshopTags.MasterWorldsDescription
+msgctxt "Main.WorkshopTags.MasterWorldsDescription"
+msgid ""
+"Worlds based on Master difficulty, only for the foolhardy challenge-seeker!"
+msgstr "基于大师难度的世界，仅适用于追寻挑战的狂热人士！"
+
+#. Main.WorkshopTags.MediumWorlds
+msgctxt "Main.WorkshopTags.MediumWorlds"
+msgid "Medium"
+msgstr "中"
+
+#. Main.WorkshopTags.MediumWorldsDescription
+msgctxt "Main.WorkshopTags.MediumWorldsDescription"
+msgid "Worlds sized not too small or large, just right!"
+msgstr "大小适中的世界！"
+
+#. Main.WorkshopTags.Music
+msgctxt "Main.WorkshopTags.Music"
+msgid "Music"
+msgstr "音乐"
+
+#. Main.WorkshopTags.MusicDescription
+msgctxt "Main.WorkshopTags.MusicDescription"
+msgid "Resource packs that alter Terraria's music, giving new vibes!"
+msgstr "可调整泰拉瑞亚音乐的资源包，赋予新的氛围！"
+
+#. Main.WorkshopTags.OtherResourceDescription
+msgctxt "Main.WorkshopTags.OtherResourceDescription"
+msgid "Resource packs that serve another purpose, how otherworldly!"
+msgstr "用于其他用途的资源包，非常超凡脱俗！"
+
+#. Main.WorkshopTags.OtherResourcePacks
+msgctxt "Main.WorkshopTags.OtherResourcePacks"
+msgid "Other"
+msgstr "其他"
+
+#. Main.WorkshopTags.OtherWorlds
+msgctxt "Main.WorkshopTags.OtherWorlds"
+msgid "Other"
+msgstr "其他"
+
+#. Main.WorkshopTags.OtherWorldsDescription
+msgctxt "Main.WorkshopTags.OtherWorldsDescription"
+msgid "Worlds that serve another purpose, not to be confused with Otherworlds!"
+msgstr "用于其他用途的世界，不要与异世界混淆！"
+
+#. Main.WorkshopTags.Overhaul
+msgctxt "Main.WorkshopTags.Overhaul"
+msgid "Overhaul"
+msgstr "修整"
+
+#. Main.WorkshopTags.OverhaulDescription
+msgctxt "Main.WorkshopTags.OverhaulDescription"
+msgid "Resource packs that completely overhaul a portion, or all of Terraria!"
+msgstr "对泰拉瑞亚进行部分或全部彻底修整的资源包！"
+
+#. Main.WorkshopTags.PopularCulture
+msgctxt "Main.WorkshopTags.PopularCulture"
+msgid "Pop Culture"
+msgstr "流行文化"
+
+#. Main.WorkshopTags.PopularCultureDescription
+msgctxt "Main.WorkshopTags.PopularCultureDescription"
+msgid "Resource packs filled with popular culture."
+msgstr "充满流行文化的资源包。"
+
+#. Main.WorkshopTags.SmallWorlds
+msgctxt "Main.WorkshopTags.SmallWorlds"
+msgid "Small"
+msgstr "小"
+
+#. Main.WorkshopTags.SmallWorldsDescription
+msgctxt "Main.WorkshopTags.SmallWorldsDescription"
+msgid "Worlds that are small, compact, and comfortable!"
+msgstr "小巧、紧凑且舒适的世界！"
+
+#. Main.WorkshopTags.StarterWorlds
+msgctxt "Main.WorkshopTags.StarterWorlds"
+msgid "Starter"
+msgstr "新手"
+
+#. Main.WorkshopTags.StarterWorldsDescription
+msgctxt "Main.WorkshopTags.StarterWorldsDescription"
+msgid "Worlds where you have a good head start."
+msgstr "可让你在其中拥有良好开端的世界。"
+
+#. Main.WorkshopTags.Tweaks
+msgctxt "Main.WorkshopTags.Tweaks"
+msgid "Tweaks"
+msgstr "微调"
+
+#. Main.WorkshopTags.TweaksDescription
+msgctxt "Main.WorkshopTags.TweaksDescription"
+msgid "Resource packs that aim to only make minor changes to specific things."
+msgstr "仅对特定内容进行细微更改的资源包。"
 
 #. NPCs.NPCName.AncientCultistSquidhead
 msgctxt "NPCs.NPCName.AncientCultistSquidhead"
@@ -73465,22 +74052,22 @@ msgstr "泡泡"
 #. Projectiles.ProjectileName.Bullet
 msgctxt "Projectiles.ProjectileName.Bullet"
 msgid "Bullet"
-msgstr "子弹"
+msgstr "比莱"
 
 #. Projectiles.ProjectileName.BulletDeadeye
 msgctxt "Projectiles.ProjectileName.BulletDeadeye"
 msgid "Bullet"
-msgstr "子弹"
+msgstr "比莱"
 
 #. Projectiles.ProjectileName.BulletHighVelocity
 msgctxt "Projectiles.ProjectileName.BulletHighVelocity"
 msgid "Bullet"
-msgstr "子弹"
+msgstr "比莱"
 
 #. Projectiles.ProjectileName.BulletSnowman
 msgctxt "Projectiles.ProjectileName.BulletSnowman"
 msgid "Bullet"
-msgstr "子弹"
+msgstr "比莱"
 
 #. Projectiles.ProjectileName.Bunny
 msgctxt "Projectiles.ProjectileName.Bunny"
@@ -73580,7 +74167,7 @@ msgstr "叶绿箭"
 #. Projectiles.ProjectileName.ChlorophyteBullet
 msgctxt "Projectiles.ProjectileName.ChlorophyteBullet"
 msgid "Bullet"
-msgstr "子弹"
+msgstr "比莱"
 
 #. Projectiles.ProjectileName.ChlorophyteChainsaw
 msgctxt "Projectiles.ProjectileName.ChlorophyteChainsaw"
@@ -74265,12 +74852,12 @@ msgstr "火箭"
 #. Projectiles.ProjectileName.DualHookBlue
 msgctxt "Projectiles.ProjectileName.DualHookBlue"
 msgid "Hook"
-msgstr "钩子"
+msgstr "爪钩"
 
 #. Projectiles.ProjectileName.DualHookRed
 msgctxt "Projectiles.ProjectileName.DualHookRed"
 msgid "Hook"
-msgstr "钩子"
+msgstr "爪钩"
 
 #. Projectiles.ProjectileName.Dynamite
 msgctxt "Projectiles.ProjectileName.Dynamite"
@@ -74995,7 +75582,7 @@ msgstr "火箭"
 #. Projectiles.ProjectileName.Hook
 msgctxt "Projectiles.ProjectileName.Hook"
 msgid "Hook"
-msgstr "钩子"
+msgstr "爪钩"
 
 #. Projectiles.ProjectileName.Hornet
 msgctxt "Projectiles.ProjectileName.Hornet"
@@ -75060,7 +75647,7 @@ msgstr "灵液溅弹"
 #. Projectiles.ProjectileName.IlluminantHook
 msgctxt "Projectiles.ProjectileName.IlluminantHook"
 msgid "Hook"
-msgstr "钩子"
+msgstr "爪钩"
 
 #. Projectiles.ProjectileName.ImpFireball
 msgctxt "Projectiles.ProjectileName.ImpFireball"
@@ -76650,7 +77237,7 @@ msgstr "蜘蛛炮塔"
 #. Projectiles.ProjectileName.Spike
 msgctxt "Projectiles.ProjectileName.Spike"
 msgid "Spike"
-msgstr "尖刺"
+msgstr "斯派克"
 
 #. Projectiles.ProjectileName.SpikedSlimeSpike
 msgctxt "Projectiles.ProjectileName.SpikedSlimeSpike"
@@ -76721,6 +77308,11 @@ msgstr "尖桩"
 msgctxt "Projectiles.ProjectileName.StarAnise"
 msgid "Star Anise"
 msgstr "星形茴香"
+
+#. Projectiles.ProjectileName.StarCannonStar
+msgctxt "Projectiles.ProjectileName.StarCannonStar"
+msgid "{$ProjectileName.FallingStar}"
+msgstr "{$ProjectileName.FallingStar}"
 
 #. Projectiles.ProjectileName.StarCloakStar
 msgctxt "Projectiles.ProjectileName.StarCloakStar"
@@ -76920,7 +77512,7 @@ msgstr "暴风雨"
 #. Projectiles.ProjectileName.TendonHook
 msgctxt "Projectiles.ProjectileName.TendonHook"
 msgid "Hook"
-msgstr "钩子"
+msgstr "爪钩"
 
 #. Projectiles.ProjectileName.TerraBeam
 msgctxt "Projectiles.ProjectileName.TerraBeam"
@@ -76975,7 +77567,7 @@ msgstr "荆棘旋刃"
 #. Projectiles.ProjectileName.ThornHook
 msgctxt "Projectiles.ProjectileName.ThornHook"
 msgid "Hook"
-msgstr "钩子"
+msgstr "爪钩"
 
 #. Projectiles.ProjectileName.ThornWhip
 msgctxt "Projectiles.ProjectileName.ThornWhip"
@@ -77282,6 +77874,11 @@ msgctxt "Projectiles.ProjectileName.VortexVortexPortal"
 msgid "Vortex"
 msgstr "星旋"
 
+#. Projectiles.ProjectileName.WandOfSparkingSpark
+msgctxt "Projectiles.ProjectileName.WandOfSparkingSpark"
+msgid "{$ProjectileName.Spark}"
+msgstr "{$ProjectileName.Spark}"
+
 #. Projectiles.ProjectileName.Wasp
 msgctxt "Projectiles.ProjectileName.Wasp"
 msgid "Wasp"
@@ -77439,7 +78036,7 @@ msgctxt "Town.AnglerChatter.Chatter_4"
 msgid ""
 "There's no chefs in all of {WorldName}, so I have to cook all this fish "
 "myself! "
-msgstr "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！ "
+msgstr "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！"
 
 #. Town.AnglerChatter.Chatter_5
 msgctxt "Town.AnglerChatter.Chatter_5"
@@ -80075,7 +80672,7 @@ msgstr "纵火犯"
 #. Town.DogNames_Dalmation.Lucky
 msgctxt "Town.DogNames_Dalmation.Lucky"
 msgid "Lucky"
-msgstr "乐奇"
+msgstr "幸运"
 
 #. Town.DogNames_Dalmation.Marshall
 msgctxt "Town.DogNames_Dalmation.Marshall"
@@ -80175,7 +80772,7 @@ msgstr "萨莎"
 #. Town.DogNames_Husky.Sky
 msgctxt "Town.DogNames_Husky.Sky"
 msgid "Sky"
-msgstr "斯凯"
+msgstr "天空"
 
 #. Town.DogNames_Husky.Snowdog
 msgctxt "Town.DogNames_Husky.Snowdog"
@@ -80240,7 +80837,7 @@ msgstr "基蒂"
 #. Town.DogNames_Labrador.Lucky
 msgctxt "Town.DogNames_Labrador.Lucky"
 msgid "Lucky"
-msgstr "乐奇"
+msgstr "幸运"
 
 #. Town.DogNames_Labrador.Mike
 msgctxt "Town.DogNames_Labrador.Mike"
@@ -81770,7 +82367,7 @@ msgstr "{?PumpkingDefeated}南瓜王似乎真是个两面派。我不会放弃�
 #. Town.PrincessChatter.Chatter_11
 msgctxt "Town.PrincessChatter.Chatter_11"
 msgid "Pink is the best color anyone could ask for! "
-msgstr "粉红色是任何人都梦寐以求的最佳颜色！ "
+msgstr "粉红色是任何人都梦寐以求的最佳颜色！"
 
 #. Town.PrincessChatter.Chatter_12
 msgctxt "Town.PrincessChatter.Chatter_12"
@@ -81784,7 +82381,7 @@ msgctxt "Town.PrincessChatter.Chatter_13"
 msgid ""
 "Um... being a princess can be so uneventful sometimes, so I took up many "
 "hobbies! "
-msgstr "呃...当公主有时候挺平淡的，所以我养成了许多爱好！ "
+msgstr "呃...当公主有时候挺平淡的，所以我养成了许多爱好！"
 
 #. Town.PrincessChatter.Chatter_14
 msgctxt "Town.PrincessChatter.Chatter_14"
@@ -83768,7 +84365,7 @@ msgstr "我非常喜欢{NPCName}的派对风格。"
 msgctxt "Town.TownNPCMood_PartyGirl.LikeNPC_Princess"
 msgid ""
 "YES, {NPCName} loves pink and bright, glittery things, SHE LOVES TO PARTY! "
-msgstr "是的，{NPCName}喜欢粉红色和闪闪发亮的东西，她超级喜欢派对！ "
+msgstr "是的，{NPCName}喜欢粉红色和闪闪发亮的东西，她超级喜欢派对！"
 
 #. Town.TownNPCMood_PartyGirl.LoveBiome
 msgctxt "Town.TownNPCMood_PartyGirl.LoveBiome"
@@ -84162,7 +84759,7 @@ msgstr "我喜欢和{NPCName}在一起。"
 #. Town.TownNPCMood_SantaClaus.LikeNPC_Princess
 msgctxt "Town.TownNPCMood_SantaClaus.LikeNPC_Princess"
 msgid "Ho ho ho, {NPCName} is most certainly on top of the nice list. "
-msgstr "嗬嗬嗬，{NPCName}无疑是头号乖乖仔。 "
+msgstr "嗬嗬嗬，{NPCName}无疑是头号乖乖仔。"
 
 #. Town.TownNPCMood_SantaClaus.LoveBiome
 msgctxt "Town.TownNPCMood_SantaClaus.LoveBiome"
@@ -84580,7 +85177,7 @@ msgstr "{NPCName}是志同道合的大自然使者，有他们在，我的心灵
 #. Town.TownNPCMood_WitchDoctor.LikeNPC_Princess
 msgctxt "Town.TownNPCMood_WitchDoctor.LikeNPC_Princess"
 msgid "Kind to my people, {NPCName} is. Much appreciated. "
-msgstr "{NPCName}对我的人很好。我非常感谢。 "
+msgstr "{NPCName}对我的人很好。我非常感谢。"
 
 #. Town.TownNPCMood_WitchDoctor.LoveBiome
 msgctxt "Town.TownNPCMood_WitchDoctor.LoveBiome"
