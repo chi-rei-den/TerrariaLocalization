@@ -47598,11 +47598,6 @@ msgctxt "Items.ItemTooltip.WarriorEmblem"
 msgid "15% increased melee damage"
 msgstr ""
 
-#. Items.ItemTooltip.WaspGun
-msgctxt "Items.ItemTooltip.WaspGun"
-msgid "Wasp Gun"
-msgstr ""
-
 #. Items.ItemTooltip.WatchfulAntlion
 msgctxt "Items.ItemTooltip.WatchfulAntlion"
 msgid "{$PaintingArtist.Aurora} (Restored)"
@@ -68059,9 +68054,19 @@ msgctxt "Main.UI.HoverControlSettingIsHold"
 msgid "Hover Controls: Hold"
 msgstr ""
 
+#. Main.UI.Import
+msgctxt "Main.UI.Import"
+msgid "Import"
+msgstr ""
+
 #. Main.UI.Info
 msgctxt "Main.UI.Info"
 msgid "Info"
+msgstr ""
+
+#. Main.UI.IssueReporterHasThingsToShow
+msgctxt "Main.UI.IssueReporterHasThingsToShow"
+msgid "See issues"
 msgstr ""
 
 #. Main.UI.ItemCannotBePlacedInsideItself
@@ -68259,9 +68264,19 @@ msgctxt "Main.UI.RandomizePlayer"
 msgid "Randomize player"
 msgstr ""
 
+#. Main.UI.Rename
+msgctxt "Main.UI.Rename"
+msgid "Rename"
+msgstr ""
+
+#. Main.UI.ReportsPage
+msgctxt "Main.UI.ReportsPage"
+msgid "Reports Page"
+msgstr ""
+
 #. Main.UI.ResourcePacks
 msgctxt "Main.UI.ResourcePacks"
-msgid "Texture Packs"
+msgid "Resource Packs"
 msgstr ""
 
 #. Main.UI.RestoreButton
@@ -68377,6 +68392,31 @@ msgstr ""
 #. Main.UI.Version
 msgctxt "Main.UI.Version"
 msgid "Version {0}"
+msgstr ""
+
+#. Main.UI.Workshop
+msgctxt "Main.UI.Workshop"
+msgid "Workshop"
+msgstr ""
+
+#. Main.UI.WorkshopHub
+msgctxt "Main.UI.WorkshopHub"
+msgid "Workshop Hub"
+msgstr ""
+
+#. Main.UI.WorkshopImportWorld
+msgctxt "Main.UI.WorkshopImportWorld"
+msgid "Import Workshop Worlds"
+msgstr ""
+
+#. Main.UI.WorkshopSelectResourcePackToPublishMenuTitle
+msgctxt "Main.UI.WorkshopSelectResourcePackToPublishMenuTitle"
+msgid "Select Resource Pack To Publish"
+msgstr ""
+
+#. Main.UI.WorkshopSelectWorldToPublishMenuTitle
+msgctxt "Main.UI.WorkshopSelectWorldToPublishMenuTitle"
+msgid "Select World To Publish"
 msgstr ""
 
 #. Main.UI.WorldCannotBeLoadedBecauseItHasAnInvalidGameMode
@@ -68547,6 +68587,533 @@ msgstr ""
 #. Main.UI.ZoomOut
 msgctxt "Main.UI.ZoomOut"
 msgid "{$LegacyMenu.169}"
+msgstr ""
+
+#. Main.Workshop.CategoryTitleDisclaimer
+msgctxt "Main.Workshop.CategoryTitleDisclaimer"
+msgid "Service Agreement"
+msgstr ""
+
+#. Main.Workshop.CategoryTitlePublicity
+msgctxt "Main.Workshop.CategoryTitlePublicity"
+msgid "Visibility"
+msgstr ""
+
+#. Main.Workshop.CategoryTitleTags
+msgctxt "Main.Workshop.CategoryTitleTags"
+msgid "Tags"
+msgstr ""
+
+#. Main.Workshop.EnterNewNameForImportedWorld
+msgctxt "Main.Workshop.EnterNewNameForImportedWorld"
+msgid "Enter World Name:"
+msgstr ""
+
+#. Main.Workshop.HubDescriptionDefault
+msgctxt "Main.Workshop.HubDescriptionDefault"
+msgid "Choose an option for more information."
+msgstr ""
+
+#. Main.Workshop.HubDescriptionImportWorlds
+msgctxt "Main.Workshop.HubDescriptionImportWorlds"
+msgid ""
+"Import Worlds you've subscribed to from the Steam Workshop to your own list "
+"of Worlds, so that you can explore them."
+msgstr ""
+
+#. Main.Workshop.HubDescriptionPublishResourcePacks
+msgctxt "Main.Workshop.HubDescriptionPublishResourcePacks"
+msgid ""
+"Publish your Resource Packs to the Steam Workshop, so that others can enjoy "
+"them."
+msgstr ""
+
+#. Main.Workshop.HubDescriptionPublishWorlds
+msgctxt "Main.Workshop.HubDescriptionPublishWorlds"
+msgid ""
+"Publish your Worlds to the Steam Workshop, so that others can enjoy them."
+msgstr ""
+
+#. Main.Workshop.HubDescriptionUseResourcePacks
+msgctxt "Main.Workshop.HubDescriptionUseResourcePacks"
+msgid ""
+"Use Resource Packs you've downloaded or subscribed to from the Steam "
+"Workshop, so that you can enjoy their art & localizations."
+msgstr ""
+
+#. Main.Workshop.HubPublishResourcePacks
+msgctxt "Main.Workshop.HubPublishResourcePacks"
+msgid "Publish Resource Packs"
+msgstr ""
+
+#. Main.Workshop.HubPublishWorlds
+msgctxt "Main.Workshop.HubPublishWorlds"
+msgid "Publish Worlds"
+msgstr ""
+
+#. Main.Workshop.HubResourcePacks
+msgctxt "Main.Workshop.HubResourcePacks"
+msgid "Use Resource Packs"
+msgstr ""
+
+#. Main.Workshop.HubWorlds
+msgctxt "Main.Workshop.HubWorlds"
+msgid "Import Worlds"
+msgstr ""
+
+#. Main.Workshop.InfoDescriptionDefault
+msgctxt "Main.Workshop.InfoDescriptionDefault"
+msgid "Please choose how your item will be published with the options above"
+msgstr ""
+
+#. Main.Workshop.PreviewImagePathDescription
+msgctxt "Main.Workshop.PreviewImagePathDescription"
+msgid ""
+"Choose a preview image for this item,\n"
+"this image will be displayed when browsing the workshop (max size 512x512)"
+msgstr ""
+
+#. Main.Workshop.PreviewImagePathEmpty
+msgctxt "Main.Workshop.PreviewImagePathEmpty"
+msgid "Empty"
+msgstr ""
+
+#. Main.Workshop.PreviewImagePathTitle
+msgctxt "Main.Workshop.PreviewImagePathTitle"
+msgid "Image:"
+msgstr ""
+
+#. Main.Workshop.Publish
+msgctxt "Main.Workshop.Publish"
+msgid "Publish"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_CannotPublishZips
+msgctxt "Main.Workshop.ReportIssue_CannotPublishZips"
+msgid "Zipped Resource Packs cannot be published to the workshop!"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_CouldNotCreateResourcePackManifestFile
+msgctxt "Main.Workshop.ReportIssue_CouldNotCreateResourcePackManifestFile"
+msgid "Could not create resource pack manifest! reason: {Reason}"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_CouldNotCreateTemporaryFolder
+msgctxt "Main.Workshop.ReportIssue_CouldNotCreateTemporaryFolder"
+msgid "Could not create temporary folder!"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToLoadSubscribedFile
+msgctxt "Main.Workshop.ReportIssue_FailedToLoadSubscribedFile"
+msgid "Failed to load subscribed file! path: {FilePath}! reason: {Reason}"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLicenseForApp
+msgctxt ""
+"Main.Workshop.ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLice"
+"nseForApp"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} If this issue repeats, try "
+"restarting steam please!"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_Common
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_Common"
+msgid "Failed to publish the item to steam!"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_CouldNotFindFolderToUpload
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_CouldNotFindFolderToUpload"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} The content folder for the "
+"published item is missing?!"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_ImageSizeIsTooLarge
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_ImageSizeIsTooLarge"
+msgid ""
+"The image you're trying to use has to be 512x512 pixels or less in "
+"size!\n"
+"Current Size: {Width}x{Height}."
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_InvalidParametersForPublishing
+msgctxt ""
+"Main.Workshop.ReportIssue_FailedToPublish_InvalidParametersForPublishing"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} Did you modify the game's "
+"steam application ID?"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_LimitExceeded
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_LimitExceeded"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} Size limit exceeded! Please "
+"make sure your preview image is under 1mb in size, and that you have space "
+"for you to publish to your steam cloud"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_SteamFileLockFailed
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_SteamFileLockFailed"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} Failed to acquire UGC Lock. If "
+"this issue repeats, try restarting steam please!"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_UserDidNotAcceptWorkshopTermsOfService
+msgctxt ""
+"Main.Workshop.ReportIssue_FailedToPublish_UserDidNotAcceptWorkshopTermsOfServi"
+"ce"
+msgid ""
+"{$Workshop.ReportIssue_FailedToPublish_Common} You need to accept the "
+"Workshop's terms of service!"
+msgstr ""
+
+#. Main.Workshop.ReportIssue_FailedToPublish_WithoutKnownReason
+msgctxt "Main.Workshop.ReportIssue_FailedToPublish_WithoutKnownReason"
+msgid "{$Workshop.ReportIssue_FailedToPublish_Common} Error Code: {Reason}"
+msgstr ""
+
+#. Main.Workshop.ReportLogsButton
+msgctxt "Main.Workshop.ReportLogsButton"
+msgid "Logs"
+msgstr ""
+
+#. Main.Workshop.ReportLogsInitialMessage
+msgctxt "Main.Workshop.ReportLogsInitialMessage"
+msgid "There is nothing to show yet."
+msgstr ""
+
+#. Main.Workshop.ResourcePackName
+msgctxt "Main.Workshop.ResourcePackName"
+msgid "Name:"
+msgstr ""
+
+#. Main.Workshop.ResourcePackPublishDescription
+msgctxt "Main.Workshop.ResourcePackPublishDescription"
+msgid ""
+"Publishing a resource pack will upload it to the Steam Workshop as private - "
+"visibly only to you, by default. You can adjust its preview image, title, and "
+"description as you wish from its steam Entry page, and then set it public "
+"when you're ready. By submitting this resource pack, you agree to the "
+"workshop terms of service."
+msgstr ""
+
+#. Main.Workshop.SettingsPublicityDescriptionSharedNote
+msgctxt "Main.Workshop.SettingsPublicityDescriptionSharedNote"
+msgid ""
+"You can adjust your content's visibility setting through its workshop page at "
+"any time"
+msgstr ""
+
+#. Main.Workshop.SettingsPublicityFriendsOnly
+msgctxt "Main.Workshop.SettingsPublicityFriendsOnly"
+msgid "Friends Only"
+msgstr ""
+
+#. Main.Workshop.SettingsPublicityFriendsOnlyDescription
+msgctxt "Main.Workshop.SettingsPublicityFriendsOnlyDescription"
+msgid ""
+"Your content will only be visible & usable by you & your friends once "
+"published\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+msgstr ""
+
+#. Main.Workshop.SettingsPublicityPrivate
+msgctxt "Main.Workshop.SettingsPublicityPrivate"
+msgid "Private"
+msgstr ""
+
+#. Main.Workshop.SettingsPublicityPrivateDescription
+msgctxt "Main.Workshop.SettingsPublicityPrivateDescription"
+msgid ""
+"Your content will only be visible to you once "
+"published\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+msgstr ""
+
+#. Main.Workshop.SettingsPublicityPublic
+msgctxt "Main.Workshop.SettingsPublicityPublic"
+msgid "Public"
+msgstr ""
+
+#. Main.Workshop.SettingsPublicityPublicDescription
+msgctxt "Main.Workshop.SettingsPublicityPublicDescription"
+msgid ""
+"Your content will be visible & available to everyone as soon as it is "
+"published\n"
+"{$Workshop.SettingsPublicityDescriptionSharedNote}"
+msgstr ""
+
+#. Main.Workshop.SteamDisclaimer
+msgctxt "Main.Workshop.SteamDisclaimer"
+msgid "By submitting this item, you agree to the Workshop terms of service."
+msgstr ""
+
+#. Main.Workshop.SteamDisclaimerDescrpition
+msgctxt "Main.Workshop.SteamDisclaimerDescrpition"
+msgid ""
+"Open the full steam terms of service page\n"
+"Please upload content responsibly"
+msgstr ""
+
+#. Main.Workshop.WorldName
+msgctxt "Main.Workshop.WorldName"
+msgid "Name:"
+msgstr ""
+
+#. Main.Workshop.WorldPublishDescription
+msgctxt "Main.Workshop.WorldPublishDescription"
+msgid ""
+"Publishing a world will upload it to the Steam Workshop as private - visibly "
+"only to you, by default. You can adjust its preview image, title, and "
+"description as you wish from its steam Entry page, and then set it public "
+"when you're ready. By submitting this world, you agree to the workshop terms "
+"of service."
+msgstr ""
+
+#. Main.WorkshopTags.AdventureWorlds
+msgctxt "Main.WorkshopTags.AdventureWorlds"
+msgid "Adventure"
+msgstr ""
+
+#. Main.WorkshopTags.AdventureWorldsDescription
+msgctxt "Main.WorkshopTags.AdventureWorldsDescription"
+msgid ""
+"Hand-crafted Worlds where you go on an awesome adventure with defined rules!"
+msgstr ""
+
+#. Main.WorkshopTags.AllItemsWorlds
+msgctxt "Main.WorkshopTags.AllItemsWorlds"
+msgid "All Items"
+msgstr ""
+
+#. Main.WorkshopTags.AllItemsWorldsDescription
+msgctxt "Main.WorkshopTags.AllItemsWorldsDescription"
+msgid "Worlds where you can find every item in chests."
+msgstr ""
+
+#. Main.WorkshopTags.ChallengeWorlds
+msgctxt "Main.WorkshopTags.ChallengeWorlds"
+msgid "Challenge"
+msgstr ""
+
+#. Main.WorkshopTags.ChallengeWorldsDescription
+msgctxt "Main.WorkshopTags.ChallengeWorldsDescription"
+msgid "Worlds that challenge your abilities! From Parkour to Puzzles and more!"
+msgstr ""
+
+#. Main.WorkshopTags.ClassicWorlds
+msgctxt "Main.WorkshopTags.ClassicWorlds"
+msgid "Classic"
+msgstr ""
+
+#. Main.WorkshopTags.ClassicWorldsDescription
+msgctxt "Main.WorkshopTags.ClassicWorldsDescription"
+msgid "Worlds based in the standard Terraria experience setting."
+msgstr ""
+
+#. Main.WorkshopTags.CorruptionWorlds
+msgctxt "Main.WorkshopTags.CorruptionWorlds"
+msgid "Corruption"
+msgstr ""
+
+#. Main.WorkshopTags.CorruptionWorldsDescription
+msgctxt "Main.WorkshopTags.CorruptionWorldsDescription"
+msgid "Worlds infected by the evil Corruption."
+msgstr ""
+
+#. Main.WorkshopTags.CrimsonWorlds
+msgctxt "Main.WorkshopTags.CrimsonWorlds"
+msgid "Crimson"
+msgstr ""
+
+#. Main.WorkshopTags.CrimsonWorldsDescription
+msgctxt "Main.WorkshopTags.CrimsonWorldsDescription"
+msgid "Worlds afflicted by the all-devouring Crimson."
+msgstr ""
+
+#. Main.WorkshopTags.ExpertWorlds
+msgctxt "Main.WorkshopTags.ExpertWorlds"
+msgid "Expert"
+msgstr ""
+
+#. Main.WorkshopTags.ExpertWorldsDescription
+msgctxt "Main.WorkshopTags.ExpertWorldsDescription"
+msgid "Worlds based on expert difficulty -  fortune and glory, kid!"
+msgstr ""
+
+#. Main.WorkshopTags.FromTerrariaMods
+msgctxt "Main.WorkshopTags.FromTerrariaMods"
+msgid "From Mods"
+msgstr ""
+
+#. Main.WorkshopTags.FromTerrariaModsDescription
+msgctxt "Main.WorkshopTags.FromTerrariaModsDescription"
+msgid "Resource packs with content based on mods."
+msgstr ""
+
+#. Main.WorkshopTags.FunSilly
+msgctxt "Main.WorkshopTags.FunSilly"
+msgid "Fun/Silly"
+msgstr ""
+
+#. Main.WorkshopTags.FunSillyDescription
+msgctxt "Main.WorkshopTags.FunSillyDescription"
+msgid "Resource packs of amusing, silly things. Your memes go here!"
+msgstr ""
+
+#. Main.WorkshopTags.GolfWorlds
+msgctxt "Main.WorkshopTags.GolfWorlds"
+msgid "Golf"
+msgstr ""
+
+#. Main.WorkshopTags.GolfWorldsDescription
+msgctxt "Main.WorkshopTags.GolfWorldsDescription"
+msgid ""
+"Handmade Terraria Golf Courses where you can tee off to set the course record."
+msgstr ""
+
+#. Main.WorkshopTags.HighResolution
+msgctxt "Main.WorkshopTags.HighResolution"
+msgid "High-Res"
+msgstr ""
+
+#. Main.WorkshopTags.HighResolutionDescription
+msgctxt "Main.WorkshopTags.HighResolutionDescription"
+msgid "Resource packs which focus on high resolution content."
+msgstr ""
+
+#. Main.WorkshopTags.JourneyWorlds
+msgctxt "Main.WorkshopTags.JourneyWorlds"
+msgid "Journey"
+msgstr ""
+
+#. Main.WorkshopTags.JourneyWorldsDescription
+msgctxt "Main.WorkshopTags.JourneyWorldsDescription"
+msgid ""
+"Worlds requiring Journey Mode characters – great power & great responsibility!"
+msgstr ""
+
+#. Main.WorkshopTags.LanguageTranslations
+msgctxt "Main.WorkshopTags.LanguageTranslations"
+msgid "Translations"
+msgstr ""
+
+#. Main.WorkshopTags.LanguageTranslationsDescription
+msgctxt "Main.WorkshopTags.LanguageTranslationsDescription"
+msgid "Resource packs that adjust translations, or add completely new ones!"
+msgstr ""
+
+#. Main.WorkshopTags.LargeWorlds
+msgctxt "Main.WorkshopTags.LargeWorlds"
+msgid "Large"
+msgstr ""
+
+#. Main.WorkshopTags.LargeWorldsDescription
+msgctxt "Main.WorkshopTags.LargeWorldsDescription"
+msgid "Worlds large enough for a full party!"
+msgstr ""
+
+#. Main.WorkshopTags.MasterWorlds
+msgctxt "Main.WorkshopTags.MasterWorlds"
+msgid "Master"
+msgstr ""
+
+#. Main.WorkshopTags.MasterWorldsDescription
+msgctxt "Main.WorkshopTags.MasterWorldsDescription"
+msgid ""
+"Worlds based on Master difficulty, only for the foolhardy challenge-seeker!"
+msgstr ""
+
+#. Main.WorkshopTags.MediumWorlds
+msgctxt "Main.WorkshopTags.MediumWorlds"
+msgid "Medium"
+msgstr ""
+
+#. Main.WorkshopTags.MediumWorldsDescription
+msgctxt "Main.WorkshopTags.MediumWorldsDescription"
+msgid "Worlds sized not too small or large, just right!"
+msgstr ""
+
+#. Main.WorkshopTags.Music
+msgctxt "Main.WorkshopTags.Music"
+msgid "Music"
+msgstr ""
+
+#. Main.WorkshopTags.MusicDescription
+msgctxt "Main.WorkshopTags.MusicDescription"
+msgid "Resource packs that alter Terraria's music, giving new vibes!"
+msgstr ""
+
+#. Main.WorkshopTags.OtherResourceDescription
+msgctxt "Main.WorkshopTags.OtherResourceDescription"
+msgid "Resource packs that serve another purpose, how otherworldly!"
+msgstr ""
+
+#. Main.WorkshopTags.OtherResourcePacks
+msgctxt "Main.WorkshopTags.OtherResourcePacks"
+msgid "Other"
+msgstr ""
+
+#. Main.WorkshopTags.OtherWorlds
+msgctxt "Main.WorkshopTags.OtherWorlds"
+msgid "Other"
+msgstr ""
+
+#. Main.WorkshopTags.OtherWorldsDescription
+msgctxt "Main.WorkshopTags.OtherWorldsDescription"
+msgid "Worlds that serve another purpose, not to be confused with Otherworlds!"
+msgstr ""
+
+#. Main.WorkshopTags.Overhaul
+msgctxt "Main.WorkshopTags.Overhaul"
+msgid "Overhaul"
+msgstr ""
+
+#. Main.WorkshopTags.OverhaulDescription
+msgctxt "Main.WorkshopTags.OverhaulDescription"
+msgid "Resource packs that completely overhaul a portion, or all of Terraria!"
+msgstr ""
+
+#. Main.WorkshopTags.PopularCulture
+msgctxt "Main.WorkshopTags.PopularCulture"
+msgid "Pop Culture"
+msgstr ""
+
+#. Main.WorkshopTags.PopularCultureDescription
+msgctxt "Main.WorkshopTags.PopularCultureDescription"
+msgid "Resource packs filled with popular culture."
+msgstr ""
+
+#. Main.WorkshopTags.SmallWorlds
+msgctxt "Main.WorkshopTags.SmallWorlds"
+msgid "Small"
+msgstr ""
+
+#. Main.WorkshopTags.SmallWorldsDescription
+msgctxt "Main.WorkshopTags.SmallWorldsDescription"
+msgid "Worlds that are small, compact, and comfortable!"
+msgstr ""
+
+#. Main.WorkshopTags.StarterWorlds
+msgctxt "Main.WorkshopTags.StarterWorlds"
+msgid "Starter"
+msgstr ""
+
+#. Main.WorkshopTags.StarterWorldsDescription
+msgctxt "Main.WorkshopTags.StarterWorldsDescription"
+msgid "Worlds where you have a good head start."
+msgstr ""
+
+#. Main.WorkshopTags.Tweaks
+msgctxt "Main.WorkshopTags.Tweaks"
+msgid "Tweaks"
+msgstr ""
+
+#. Main.WorkshopTags.TweaksDescription
+msgctxt "Main.WorkshopTags.TweaksDescription"
+msgid "Resource packs that aim to only make minor changes to specific things."
 msgstr ""
 
 #. NPCs.NPCName.AncientCultistSquidhead
@@ -75614,6 +76181,11 @@ msgctxt "Projectiles.ProjectileName.StarAnise"
 msgid "Star Anise"
 msgstr ""
 
+#. Projectiles.ProjectileName.StarCannonStar
+msgctxt "Projectiles.ProjectileName.StarCannonStar"
+msgid "{$ProjectileName.FallingStar}"
+msgstr ""
+
 #. Projectiles.ProjectileName.StarCloakStar
 msgctxt "Projectiles.ProjectileName.StarCloakStar"
 msgid "Star Cloak"
@@ -76172,6 +76744,11 @@ msgstr ""
 #. Projectiles.ProjectileName.VortexVortexPortal
 msgctxt "Projectiles.ProjectileName.VortexVortexPortal"
 msgid "Vortex"
+msgstr ""
+
+#. Projectiles.ProjectileName.WandOfSparkingSpark
+msgctxt "Projectiles.ProjectileName.WandOfSparkingSpark"
+msgid "{$ProjectileName.Spark}"
 msgstr ""
 
 #. Projectiles.ProjectileName.Wasp
