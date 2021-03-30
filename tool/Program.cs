@@ -120,14 +120,14 @@ namespace Chireiden.Terraria.Converter
                     mapping.ToPO(output[1]);
                     break;
                 case "wscsv":
-                    if (output.Count < 3)
+                    if (output.Count < 2)
                     {
                         goto default;
                     }
                     mapping.ToWorkshopCsv(output[1], output.Skip(2).ToList());
                     break;
                 case "wsjson":
-                    if (output.Count < 3)
+                    if (output.Count < 2)
                     {
                         goto default;
                     }
@@ -348,9 +348,7 @@ namespace Chireiden.Terraria.Converter
 
         public LangMapping ToWorkshopCsv(string dstLang, List<string> args)
         {
-            Directory.CreateDirectory("Localization");
-            var lang = Path.Combine("Localization", dstLang);
-            Directory.CreateDirectory(lang);
+            var lang = this.EnsureWorkshop(dstLang);
             foreach (var fileGroup in this.List.GroupBy(i => i.FileName))
             {
                 using (var file = File.OpenWrite(Path.Combine(lang, $"{fileGroup.Key}.csv")))
@@ -380,9 +378,7 @@ namespace Chireiden.Terraria.Converter
 
         public LangMapping ToWorkshopJson(string dstLang, List<string> args)
         {
-            Directory.CreateDirectory("Localization");
-            var lang = Path.Combine("Localization", dstLang);
-            Directory.CreateDirectory(lang);
+            var lang = this.EnsureWorkshop(dstLang);
             var result = new Dictionary<string, Dictionary<string, Dictionary<string, string>>>();
             foreach (var fileGroup in this.List.GroupBy(i => i.FileName))
             {
@@ -399,6 +395,26 @@ namespace Chireiden.Terraria.Converter
             }
 
             return this.WithWorkshop(args);
+        }
+
+        private string EnsureWorkshop(string dstLang)
+        {
+            var path = "Content";
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+            path = Path.Combine(path, "Localization");
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+            path = Path.Combine(path, dstLang);
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+            return path;
         }
 
         private LangMapping WithWorkshop(List<string> args)
