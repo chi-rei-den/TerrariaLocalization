@@ -27,6 +27,8 @@ namespace Chireiden.Terraria.Converter
         asm <filePath> <dstLang> [bool:useMainReplacement=true]
         json <dstLang> [bool:useMainReplacement=true]
         po <path>
+        wscsv <dstLang> [name [author [version [description]]]]
+        wsjson <dstLang> [name [author [version [description]]]]
 
     Example:
         asm Terraria.exe true en-US en-CA -- json en true
@@ -40,7 +42,10 @@ namespace Chireiden.Terraria.Converter
         po name.po -- asm Terraria.exe en-US
             Read ""name.po"" for source and target language.
             Read ""Terraria.exe"" and replace all en-US language file with content of target.
-            If en-US.json does not exist in Terraria.exe, it will be saved as en-US.Main.json");
+            If en-US.json does not exist in Terraria.exe, it will be saved as en-US.Main.json
+        po name.po -- wscsv en-CA RandomPack Re-Logic 1.0 blahblahblah
+            Read ""name.po"" for source and target language.
+            Create a Language Pack for Steam Workshop (pack.json and Localization/en-CA/*.csv)");
             Console.ReadLine();
         }
 
@@ -113,6 +118,20 @@ namespace Chireiden.Terraria.Converter
                         goto default;
                     }
                     mapping.ToPO(output[1]);
+                    break;
+                case "wscsv":
+                    if (output.Count < 3)
+                    {
+                        goto default;
+                    }
+                    mapping.ToWorkshopCsv(output[1], output.Skip(2).ToList());
+                    break;
+                case "wsjson":
+                    if (output.Count < 3)
+                    {
+                        goto default;
+                    }
+                    mapping.ToWorkshopJson(output[1], output.Skip(2).ToList());
                     break;
                 default:
                     Usage();
@@ -323,6 +342,88 @@ namespace Chireiden.Terraria.Converter
             }
 
             new POGenerator().Generate(File.OpenWrite(path), catalog);
+
+            return this;
+        }
+
+        public LangMapping ToWorkshopCsv(string dstLang, List<string> args)
+        {
+            Directory.CreateDirectory("Localization");
+            var lang = Path.Combine("Localization", dstLang);
+            Directory.CreateDirectory(lang);
+            foreach (var fileGroup in this.List.GroupBy(i => i.FileName))
+            {
+                using (var file = File.OpenWrite(Path.Combine(lang, $"{fileGroup.Key}.csv")))
+                {
+                    using (var sw = new StreamWriter(file))
+                    {
+                        sw.WriteLine("key,translation");
+                        foreach (var item in fileGroup)
+                        {
+                            sw.Write($"{item.NodeName}.{item.KeyName},");
+                            if (item.Target.Contains(",") || item.Target.Contains("\"") || item.Target.Contains('\r') || item.Target.Contains('\n'))
+                            {
+
+                                sw.WriteLine($"\"{item.Target.Replace("\"", "\"\"")}\"");
+                            }
+                            else
+                            {
+                                sw.WriteLine(item.Target);
+                            }
+                        }
+                    }
+                }
+            }
+
+            return this.WithWorkshop(args);
+        }
+
+        public LangMapping ToWorkshopJson(string dstLang, List<string> args)
+        {
+            Directory.CreateDirectory("Localization");
+            var lang = Path.Combine("Localization", dstLang);
+            Directory.CreateDirectory(lang);
+            var result = new Dictionary<string, Dictionary<string, Dictionary<string, string>>>();
+            foreach (var fileGroup in this.List.GroupBy(i => i.FileName))
+            {
+                result[fileGroup.Key] = new Dictionary<string, Dictionary<string, string>>();
+                foreach (var node in fileGroup.GroupBy(i => i.NodeName))
+                {
+                    result[fileGroup.Key][node.Key] = node.ToDictionary(i => i.KeyName, i => i.Target);
+                }
+            }
+
+            foreach (var item in result)
+            {
+                File.WriteAllBytes(Path.Combine(lang, $"{item.Key}.json"), Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(item.Value, Formatting.Indented)));
+            }
+
+            return this.WithWorkshop(args);
+        }
+
+        private LangMapping WithWorkshop(List<string> args)
+        {
+            while (args.Count < 4)
+            {
+                args.Add("");
+            }
+
+            if (!Version.TryParse(args[2], out var ver))
+            {
+                ver = new Version(1, 0);
+            }
+
+            File.WriteAllBytes("pack.json", Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(new
+            {
+                Name = args[0],
+                Description = args[3],
+                Author = args[1],
+                Version = new
+                {
+                    major = ver.Major,
+                    minor = ver.Minor
+                },
+            }, Formatting.Indented)));
 
             return this;
         }
