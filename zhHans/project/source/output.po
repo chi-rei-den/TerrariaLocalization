@@ -3999,7 +3999,7 @@ msgstr ""
 #. Game.Bestiary_FlavorText.npc_Squirrel
 msgctxt "Game.Bestiary_FlavorText.npc_Squirrel"
 msgid ""
-"Fast moving and erratic woodland creatures with greyish-brown fur. Got nuts? "
+"Fast moving and erratic woodland creatures with grayish-brown fur. Got nuts? "
 msgstr ""
 
 #. Game.Bestiary_FlavorText.npc_SquirrelGold
@@ -5748,7 +5748,7 @@ msgstr ""
 
 #. Game.BuffDescription.ParryDamageBuff
 msgctxt "Game.BuffDescription.ParryDamageBuff"
-msgid "500% increased damage for next melee strike"
+msgid "400% increased damage for next melee strike"
 msgstr ""
 
 #. Game.BuffDescription.PartyMinecartLeft
@@ -42837,26 +42837,26 @@ msgstr ""
 
 #. Items.ItemTooltip.LogicGate_AND
 msgctxt "Items.ItemTooltip.LogicGate_AND"
-msgid "Activates when all lamps are on, Deactivates otherwise"
+msgid "Activates when all lamps are on, deactivates otherwise"
 msgstr ""
 
 #. Items.ItemTooltip.LogicGate_NAND
 msgctxt "Items.ItemTooltip.LogicGate_NAND"
-msgid "Activates when not all lamps are on, Deactivates otherwise"
+msgid "Activates when not all lamps are on, deactivates otherwise"
 msgstr ""
 
 #. Items.ItemTooltip.LogicGate_NOR
 msgctxt "Items.ItemTooltip.LogicGate_NOR"
 msgid ""
 "Judges logic gate lamps above it\n"
-"Activates when no lamp is on, Deactivates otherwise"
+"Activates when no lamp is on, deactivates otherwise"
 msgstr ""
 
 #. Items.ItemTooltip.LogicGate_NXOR
 msgctxt "Items.ItemTooltip.LogicGate_NXOR"
 msgid ""
 "Judges logic gate lamps above it\n"
-"Activates when the total 'on' lamps is not one, Deactivates otherwise\n"
+"Activates when the total 'on' lamps is not one, deactivates otherwise\n"
 "Also often called NXOR"
 msgstr ""
 
@@ -42864,14 +42864,14 @@ msgstr ""
 msgctxt "Items.ItemTooltip.LogicGate_OR"
 msgid ""
 "Judges logic gate lamps above it\n"
-"Activates when any lamp is on, Deactivates otherwise"
+"Activates when any lamp is on, deactivates otherwise"
 msgstr ""
 
 #. Items.ItemTooltip.LogicGate_XOR
 msgctxt "Items.ItemTooltip.LogicGate_XOR"
 msgid ""
 "Judges logic gate lamps above it\n"
-"Activates when only one lamp is on, Deactivates otherwise"
+"Activates when only one lamp is on, deactivates otherwise"
 msgstr ""
 
 #. Items.ItemTooltip.LogicGateLamp_Faulty
@@ -68521,7 +68521,7 @@ msgstr ""
 
 #. Main.UI.WorldDescriptionName
 msgctxt "Main.UI.WorldDescriptionName"
-msgid "Give your world a name! Choose carefully, you cannot change it later!"
+msgid "Give your world a name! You can always change it later if needed!"
 msgstr ""
 
 #. Main.UI.WorldDescriptionNormal
@@ -69046,14 +69046,14 @@ msgctxt "Main.WorkshopTags.MusicDescription"
 msgid "Resource packs that alter Terraria's music, giving new vibes!"
 msgstr ""
 
-#. Main.WorkshopTags.OtherResourceDescription
-msgctxt "Main.WorkshopTags.OtherResourceDescription"
-msgid "Resource packs that serve another purpose, how otherworldly!"
-msgstr ""
-
 #. Main.WorkshopTags.OtherResourcePacks
 msgctxt "Main.WorkshopTags.OtherResourcePacks"
 msgid "Other"
+msgstr ""
+
+#. Main.WorkshopTags.OtherResourcePacksDescription
+msgctxt "Main.WorkshopTags.OtherResourcePacksDescription"
+msgid "Resource packs that serve another purpose, how otherworldly!"
 msgstr ""
 
 #. Main.WorkshopTags.OtherWorlds
@@ -78488,6 +78488,11 @@ msgctxt "Town.BunnyNames_White.Donnie"
 msgid "Donnie"
 msgstr ""
 
+#. Town.BunnyNames_White.Ears
+msgctxt "Town.BunnyNames_White.Ears"
+msgid "Ears"
+msgstr ""
+
 #. Town.BunnyNames_White.Inaba
 msgctxt "Town.BunnyNames_White.Inaba"
 msgid "Inaba"
@@ -78566,6 +78571,11 @@ msgstr ""
 #. Town.CatNames_Black.Ember
 msgctxt "Town.CatNames_Black.Ember"
 msgid "Ember"
+msgstr ""
+
+#. Town.CatNames_Black.Esper
+msgctxt "Town.CatNames_Black.Esper"
+msgid "Esper"
 msgstr ""
 
 #. Town.CatNames_Black.Figment

@@ -4016,6 +4016,14 @@ Enemies are more likely to target you</seg>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>400% increased damage for next melee strike</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>下次近战暴击伤害增加400%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>45% increased damage</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
@@ -4160,14 +4168,6 @@ Highly inaccurate</seg>
       <tuv xml:lang="zh-CN">
         <seg>50%的几率不消耗弹药
 非常不准确</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>500% increased damage for next melee strike</seg>
-      </tuv>
-      <tuv xml:lang="zh-CN">
-        <seg>下次近战暴击伤害增加500%</seg>
       </tuv>
     </tu>
     <tu>
@@ -6376,7 +6376,7 @@ Grants immunity to knockback</seg>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Activates when all lamps are on, Deactivates otherwise</seg>
+        <seg>Activates when all lamps are on, deactivates otherwise</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>所有灯亮时激活，其他情况下停用</seg>
@@ -6392,7 +6392,7 @@ Grants immunity to knockback</seg>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Activates when not all lamps are on, Deactivates otherwise</seg>
+        <seg>Activates when not all lamps are on, deactivates otherwise</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>部分灯亮时激活，其他情况下停用</seg>
@@ -29738,6 +29738,14 @@ increasing ranged ability and reducing chance for enemies to target you but slow
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Esper</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>埃斯珀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Essence</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
@@ -31364,7 +31372,7 @@ increasing ranged ability and reducing chance for enemies to target you but slow
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Fast moving and erratic woodland creatures with greyish-brown fur. Got nuts?</seg>
+        <seg>Fast moving and erratic woodland creatures with grayish-brown fur. Got nuts?</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>快速移动和居无定所的林地生物，长有灰褐色的毛。有坚果吗？</seg>
@@ -35574,7 +35582,7 @@ Allows fishing in lava</seg>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Give your world a name! Choose carefully, you cannot change it later!</seg>
+        <seg>Give your world a name! You can always change it later if needed!</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>给你的世界起个名字吧！请谨慎选择，之后将无法更改！</seg>
@@ -50073,7 +50081,7 @@ Lightning Aura can now crit and strikes faster</seg>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Judges logic gate lamps above it
-Activates when any lamp is on, Deactivates otherwise</seg>
+Activates when any lamp is on, deactivates otherwise</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>判断它上面的逻辑门灯
@@ -50083,7 +50091,7 @@ Activates when any lamp is on, Deactivates otherwise</seg>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Judges logic gate lamps above it
-Activates when no lamp is on, Deactivates otherwise</seg>
+Activates when no lamp is on, deactivates otherwise</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>判断它上面的逻辑门灯
@@ -50093,7 +50101,7 @@ Activates when no lamp is on, Deactivates otherwise</seg>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Judges logic gate lamps above it
-Activates when only one lamp is on, Deactivates otherwise</seg>
+Activates when only one lamp is on, deactivates otherwise</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>判断它上面的逻辑门灯
@@ -50103,7 +50111,7 @@ Activates when only one lamp is on, Deactivates otherwise</seg>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Judges logic gate lamps above it
-Activates when the total 'on' lamps is not one, Deactivates otherwise
+Activates when the total 'on' lamps is not one, deactivates otherwise
 Also often called NXOR</seg>
       </tuv>
       <tuv xml:lang="zh-CN">

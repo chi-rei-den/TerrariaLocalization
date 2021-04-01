@@ -4046,7 +4046,7 @@ msgstr "一种长有触角的海洋生物，在遇到威胁时会喷出浓稠的
 #. Game.Bestiary_FlavorText.npc_Squirrel
 msgctxt "Game.Bestiary_FlavorText.npc_Squirrel"
 msgid ""
-"Fast moving and erratic woodland creatures with greyish-brown fur. Got nuts? "
+"Fast moving and erratic woodland creatures with grayish-brown fur. Got nuts? "
 msgstr "快速移动和居无定所的林地生物，长有灰褐色的毛。有坚果吗？"
 
 #. Game.Bestiary_FlavorText.npc_SquirrelGold
@@ -5795,8 +5795,8 @@ msgstr "移动速度提高"
 
 #. Game.BuffDescription.ParryDamageBuff
 msgctxt "Game.BuffDescription.ParryDamageBuff"
-msgid "500% increased damage for next melee strike"
-msgstr "下次近战暴击伤害增加500%"
+msgid "400% increased damage for next melee strike"
+msgstr "下次近战暴击伤害增加400%"
 
 #. Game.BuffDescription.PartyMinecartLeft
 msgctxt "Game.BuffDescription.PartyMinecartLeft"
@@ -43456,19 +43456,19 @@ msgstr ""
 
 #. Items.ItemTooltip.LogicGate_AND
 msgctxt "Items.ItemTooltip.LogicGate_AND"
-msgid "Activates when all lamps are on, Deactivates otherwise"
+msgid "Activates when all lamps are on, deactivates otherwise"
 msgstr "所有灯亮时激活，其他情况下停用"
 
 #. Items.ItemTooltip.LogicGate_NAND
 msgctxt "Items.ItemTooltip.LogicGate_NAND"
-msgid "Activates when not all lamps are on, Deactivates otherwise"
+msgid "Activates when not all lamps are on, deactivates otherwise"
 msgstr "部分灯亮时激活，其他情况下停用"
 
 #. Items.ItemTooltip.LogicGate_NOR
 msgctxt "Items.ItemTooltip.LogicGate_NOR"
 msgid ""
 "Judges logic gate lamps above it\n"
-"Activates when no lamp is on, Deactivates otherwise"
+"Activates when no lamp is on, deactivates otherwise"
 msgstr ""
 "判断它上面的逻辑门灯\n"
 "没有灯亮时激活，其他情况下停用"
@@ -43477,7 +43477,7 @@ msgstr ""
 msgctxt "Items.ItemTooltip.LogicGate_NXOR"
 msgid ""
 "Judges logic gate lamps above it\n"
-"Activates when the total 'on' lamps is not one, Deactivates otherwise\n"
+"Activates when the total 'on' lamps is not one, deactivates otherwise\n"
 "Also often called NXOR"
 msgstr ""
 "判断它上面的逻辑门灯\n"
@@ -43488,7 +43488,7 @@ msgstr ""
 msgctxt "Items.ItemTooltip.LogicGate_OR"
 msgid ""
 "Judges logic gate lamps above it\n"
-"Activates when any lamp is on, Deactivates otherwise"
+"Activates when any lamp is on, deactivates otherwise"
 msgstr ""
 "判断它上面的逻辑门灯\n"
 "任意一盏灯亮时激活，其他情况下停用"
@@ -43497,7 +43497,7 @@ msgstr ""
 msgctxt "Items.ItemTooltip.LogicGate_XOR"
 msgid ""
 "Judges logic gate lamps above it\n"
-"Activates when only one lamp is on, Deactivates otherwise"
+"Activates when only one lamp is on, deactivates otherwise"
 msgstr ""
 "判断它上面的逻辑门灯\n"
 "仅有一盏灯亮时激活，其他情况下停用"
@@ -69629,7 +69629,7 @@ msgstr "游戏结束，伙计，游戏结束！（残酷无情，致敬真正的
 
 #. Main.UI.WorldDescriptionName
 msgctxt "Main.UI.WorldDescriptionName"
-msgid "Give your world a name! Choose carefully, you cannot change it later!"
+msgid "Give your world a name! You can always change it later if needed!"
 msgstr "给你的世界起个名字吧！请谨慎选择，之后将无法更改！"
 
 #. Main.UI.WorldDescriptionNormal
@@ -70174,15 +70174,15 @@ msgctxt "Main.WorkshopTags.MusicDescription"
 msgid "Resource packs that alter Terraria's music, giving new vibes!"
 msgstr "可调整泰拉瑞亚音乐的资源包，赋予新的氛围！"
 
-#. Main.WorkshopTags.OtherResourceDescription
-msgctxt "Main.WorkshopTags.OtherResourceDescription"
-msgid "Resource packs that serve another purpose, how otherworldly!"
-msgstr "用于其他用途的资源包，非常超凡脱俗！"
-
 #. Main.WorkshopTags.OtherResourcePacks
 msgctxt "Main.WorkshopTags.OtherResourcePacks"
 msgid "Other"
 msgstr "其他"
+
+#. Main.WorkshopTags.OtherResourcePacksDescription
+msgctxt "Main.WorkshopTags.OtherResourcePacksDescription"
+msgid "Resource packs that serve another purpose, how otherworldly!"
+msgstr "用于其他用途的资源包，非常超凡脱俗！"
 
 #. Main.WorkshopTags.OtherWorlds
 msgctxt "Main.WorkshopTags.OtherWorlds"
@@ -79771,6 +79771,11 @@ msgctxt "Town.BunnyNames_White.Donnie"
 msgid "Donnie"
 msgstr "唐尼"
 
+#. Town.BunnyNames_White.Ears
+msgctxt "Town.BunnyNames_White.Ears"
+msgid "Ears"
+msgstr "耳朵"
+
 #. Town.BunnyNames_White.Inaba
 msgctxt "Town.BunnyNames_White.Inaba"
 msgid "Inaba"
@@ -79850,6 +79855,11 @@ msgstr "达米安"
 msgctxt "Town.CatNames_Black.Ember"
 msgid "Ember"
 msgstr "恩贝尔"
+
+#. Town.CatNames_Black.Esper
+msgctxt "Town.CatNames_Black.Esper"
+msgid "Esper"
+msgstr "埃斯珀"
 
 #. Town.CatNames_Black.Figment
 msgctxt "Town.CatNames_Black.Figment"
