@@ -1654,10 +1654,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows the holder to do an improved double jump</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20210330T100130Z" creationid="SGKoishi" creationdate="20210330T100130Z">
+        <seg>可以进行沙暴多段跳，而且跳得更高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows the holder to double jump</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200522T000957Z" creationid="SGKoishi" creationdate="20200521T235845Z">
-        <seg>【默认译文】可以进行多段跳</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20210330T095927Z" creationid="SGKoishi" creationdate="20200521T235845Z">
+        <seg>可以进行暴雪多段跳</seg>
       </tuv>
     </tu>
     <tu>
@@ -12881,8 +12889,8 @@
       <tuv lang="en-US">
         <seg>Allows the holder to double jump</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200522T001015Z" creationid="SGKoishi" creationdate="20200522T001015Z">
-        <seg>可以进行屁瓶多段跳</seg>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20210330T095917Z" creationid="SGKoishi" creationdate="20200522T001015Z">
+        <seg>可以进行臭屁多段跳</seg>
       </tuv>
     </tu>
     <tu>
@@ -12943,6 +12951,56 @@
       </tuv>
       <tuv lang="zh-CN" changeid="SGKoishi" changedate="20200523T013244Z" creationid="SGKoishi" creationdate="20200523T013244Z">
         <seg>可以进行云朵多段跳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Items.ItemTooltip.FartInABalloon</prop>
+      <tuv lang="en-US">
+        <seg>Allows the holder to double jump</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20210330T095531Z" creationid="SGKoishi" creationdate="20210330T095531Z">
+        <seg>可以进行臭屁多段跳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Items.ItemTooltip.FartinaJar</prop>
+      <tuv lang="en-US">
+        <seg>Allows the holder to double jump</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20210330T095545Z" creationid="SGKoishi" creationdate="20210330T095545Z">
+        <seg>可以进行臭屁多段跳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Items.ItemTooltip.SandstorminaBalloon</prop>
+      <tuv lang="en-US">
+        <seg>Allows the holder to double jump</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20210330T095620Z" creationid="SGKoishi" creationdate="20210330T095620Z">
+        <seg>可以进行沙暴多段跳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Items.ItemTooltip.SharkronBalloon</prop>
+      <tuv lang="en-US">
+        <seg>Allows the holder to double jump</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20210330T095754Z" creationid="SGKoishi" creationdate="20210330T095754Z">
+        <seg>可以进行海啸多段跳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">output.po</prop>
+      <prop type="path">Items.ItemTooltip.TsunamiInABottle</prop>
+      <tuv lang="en-US">
+        <seg>Allows the holder to double jump</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="SGKoishi" changedate="20210330T095829Z" creationid="SGKoishi" creationdate="20210330T095829Z">
+        <seg>可以进行海啸多段跳</seg>
       </tuv>
     </tu>
     <tu>
