@@ -28345,7 +28345,7 @@ msgstr ""
 
 #. Items.ItemName.PillaginMePixels
 msgctxt "Items.ItemName.PillaginMePixels"
-msgid "Pillagin Me Pixels"
+msgid "Pillagin' Me Pixels"
 msgstr ""
 
 #. Items.ItemName.PillarStatue
@@ -69541,6 +69541,11 @@ msgctxt "NPCs.NPCName.ChaosBall"
 msgid "Chaos Ball"
 msgstr ""
 
+#. NPCs.NPCName.ChaosBallTim
+msgctxt "NPCs.NPCName.ChaosBallTim"
+msgid "{$NPCName.ChaosBall}"
+msgstr ""
+
 #. NPCs.NPCName.ChaosElemental
 msgctxt "NPCs.NPCName.ChaosElemental"
 msgid "Chaos Elemental"
@@ -72239,6 +72244,11 @@ msgstr ""
 #. NPCs.NPCName.VileSpit
 msgctxt "NPCs.NPCName.VileSpit"
 msgid "Vile Spit"
+msgstr ""
+
+#. NPCs.NPCName.VileSpitEaterOfWorlds
+msgctxt "NPCs.NPCName.VileSpitEaterOfWorlds"
+msgid "{$NPCName.VileSpit}"
 msgstr ""
 
 #. NPCs.NPCName.VoodooDemon
@@ -76942,6 +76952,111 @@ msgid ""
 "even was born, and that's not fair!"
 msgstr ""
 
+#. Town.AnglerNames.Adam
+msgctxt "Town.AnglerNames.Adam"
+msgid "Adam"
+msgstr ""
+
+#. Town.AnglerNames.Bart
+msgctxt "Town.AnglerNames.Bart"
+msgid "Bart"
+msgstr ""
+
+#. Town.AnglerNames.Billy
+msgctxt "Town.AnglerNames.Billy"
+msgid "Billy"
+msgstr ""
+
+#. Town.AnglerNames.Bobby
+msgctxt "Town.AnglerNames.Bobby"
+msgid "Bobby"
+msgstr ""
+
+#. Town.AnglerNames.Charles
+msgctxt "Town.AnglerNames.Charles"
+msgid "Charles"
+msgstr ""
+
+#. Town.AnglerNames.Danny
+msgctxt "Town.AnglerNames.Danny"
+msgid "Danny"
+msgstr ""
+
+#. Town.AnglerNames.Grayson
+msgctxt "Town.AnglerNames.Grayson"
+msgid "Grayson"
+msgstr ""
+
+#. Town.AnglerNames.Ivan
+msgctxt "Town.AnglerNames.Ivan"
+msgid "Ivan"
+msgstr ""
+
+#. Town.AnglerNames.Izzy
+msgctxt "Town.AnglerNames.Izzy"
+msgid "Izzy"
+msgstr ""
+
+#. Town.AnglerNames.Jey
+msgctxt "Town.AnglerNames.Jey"
+msgid "Jey"
+msgstr ""
+
+#. Town.AnglerNames.Jimmy
+msgctxt "Town.AnglerNames.Jimmy"
+msgid "Jimmy"
+msgstr ""
+
+#. Town.AnglerNames.Johnny
+msgctxt "Town.AnglerNames.Johnny"
+msgid "Johnny"
+msgstr ""
+
+#. Town.AnglerNames.Matty
+msgctxt "Town.AnglerNames.Matty"
+msgid "Matty"
+msgstr ""
+
+#. Town.AnglerNames.Miles
+msgctxt "Town.AnglerNames.Miles"
+msgid "Miles"
+msgstr ""
+
+#. Town.AnglerNames.Nathan
+msgctxt "Town.AnglerNames.Nathan"
+msgid "Nathan"
+msgstr ""
+
+#. Town.AnglerNames.Phillip
+msgctxt "Town.AnglerNames.Phillip"
+msgid "Phillip"
+msgstr ""
+
+#. Town.AnglerNames.Sammy
+msgctxt "Town.AnglerNames.Sammy"
+msgid "Sammy"
+msgstr ""
+
+#. Town.AnglerNames.Simon
+msgctxt "Town.AnglerNames.Simon"
+msgid "Simon"
+msgstr ""
+
+#. Town.AnglerNames.Spencer
+msgctxt "Town.AnglerNames.Spencer"
+msgid "Spencer"
+msgstr ""
+
+#. Town.AnglerNames.Timmy
+msgctxt "Town.AnglerNames.Timmy"
+msgid "Timmy"
+msgstr ""
+
+#. Town.AnglerNames.Tyler
+msgctxt "Town.AnglerNames.Tyler"
+msgid "Tyler"
+msgstr ""
+
 #. Town.AnglerQuestChatter.Chatter_1
 msgctxt "Town.AnglerQuestChatter.Chatter_1"
 msgid ""
@@ -77520,6 +77635,126 @@ msgstr ""
 #. Town.AnglerSpecialText.Windy2
 msgctxt "Town.AnglerSpecialText.Windy2"
 msgid "Is this some kinda hurricane!? I almost got hit by a dolphin!"
+msgstr ""
+
+#. Town.ArmsDealerNames.Andre
+msgctxt "Town.ArmsDealerNames.Andre"
+msgid "Andre"
+msgstr ""
+
+#. Town.ArmsDealerNames.Brimst
+msgctxt "Town.ArmsDealerNames.Brimst"
+msgid "Brimst"
+msgstr ""
+
+#. Town.ArmsDealerNames.Bronson
+msgctxt "Town.ArmsDealerNames.Bronson"
+msgid "Bronson"
+msgstr ""
+
+#. Town.ArmsDealerNames.Dante
+msgctxt "Town.ArmsDealerNames.Dante"
+msgid "Dante"
+msgstr ""
+
+#. Town.ArmsDealerNames.Darius
+msgctxt "Town.ArmsDealerNames.Darius"
+msgid "Darius"
+msgstr ""
+
+#. Town.ArmsDealerNames.Darnell
+msgctxt "Town.ArmsDealerNames.Darnell"
+msgid "Darnell"
+msgstr ""
+
+#. Town.ArmsDealerNames.Darryl
+msgctxt "Town.ArmsDealerNames.Darryl"
+msgid "Darryl"
+msgstr ""
+
+#. Town.ArmsDealerNames.DeAndre
+msgctxt "Town.ArmsDealerNames.DeAndre"
+msgid "DeAndre"
+msgstr ""
+
+#. Town.ArmsDealerNames.Demetrius
+msgctxt "Town.ArmsDealerNames.Demetrius"
+msgid "Demetrius"
+msgstr ""
+
+#. Town.ArmsDealerNames.DeShawn
+msgctxt "Town.ArmsDealerNames.DeShawn"
+msgid "DeShawn"
+msgstr ""
+
+#. Town.ArmsDealerNames.Dominique
+msgctxt "Town.ArmsDealerNames.Dominique"
+msgid "Dominique"
+msgstr ""
+
+#. Town.ArmsDealerNames.Jalen
+msgctxt "Town.ArmsDealerNames.Jalen"
+msgid "Jalen"
+msgstr ""
+
+#. Town.ArmsDealerNames.Jamal
+msgctxt "Town.ArmsDealerNames.Jamal"
+msgid "Jamal"
+msgstr ""
+
+#. Town.ArmsDealerNames.Malik
+msgctxt "Town.ArmsDealerNames.Malik"
+msgid "Malik"
+msgstr ""
+
+#. Town.ArmsDealerNames.Marquis
+msgctxt "Town.ArmsDealerNames.Marquis"
+msgid "Marquis"
+msgstr ""
+
+#. Town.ArmsDealerNames.Maurice
+msgctxt "Town.ArmsDealerNames.Maurice"
+msgid "Maurice"
+msgstr ""
+
+#. Town.ArmsDealerNames.Reginald
+msgctxt "Town.ArmsDealerNames.Reginald"
+msgid "Reginald"
+msgstr ""
+
+#. Town.ArmsDealerNames.Terrance
+msgctxt "Town.ArmsDealerNames.Terrance"
+msgid "Terrance"
+msgstr ""
+
+#. Town.ArmsDealerNames.Terrell
+msgctxt "Town.ArmsDealerNames.Terrell"
+msgid "Terrell"
+msgstr ""
+
+#. Town.ArmsDealerNames.Tony
+msgctxt "Town.ArmsDealerNames.Tony"
+msgid "Tony"
+msgstr ""
+
+#. Town.ArmsDealerNames.Trevon
+msgctxt "Town.ArmsDealerNames.Trevon"
+msgid "Trevon"
+msgstr ""
+
+#. Town.ArmsDealerNames.Tyrone
+msgctxt "Town.ArmsDealerNames.Tyrone"
+msgid "Tyrone"
+msgstr ""
+
+#. Town.ArmsDealerNames.Willie
+msgctxt "Town.ArmsDealerNames.Willie"
+msgid "Willie"
+msgstr ""
+
+#. Town.ArmsDealerNames.Xavier
+msgctxt "Town.ArmsDealerNames.Xavier"
+msgid "Xavier"
 msgstr ""
 
 #. Town.ArmsDealerSpecialText.Graveyard1
@@ -79058,6 +79293,131 @@ msgctxt "Town.CatNames_White.Yuki"
 msgid "Yuki"
 msgstr ""
 
+#. Town.ClothierNames.Alfred
+msgctxt "Town.ClothierNames.Alfred"
+msgid "Alfred"
+msgstr ""
+
+#. Town.ClothierNames.Arthur
+msgctxt "Town.ClothierNames.Arthur"
+msgid "Arthur"
+msgstr ""
+
+#. Town.ClothierNames.Benjamin
+msgctxt "Town.ClothierNames.Benjamin"
+msgid "Benjamin"
+msgstr ""
+
+#. Town.ClothierNames.Cedric
+msgctxt "Town.ClothierNames.Cedric"
+msgid "Cedric"
+msgstr ""
+
+#. Town.ClothierNames.Clive
+msgctxt "Town.ClothierNames.Clive"
+msgid "Clive"
+msgstr ""
+
+#. Town.ClothierNames.Cyril
+msgctxt "Town.ClothierNames.Cyril"
+msgid "Cyril"
+msgstr ""
+
+#. Town.ClothierNames.Edgar
+msgctxt "Town.ClothierNames.Edgar"
+msgid "Edgar"
+msgstr ""
+
+#. Town.ClothierNames.Edmund
+msgctxt "Town.ClothierNames.Edmund"
+msgid "Edmund"
+msgstr ""
+
+#. Town.ClothierNames.Edward
+msgctxt "Town.ClothierNames.Edward"
+msgid "Edward"
+msgstr ""
+
+#. Town.ClothierNames.Eustace
+msgctxt "Town.ClothierNames.Eustace"
+msgid "Eustace"
+msgstr ""
+
+#. Town.ClothierNames.Fitz
+msgctxt "Town.ClothierNames.Fitz"
+msgid "Fitz"
+msgstr ""
+
+#. Town.ClothierNames.Graham
+msgctxt "Town.ClothierNames.Graham"
+msgid "Graham"
+msgstr ""
+
+#. Town.ClothierNames.Henry
+msgctxt "Town.ClothierNames.Henry"
+msgid "Henry"
+msgstr ""
+
+#. Town.ClothierNames.Herald
+msgctxt "Town.ClothierNames.Herald"
+msgid "Herald"
+msgstr ""
+
+#. Town.ClothierNames.James
+msgctxt "Town.ClothierNames.James"
+msgid "James"
+msgstr ""
+
+#. Town.ClothierNames.Lincoln
+msgctxt "Town.ClothierNames.Lincoln"
+msgid "Lincoln"
+msgstr ""
+
+#. Town.ClothierNames.Lloyd
+msgctxt "Town.ClothierNames.Lloyd"
+msgid "Lloyd"
+msgstr ""
+
+#. Town.ClothierNames.Mervyn
+msgctxt "Town.ClothierNames.Mervyn"
+msgid "Mervyn"
+msgstr ""
+
+#. Town.ClothierNames.Nigel
+msgctxt "Town.ClothierNames.Nigel"
+msgid "Nigel"
+msgstr ""
+
+#. Town.ClothierNames.Pip
+msgctxt "Town.ClothierNames.Pip"
+msgid "Pip"
+msgstr ""
+
+#. Town.ClothierNames.Rodney
+msgctxt "Town.ClothierNames.Rodney"
+msgid "Rodney"
+msgstr ""
+
+#. Town.ClothierNames.Rodrick
+msgctxt "Town.ClothierNames.Rodrick"
+msgid "Rodrick"
+msgstr ""
+
+#. Town.ClothierNames.Roland
+msgctxt "Town.ClothierNames.Roland"
+msgid "Roland"
+msgstr ""
+
+#. Town.ClothierNames.Rupert
+msgctxt "Town.ClothierNames.Rupert"
+msgid "Rupert"
+msgstr ""
+
+#. Town.ClothierNames.Sebastian
+msgctxt "Town.ClothierNames.Sebastian"
+msgid "Sebastian"
+msgstr ""
+
 #. Town.ClothierSpecialText.Graveyard1
 msgctxt "Town.ClothierSpecialText.Graveyard1"
 msgid "I've been cursed! Take me to the hospital!"
@@ -79118,6 +79478,116 @@ msgid ""
 "her."
 msgstr ""
 
+#. Town.CyborgNames.A.N.D.Y.
+msgctxt "Town.CyborgNames.A.N.D.Y."
+msgid "A.N.D.Y."
+msgstr ""
+
+#. Town.CyborgNames.Alpha
+msgctxt "Town.CyborgNames.Alpha"
+msgid "Alpha"
+msgstr ""
+
+#. Town.CyborgNames.Beta
+msgctxt "Town.CyborgNames.Beta"
+msgid "Beta"
+msgstr ""
+
+#. Town.CyborgNames.Ci
+msgctxt "Town.CyborgNames.Ci"
+msgid "Ci"
+msgstr ""
+
+#. Town.CyborgNames.Delta
+msgctxt "Town.CyborgNames.Delta"
+msgid "Delta"
+msgstr ""
+
+#. Town.CyborgNames.Fender
+msgctxt "Town.CyborgNames.Fender"
+msgid "Fender"
+msgstr ""
+
+#. Town.CyborgNames.Gamma
+msgctxt "Town.CyborgNames.Gamma"
+msgid "Gamma"
+msgstr ""
+
+#. Town.CyborgNames.Kappa
+msgctxt "Town.CyborgNames.Kappa"
+msgid "Kappa"
+msgstr ""
+
+#. Town.CyborgNames.Lambda
+msgctxt "Town.CyborgNames.Lambda"
+msgid "Lambda"
+msgstr ""
+
+#. Town.CyborgNames.Mu
+msgctxt "Town.CyborgNames.Mu"
+msgid "Mu"
+msgstr ""
+
+#. Town.CyborgNames.Niner-7
+msgctxt "Town.CyborgNames.Niner-7"
+msgid "Niner-7"
+msgstr ""
+
+#. Town.CyborgNames.Nu
+msgctxt "Town.CyborgNames.Nu"
+msgid "Nu"
+msgstr ""
+
+#. Town.CyborgNames.Omega
+msgctxt "Town.CyborgNames.Omega"
+msgid "Omega"
+msgstr ""
+
+#. Town.CyborgNames.Omicron
+msgctxt "Town.CyborgNames.Omicron"
+msgid "Omicron"
+msgstr ""
+
+#. Town.CyborgNames.Phi
+msgctxt "Town.CyborgNames.Phi"
+msgid "Phi"
+msgstr ""
+
+#. Town.CyborgNames.Rho
+msgctxt "Town.CyborgNames.Rho"
+msgid "Rho"
+msgstr ""
+
+#. Town.CyborgNames.Sigma
+msgctxt "Town.CyborgNames.Sigma"
+msgid "Sigma"
+msgstr ""
+
+#. Town.CyborgNames.Syn-X
+msgctxt "Town.CyborgNames.Syn-X"
+msgid "Syn-X"
+msgstr ""
+
+#. Town.CyborgNames.T-3E0
+msgctxt "Town.CyborgNames.T-3E0"
+msgid "T-3E0"
+msgstr ""
+
+#. Town.CyborgNames.Theta
+msgctxt "Town.CyborgNames.Theta"
+msgid "Theta"
+msgstr ""
+
+#. Town.CyborgNames.Upsilon
+msgctxt "Town.CyborgNames.Upsilon"
+msgid "Upsilon"
+msgstr ""
+
+#. Town.CyborgNames.Zeta
+msgctxt "Town.CyborgNames.Zeta"
+msgid "Zeta"
+msgstr ""
+
 #. Town.CyborgSpecialText.Graveyard1
 msgctxt "Town.CyborgSpecialText.Graveyard1"
 msgid ""
@@ -79168,6 +79638,116 @@ msgstr ""
 #. Town.CyborgSpecialText.Windy2
 msgctxt "Town.CyborgSpecialText.Windy2"
 msgid "A strong contrast between high and low pressure detected."
+msgstr ""
+
+#. Town.DemolitionistNames.Bazdin
+msgctxt "Town.DemolitionistNames.Bazdin"
+msgid "Bazdin"
+msgstr ""
+
+#. Town.DemolitionistNames.Beldin
+msgctxt "Town.DemolitionistNames.Beldin"
+msgid "Beldin"
+msgstr ""
+
+#. Town.DemolitionistNames.Boften
+msgctxt "Town.DemolitionistNames.Boften"
+msgid "Boften"
+msgstr ""
+
+#. Town.DemolitionistNames.Darur
+msgctxt "Town.DemolitionistNames.Darur"
+msgid "Darur"
+msgstr ""
+
+#. Town.DemolitionistNames.Dias
+msgctxt "Town.DemolitionistNames.Dias"
+msgid "Dias"
+msgstr ""
+
+#. Town.DemolitionistNames.Dolbere
+msgctxt "Town.DemolitionistNames.Dolbere"
+msgid "Dolbere"
+msgstr ""
+
+#. Town.DemolitionistNames.Dolgen
+msgctxt "Town.DemolitionistNames.Dolgen"
+msgid "Dolgen"
+msgstr ""
+
+#. Town.DemolitionistNames.Dolgrim
+msgctxt "Town.DemolitionistNames.Dolgrim"
+msgid "Dolgrim"
+msgstr ""
+
+#. Town.DemolitionistNames.Duerthen
+msgctxt "Town.DemolitionistNames.Duerthen"
+msgid "Duerthen"
+msgstr ""
+
+#. Town.DemolitionistNames.Durim
+msgctxt "Town.DemolitionistNames.Durim"
+msgid "Durim"
+msgstr ""
+
+#. Town.DemolitionistNames.Fikod
+msgctxt "Town.DemolitionistNames.Fikod"
+msgid "Fikod"
+msgstr ""
+
+#. Town.DemolitionistNames.Garval
+msgctxt "Town.DemolitionistNames.Garval"
+msgid "Garval"
+msgstr ""
+
+#. Town.DemolitionistNames.Gimli
+msgctxt "Town.DemolitionistNames.Gimli"
+msgid "Gimli"
+msgstr ""
+
+#. Town.DemolitionistNames.Gimut
+msgctxt "Town.DemolitionistNames.Gimut"
+msgid "Gimut"
+msgstr ""
+
+#. Town.DemolitionistNames.Jarut
+msgctxt "Town.DemolitionistNames.Jarut"
+msgid "Jarut"
+msgstr ""
+
+#. Town.DemolitionistNames.Morthal
+msgctxt "Town.DemolitionistNames.Morthal"
+msgid "Morthal"
+msgstr ""
+
+#. Town.DemolitionistNames.Norkas
+msgctxt "Town.DemolitionistNames.Norkas"
+msgid "Norkas"
+msgstr ""
+
+#. Town.DemolitionistNames.Norsun
+msgctxt "Town.DemolitionistNames.Norsun"
+msgid "Norsun"
+msgstr ""
+
+#. Town.DemolitionistNames.Oten
+msgctxt "Town.DemolitionistNames.Oten"
+msgid "Oten"
+msgstr ""
+
+#. Town.DemolitionistNames.Ovbere
+msgctxt "Town.DemolitionistNames.Ovbere"
+msgid "Ovbere"
+msgstr ""
+
+#. Town.DemolitionistNames.Tordak
+msgctxt "Town.DemolitionistNames.Tordak"
+msgid "Tordak"
+msgstr ""
+
+#. Town.DemolitionistNames.Urist
+msgctxt "Town.DemolitionistNames.Urist"
+msgid "Urist"
 msgstr ""
 
 #. Town.DemolitionistSpecialText.AfterDD2Start
@@ -79676,6 +80256,111 @@ msgctxt "Town.DogNames_PitBull.Toshiro"
 msgid "Toshiro"
 msgstr ""
 
+#. Town.DryadNames.Alalia
+msgctxt "Town.DryadNames.Alalia"
+msgid "Alalia"
+msgstr ""
+
+#. Town.DryadNames.Alura
+msgctxt "Town.DryadNames.Alura"
+msgid "Alura"
+msgstr ""
+
+#. Town.DryadNames.Ariella
+msgctxt "Town.DryadNames.Ariella"
+msgid "Ariella"
+msgstr ""
+
+#. Town.DryadNames.Caelia
+msgctxt "Town.DryadNames.Caelia"
+msgid "Caelia"
+msgstr ""
+
+#. Town.DryadNames.Calista
+msgctxt "Town.DryadNames.Calista"
+msgid "Calista"
+msgstr ""
+
+#. Town.DryadNames.Celestia
+msgctxt "Town.DryadNames.Celestia"
+msgid "Celestia"
+msgstr ""
+
+#. Town.DryadNames.Chryseis
+msgctxt "Town.DryadNames.Chryseis"
+msgid "Chryseis"
+msgstr ""
+
+#. Town.DryadNames.Elysia
+msgctxt "Town.DryadNames.Elysia"
+msgid "Elysia"
+msgstr ""
+
+#. Town.DryadNames.Emerenta
+msgctxt "Town.DryadNames.Emerenta"
+msgid "Emerenta"
+msgstr ""
+
+#. Town.DryadNames.Evvie
+msgctxt "Town.DryadNames.Evvie"
+msgid "Evvie"
+msgstr ""
+
+#. Town.DryadNames.Faye
+msgctxt "Town.DryadNames.Faye"
+msgid "Faye"
+msgstr ""
+
+#. Town.DryadNames.Felicitae
+msgctxt "Town.DryadNames.Felicitae"
+msgid "Felicitae"
+msgstr ""
+
+#. Town.DryadNames.Isis
+msgctxt "Town.DryadNames.Isis"
+msgid "Isis"
+msgstr ""
+
+#. Town.DryadNames.Lunette
+msgctxt "Town.DryadNames.Lunette"
+msgid "Lunette"
+msgstr ""
+
+#. Town.DryadNames.Nata
+msgctxt "Town.DryadNames.Nata"
+msgid "Nata"
+msgstr ""
+
+#. Town.DryadNames.Nissa
+msgctxt "Town.DryadNames.Nissa"
+msgid "Nissa"
+msgstr ""
+
+#. Town.DryadNames.Rosalva
+msgctxt "Town.DryadNames.Rosalva"
+msgid "Rosalva"
+msgstr ""
+
+#. Town.DryadNames.Shea
+msgctxt "Town.DryadNames.Shea"
+msgid "Shea"
+msgstr ""
+
+#. Town.DryadNames.Tania
+msgctxt "Town.DryadNames.Tania"
+msgid "Tania"
+msgstr ""
+
+#. Town.DryadNames.Tatiana
+msgctxt "Town.DryadNames.Tatiana"
+msgid "Tatiana"
+msgstr ""
+
+#. Town.DryadNames.Xylia
+msgctxt "Town.DryadNames.Xylia"
+msgid "Xylia"
+msgstr ""
+
 #. Town.DryadSpecialText.AfterDD2Tier1
 msgctxt "Town.DryadSpecialText.AfterDD2Tier1"
 msgid ""
@@ -79808,6 +80493,86 @@ msgctxt "Town.DryadSpecialText.WorldStatusPure"
 msgid "{0} is completely pure. You have done an amazing job!"
 msgstr ""
 
+#. Town.DyeTraderNames.Abdosir
+msgctxt "Town.DyeTraderNames.Abdosir"
+msgid "Abdosir"
+msgstr ""
+
+#. Town.DyeTraderNames.Ahinadab
+msgctxt "Town.DyeTraderNames.Ahinadab"
+msgid "Ahinadab"
+msgstr ""
+
+#. Town.DyeTraderNames.Ahirom
+msgctxt "Town.DyeTraderNames.Ahirom"
+msgid "Ahirom"
+msgstr ""
+
+#. Town.DyeTraderNames.Akbar
+msgctxt "Town.DyeTraderNames.Akbar"
+msgid "Akbar"
+msgstr ""
+
+#. Town.DyeTraderNames.Batnoam
+msgctxt "Town.DyeTraderNames.Batnoam"
+msgid "Batnoam"
+msgstr ""
+
+#. Town.DyeTraderNames.Bodashtart
+msgctxt "Town.DyeTraderNames.Bodashtart"
+msgid "Bodashtart"
+msgstr ""
+
+#. Town.DyeTraderNames.Danel
+msgctxt "Town.DyeTraderNames.Danel"
+msgid "Danel"
+msgstr ""
+
+#. Town.DyeTraderNames.Hannibal
+msgctxt "Town.DyeTraderNames.Hannibal"
+msgid "Hannibal"
+msgstr ""
+
+#. Town.DyeTraderNames.Hanno
+msgctxt "Town.DyeTraderNames.Hanno"
+msgid "Hanno"
+msgstr ""
+
+#. Town.DyeTraderNames.Hiram
+msgctxt "Town.DyeTraderNames.Hiram"
+msgid "Hiram"
+msgstr ""
+
+#. Town.DyeTraderNames.Kanmi
+msgctxt "Town.DyeTraderNames.Kanmi"
+msgid "Kanmi"
+msgstr ""
+
+#. Town.DyeTraderNames.Philosir
+msgctxt "Town.DyeTraderNames.Philosir"
+msgid "Philosir"
+msgstr ""
+
+#. Town.DyeTraderNames.Sikarbaal
+msgctxt "Town.DyeTraderNames.Sikarbaal"
+msgid "Sikarbaal"
+msgstr ""
+
+#. Town.DyeTraderNames.Tabnit
+msgctxt "Town.DyeTraderNames.Tabnit"
+msgid "Tabnit"
+msgstr ""
+
+#. Town.DyeTraderNames.Yehomilk
+msgctxt "Town.DyeTraderNames.Yehomilk"
+msgid "Yehomilk"
+msgstr ""
+
+#. Town.DyeTraderNames.Yutpan
+msgctxt "Town.DyeTraderNames.Yutpan"
+msgid "Yutpan"
+msgstr ""
+
 #. Town.DyeTraderSpecialText.Graveyard1
 msgctxt "Town.DyeTraderSpecialText.Graveyard1"
 msgid ""
@@ -79905,6 +80670,131 @@ msgctxt "Town.GoblinTinkererChatter.Chatter_1"
 msgid ""
 "You know, these Etherian Goblins are nothing like my people. Really rowdy "
 "bunch. Not that my people are much better..."
+msgstr ""
+
+#. Town.GoblinTinkererNames.Arback
+msgctxt "Town.GoblinTinkererNames.Arback"
+msgid "Arback"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Dalek
+msgctxt "Town.GoblinTinkererNames.Dalek"
+msgid "Dalek"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Darz
+msgctxt "Town.GoblinTinkererNames.Darz"
+msgid "Darz"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Durnok
+msgctxt "Town.GoblinTinkererNames.Durnok"
+msgid "Durnok"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Fahd
+msgctxt "Town.GoblinTinkererNames.Fahd"
+msgid "Fahd"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Fjell
+msgctxt "Town.GoblinTinkererNames.Fjell"
+msgid "Fjell"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Gnudar
+msgctxt "Town.GoblinTinkererNames.Gnudar"
+msgid "Gnudar"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Grodax
+msgctxt "Town.GoblinTinkererNames.Grodax"
+msgid "Grodax"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Knogs
+msgctxt "Town.GoblinTinkererNames.Knogs"
+msgid "Knogs"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Knub
+msgctxt "Town.GoblinTinkererNames.Knub"
+msgid "Knub"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Mobart
+msgctxt "Town.GoblinTinkererNames.Mobart"
+msgid "Mobart"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Mrunok
+msgctxt "Town.GoblinTinkererNames.Mrunok"
+msgid "Mrunok"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Negurk
+msgctxt "Town.GoblinTinkererNames.Negurk"
+msgid "Negurk"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Nort
+msgctxt "Town.GoblinTinkererNames.Nort"
+msgid "Nort"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Nuxatk
+msgctxt "Town.GoblinTinkererNames.Nuxatk"
+msgid "Nuxatk"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Ragz
+msgctxt "Town.GoblinTinkererNames.Ragz"
+msgid "Ragz"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Sarx
+msgctxt "Town.GoblinTinkererNames.Sarx"
+msgid "Sarx"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Smador
+msgctxt "Town.GoblinTinkererNames.Smador"
+msgid "Smador"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Stazen
+msgctxt "Town.GoblinTinkererNames.Stazen"
+msgid "Stazen"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Stezom
+msgctxt "Town.GoblinTinkererNames.Stezom"
+msgid "Stezom"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Tgerd
+msgctxt "Town.GoblinTinkererNames.Tgerd"
+msgid "Tgerd"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Tkanus
+msgctxt "Town.GoblinTinkererNames.Tkanus"
+msgid "Tkanus"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Trogem
+msgctxt "Town.GoblinTinkererNames.Trogem"
+msgid "Trogem"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Xanos
+msgctxt "Town.GoblinTinkererNames.Xanos"
+msgid "Xanos"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Xon
+msgctxt "Town.GoblinTinkererNames.Xon"
+msgid "Xon"
 msgstr ""
 
 #. Town.GoblinTinkererSpecialText.Graveyard1
@@ -80643,6 +81533,181 @@ msgid ""
 "though."
 msgstr ""
 
+#. Town.GuideNames.Andrew
+msgctxt "Town.GuideNames.Andrew"
+msgid "Andrew"
+msgstr ""
+
+#. Town.GuideNames.Asher
+msgctxt "Town.GuideNames.Asher"
+msgid "Asher"
+msgstr ""
+
+#. Town.GuideNames.Bradley
+msgctxt "Town.GuideNames.Bradley"
+msgid "Bradley"
+msgstr ""
+
+#. Town.GuideNames.Brandon
+msgctxt "Town.GuideNames.Brandon"
+msgid "Brandon"
+msgstr ""
+
+#. Town.GuideNames.Brett
+msgctxt "Town.GuideNames.Brett"
+msgid "Brett"
+msgstr ""
+
+#. Town.GuideNames.Brian
+msgctxt "Town.GuideNames.Brian"
+msgid "Brian"
+msgstr ""
+
+#. Town.GuideNames.Cody
+msgctxt "Town.GuideNames.Cody"
+msgid "Cody"
+msgstr ""
+
+#. Town.GuideNames.Cole
+msgctxt "Town.GuideNames.Cole"
+msgid "Cole"
+msgstr ""
+
+#. Town.GuideNames.Colin
+msgctxt "Town.GuideNames.Colin"
+msgid "Colin"
+msgstr ""
+
+#. Town.GuideNames.Connor
+msgctxt "Town.GuideNames.Connor"
+msgid "Connor"
+msgstr ""
+
+#. Town.GuideNames.Daniel
+msgctxt "Town.GuideNames.Daniel"
+msgid "Daniel"
+msgstr ""
+
+#. Town.GuideNames.Dylan
+msgctxt "Town.GuideNames.Dylan"
+msgid "Dylan"
+msgstr ""
+
+#. Town.GuideNames.Garrett
+msgctxt "Town.GuideNames.Garrett"
+msgid "Garrett"
+msgstr ""
+
+#. Town.GuideNames.Harley
+msgctxt "Town.GuideNames.Harley"
+msgid "Harley"
+msgstr ""
+
+#. Town.GuideNames.Jack
+msgctxt "Town.GuideNames.Jack"
+msgid "Jack"
+msgstr ""
+
+#. Town.GuideNames.Jacob
+msgctxt "Town.GuideNames.Jacob"
+msgid "Jacob"
+msgstr ""
+
+#. Town.GuideNames.Jake
+msgctxt "Town.GuideNames.Jake"
+msgid "Jake"
+msgstr ""
+
+#. Town.GuideNames.Jeff
+msgctxt "Town.GuideNames.Jeff"
+msgid "Jeff"
+msgstr ""
+
+#. Town.GuideNames.Jeffrey
+msgctxt "Town.GuideNames.Jeffrey"
+msgid "Jeffrey"
+msgstr ""
+
+#. Town.GuideNames.Joe
+msgctxt "Town.GuideNames.Joe"
+msgid "Joe"
+msgstr ""
+
+#. Town.GuideNames.Kevin
+msgctxt "Town.GuideNames.Kevin"
+msgid "Kevin"
+msgstr ""
+
+#. Town.GuideNames.Kyle
+msgctxt "Town.GuideNames.Kyle"
+msgid "Kyle"
+msgstr ""
+
+#. Town.GuideNames.Levi
+msgctxt "Town.GuideNames.Levi"
+msgid "Levi"
+msgstr ""
+
+#. Town.GuideNames.Logan
+msgctxt "Town.GuideNames.Logan"
+msgid "Logan"
+msgstr ""
+
+#. Town.GuideNames.Luke
+msgctxt "Town.GuideNames.Luke"
+msgid "Luke"
+msgstr ""
+
+#. Town.GuideNames.Marty
+msgctxt "Town.GuideNames.Marty"
+msgid "Marty"
+msgstr ""
+
+#. Town.GuideNames.Maxwell
+msgctxt "Town.GuideNames.Maxwell"
+msgid "Maxwell"
+msgstr ""
+
+#. Town.GuideNames.Ryan
+msgctxt "Town.GuideNames.Ryan"
+msgid "Ryan"
+msgstr ""
+
+#. Town.GuideNames.Scott
+msgctxt "Town.GuideNames.Scott"
+msgid "Scott"
+msgstr ""
+
+#. Town.GuideNames.Seth
+msgctxt "Town.GuideNames.Seth"
+msgid "Seth"
+msgstr ""
+
+#. Town.GuideNames.Steve
+msgctxt "Town.GuideNames.Steve"
+msgid "Steve"
+msgstr ""
+
+#. Town.GuideNames.Tanner
+msgctxt "Town.GuideNames.Tanner"
+msgid "Tanner"
+msgstr ""
+
+#. Town.GuideNames.Trent
+msgctxt "Town.GuideNames.Trent"
+msgid "Trent"
+msgstr ""
+
+#. Town.GuideNames.Wyatt
+msgctxt "Town.GuideNames.Wyatt"
+msgid "Wyatt"
+msgstr ""
+
+#. Town.GuideNames.Zach
+msgctxt "Town.GuideNames.Zach"
+msgid "Zach"
+msgstr ""
+
 #. Town.GuideSpecialText.Eclipse
 msgctxt "Town.GuideSpecialText.Eclipse"
 msgid "Huh?! Where is the sun? Why is it so dark? It must be a Solar Eclipse!"
@@ -80729,6 +81794,126 @@ msgid ""
 "cup."
 msgstr ""
 
+#. Town.MechanicNames.Amy
+msgctxt "Town.MechanicNames.Amy"
+msgid "Amy"
+msgstr ""
+
+#. Town.MechanicNames.Autumn
+msgctxt "Town.MechanicNames.Autumn"
+msgid "Autumn"
+msgstr ""
+
+#. Town.MechanicNames.Brooke
+msgctxt "Town.MechanicNames.Brooke"
+msgid "Brooke"
+msgstr ""
+
+#. Town.MechanicNames.Dawn
+msgctxt "Town.MechanicNames.Dawn"
+msgid "Dawn"
+msgstr ""
+
+#. Town.MechanicNames.Ella
+msgctxt "Town.MechanicNames.Ella"
+msgid "Ella"
+msgstr ""
+
+#. Town.MechanicNames.Ellen
+msgctxt "Town.MechanicNames.Ellen"
+msgid "Ellen"
+msgstr ""
+
+#. Town.MechanicNames.Ginger
+msgctxt "Town.MechanicNames.Ginger"
+msgid "Ginger"
+msgstr ""
+
+#. Town.MechanicNames.Jenny
+msgctxt "Town.MechanicNames.Jenny"
+msgid "Jenny"
+msgstr ""
+
+#. Town.MechanicNames.Kayla
+msgctxt "Town.MechanicNames.Kayla"
+msgid "Kayla"
+msgstr ""
+
+#. Town.MechanicNames.Korrie
+msgctxt "Town.MechanicNames.Korrie"
+msgid "Korrie"
+msgstr ""
+
+#. Town.MechanicNames.Lauren
+msgctxt "Town.MechanicNames.Lauren"
+msgid "Lauren"
+msgstr ""
+
+#. Town.MechanicNames.Marshanna
+msgctxt "Town.MechanicNames.Marshanna"
+msgid "Marshanna"
+msgstr ""
+
+#. Town.MechanicNames.Meredith
+msgctxt "Town.MechanicNames.Meredith"
+msgid "Meredith"
+msgstr ""
+
+#. Town.MechanicNames.Nancy
+msgctxt "Town.MechanicNames.Nancy"
+msgid "Nancy"
+msgstr ""
+
+#. Town.MechanicNames.Sally
+msgctxt "Town.MechanicNames.Sally"
+msgid "Sally"
+msgstr ""
+
+#. Town.MechanicNames.Selah
+msgctxt "Town.MechanicNames.Selah"
+msgid "Selah"
+msgstr ""
+
+#. Town.MechanicNames.Selene
+msgctxt "Town.MechanicNames.Selene"
+msgid "Selene"
+msgstr ""
+
+#. Town.MechanicNames.Shayna
+msgctxt "Town.MechanicNames.Shayna"
+msgid "Shayna"
+msgstr ""
+
+#. Town.MechanicNames.Sheena
+msgctxt "Town.MechanicNames.Sheena"
+msgid "Sheena"
+msgstr ""
+
+#. Town.MechanicNames.Shirlena
+msgctxt "Town.MechanicNames.Shirlena"
+msgid "Shirlena"
+msgstr ""
+
+#. Town.MechanicNames.Sophia
+msgctxt "Town.MechanicNames.Sophia"
+msgid "Sophia"
+msgstr ""
+
+#. Town.MechanicNames.Susana
+msgctxt "Town.MechanicNames.Susana"
+msgid "Susana"
+msgstr ""
+
+#. Town.MechanicNames.Terra
+msgctxt "Town.MechanicNames.Terra"
+msgid "Terra"
+msgstr ""
+
+#. Town.MechanicNames.Trisha
+msgctxt "Town.MechanicNames.Trisha"
+msgid "Trisha"
+msgstr ""
+
 #. Town.MechanicSpecialText.Graveyard1
 msgctxt "Town.MechanicSpecialText.Graveyard1"
 msgid "I should light up this dark and scary place to keep the monsters away."
@@ -80780,6 +81965,121 @@ msgstr ""
 #. Town.MechanicSpecialText.Windy2
 msgctxt "Town.MechanicSpecialText.Windy2"
 msgid "My wires are getting tangled in this cyclone. Watch where you step!"
+msgstr ""
+
+#. Town.MerchantNames.Alfred
+msgctxt "Town.MerchantNames.Alfred"
+msgid "Alfred"
+msgstr ""
+
+#. Town.MerchantNames.Barney
+msgctxt "Town.MerchantNames.Barney"
+msgid "Barney"
+msgstr ""
+
+#. Town.MerchantNames.Calvin
+msgctxt "Town.MerchantNames.Calvin"
+msgid "Calvin"
+msgstr ""
+
+#. Town.MerchantNames.Edmund
+msgctxt "Town.MerchantNames.Edmund"
+msgid "Edmund"
+msgstr ""
+
+#. Town.MerchantNames.Edwin
+msgctxt "Town.MerchantNames.Edwin"
+msgid "Edwin"
+msgstr ""
+
+#. Town.MerchantNames.Eugene
+msgctxt "Town.MerchantNames.Eugene"
+msgid "Eugene"
+msgstr ""
+
+#. Town.MerchantNames.Frank
+msgctxt "Town.MerchantNames.Frank"
+msgid "Frank"
+msgstr ""
+
+#. Town.MerchantNames.Frederick
+msgctxt "Town.MerchantNames.Frederick"
+msgid "Frederick"
+msgstr ""
+
+#. Town.MerchantNames.Gilbert
+msgctxt "Town.MerchantNames.Gilbert"
+msgid "Gilbert"
+msgstr ""
+
+#. Town.MerchantNames.Gus
+msgctxt "Town.MerchantNames.Gus"
+msgid "Gus"
+msgstr ""
+
+#. Town.MerchantNames.Harold
+msgctxt "Town.MerchantNames.Harold"
+msgid "Harold"
+msgstr ""
+
+#. Town.MerchantNames.Howard
+msgctxt "Town.MerchantNames.Howard"
+msgid "Howard"
+msgstr ""
+
+#. Town.MerchantNames.Humphrey
+msgctxt "Town.MerchantNames.Humphrey"
+msgid "Humphrey"
+msgstr ""
+
+#. Town.MerchantNames.Isaac
+msgctxt "Town.MerchantNames.Isaac"
+msgid "Isaac"
+msgstr ""
+
+#. Town.MerchantNames.Joseph
+msgctxt "Town.MerchantNames.Joseph"
+msgid "Joseph"
+msgstr ""
+
+#. Town.MerchantNames.Kristian
+msgctxt "Town.MerchantNames.Kristian"
+msgid "Kristian"
+msgstr ""
+
+#. Town.MerchantNames.Louis
+msgctxt "Town.MerchantNames.Louis"
+msgid "Louis"
+msgstr ""
+
+#. Town.MerchantNames.Milton
+msgctxt "Town.MerchantNames.Milton"
+msgid "Milton"
+msgstr ""
+
+#. Town.MerchantNames.Mortimer
+msgctxt "Town.MerchantNames.Mortimer"
+msgid "Mortimer"
+msgstr ""
+
+#. Town.MerchantNames.Ralph
+msgctxt "Town.MerchantNames.Ralph"
+msgid "Ralph"
+msgstr ""
+
+#. Town.MerchantNames.Seymour
+msgctxt "Town.MerchantNames.Seymour"
+msgid "Seymour"
+msgstr ""
+
+#. Town.MerchantNames.Walter
+msgctxt "Town.MerchantNames.Walter"
+msgid "Walter"
+msgstr ""
+
+#. Town.MerchantNames.Wilbur
+msgctxt "Town.MerchantNames.Wilbur"
+msgid "Wilbur"
 msgstr ""
 
 #. Town.MerchantSpecialText.Graveyard1
@@ -80836,6 +82136,126 @@ msgctxt "Town.NurseChatter.Chatter_1"
 msgid "I keep asking for wine, but all {Bartender} gives me are mugs of ale."
 msgstr ""
 
+#. Town.NurseNames.Abigail
+msgctxt "Town.NurseNames.Abigail"
+msgid "Abigail"
+msgstr ""
+
+#. Town.NurseNames.Allison
+msgctxt "Town.NurseNames.Allison"
+msgid "Allison"
+msgstr ""
+
+#. Town.NurseNames.Amy
+msgctxt "Town.NurseNames.Amy"
+msgid "Amy"
+msgstr ""
+
+#. Town.NurseNames.Caitlin
+msgctxt "Town.NurseNames.Caitlin"
+msgid "Caitlin"
+msgstr ""
+
+#. Town.NurseNames.Carly
+msgctxt "Town.NurseNames.Carly"
+msgid "Carly"
+msgstr ""
+
+#. Town.NurseNames.Claire
+msgctxt "Town.NurseNames.Claire"
+msgid "Claire"
+msgstr ""
+
+#. Town.NurseNames.Emily
+msgctxt "Town.NurseNames.Emily"
+msgid "Emily"
+msgstr ""
+
+#. Town.NurseNames.Emma
+msgctxt "Town.NurseNames.Emma"
+msgid "Emma"
+msgstr ""
+
+#. Town.NurseNames.Hannah
+msgctxt "Town.NurseNames.Hannah"
+msgid "Hannah"
+msgstr ""
+
+#. Town.NurseNames.Heather
+msgctxt "Town.NurseNames.Heather"
+msgid "Heather"
+msgstr ""
+
+#. Town.NurseNames.Helen
+msgctxt "Town.NurseNames.Helen"
+msgid "Helen"
+msgstr ""
+
+#. Town.NurseNames.Holly
+msgctxt "Town.NurseNames.Holly"
+msgid "Holly"
+msgstr ""
+
+#. Town.NurseNames.Jenna
+msgctxt "Town.NurseNames.Jenna"
+msgid "Jenna"
+msgstr ""
+
+#. Town.NurseNames.Kaitlin
+msgctxt "Town.NurseNames.Kaitlin"
+msgid "Kaitlin"
+msgstr ""
+
+#. Town.NurseNames.Kaitlyn
+msgctxt "Town.NurseNames.Kaitlyn"
+msgid "Kaitlyn"
+msgstr ""
+
+#. Town.NurseNames.Katelyn
+msgctxt "Town.NurseNames.Katelyn"
+msgid "Katelyn"
+msgstr ""
+
+#. Town.NurseNames.Katherine
+msgctxt "Town.NurseNames.Katherine"
+msgid "Katherine"
+msgstr ""
+
+#. Town.NurseNames.Kathryn
+msgctxt "Town.NurseNames.Kathryn"
+msgid "Kathryn"
+msgstr ""
+
+#. Town.NurseNames.Katie
+msgctxt "Town.NurseNames.Katie"
+msgid "Katie"
+msgstr ""
+
+#. Town.NurseNames.Kayla
+msgctxt "Town.NurseNames.Kayla"
+msgid "Kayla"
+msgstr ""
+
+#. Town.NurseNames.Lisa
+msgctxt "Town.NurseNames.Lisa"
+msgid "Lisa"
+msgstr ""
+
+#. Town.NurseNames.Lorraine
+msgctxt "Town.NurseNames.Lorraine"
+msgid "Lorraine"
+msgstr ""
+
+#. Town.NurseNames.Madeline
+msgctxt "Town.NurseNames.Madeline"
+msgid "Madeline"
+msgstr ""
+
+#. Town.NurseNames.Molly
+msgctxt "Town.NurseNames.Molly"
+msgid "Molly"
+msgstr ""
+
 #. Town.NurseSpecialText.Graveyard1
 msgctxt "Town.NurseSpecialText.Graveyard1"
 msgid ""
@@ -80882,6 +82302,96 @@ msgstr ""
 msgctxt "Town.NurseSpecialText.Windy2"
 msgid ""
 "I've been chasing my medical instruments all day. This gale is keeping me fit!"
+msgstr ""
+
+#. Town.PainterNames.Bruno
+msgctxt "Town.PainterNames.Bruno"
+msgid "Bruno"
+msgstr ""
+
+#. Town.PainterNames.Carlo
+msgctxt "Town.PainterNames.Carlo"
+msgid "Carlo"
+msgstr ""
+
+#. Town.PainterNames.Darren
+msgctxt "Town.PainterNames.Darren"
+msgid "Darren"
+msgstr ""
+
+#. Town.PainterNames.Enzo
+msgctxt "Town.PainterNames.Enzo"
+msgid "Enzo"
+msgstr ""
+
+#. Town.PainterNames.Esreadel
+msgctxt "Town.PainterNames.Esreadel"
+msgid "Esreadel"
+msgstr ""
+
+#. Town.PainterNames.Guido
+msgctxt "Town.PainterNames.Guido"
+msgid "Guido"
+msgstr ""
+
+#. Town.PainterNames.Leonardo
+msgctxt "Town.PainterNames.Leonardo"
+msgid "Leonardo"
+msgstr ""
+
+#. Town.PainterNames.Lorenzo
+msgctxt "Town.PainterNames.Lorenzo"
+msgid "Lorenzo"
+msgstr ""
+
+#. Town.PainterNames.Luca
+msgctxt "Town.PainterNames.Luca"
+msgid "Luca"
+msgstr ""
+
+#. Town.PainterNames.Luciano
+msgctxt "Town.PainterNames.Luciano"
+msgid "Luciano"
+msgstr ""
+
+#. Town.PainterNames.Ludo
+msgctxt "Town.PainterNames.Ludo"
+msgid "Ludo"
+msgstr ""
+
+#. Town.PainterNames.Luigi
+msgctxt "Town.PainterNames.Luigi"
+msgid "Luigi"
+msgstr ""
+
+#. Town.PainterNames.Marco
+msgctxt "Town.PainterNames.Marco"
+msgid "Marco"
+msgstr ""
+
+#. Town.PainterNames.Mario
+msgctxt "Town.PainterNames.Mario"
+msgid "Mario"
+msgstr ""
+
+#. Town.PainterNames.Martino
+msgctxt "Town.PainterNames.Martino"
+msgid "Martino"
+msgstr ""
+
+#. Town.PainterNames.Mauro
+msgctxt "Town.PainterNames.Mauro"
+msgid "Mauro"
+msgstr ""
+
+#. Town.PainterNames.Raphael
+msgctxt "Town.PainterNames.Raphael"
+msgid "Raphael"
+msgstr ""
+
+#. Town.PainterNames.Stefano
+msgctxt "Town.PainterNames.Stefano"
+msgid "Stefano"
 msgstr ""
 
 #. Town.PainterSpecialText.Graveyard1
@@ -80936,6 +82446,91 @@ msgstr ""
 #. Town.PainterSpecialText.Windy2
 msgctxt "Town.PainterSpecialText.Windy2"
 msgid "This wind storm just blew all the fresh paint right off the wall!"
+msgstr ""
+
+#. Town.PartyGirlNames.Bailey
+msgctxt "Town.PartyGirlNames.Bailey"
+msgid "Bailey"
+msgstr ""
+
+#. Town.PartyGirlNames.Bambi
+msgctxt "Town.PartyGirlNames.Bambi"
+msgid "Bambi"
+msgstr ""
+
+#. Town.PartyGirlNames.Bunny
+msgctxt "Town.PartyGirlNames.Bunny"
+msgid "Bunny"
+msgstr ""
+
+#. Town.PartyGirlNames.Candy
+msgctxt "Town.PartyGirlNames.Candy"
+msgid "Candy"
+msgstr ""
+
+#. Town.PartyGirlNames.Cherry
+msgctxt "Town.PartyGirlNames.Cherry"
+msgid "Cherry"
+msgstr ""
+
+#. Town.PartyGirlNames.Dazzle
+msgctxt "Town.PartyGirlNames.Dazzle"
+msgid "Dazzle"
+msgstr ""
+
+#. Town.PartyGirlNames.Destiny
+msgctxt "Town.PartyGirlNames.Destiny"
+msgid "Destiny"
+msgstr ""
+
+#. Town.PartyGirlNames.Fantasia
+msgctxt "Town.PartyGirlNames.Fantasia"
+msgid "Fantasia"
+msgstr ""
+
+#. Town.PartyGirlNames.Fantasy
+msgctxt "Town.PartyGirlNames.Fantasy"
+msgid "Fantasy"
+msgstr ""
+
+#. Town.PartyGirlNames.Glitter
+msgctxt "Town.PartyGirlNames.Glitter"
+msgid "Glitter"
+msgstr ""
+
+#. Town.PartyGirlNames.Isis
+msgctxt "Town.PartyGirlNames.Isis"
+msgid "Isis"
+msgstr ""
+
+#. Town.PartyGirlNames.Lexus
+msgctxt "Town.PartyGirlNames.Lexus"
+msgid "Lexus"
+msgstr ""
+
+#. Town.PartyGirlNames.Paris
+msgctxt "Town.PartyGirlNames.Paris"
+msgid "Paris"
+msgstr ""
+
+#. Town.PartyGirlNames.Sparkle
+msgctxt "Town.PartyGirlNames.Sparkle"
+msgid "Sparkle"
+msgstr ""
+
+#. Town.PartyGirlNames.Star
+msgctxt "Town.PartyGirlNames.Star"
+msgid "Star"
+msgstr ""
+
+#. Town.PartyGirlNames.Sugar
+msgctxt "Town.PartyGirlNames.Sugar"
+msgid "Sugar"
+msgstr ""
+
+#. Town.PartyGirlNames.Trixy
+msgctxt "Town.PartyGirlNames.Trixy"
+msgid "Trixy"
 msgstr ""
 
 #. Town.PartyGirlSpecialText.AfterDD2Tier1
@@ -81028,6 +82623,61 @@ msgstr ""
 #. Town.PirateChatter.Chatter_1
 msgctxt "Town.PirateChatter.Chatter_1"
 msgid "About time we gotta barkeep around here! Me rum was almost gone!"
+msgstr ""
+
+#. Town.PirateNames.Black Beard
+msgctxt "Town.PirateNames.Black Beard"
+msgid "Black Beard"
+msgstr ""
+
+#. Town.PirateNames.Captain Bullywort
+msgctxt "Town.PirateNames.Captain Bullywort"
+msgid "Captain Bullywort"
+msgstr ""
+
+#. Town.PirateNames.Captain Morgan
+msgctxt "Town.PirateNames.Captain Morgan"
+msgid "Captain Morgan"
+msgstr ""
+
+#. Town.PirateNames.Captain Stoney Dirt
+msgctxt "Town.PirateNames.Captain Stoney Dirt"
+msgid "Captain Stoney Dirt"
+msgstr ""
+
+#. Town.PirateNames.David
+msgctxt "Town.PirateNames.David"
+msgid "David"
+msgstr ""
+
+#. Town.PirateNames.Gunpowder Garry
+msgctxt "Town.PirateNames.Gunpowder Garry"
+msgid "Gunpowder Garry"
+msgstr ""
+
+#. Town.PirateNames.Jack
+msgctxt "Town.PirateNames.Jack"
+msgid "Jack"
+msgstr ""
+
+#. Town.PirateNames.Jake
+msgctxt "Town.PirateNames.Jake"
+msgid "Jake"
+msgstr ""
+
+#. Town.PirateNames.James T. Beard
+msgctxt "Town.PirateNames.James T. Beard"
+msgid "James T. Beard"
+msgstr ""
+
+#. Town.PirateNames.Red Beard
+msgctxt "Town.PirateNames.Red Beard"
+msgid "Red Beard"
+msgstr ""
+
+#. Town.PirateNames.Wet Beard
+msgctxt "Town.PirateNames.Wet Beard"
+msgid "Wet Beard"
 msgstr ""
 
 #. Town.PirateSpecialText.Graveyard1
@@ -81372,6 +83022,56 @@ msgctxt "Town.SantaSpecialText.Windy1"
 msgid "Ho ho! My reindeer will fly at mach speeds, tonight!"
 msgstr ""
 
+#. Town.SkeletonMerchantNames.Billy Marrows
+msgctxt "Town.SkeletonMerchantNames.Billy Marrows"
+msgid "Billy Marrows"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Bones McGee
+msgctxt "Town.SkeletonMerchantNames.Bones McGee"
+msgid "Bones McGee"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Gloomy Mays
+msgctxt "Town.SkeletonMerchantNames.Gloomy Mays"
+msgid "Gloomy Mays"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Jack Sellington
+msgctxt "Town.SkeletonMerchantNames.Jack Sellington"
+msgid "Jack Sellington"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Mandible Calavera
+msgctxt "Town.SkeletonMerchantNames.Mandible Calavera"
+msgid "Mandible Calavera"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Mika
+msgctxt "Town.SkeletonMerchantNames.Mika"
+msgid "Mika"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.No-Eyed Wiley
+msgctxt "Town.SkeletonMerchantNames.No-Eyed Wiley"
+msgid "No-Eyed Wiley"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Rattles Magoo
+msgctxt "Town.SkeletonMerchantNames.Rattles Magoo"
+msgid "Rattles Magoo"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Skellington
+msgctxt "Town.SkeletonMerchantNames.Skellington"
+msgid "Skellington"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Tom
+msgctxt "Town.SkeletonMerchantNames.Tom"
+msgid "Tom"
+msgstr ""
+
 #. Town.SkeletonMerchantSpecialText.Graveyard1
 msgctxt "Town.SkeletonMerchantSpecialText.Graveyard1"
 msgid "As much as you would think I'd belong here, I really don't."
@@ -81401,6 +83101,106 @@ msgctxt "Town.SkeletonMerchantSpecialText.Windy1"
 msgid ""
 "The world above is turbulent and chaotic. I like my bones to stay attached, "
 "as it were!"
+msgstr ""
+
+#. Town.SteampunkerNames.Ada
+msgctxt "Town.SteampunkerNames.Ada"
+msgid "Ada"
+msgstr ""
+
+#. Town.SteampunkerNames.Cornelia
+msgctxt "Town.SteampunkerNames.Cornelia"
+msgid "Cornelia"
+msgstr ""
+
+#. Town.SteampunkerNames.Cynthia
+msgctxt "Town.SteampunkerNames.Cynthia"
+msgid "Cynthia"
+msgstr ""
+
+#. Town.SteampunkerNames.Emeline
+msgctxt "Town.SteampunkerNames.Emeline"
+msgid "Emeline"
+msgstr ""
+
+#. Town.SteampunkerNames.Fidelia
+msgctxt "Town.SteampunkerNames.Fidelia"
+msgid "Fidelia"
+msgstr ""
+
+#. Town.SteampunkerNames.Hope
+msgctxt "Town.SteampunkerNames.Hope"
+msgid "Hope"
+msgstr ""
+
+#. Town.SteampunkerNames.Isabella
+msgctxt "Town.SteampunkerNames.Isabella"
+msgid "Isabella"
+msgstr ""
+
+#. Town.SteampunkerNames.Judith
+msgctxt "Town.SteampunkerNames.Judith"
+msgid "Judith"
+msgstr ""
+
+#. Town.SteampunkerNames.Leila
+msgctxt "Town.SteampunkerNames.Leila"
+msgid "Leila"
+msgstr ""
+
+#. Town.SteampunkerNames.Lilly
+msgctxt "Town.SteampunkerNames.Lilly"
+msgid "Lilly"
+msgstr ""
+
+#. Town.SteampunkerNames.Lydia
+msgctxt "Town.SteampunkerNames.Lydia"
+msgid "Lydia"
+msgstr ""
+
+#. Town.SteampunkerNames.Minerva
+msgctxt "Town.SteampunkerNames.Minerva"
+msgid "Minerva"
+msgstr ""
+
+#. Town.SteampunkerNames.Phoebe
+msgctxt "Town.SteampunkerNames.Phoebe"
+msgid "Phoebe"
+msgstr ""
+
+#. Town.SteampunkerNames.Savannah
+msgctxt "Town.SteampunkerNames.Savannah"
+msgid "Savannah"
+msgstr ""
+
+#. Town.SteampunkerNames.Selina
+msgctxt "Town.SteampunkerNames.Selina"
+msgid "Selina"
+msgstr ""
+
+#. Town.SteampunkerNames.Verity
+msgctxt "Town.SteampunkerNames.Verity"
+msgid "Verity"
+msgstr ""
+
+#. Town.SteampunkerNames.Vivian
+msgctxt "Town.SteampunkerNames.Vivian"
+msgid "Vivian"
+msgstr ""
+
+#. Town.SteampunkerNames.Whitney
+msgctxt "Town.SteampunkerNames.Whitney"
+msgid "Whitney"
+msgstr ""
+
+#. Town.SteampunkerNames.Zelda
+msgctxt "Town.SteampunkerNames.Zelda"
+msgid "Zelda"
+msgstr ""
+
+#. Town.SteampunkerNames.Zylphia
+msgctxt "Town.SteampunkerNames.Zylphia"
+msgid "Zylphia"
 msgstr ""
 
 #. Town.SteampunkerSpecialText.Graveyard1
@@ -81462,6 +83262,106 @@ msgid ""
 "least worked on his mustache!"
 msgstr ""
 
+#. Town.StylistNames.Annabel
+msgctxt "Town.StylistNames.Annabel"
+msgid "Annabel"
+msgstr ""
+
+#. Town.StylistNames.Biah
+msgctxt "Town.StylistNames.Biah"
+msgid "Biah"
+msgstr ""
+
+#. Town.StylistNames.Bri
+msgctxt "Town.StylistNames.Bri"
+msgid "Bri"
+msgstr ""
+
+#. Town.StylistNames.Brianne
+msgctxt "Town.StylistNames.Brianne"
+msgid "Brianne"
+msgstr ""
+
+#. Town.StylistNames.Esmeralda
+msgctxt "Town.StylistNames.Esmeralda"
+msgid "Esmeralda"
+msgstr ""
+
+#. Town.StylistNames.Flora
+msgctxt "Town.StylistNames.Flora"
+msgid "Flora"
+msgstr ""
+
+#. Town.StylistNames.Hazel
+msgctxt "Town.StylistNames.Hazel"
+msgid "Hazel"
+msgstr ""
+
+#. Town.StylistNames.Iris
+msgctxt "Town.StylistNames.Iris"
+msgid "Iris"
+msgstr ""
+
+#. Town.StylistNames.Kati
+msgctxt "Town.StylistNames.Kati"
+msgid "Kati"
+msgstr ""
+
+#. Town.StylistNames.Kylie
+msgctxt "Town.StylistNames.Kylie"
+msgid "Kylie"
+msgstr ""
+
+#. Town.StylistNames.Lola
+msgctxt "Town.StylistNames.Lola"
+msgid "Lola"
+msgstr ""
+
+#. Town.StylistNames.Meliyah
+msgctxt "Town.StylistNames.Meliyah"
+msgid "Meliyah"
+msgstr ""
+
+#. Town.StylistNames.Pearl
+msgctxt "Town.StylistNames.Pearl"
+msgid "Pearl"
+msgstr ""
+
+#. Town.StylistNames.Petra
+msgctxt "Town.StylistNames.Petra"
+msgid "Petra"
+msgstr ""
+
+#. Town.StylistNames.Rox
+msgctxt "Town.StylistNames.Rox"
+msgid "Rox"
+msgstr ""
+
+#. Town.StylistNames.Roxanne
+msgctxt "Town.StylistNames.Roxanne"
+msgid "Roxanne"
+msgstr ""
+
+#. Town.StylistNames.Ruby
+msgctxt "Town.StylistNames.Ruby"
+msgid "Ruby"
+msgstr ""
+
+#. Town.StylistNames.Scarlett
+msgctxt "Town.StylistNames.Scarlett"
+msgid "Scarlett"
+msgstr ""
+
+#. Town.StylistNames.Stella
+msgctxt "Town.StylistNames.Stella"
+msgid "Stella"
+msgstr ""
+
+#. Town.StylistNames.Tallulah
+msgctxt "Town.StylistNames.Tallulah"
+msgid "Tallulah"
+msgstr ""
+
 #. Town.StylistSpecialText.Graveyard1
 msgctxt "Town.StylistSpecialText.Graveyard1"
 msgid "Eek! This deathly atmosphere is ruining my perm!"
@@ -81511,6 +83411,101 @@ msgctxt "Town.StylistSpecialText.Windy2"
 msgid ""
 "Ugh! I should just take the day off, this wind will blow away all my hard "
 "work!"
+msgstr ""
+
+#. Town.TaxCollectorNames.Agnew
+msgctxt "Town.TaxCollectorNames.Agnew"
+msgid "Agnew"
+msgstr ""
+
+#. Town.TaxCollectorNames.Blanton
+msgctxt "Town.TaxCollectorNames.Blanton"
+msgid "Blanton"
+msgstr ""
+
+#. Town.TaxCollectorNames.Carroll
+msgctxt "Town.TaxCollectorNames.Carroll"
+msgid "Carroll"
+msgstr ""
+
+#. Town.TaxCollectorNames.Chester
+msgctxt "Town.TaxCollectorNames.Chester"
+msgid "Chester"
+msgstr ""
+
+#. Town.TaxCollectorNames.Cleveland
+msgctxt "Town.TaxCollectorNames.Cleveland"
+msgid "Cleveland"
+msgstr ""
+
+#. Town.TaxCollectorNames.Dwyer
+msgctxt "Town.TaxCollectorNames.Dwyer"
+msgid "Dwyer"
+msgstr ""
+
+#. Town.TaxCollectorNames.Fillmore
+msgctxt "Town.TaxCollectorNames.Fillmore"
+msgid "Fillmore"
+msgstr ""
+
+#. Town.TaxCollectorNames.Grover
+msgctxt "Town.TaxCollectorNames.Grover"
+msgid "Grover"
+msgstr ""
+
+#. Town.TaxCollectorNames.Harrison
+msgctxt "Town.TaxCollectorNames.Harrison"
+msgid "Harrison"
+msgstr ""
+
+#. Town.TaxCollectorNames.Herbert
+msgctxt "Town.TaxCollectorNames.Herbert"
+msgid "Herbert"
+msgstr ""
+
+#. Town.TaxCollectorNames.Lyndon
+msgctxt "Town.TaxCollectorNames.Lyndon"
+msgid "Lyndon"
+msgstr ""
+
+#. Town.TaxCollectorNames.McKinly
+msgctxt "Town.TaxCollectorNames.McKinly"
+msgid "McKinly"
+msgstr ""
+
+#. Town.TaxCollectorNames.Millard
+msgctxt "Town.TaxCollectorNames.Millard"
+msgid "Millard"
+msgstr ""
+
+#. Town.TaxCollectorNames.Ronald
+msgctxt "Town.TaxCollectorNames.Ronald"
+msgid "Ronald"
+msgstr ""
+
+#. Town.TaxCollectorNames.Rutherford
+msgctxt "Town.TaxCollectorNames.Rutherford"
+msgid "Rutherford"
+msgstr ""
+
+#. Town.TaxCollectorNames.Theodore
+msgctxt "Town.TaxCollectorNames.Theodore"
+msgid "Theodore"
+msgstr ""
+
+#. Town.TaxCollectorNames.Tweed
+msgctxt "Town.TaxCollectorNames.Tweed"
+msgid "Tweed"
+msgstr ""
+
+#. Town.TaxCollectorNames.Warren
+msgctxt "Town.TaxCollectorNames.Warren"
+msgid "Warren"
+msgstr ""
+
+#. Town.TaxCollectorNames.Woodrow
+msgctxt "Town.TaxCollectorNames.Woodrow"
+msgid "Woodrow"
 msgstr ""
 
 #. Town.TaxCollectorSpecialText.Graveyard1
@@ -84062,6 +86057,71 @@ msgctxt "Town.TownNPCMoodBiomes.Snow"
 msgid "the Snow"
 msgstr ""
 
+#. Town.TravelingMerchantNames.Abraham
+msgctxt "Town.TravelingMerchantNames.Abraham"
+msgid "Abraham"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Aedan
+msgctxt "Town.TravelingMerchantNames.Aedan"
+msgid "Aedan"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Aphraim
+msgctxt "Town.TravelingMerchantNames.Aphraim"
+msgid "Aphraim"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Bohemas
+msgctxt "Town.TravelingMerchantNames.Bohemas"
+msgid "Bohemas"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Eladon
+msgctxt "Town.TravelingMerchantNames.Eladon"
+msgid "Eladon"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Gallius
+msgctxt "Town.TravelingMerchantNames.Gallius"
+msgid "Gallius"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Llewellyn
+msgctxt "Town.TravelingMerchantNames.Llewellyn"
+msgid "Llewellyn"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Mercer
+msgctxt "Town.TravelingMerchantNames.Mercer"
+msgid "Mercer"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Rawleigh
+msgctxt "Town.TravelingMerchantNames.Rawleigh"
+msgid "Rawleigh"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Riley
+msgctxt "Town.TravelingMerchantNames.Riley"
+msgid "Riley"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Romeo
+msgctxt "Town.TravelingMerchantNames.Romeo"
+msgid "Romeo"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Shipton
+msgctxt "Town.TravelingMerchantNames.Shipton"
+msgid "Shipton"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Willy
+msgctxt "Town.TravelingMerchantNames.Willy"
+msgid "Willy"
+msgstr ""
+
 #. Town.TravellingMerchantSpecialText.Graveyard1
 msgctxt "Town.TravellingMerchantSpecialText.Graveyard1"
 msgid ""
@@ -84117,6 +86177,66 @@ msgid ""
 "I would sell you exotic wind socks, but I'm afraid I forgot to stock them!"
 msgstr ""
 
+#. Town.TruffleNames.Agaric
+msgctxt "Town.TruffleNames.Agaric"
+msgid "Agaric"
+msgstr ""
+
+#. Town.TruffleNames.Amanita
+msgctxt "Town.TruffleNames.Amanita"
+msgid "Amanita"
+msgstr ""
+
+#. Town.TruffleNames.Chanterelle
+msgctxt "Town.TruffleNames.Chanterelle"
+msgid "Chanterelle"
+msgstr ""
+
+#. Town.TruffleNames.Cremini
+msgctxt "Town.TruffleNames.Cremini"
+msgid "Cremini"
+msgstr ""
+
+#. Town.TruffleNames.Enoki
+msgctxt "Town.TruffleNames.Enoki"
+msgid "Enoki"
+msgstr ""
+
+#. Town.TruffleNames.Maitake
+msgctxt "Town.TruffleNames.Maitake"
+msgid "Maitake"
+msgstr ""
+
+#. Town.TruffleNames.Morel
+msgctxt "Town.TruffleNames.Morel"
+msgid "Morel"
+msgstr ""
+
+#. Town.TruffleNames.Muscaria
+msgctxt "Town.TruffleNames.Muscaria"
+msgid "Muscaria"
+msgstr ""
+
+#. Town.TruffleNames.Porcini
+msgctxt "Town.TruffleNames.Porcini"
+msgid "Porcini"
+msgstr ""
+
+#. Town.TruffleNames.Reishi
+msgctxt "Town.TruffleNames.Reishi"
+msgid "Reishi"
+msgstr ""
+
+#. Town.TruffleNames.Shiitake
+msgctxt "Town.TruffleNames.Shiitake"
+msgid "Shiitake"
+msgstr ""
+
+#. Town.TruffleNames.Shimeji
+msgctxt "Town.TruffleNames.Shimeji"
+msgid "Shimeji"
+msgstr ""
+
 #. Town.TruffleSpecialText.Graveyard1
 msgctxt "Town.TruffleSpecialText.Graveyard1"
 msgid ""
@@ -84163,6 +86283,56 @@ msgstr ""
 #. Town.TruffleSpecialText.Windy2
 msgctxt "Town.TruffleSpecialText.Windy2"
 msgid "Wind is not my friend, I like the dark, calm places."
+msgstr ""
+
+#. Town.WitchDoctorNames.Abibe
+msgctxt "Town.WitchDoctorNames.Abibe"
+msgid "Abibe"
+msgstr ""
+
+#. Town.WitchDoctorNames.Gboto
+msgctxt "Town.WitchDoctorNames.Gboto"
+msgid "Gboto"
+msgstr ""
+
+#. Town.WitchDoctorNames.Jamundi
+msgctxt "Town.WitchDoctorNames.Jamundi"
+msgid "Jamundi"
+msgstr ""
+
+#. Town.WitchDoctorNames.Kogi-ghi
+msgctxt "Town.WitchDoctorNames.Kogi-ghi"
+msgid "Kogi-ghi"
+msgstr ""
+
+#. Town.WitchDoctorNames.Konah
+msgctxt "Town.WitchDoctorNames.Konah"
+msgid "Konah"
+msgstr ""
+
+#. Town.WitchDoctorNames.Opuni
+msgctxt "Town.WitchDoctorNames.Opuni"
+msgid "Opuni"
+msgstr ""
+
+#. Town.WitchDoctorNames.Tairona
+msgctxt "Town.WitchDoctorNames.Tairona"
+msgid "Tairona"
+msgstr ""
+
+#. Town.WitchDoctorNames.U'wa
+msgctxt "Town.WitchDoctorNames.U'wa"
+msgid "U'wa"
+msgstr ""
+
+#. Town.WitchDoctorNames.Xirigua
+msgctxt "Town.WitchDoctorNames.Xirigua"
+msgid "Xirigua"
+msgstr ""
+
+#. Town.WitchDoctorNames.Zop'a
+msgctxt "Town.WitchDoctorNames.Zop'a"
+msgid "Zop'a"
 msgstr ""
 
 #. Town.WitchDoctorSpecialText.AfterDD2Tier1
@@ -84218,6 +86388,116 @@ msgstr ""
 #. Town.WitchDoctorSpecialText.Windy2
 msgctxt "Town.WitchDoctorSpecialText.Windy2"
 msgid "The wind blows with the leaves, the leaves blow with the wind."
+msgstr ""
+
+#. Town.WizardNames.Abram
+msgctxt "Town.WizardNames.Abram"
+msgid "Abram"
+msgstr ""
+
+#. Town.WizardNames.Alasdair
+msgctxt "Town.WizardNames.Alasdair"
+msgid "Alasdair"
+msgstr ""
+
+#. Town.WizardNames.Arddun
+msgctxt "Town.WizardNames.Arddun"
+msgid "Arddun"
+msgstr ""
+
+#. Town.WizardNames.Arwyn
+msgctxt "Town.WizardNames.Arwyn"
+msgid "Arwyn"
+msgstr ""
+
+#. Town.WizardNames.Berwyn
+msgctxt "Town.WizardNames.Berwyn"
+msgid "Berwyn"
+msgstr ""
+
+#. Town.WizardNames.Dalamar
+msgctxt "Town.WizardNames.Dalamar"
+msgid "Dalamar"
+msgstr ""
+
+#. Town.WizardNames.Dulais
+msgctxt "Town.WizardNames.Dulais"
+msgid "Dulais"
+msgstr ""
+
+#. Town.WizardNames.Elric
+msgctxt "Town.WizardNames.Elric"
+msgid "Elric"
+msgstr ""
+
+#. Town.WizardNames.Fizban
+msgctxt "Town.WizardNames.Fizban"
+msgid "Fizban"
+msgstr ""
+
+#. Town.WizardNames.Gearroid
+msgctxt "Town.WizardNames.Gearroid"
+msgid "Gearroid"
+msgstr ""
+
+#. Town.WizardNames.Greum
+msgctxt "Town.WizardNames.Greum"
+msgid "Greum"
+msgstr ""
+
+#. Town.WizardNames.Gwentor
+msgctxt "Town.WizardNames.Gwentor"
+msgid "Gwentor"
+msgstr ""
+
+#. Town.WizardNames.Hirael
+msgctxt "Town.WizardNames.Hirael"
+msgid "Hirael"
+msgstr ""
+
+#. Town.WizardNames.Leomund
+msgctxt "Town.WizardNames.Leomund"
+msgid "Leomund"
+msgstr ""
+
+#. Town.WizardNames.Maelor
+msgctxt "Town.WizardNames.Maelor"
+msgid "Maelor"
+msgstr ""
+
+#. Town.WizardNames.Magius
+msgctxt "Town.WizardNames.Magius"
+msgid "Magius"
+msgstr ""
+
+#. Town.WizardNames.Merlyn
+msgctxt "Town.WizardNames.Merlyn"
+msgid "Merlyn"
+msgstr ""
+
+#. Town.WizardNames.Ningauble
+msgctxt "Town.WizardNames.Ningauble"
+msgid "Ningauble"
+msgstr ""
+
+#. Town.WizardNames.Sargon
+msgctxt "Town.WizardNames.Sargon"
+msgid "Sargon"
+msgstr ""
+
+#. Town.WizardNames.Seonag
+msgctxt "Town.WizardNames.Seonag"
+msgid "Seonag"
+msgstr ""
+
+#. Town.WizardNames.Tagar
+msgctxt "Town.WizardNames.Tagar"
+msgid "Tagar"
+msgstr ""
+
+#. Town.WizardNames.Xanadu
+msgctxt "Town.WizardNames.Xanadu"
+msgid "Xanadu"
 msgstr ""
 
 #. Town.WizardSpecialText.AfterDD2Tier1

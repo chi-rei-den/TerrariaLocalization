@@ -28417,7 +28417,7 @@ msgstr "猪龙雕像"
 
 #. Items.ItemName.PillaginMePixels
 msgctxt "Items.ItemName.PillaginMePixels"
-msgid "Pillagin Me Pixels"
+msgid "Pillagin' Me Pixels"
 msgstr "海贼像素画"
 
 #. Items.ItemName.PillarStatue
@@ -70669,6 +70669,11 @@ msgctxt "NPCs.NPCName.ChaosBall"
 msgid "Chaos Ball"
 msgstr "混沌球"
 
+#. NPCs.NPCName.ChaosBallTim
+msgctxt "NPCs.NPCName.ChaosBallTim"
+msgid "{$NPCName.ChaosBall}"
+msgstr "{$NPCName.ChaosBall}"
+
 #. NPCs.NPCName.ChaosElemental
 msgctxt "NPCs.NPCName.ChaosElemental"
 msgid "Chaos Elemental"
@@ -73368,6 +73373,11 @@ msgstr "吸血鬼"
 msgctxt "NPCs.NPCName.VileSpit"
 msgid "Vile Spit"
 msgstr "魔唾液"
+
+#. NPCs.NPCName.VileSpitEaterOfWorlds
+msgctxt "NPCs.NPCName.VileSpitEaterOfWorlds"
+msgid "{$NPCName.VileSpit}"
+msgstr "{$NPCName.VileSpit}"
 
 #. NPCs.NPCName.VoodooDemon
 msgctxt "NPCs.NPCName.VoodooDemon"
@@ -78070,6 +78080,111 @@ msgid ""
 "even was born, and that's not fair!"
 msgstr "太失望了！有些鱼可能在我出生之前就灭绝了，真不公平！"
 
+#. Town.AnglerNames.Adam
+msgctxt "Town.AnglerNames.Adam"
+msgid "Adam"
+msgstr ""
+
+#. Town.AnglerNames.Bart
+msgctxt "Town.AnglerNames.Bart"
+msgid "Bart"
+msgstr ""
+
+#. Town.AnglerNames.Billy
+msgctxt "Town.AnglerNames.Billy"
+msgid "Billy"
+msgstr ""
+
+#. Town.AnglerNames.Bobby
+msgctxt "Town.AnglerNames.Bobby"
+msgid "Bobby"
+msgstr ""
+
+#. Town.AnglerNames.Charles
+msgctxt "Town.AnglerNames.Charles"
+msgid "Charles"
+msgstr ""
+
+#. Town.AnglerNames.Danny
+msgctxt "Town.AnglerNames.Danny"
+msgid "Danny"
+msgstr ""
+
+#. Town.AnglerNames.Grayson
+msgctxt "Town.AnglerNames.Grayson"
+msgid "Grayson"
+msgstr ""
+
+#. Town.AnglerNames.Ivan
+msgctxt "Town.AnglerNames.Ivan"
+msgid "Ivan"
+msgstr ""
+
+#. Town.AnglerNames.Izzy
+msgctxt "Town.AnglerNames.Izzy"
+msgid "Izzy"
+msgstr ""
+
+#. Town.AnglerNames.Jey
+msgctxt "Town.AnglerNames.Jey"
+msgid "Jey"
+msgstr ""
+
+#. Town.AnglerNames.Jimmy
+msgctxt "Town.AnglerNames.Jimmy"
+msgid "Jimmy"
+msgstr ""
+
+#. Town.AnglerNames.Johnny
+msgctxt "Town.AnglerNames.Johnny"
+msgid "Johnny"
+msgstr ""
+
+#. Town.AnglerNames.Matty
+msgctxt "Town.AnglerNames.Matty"
+msgid "Matty"
+msgstr ""
+
+#. Town.AnglerNames.Miles
+msgctxt "Town.AnglerNames.Miles"
+msgid "Miles"
+msgstr ""
+
+#. Town.AnglerNames.Nathan
+msgctxt "Town.AnglerNames.Nathan"
+msgid "Nathan"
+msgstr ""
+
+#. Town.AnglerNames.Phillip
+msgctxt "Town.AnglerNames.Phillip"
+msgid "Phillip"
+msgstr ""
+
+#. Town.AnglerNames.Sammy
+msgctxt "Town.AnglerNames.Sammy"
+msgid "Sammy"
+msgstr ""
+
+#. Town.AnglerNames.Simon
+msgctxt "Town.AnglerNames.Simon"
+msgid "Simon"
+msgstr ""
+
+#. Town.AnglerNames.Spencer
+msgctxt "Town.AnglerNames.Spencer"
+msgid "Spencer"
+msgstr ""
+
+#. Town.AnglerNames.Timmy
+msgctxt "Town.AnglerNames.Timmy"
+msgid "Timmy"
+msgstr ""
+
+#. Town.AnglerNames.Tyler
+msgctxt "Town.AnglerNames.Tyler"
+msgid "Tyler"
+msgstr ""
+
 #. Town.AnglerQuestChatter.Chatter_1
 msgctxt "Town.AnglerQuestChatter.Chatter_1"
 msgid ""
@@ -78805,6 +78920,126 @@ msgctxt "Town.AnglerSpecialText.Windy2"
 msgid "Is this some kinda hurricane!? I almost got hit by a dolphin!"
 msgstr "这是飓风吗！？我差点跟海豚撞上了！"
 
+#. Town.ArmsDealerNames.Andre
+msgctxt "Town.ArmsDealerNames.Andre"
+msgid "Andre"
+msgstr ""
+
+#. Town.ArmsDealerNames.Brimst
+msgctxt "Town.ArmsDealerNames.Brimst"
+msgid "Brimst"
+msgstr ""
+
+#. Town.ArmsDealerNames.Bronson
+msgctxt "Town.ArmsDealerNames.Bronson"
+msgid "Bronson"
+msgstr ""
+
+#. Town.ArmsDealerNames.Dante
+msgctxt "Town.ArmsDealerNames.Dante"
+msgid "Dante"
+msgstr ""
+
+#. Town.ArmsDealerNames.Darius
+msgctxt "Town.ArmsDealerNames.Darius"
+msgid "Darius"
+msgstr ""
+
+#. Town.ArmsDealerNames.Darnell
+msgctxt "Town.ArmsDealerNames.Darnell"
+msgid "Darnell"
+msgstr ""
+
+#. Town.ArmsDealerNames.Darryl
+msgctxt "Town.ArmsDealerNames.Darryl"
+msgid "Darryl"
+msgstr ""
+
+#. Town.ArmsDealerNames.DeAndre
+msgctxt "Town.ArmsDealerNames.DeAndre"
+msgid "DeAndre"
+msgstr ""
+
+#. Town.ArmsDealerNames.Demetrius
+msgctxt "Town.ArmsDealerNames.Demetrius"
+msgid "Demetrius"
+msgstr ""
+
+#. Town.ArmsDealerNames.DeShawn
+msgctxt "Town.ArmsDealerNames.DeShawn"
+msgid "DeShawn"
+msgstr ""
+
+#. Town.ArmsDealerNames.Dominique
+msgctxt "Town.ArmsDealerNames.Dominique"
+msgid "Dominique"
+msgstr ""
+
+#. Town.ArmsDealerNames.Jalen
+msgctxt "Town.ArmsDealerNames.Jalen"
+msgid "Jalen"
+msgstr ""
+
+#. Town.ArmsDealerNames.Jamal
+msgctxt "Town.ArmsDealerNames.Jamal"
+msgid "Jamal"
+msgstr ""
+
+#. Town.ArmsDealerNames.Malik
+msgctxt "Town.ArmsDealerNames.Malik"
+msgid "Malik"
+msgstr ""
+
+#. Town.ArmsDealerNames.Marquis
+msgctxt "Town.ArmsDealerNames.Marquis"
+msgid "Marquis"
+msgstr ""
+
+#. Town.ArmsDealerNames.Maurice
+msgctxt "Town.ArmsDealerNames.Maurice"
+msgid "Maurice"
+msgstr ""
+
+#. Town.ArmsDealerNames.Reginald
+msgctxt "Town.ArmsDealerNames.Reginald"
+msgid "Reginald"
+msgstr ""
+
+#. Town.ArmsDealerNames.Terrance
+msgctxt "Town.ArmsDealerNames.Terrance"
+msgid "Terrance"
+msgstr ""
+
+#. Town.ArmsDealerNames.Terrell
+msgctxt "Town.ArmsDealerNames.Terrell"
+msgid "Terrell"
+msgstr ""
+
+#. Town.ArmsDealerNames.Tony
+msgctxt "Town.ArmsDealerNames.Tony"
+msgid "Tony"
+msgstr ""
+
+#. Town.ArmsDealerNames.Trevon
+msgctxt "Town.ArmsDealerNames.Trevon"
+msgid "Trevon"
+msgstr ""
+
+#. Town.ArmsDealerNames.Tyrone
+msgctxt "Town.ArmsDealerNames.Tyrone"
+msgid "Tyrone"
+msgstr ""
+
+#. Town.ArmsDealerNames.Willie
+msgctxt "Town.ArmsDealerNames.Willie"
+msgid "Willie"
+msgstr ""
+
+#. Town.ArmsDealerNames.Xavier
+msgctxt "Town.ArmsDealerNames.Xavier"
+msgid "Xavier"
+msgstr ""
+
 #. Town.ArmsDealerSpecialText.Graveyard1
 msgctxt "Town.ArmsDealerSpecialText.Graveyard1"
 msgid "I hate places like this. I can't kill what's already dead!"
@@ -79046,82 +79281,82 @@ msgstr "你必须借助这些防御工事，击退几波企图摧毁你和埃特
 #. Town.BartenderNames.Name_1
 msgctxt "Town.BartenderNames.Name_1"
 msgid "Ted"
-msgstr "泰德"
+msgstr ""
 
 #. Town.BartenderNames.Name_10
 msgctxt "Town.BartenderNames.Name_10"
 msgid "Javahawk"
-msgstr "贾瓦霍克"
+msgstr ""
 
 #. Town.BartenderNames.Name_11
 msgctxt "Town.BartenderNames.Name_11"
 msgid "Elandrian"
-msgstr "伊兰德里安"
+msgstr ""
 
 #. Town.BartenderNames.Name_12
 msgctxt "Town.BartenderNames.Name_12"
 msgid "Driscan"
-msgstr "德里斯肯"
+msgstr ""
 
 #. Town.BartenderNames.Name_13
 msgctxt "Town.BartenderNames.Name_13"
 msgid "Iamisom"
-msgstr "伊安米松"
+msgstr ""
 
 #. Town.BartenderNames.Name_14
 msgctxt "Town.BartenderNames.Name_14"
 msgid "Blacksmith"
-msgstr "布莱克史密斯"
+msgstr ""
 
 #. Town.BartenderNames.Name_15
 msgctxt "Town.BartenderNames.Name_15"
 msgid "Dani Moo"
-msgstr "丹尼穆"
+msgstr ""
 
 #. Town.BartenderNames.Name_16
 msgctxt "Town.BartenderNames.Name_16"
 msgid "Paddy"
-msgstr "帕迪"
+msgstr ""
 
 #. Town.BartenderNames.Name_2
 msgctxt "Town.BartenderNames.Name_2"
 msgid "Barkeep"
-msgstr "巴基普"
+msgstr ""
 
 #. Town.BartenderNames.Name_3
 msgctxt "Town.BartenderNames.Name_3"
 msgid "Jerry"
-msgstr "杰里"
+msgstr ""
 
 #. Town.BartenderNames.Name_4
 msgctxt "Town.BartenderNames.Name_4"
 msgid "Bill"
-msgstr "比尔"
+msgstr ""
 
 #. Town.BartenderNames.Name_5
 msgctxt "Town.BartenderNames.Name_5"
 msgid "Ernest"
-msgstr "欧内斯特"
+msgstr ""
 
 #. Town.BartenderNames.Name_6
 msgctxt "Town.BartenderNames.Name_6"
 msgid "William"
-msgstr "威廉"
+msgstr ""
 
 #. Town.BartenderNames.Name_7
 msgctxt "Town.BartenderNames.Name_7"
 msgid "Dale"
-msgstr "戴尔"
+msgstr ""
 
 #. Town.BartenderNames.Name_8
 msgctxt "Town.BartenderNames.Name_8"
 msgid "Bruce"
-msgstr "布鲁斯"
+msgstr ""
 
 #. Town.BartenderNames.Name_9
 msgctxt "Town.BartenderNames.Name_9"
 msgid "Moe"
-msgstr "穆厄"
+msgstr ""
 
 #. Town.BartenderSpecialText.AfterDD2Tier1
 msgctxt "Town.BartenderSpecialText.AfterDD2Tier1"
@@ -79302,102 +79537,102 @@ msgstr "离开！快跑！危险。我。愤怒！"
 #. Town.BestiaryGirlNames.Name_1
 msgctxt "Town.BestiaryGirlNames.Name_1"
 msgid "Maria"
-msgstr "玛丽亚"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_10
 msgctxt "Town.BestiaryGirlNames.Name_10"
 msgid "Robyn"
-msgstr "萝宾"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_11
 msgctxt "Town.BestiaryGirlNames.Name_11"
 msgid "Arien"
-msgstr "阿里安"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_12
 msgctxt "Town.BestiaryGirlNames.Name_12"
 msgid "Jane"
-msgstr "简"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_13
 msgctxt "Town.BestiaryGirlNames.Name_13"
 msgid "Bindi"
-msgstr "宾蒂"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_14
 msgctxt "Town.BestiaryGirlNames.Name_14"
 msgid "Dian"
-msgstr "黛安"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_15
 msgctxt "Town.BestiaryGirlNames.Name_15"
 msgid "Lori"
-msgstr "罗莉"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_16
 msgctxt "Town.BestiaryGirlNames.Name_16"
 msgid "Mardy"
-msgstr "玛蒂"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_17
 msgctxt "Town.BestiaryGirlNames.Name_17"
 msgid "Mollie"
-msgstr "莫莉"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_18
 msgctxt "Town.BestiaryGirlNames.Name_18"
 msgid "Lizzy"
-msgstr "丽琪"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_19
 msgctxt "Town.BestiaryGirlNames.Name_19"
 msgid "Daphne"
-msgstr "达芙妮"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_2
 msgctxt "Town.BestiaryGirlNames.Name_2"
 msgid "MacKenzie"
-msgstr "麦肯琪"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_20
 msgctxt "Town.BestiaryGirlNames.Name_20"
 msgid "Ellen"
-msgstr "艾伦"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_3
 msgctxt "Town.BestiaryGirlNames.Name_3"
 msgid "Azaria"
-msgstr "阿萨莉亚"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_4
 msgctxt "Town.BestiaryGirlNames.Name_4"
 msgid "Juanita"
-msgstr "胡安妮塔"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_5
 msgctxt "Town.BestiaryGirlNames.Name_5"
 msgid "Astra"
-msgstr "阿斯特拉"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_6
 msgctxt "Town.BestiaryGirlNames.Name_6"
 msgid "Hayley"
-msgstr "海莉"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_7
 msgctxt "Town.BestiaryGirlNames.Name_7"
 msgid "Becca"
-msgstr "贝卡"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_8
 msgctxt "Town.BestiaryGirlNames.Name_8"
 msgid "Veronica"
-msgstr "维罗妮卡"
+msgstr ""
 
 #. Town.BestiaryGirlNames.Name_9
 msgctxt "Town.BestiaryGirlNames.Name_9"
 msgid "Tia"
-msgstr "蒂亚"
+msgstr ""
 
 #. Town.BestiaryGirlSpecialText.Graveyard1
 msgctxt "Town.BestiaryGirlSpecialText.Graveyard1"
@@ -79459,367 +79694,367 @@ msgstr "*小兔子声音*"
 #. Town.BunnyNames_Angora.Babs
 msgctxt "Town.BunnyNames_Angora.Babs"
 msgid "Babs"
-msgstr "芭布斯"
+msgstr ""
 
 #. Town.BunnyNames_Angora.BigB
 msgctxt "Town.BunnyNames_Angora.BigB"
 msgid "Big B"
-msgstr "大宝贝"
+msgstr ""
 
 #. Town.BunnyNames_Angora.Breadbuns
 msgctxt "Town.BunnyNames_Angora.Breadbuns"
 msgid "Breadbuns"
-msgstr "面包兔"
+msgstr ""
 
 #. Town.BunnyNames_Angora.Donald
 msgctxt "Town.BunnyNames_Angora.Donald"
 msgid "Donald"
-msgstr "唐纳德"
+msgstr ""
 
 #. Town.BunnyNames_Angora.Fluffy
 msgctxt "Town.BunnyNames_Angora.Fluffy"
 msgid "Fluffy"
-msgstr "毛毛"
+msgstr ""
 
 #. Town.BunnyNames_Angora.Greg
 msgctxt "Town.BunnyNames_Angora.Greg"
 msgid "Greg"
-msgstr "格雷格"
+msgstr ""
 
 #. Town.BunnyNames_Angora.Loaf
 msgctxt "Town.BunnyNames_Angora.Loaf"
 msgid "Loaf"
-msgstr "洛夫"
+msgstr ""
 
 #. Town.BunnyNames_Angora.Maximus
 msgctxt "Town.BunnyNames_Angora.Maximus"
 msgid "Maximus"
-msgstr "马克西姆斯"
+msgstr ""
 
 #. Town.BunnyNames_Angora.Muffin
 msgctxt "Town.BunnyNames_Angora.Muffin"
 msgid "Muffin"
-msgstr "玛芬"
+msgstr ""
 
 #. Town.BunnyNames_Angora.Pom
 msgctxt "Town.BunnyNames_Angora.Pom"
 msgid "Pom"
-msgstr "波美"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Domino
 msgctxt "Town.BunnyNames_Dutch.Domino"
 msgid "Domino"
-msgstr "多米诺"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Kaguya
 msgctxt "Town.BunnyNames_Dutch.Kaguya"
 msgid "Kaguya"
-msgstr "辉夜姬"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Mono
 msgctxt "Town.BunnyNames_Dutch.Mono"
 msgid "Mono"
-msgstr "莫诺"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Olaf
 msgctxt "Town.BunnyNames_Dutch.Olaf"
 msgid "Olaf"
-msgstr "奥拉夫"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Oreo
 msgctxt "Town.BunnyNames_Dutch.Oreo"
 msgid "Oreo"
-msgstr "奥莉奥"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Orin
 msgctxt "Town.BunnyNames_Dutch.Orin"
 msgid "Orin"
-msgstr "奥林"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Oz
 msgctxt "Town.BunnyNames_Dutch.Oz"
 msgid "Oz"
-msgstr "奥兹"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Panda
 msgctxt "Town.BunnyNames_Dutch.Panda"
 msgid "Panda"
-msgstr "潘达"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Pow
 msgctxt "Town.BunnyNames_Dutch.Pow"
 msgid "Pow"
-msgstr "波"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Yang
 msgctxt "Town.BunnyNames_Dutch.Yang"
 msgid "Yang"
-msgstr "阳"
+msgstr ""
 
 #. Town.BunnyNames_Dutch.Yin
 msgctxt "Town.BunnyNames_Dutch.Yin"
 msgid "Yin"
-msgstr "银"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Cinnabun
 msgctxt "Town.BunnyNames_Flemish.Cinnabun"
 msgid "Cinnabun"
-msgstr "西纳布"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Daisy
 msgctxt "Town.BunnyNames_Flemish.Daisy"
 msgid "Daisy"
-msgstr "黛西"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Dusty
 msgctxt "Town.BunnyNames_Flemish.Dusty"
 msgid "Dusty"
-msgstr "杜史迪"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Hazel
 msgctxt "Town.BunnyNames_Flemish.Hazel"
 msgid "Hazel"
-msgstr "黑兹尔"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Honeycomb
 msgctxt "Town.BunnyNames_Flemish.Honeycomb"
 msgid "Honeycomb"
-msgstr "蜂窝"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Jazz
 msgctxt "Town.BunnyNames_Flemish.Jazz"
 msgid "Jazz"
-msgstr "雅茨"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Loki
 msgctxt "Town.BunnyNames_Flemish.Loki"
 msgid "Loki"
-msgstr "洛基"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Peter
 msgctxt "Town.BunnyNames_Flemish.Peter"
 msgid "Peter"
-msgstr "皮特"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Russell
 msgctxt "Town.BunnyNames_Flemish.Russell"
 msgid "Russell"
-msgstr "拉塞尔"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Sunflower
 msgctxt "Town.BunnyNames_Flemish.Sunflower"
 msgid "Sunflower"
-msgstr "向日葵"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Thumper
 msgctxt "Town.BunnyNames_Flemish.Thumper"
 msgid "Thumper"
-msgstr "桑普"
+msgstr ""
 
 #. Town.BunnyNames_Flemish.Toby
 msgctxt "Town.BunnyNames_Flemish.Toby"
 msgid "Toby"
-msgstr "托比"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Boof
 msgctxt "Town.BunnyNames_Lop.Boof"
 msgid "Boof"
-msgstr "博夫"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Bunbun
 msgctxt "Town.BunnyNames_Lop.Bunbun"
 msgid "Bunbun"
-msgstr "咘咘"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Caerbannog
 msgctxt "Town.BunnyNames_Lop.Caerbannog"
 msgid "Caerbannog"
-msgstr "卡宾诺格"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Dandy
 msgctxt "Town.BunnyNames_Lop.Dandy"
 msgid "Dandy"
-msgstr "丹迪"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Flappie
 msgctxt "Town.BunnyNames_Lop.Flappie"
 msgid "Flappie"
-msgstr "弗拉皮"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Flops
 msgctxt "Town.BunnyNames_Lop.Flops"
 msgid "Flops"
-msgstr "弗洛普"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Lola
 msgctxt "Town.BunnyNames_Lop.Lola"
 msgid "Lola"
-msgstr "洛拉"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Max
 msgctxt "Town.BunnyNames_Lop.Max"
 msgid "Max"
-msgstr "马克斯"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Mochi
 msgctxt "Town.BunnyNames_Lop.Mochi"
 msgid "Mochi"
-msgstr "莫基"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Puff
 msgctxt "Town.BunnyNames_Lop.Puff"
 msgid "Puff"
-msgstr "泡芙"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Tyler
 msgctxt "Town.BunnyNames_Lop.Tyler"
 msgid "Tyler"
-msgstr "泰勒"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Veidra
 msgctxt "Town.BunnyNames_Lop.Veidra"
 msgid "Veidra"
-msgstr "维德拉"
+msgstr ""
 
 #. Town.BunnyNames_Lop.Youp
 msgctxt "Town.BunnyNames_Lop.Youp"
 msgid "Youp"
-msgstr "尤普"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Bugz
 msgctxt "Town.BunnyNames_Silver.Bugz"
 msgid "Bugz"
-msgstr "甲虫兔"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Bunnykins
 msgctxt "Town.BunnyNames_Silver.Bunnykins"
 msgid "Bunnykins"
-msgstr "兔金斯"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Bunstar
 msgctxt "Town.BunnyNames_Silver.Bunstar"
 msgid "Bunstar"
-msgstr "星星兔"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Buster
 msgctxt "Town.BunnyNames_Silver.Buster"
 msgid "Buster"
-msgstr "巴斯特"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Chrome
 msgctxt "Town.BunnyNames_Silver.Chrome"
 msgid "Chrome"
-msgstr "克罗姆"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Crystal
 msgctxt "Town.BunnyNames_Silver.Crystal"
 msgid "Crystal"
-msgstr "克里斯特尔"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Dustbunny
 msgctxt "Town.BunnyNames_Silver.Dustbunny"
 msgid "Dustbunny"
-msgstr "小杜斯特"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Dusty
 msgctxt "Town.BunnyNames_Silver.Dusty"
 msgid "Dusty"
-msgstr "杜史迪"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Joshua
 msgctxt "Town.BunnyNames_Silver.Joshua"
 msgid "Joshua"
-msgstr "约书亚"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Lord
 msgctxt "Town.BunnyNames_Silver.Lord"
 msgid "Lord"
-msgstr "洛德"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Silvine
 msgctxt "Town.BunnyNames_Silver.Silvine"
 msgid "Silvine"
-msgstr "西尔万内"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Vincent
 msgctxt "Town.BunnyNames_Silver.Vincent"
 msgid "Vincent"
-msgstr "文森特"
+msgstr ""
 
 #. Town.BunnyNames_Silver.Zach
 msgctxt "Town.BunnyNames_Silver.Zach"
 msgid "Zach"
-msgstr "扎克"
+msgstr ""
 
 #. Town.BunnyNames_White.Alice
 msgctxt "Town.BunnyNames_White.Alice"
 msgid "Alice"
-msgstr "爱丽丝"
+msgstr ""
 
 #. Town.BunnyNames_White.Ben
 msgctxt "Town.BunnyNames_White.Ben"
 msgid "Ben"
-msgstr "本"
+msgstr ""
 
 #. Town.BunnyNames_White.Bunnicula
 msgctxt "Town.BunnyNames_White.Bunnicula"
 msgid "Bunnicula"
-msgstr "邦尼库拉"
+msgstr ""
 
 #. Town.BunnyNames_White.Donnie
 msgctxt "Town.BunnyNames_White.Donnie"
 msgid "Donnie"
-msgstr "唐尼"
+msgstr ""
 
 #. Town.BunnyNames_White.Ears
 msgctxt "Town.BunnyNames_White.Ears"
 msgid "Ears"
-msgstr "耳朵"
+msgstr ""
 
 #. Town.BunnyNames_White.Inaba
 msgctxt "Town.BunnyNames_White.Inaba"
 msgid "Inaba"
-msgstr "伊奈宝"
+msgstr ""
 
 #. Town.BunnyNames_White.Lilia
 msgctxt "Town.BunnyNames_White.Lilia"
 msgid "Lilia"
-msgstr "莉莉娅"
+msgstr ""
 
 #. Town.BunnyNames_White.Lily
 msgctxt "Town.BunnyNames_White.Lily"
 msgid "Lily"
-msgstr "莉莉"
+msgstr ""
 
 #. Town.BunnyNames_White.Lisette
 msgctxt "Town.BunnyNames_White.Lisette"
 msgid "Lisette"
-msgstr "莉塞特"
+msgstr ""
 
 #. Town.BunnyNames_White.Presto
 msgctxt "Town.BunnyNames_White.Presto"
 msgid "Presto"
-msgstr "普雷斯托"
+msgstr ""
 
 #. Town.BunnyNames_White.Roger
 msgctxt "Town.BunnyNames_White.Roger"
 msgid "Roger"
-msgstr "罗杰"
+msgstr ""
 
 #. Town.BunnyNames_White.Shion
 msgctxt "Town.BunnyNames_White.Shion"
 msgid "Shion"
-msgstr "史昂"
+msgstr ""
 
 #. Town.BunnyNames_White.Shirayuki
 msgctxt "Town.BunnyNames_White.Shirayuki"
 msgid "Shirayuki"
-msgstr "小白"
+msgstr ""
 
 #. Town.BunnyNames_White.Skippy
 msgctxt "Town.BunnyNames_White.Skippy"
 msgid "Skippy"
-msgstr "斯基比"
+msgstr ""
 
 #. Town.CatChatter.Chatter_1
 msgctxt "Town.CatChatter.Chatter_1"
@@ -79839,507 +80074,632 @@ msgstr "喵…喵！"
 #. Town.CatNames_Black.Arbus
 msgctxt "Town.CatNames_Black.Arbus"
 msgid "Arbus"
-msgstr "阿勃丝"
+msgstr ""
 
 #. Town.CatNames_Black.Bella
 msgctxt "Town.CatNames_Black.Bella"
 msgid "Bella"
-msgstr "贝拉"
+msgstr ""
 
 #. Town.CatNames_Black.Damien
 msgctxt "Town.CatNames_Black.Damien"
 msgid "Damien"
-msgstr "达米安"
+msgstr ""
 
 #. Town.CatNames_Black.Ember
 msgctxt "Town.CatNames_Black.Ember"
 msgid "Ember"
-msgstr "恩贝尔"
+msgstr ""
 
 #. Town.CatNames_Black.Esper
 msgctxt "Town.CatNames_Black.Esper"
 msgid "Esper"
-msgstr "埃斯珀"
+msgstr ""
 
 #. Town.CatNames_Black.Figment
 msgctxt "Town.CatNames_Black.Figment"
 msgid "Figment"
-msgstr "费格门特"
+msgstr ""
 
 #. Town.CatNames_Black.Gargoyle
 msgctxt "Town.CatNames_Black.Gargoyle"
 msgid "Gargoyle"
-msgstr "吉永"
+msgstr ""
 
 #. Town.CatNames_Black.George
 msgctxt "Town.CatNames_Black.George"
 msgid "George"
-msgstr "乔治"
+msgstr ""
 
 #. Town.CatNames_Black.Jaspers
 msgctxt "Town.CatNames_Black.Jaspers"
 msgid "Jaspers"
-msgstr "贾斯珀斯"
+msgstr ""
 
 #. Town.CatNames_Black.Jiji
 msgctxt "Town.CatNames_Black.Jiji"
 msgid "Jiji"
-msgstr "吉吉"
+msgstr ""
 
 #. Town.CatNames_Black.Lilith
 msgctxt "Town.CatNames_Black.Lilith"
 msgid "Lilith"
-msgstr "莉莉斯"
+msgstr ""
 
 #. Town.CatNames_Black.Luna
 msgctxt "Town.CatNames_Black.Luna"
 msgid "Luna"
-msgstr "露娜"
+msgstr ""
 
 #. Town.CatNames_Black.Magic
 msgctxt "Town.CatNames_Black.Magic"
 msgid "Magic"
-msgstr "马吉克"
+msgstr ""
 
 #. Town.CatNames_Black.Max
 msgctxt "Town.CatNames_Black.Max"
 msgid "Max"
-msgstr "马克斯"
+msgstr ""
 
 #. Town.CatNames_Black.Misu
 msgctxt "Town.CatNames_Black.Misu"
 msgid "Misu"
-msgstr "米苏"
+msgstr ""
 
 #. Town.CatNames_Black.Morgan
 msgctxt "Town.CatNames_Black.Morgan"
 msgid "Morgan"
-msgstr "摩尔根"
+msgstr ""
 
 #. Town.CatNames_Black.Night
 msgctxt "Town.CatNames_Black.Night"
 msgid "Night"
-msgstr "奈特"
+msgstr ""
 
 #. Town.CatNames_Black.Odin
 msgctxt "Town.CatNames_Black.Odin"
 msgid "Odin"
-msgstr "奥丁"
+msgstr ""
 
 #. Town.CatNames_Black.Rascal
 msgctxt "Town.CatNames_Black.Rascal"
 msgid "Rascal"
-msgstr "拉斯科"
+msgstr ""
 
 #. Town.CatNames_Black.Salem
 msgctxt "Town.CatNames_Black.Salem"
 msgid "Salem"
-msgstr "塞勒姆"
+msgstr ""
 
 #. Town.CatNames_Black.Snowball
 msgctxt "Town.CatNames_Black.Snowball"
 msgid "Snowball"
-msgstr "雪球"
+msgstr ""
 
 #. Town.CatNames_Black.Tonic
 msgctxt "Town.CatNames_Black.Tonic"
 msgid "Tonic"
-msgstr "托尼克"
+msgstr ""
 
 #. Town.CatNames_Black.Violet
 msgctxt "Town.CatNames_Black.Violet"
 msgid "Violet"
-msgstr "维奥莱特"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Adol
 msgctxt "Town.CatNames_OrangeTabby.Adol"
 msgid "Adol"
-msgstr "阿多尔"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Bob
 msgctxt "Town.CatNames_OrangeTabby.Bob"
 msgid "Bob"
-msgstr "鲍勃"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Callie
 msgctxt "Town.CatNames_OrangeTabby.Callie"
 msgid "Callie"
-msgstr "凯莉"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Caramel
 msgctxt "Town.CatNames_OrangeTabby.Caramel"
 msgid "Caramel"
-msgstr "卡拉梅尔"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Charlie
 msgctxt "Town.CatNames_OrangeTabby.Charlie"
 msgid "Charlie"
-msgstr "查理"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Critter
 msgctxt "Town.CatNames_OrangeTabby.Critter"
 msgid "Critter"
-msgstr "克里特"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Garfield
 msgctxt "Town.CatNames_OrangeTabby.Garfield"
 msgid "Garfield"
-msgstr "加菲"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Hobbes
 msgctxt "Town.CatNames_OrangeTabby.Hobbes"
 msgid "Hobbes"
-msgstr "霍布斯"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Leo
 msgctxt "Town.CatNames_OrangeTabby.Leo"
 msgid "Leo"
-msgstr "利奥"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Linkle
 msgctxt "Town.CatNames_OrangeTabby.Linkle"
 msgid "Linkle"
-msgstr "林科尔"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Lux
 msgctxt "Town.CatNames_OrangeTabby.Lux"
 msgid "Lux"
-msgstr "卢克斯"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Rascal
 msgctxt "Town.CatNames_OrangeTabby.Rascal"
 msgid "Rascal"
-msgstr "拉斯科"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Remy
 msgctxt "Town.CatNames_OrangeTabby.Remy"
 msgid "Remy"
-msgstr "雷米"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Sassy
 msgctxt "Town.CatNames_OrangeTabby.Sassy"
 msgid "Sassy"
-msgstr "萨西"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Sunny
 msgctxt "Town.CatNames_OrangeTabby.Sunny"
 msgid "Sunny"
-msgstr "莎妮"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Tiger
 msgctxt "Town.CatNames_OrangeTabby.Tiger"
 msgid "Tiger"
-msgstr "泰格"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Tigger
 msgctxt "Town.CatNames_OrangeTabby.Tigger"
 msgid "Tigger"
-msgstr "提格"
+msgstr ""
 
 #. Town.CatNames_OrangeTabby.Tony
 msgctxt "Town.CatNames_OrangeTabby.Tony"
 msgid "Tony"
-msgstr "托尼"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Alexi
 msgctxt "Town.CatNames_RussianBlue.Alexi"
 msgid "Alexi"
-msgstr "亚历克西"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Bubbles
 msgctxt "Town.CatNames_RussianBlue.Bubbles"
 msgid "Bubbles"
-msgstr "泡泡"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Cobalt
 msgctxt "Town.CatNames_RussianBlue.Cobalt"
 msgid "Cobalt"
-msgstr "寇伯特"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Jocelyn
 msgctxt "Town.CatNames_RussianBlue.Jocelyn"
 msgid "Jocelyn"
-msgstr "乔斯林"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Lexi
 msgctxt "Town.CatNames_RussianBlue.Lexi"
 msgid "Lexi"
-msgstr "莱克茜"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Light
 msgctxt "Town.CatNames_RussianBlue.Light"
 msgid "Light"
-msgstr "莱特"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Lily
 msgctxt "Town.CatNames_RussianBlue.Lily"
 msgid "Lily"
-msgstr "莉莉"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Lucy
 msgctxt "Town.CatNames_RussianBlue.Lucy"
 msgid "Lucy"
-msgstr "露西"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Momo
 msgctxt "Town.CatNames_RussianBlue.Momo"
 msgid "Momo"
-msgstr "莫莫"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Pete
 msgctxt "Town.CatNames_RussianBlue.Pete"
 msgid "Pete"
-msgstr "皮特"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Prissy
 msgctxt "Town.CatNames_RussianBlue.Prissy"
 msgid "Prissy"
-msgstr "普利希"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Rion
 msgctxt "Town.CatNames_RussianBlue.Rion"
 msgid "Rion"
-msgstr "里翁"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Ruby
 msgctxt "Town.CatNames_RussianBlue.Ruby"
 msgid "Ruby"
-msgstr "鲁比"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Starlight
 msgctxt "Town.CatNames_RussianBlue.Starlight"
 msgid "Starlight"
-msgstr "星光"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Tilly
 msgctxt "Town.CatNames_RussianBlue.Tilly"
 msgid "Tilly"
-msgstr "蒂莉"
+msgstr ""
 
 #. Town.CatNames_RussianBlue.Valery
 msgctxt "Town.CatNames_RussianBlue.Valery"
 msgid "Valery"
-msgstr "瓦莱丽"
+msgstr ""
 
 #. Town.CatNames_Siamese.Bandit
 msgctxt "Town.CatNames_Siamese.Bandit"
 msgid "Bandit"
-msgstr "班迪"
+msgstr ""
 
 #. Town.CatNames_Siamese.Callie
 msgctxt "Town.CatNames_Siamese.Callie"
 msgid "Callie"
-msgstr "凯莉"
+msgstr ""
 
 #. Town.CatNames_Siamese.Cleo
 msgctxt "Town.CatNames_Siamese.Cleo"
 msgid "Cleo"
-msgstr "克利奥"
+msgstr ""
 
 #. Town.CatNames_Siamese.Goliath
 msgctxt "Town.CatNames_Siamese.Goliath"
 msgid "Goliath"
-msgstr "歌利亚"
+msgstr ""
 
 #. Town.CatNames_Siamese.Iris
 msgctxt "Town.CatNames_Siamese.Iris"
 msgid "Iris"
-msgstr "埃利斯"
+msgstr ""
 
 #. Town.CatNames_Siamese.Nust
 msgctxt "Town.CatNames_Siamese.Nust"
 msgid "Nust"
-msgstr "纳斯特"
+msgstr ""
 
 #. Town.CatNames_Siamese.Rainha
 msgctxt "Town.CatNames_Siamese.Rainha"
 msgid "Rainha"
-msgstr "赖尼亚"
+msgstr ""
 
 #. Town.CatNames_Siamese.Sappho
 msgctxt "Town.CatNames_Siamese.Sappho"
 msgid "Sappho"
-msgstr "萨福"
+msgstr ""
 
 #. Town.CatNames_Siamese.Sekhmet
 msgctxt "Town.CatNames_Siamese.Sekhmet"
 msgid "Sekhmet"
-msgstr "赛克麦特"
+msgstr ""
 
 #. Town.CatNames_Siamese.Socks
 msgctxt "Town.CatNames_Siamese.Socks"
 msgid "Socks"
-msgstr "索克斯"
+msgstr ""
 
 #. Town.CatNames_Siamese.Valerie
 msgctxt "Town.CatNames_Siamese.Valerie"
 msgid "Valerie"
-msgstr "瓦勒莉"
+msgstr ""
 
 #. Town.CatNames_Siamese.Zen
 msgctxt "Town.CatNames_Siamese.Zen"
 msgid "Zen"
-msgstr "泽恩"
+msgstr ""
 
 #. Town.CatNames_Silver.Ange
 msgctxt "Town.CatNames_Silver.Ange"
 msgid "Ange"
-msgstr "安吉"
+msgstr ""
 
 #. Town.CatNames_Silver.Blaze
 msgctxt "Town.CatNames_Silver.Blaze"
 msgid "Blaze"
-msgstr "布拉兹"
+msgstr ""
 
 #. Town.CatNames_Silver.By-Tor
 msgctxt "Town.CatNames_Silver.By-Tor"
 msgid "By-Tor"
-msgstr "拜特"
+msgstr ""
 
 #. Town.CatNames_Silver.Cloud
 msgctxt "Town.CatNames_Silver.Cloud"
 msgid "Cloud"
-msgstr "克劳德"
+msgstr ""
 
 #. Town.CatNames_Silver.Cutie
 msgctxt "Town.CatNames_Silver.Cutie"
 msgid "Cutie"
-msgstr "小可爱"
+msgstr ""
 
 #. Town.CatNames_Silver.Freya
 msgctxt "Town.CatNames_Silver.Freya"
 msgid "Freya"
-msgstr "弗雷娅"
+msgstr ""
 
 #. Town.CatNames_Silver.Kanako
 msgctxt "Town.CatNames_Silver.Kanako"
 msgid "Kanako"
-msgstr "加奈子"
+msgstr ""
 
 #. Town.CatNames_Silver.Kelly
 msgctxt "Town.CatNames_Silver.Kelly"
 msgid "Kelly"
-msgstr "凯利"
+msgstr ""
 
 #. Town.CatNames_Silver.Kiva
 msgctxt "Town.CatNames_Silver.Kiva"
 msgid "Kiva"
-msgstr "基瓦"
+msgstr ""
 
 #. Town.CatNames_Silver.Merlin
 msgctxt "Town.CatNames_Silver.Merlin"
 msgid "Merlin"
-msgstr "梅林"
+msgstr ""
 
 #. Town.CatNames_Silver.Nana
 msgctxt "Town.CatNames_Silver.Nana"
 msgid "Nana"
-msgstr "娜娜"
+msgstr ""
 
 #. Town.CatNames_Silver.Polo
 msgctxt "Town.CatNames_Silver.Polo"
 msgid "Polo"
-msgstr "波洛"
+msgstr ""
 
 #. Town.CatNames_Silver.Rebus
 msgctxt "Town.CatNames_Silver.Rebus"
 msgid "Rebus"
-msgstr "理贝斯"
+msgstr ""
 
 #. Town.CatNames_Silver.Renne
 msgctxt "Town.CatNames_Silver.Renne"
 msgid "Renne"
-msgstr "伦尼"
+msgstr ""
 
 #. Town.CatNames_Silver.Roo
 msgctxt "Town.CatNames_Silver.Roo"
 msgid "Roo"
-msgstr "鲁"
+msgstr ""
 
 #. Town.CatNames_Silver.Sooty
 msgctxt "Town.CatNames_Silver.Sooty"
 msgid "Sooty"
-msgstr "苏提"
+msgstr ""
 
 #. Town.CatNames_Silver.Trudy
 msgctxt "Town.CatNames_Silver.Trudy"
 msgid "Trudy"
-msgstr "特鲁迪"
+msgstr ""
 
 #. Town.CatNames_White.Angel
 msgctxt "Town.CatNames_White.Angel"
 msgid "Angel"
-msgstr "安琪儿"
+msgstr ""
 
 #. Town.CatNames_White.Ater
 msgctxt "Town.CatNames_White.Ater"
 msgid "Ater"
-msgstr "爱特尔"
+msgstr ""
 
 #. Town.CatNames_White.Belle
 msgctxt "Town.CatNames_White.Belle"
 msgid "Belle"
-msgstr "贝莱"
+msgstr ""
 
 #. Town.CatNames_White.Holly
 msgctxt "Town.CatNames_White.Holly"
 msgid "Holly"
-msgstr "霍利"
+msgstr ""
 
 #. Town.CatNames_White.Ichibi
 msgctxt "Town.CatNames_White.Ichibi"
 msgid "Ichibi"
-msgstr "易齐比"
+msgstr ""
 
 #. Town.CatNames_White.Misty
 msgctxt "Town.CatNames_White.Misty"
 msgid "Misty"
-msgstr "米斯蒂"
+msgstr ""
 
 #. Town.CatNames_White.MrCat
 msgctxt "Town.CatNames_White.MrCat"
 msgid "Mr. Cat"
-msgstr "猫先生"
+msgstr ""
 
 #. Town.CatNames_White.Reah
 msgctxt "Town.CatNames_White.Reah"
 msgid "Reah"
-msgstr "蕾雅"
+msgstr ""
 
 #. Town.CatNames_White.Rory
 msgctxt "Town.CatNames_White.Rory"
 msgid "Rory"
-msgstr "罗里"
+msgstr ""
 
 #. Town.CatNames_White.Sam
 msgctxt "Town.CatNames_White.Sam"
 msgid "Sam"
-msgstr "山姆"
+msgstr ""
 
 #. Town.CatNames_White.Snowball
 msgctxt "Town.CatNames_White.Snowball"
 msgid "Snowball"
-msgstr "雪球"
+msgstr ""
 
 #. Town.CatNames_White.Snowdrop
 msgctxt "Town.CatNames_White.Snowdrop"
 msgid "Snowdrop"
-msgstr "雪落"
+msgstr ""
 
 #. Town.CatNames_White.Storm
 msgctxt "Town.CatNames_White.Storm"
 msgid "Storm"
-msgstr "斯托姆"
+msgstr ""
 
 #. Town.CatNames_White.Vincent
 msgctxt "Town.CatNames_White.Vincent"
 msgid "Vincent"
-msgstr "文森特"
+msgstr ""
 
 #. Town.CatNames_White.Yuki
 msgctxt "Town.CatNames_White.Yuki"
 msgid "Yuki"
-msgstr "友希"
+msgstr ""
+
+#. Town.ClothierNames.Alfred
+msgctxt "Town.ClothierNames.Alfred"
+msgid "Alfred"
+msgstr ""
+
+#. Town.ClothierNames.Arthur
+msgctxt "Town.ClothierNames.Arthur"
+msgid "Arthur"
+msgstr ""
+
+#. Town.ClothierNames.Benjamin
+msgctxt "Town.ClothierNames.Benjamin"
+msgid "Benjamin"
+msgstr ""
+
+#. Town.ClothierNames.Cedric
+msgctxt "Town.ClothierNames.Cedric"
+msgid "Cedric"
+msgstr ""
+
+#. Town.ClothierNames.Clive
+msgctxt "Town.ClothierNames.Clive"
+msgid "Clive"
+msgstr ""
+
+#. Town.ClothierNames.Cyril
+msgctxt "Town.ClothierNames.Cyril"
+msgid "Cyril"
+msgstr ""
+
+#. Town.ClothierNames.Edgar
+msgctxt "Town.ClothierNames.Edgar"
+msgid "Edgar"
+msgstr ""
+
+#. Town.ClothierNames.Edmund
+msgctxt "Town.ClothierNames.Edmund"
+msgid "Edmund"
+msgstr ""
+
+#. Town.ClothierNames.Edward
+msgctxt "Town.ClothierNames.Edward"
+msgid "Edward"
+msgstr ""
+
+#. Town.ClothierNames.Eustace
+msgctxt "Town.ClothierNames.Eustace"
+msgid "Eustace"
+msgstr ""
+
+#. Town.ClothierNames.Fitz
+msgctxt "Town.ClothierNames.Fitz"
+msgid "Fitz"
+msgstr ""
+
+#. Town.ClothierNames.Graham
+msgctxt "Town.ClothierNames.Graham"
+msgid "Graham"
+msgstr ""
+
+#. Town.ClothierNames.Henry
+msgctxt "Town.ClothierNames.Henry"
+msgid "Henry"
+msgstr ""
+
+#. Town.ClothierNames.Herald
+msgctxt "Town.ClothierNames.Herald"
+msgid "Herald"
+msgstr ""
+
+#. Town.ClothierNames.James
+msgctxt "Town.ClothierNames.James"
+msgid "James"
+msgstr ""
+
+#. Town.ClothierNames.Lincoln
+msgctxt "Town.ClothierNames.Lincoln"
+msgid "Lincoln"
+msgstr ""
+
+#. Town.ClothierNames.Lloyd
+msgctxt "Town.ClothierNames.Lloyd"
+msgid "Lloyd"
+msgstr ""
+
+#. Town.ClothierNames.Mervyn
+msgctxt "Town.ClothierNames.Mervyn"
+msgid "Mervyn"
+msgstr ""
+
+#. Town.ClothierNames.Nigel
+msgctxt "Town.ClothierNames.Nigel"
+msgid "Nigel"
+msgstr ""
+
+#. Town.ClothierNames.Pip
+msgctxt "Town.ClothierNames.Pip"
+msgid "Pip"
+msgstr ""
+
+#. Town.ClothierNames.Rodney
+msgctxt "Town.ClothierNames.Rodney"
+msgid "Rodney"
+msgstr ""
+
+#. Town.ClothierNames.Rodrick
+msgctxt "Town.ClothierNames.Rodrick"
+msgid "Rodrick"
+msgstr ""
+
+#. Town.ClothierNames.Roland
+msgctxt "Town.ClothierNames.Roland"
+msgid "Roland"
+msgstr ""
+
+#. Town.ClothierNames.Rupert
+msgctxt "Town.ClothierNames.Rupert"
+msgid "Rupert"
+msgstr ""
+
+#. Town.ClothierNames.Sebastian
+msgctxt "Town.ClothierNames.Sebastian"
+msgid "Sebastian"
+msgstr ""
 
 #. Town.ClothierSpecialText.Graveyard1
 msgctxt "Town.ClothierSpecialText.Graveyard1"
@@ -80401,6 +80761,116 @@ msgid ""
 "her."
 msgstr "{Bartender}说我让他想起某个“EV2”。或许我应该见见她。"
 
+#. Town.CyborgNames.A.N.D.Y.
+msgctxt "Town.CyborgNames.A.N.D.Y."
+msgid "A.N.D.Y."
+msgstr ""
+
+#. Town.CyborgNames.Alpha
+msgctxt "Town.CyborgNames.Alpha"
+msgid "Alpha"
+msgstr ""
+
+#. Town.CyborgNames.Beta
+msgctxt "Town.CyborgNames.Beta"
+msgid "Beta"
+msgstr ""
+
+#. Town.CyborgNames.Ci
+msgctxt "Town.CyborgNames.Ci"
+msgid "Ci"
+msgstr ""
+
+#. Town.CyborgNames.Delta
+msgctxt "Town.CyborgNames.Delta"
+msgid "Delta"
+msgstr ""
+
+#. Town.CyborgNames.Fender
+msgctxt "Town.CyborgNames.Fender"
+msgid "Fender"
+msgstr ""
+
+#. Town.CyborgNames.Gamma
+msgctxt "Town.CyborgNames.Gamma"
+msgid "Gamma"
+msgstr ""
+
+#. Town.CyborgNames.Kappa
+msgctxt "Town.CyborgNames.Kappa"
+msgid "Kappa"
+msgstr ""
+
+#. Town.CyborgNames.Lambda
+msgctxt "Town.CyborgNames.Lambda"
+msgid "Lambda"
+msgstr ""
+
+#. Town.CyborgNames.Mu
+msgctxt "Town.CyborgNames.Mu"
+msgid "Mu"
+msgstr ""
+
+#. Town.CyborgNames.Niner-7
+msgctxt "Town.CyborgNames.Niner-7"
+msgid "Niner-7"
+msgstr ""
+
+#. Town.CyborgNames.Nu
+msgctxt "Town.CyborgNames.Nu"
+msgid "Nu"
+msgstr ""
+
+#. Town.CyborgNames.Omega
+msgctxt "Town.CyborgNames.Omega"
+msgid "Omega"
+msgstr ""
+
+#. Town.CyborgNames.Omicron
+msgctxt "Town.CyborgNames.Omicron"
+msgid "Omicron"
+msgstr ""
+
+#. Town.CyborgNames.Phi
+msgctxt "Town.CyborgNames.Phi"
+msgid "Phi"
+msgstr ""
+
+#. Town.CyborgNames.Rho
+msgctxt "Town.CyborgNames.Rho"
+msgid "Rho"
+msgstr ""
+
+#. Town.CyborgNames.Sigma
+msgctxt "Town.CyborgNames.Sigma"
+msgid "Sigma"
+msgstr ""
+
+#. Town.CyborgNames.Syn-X
+msgctxt "Town.CyborgNames.Syn-X"
+msgid "Syn-X"
+msgstr ""
+
+#. Town.CyborgNames.T-3E0
+msgctxt "Town.CyborgNames.T-3E0"
+msgid "T-3E0"
+msgstr ""
+
+#. Town.CyborgNames.Theta
+msgctxt "Town.CyborgNames.Theta"
+msgid "Theta"
+msgstr ""
+
+#. Town.CyborgNames.Upsilon
+msgctxt "Town.CyborgNames.Upsilon"
+msgid "Upsilon"
+msgstr ""
+
+#. Town.CyborgNames.Zeta
+msgctxt "Town.CyborgNames.Zeta"
+msgid "Zeta"
+msgstr ""
+
 #. Town.CyborgSpecialText.Graveyard1
 msgctxt "Town.CyborgSpecialText.Graveyard1"
 msgid ""
@@ -80452,6 +80922,116 @@ msgstr "感应器显示气压出现了强烈变化。建议保持谨慎。"
 msgctxt "Town.CyborgSpecialText.Windy2"
 msgid "A strong contrast between high and low pressure detected."
 msgstr "检测到高压和低压之间的压差大。"
+
+#. Town.DemolitionistNames.Bazdin
+msgctxt "Town.DemolitionistNames.Bazdin"
+msgid "Bazdin"
+msgstr ""
+
+#. Town.DemolitionistNames.Beldin
+msgctxt "Town.DemolitionistNames.Beldin"
+msgid "Beldin"
+msgstr ""
+
+#. Town.DemolitionistNames.Boften
+msgctxt "Town.DemolitionistNames.Boften"
+msgid "Boften"
+msgstr ""
+
+#. Town.DemolitionistNames.Darur
+msgctxt "Town.DemolitionistNames.Darur"
+msgid "Darur"
+msgstr ""
+
+#. Town.DemolitionistNames.Dias
+msgctxt "Town.DemolitionistNames.Dias"
+msgid "Dias"
+msgstr ""
+
+#. Town.DemolitionistNames.Dolbere
+msgctxt "Town.DemolitionistNames.Dolbere"
+msgid "Dolbere"
+msgstr ""
+
+#. Town.DemolitionistNames.Dolgen
+msgctxt "Town.DemolitionistNames.Dolgen"
+msgid "Dolgen"
+msgstr ""
+
+#. Town.DemolitionistNames.Dolgrim
+msgctxt "Town.DemolitionistNames.Dolgrim"
+msgid "Dolgrim"
+msgstr ""
+
+#. Town.DemolitionistNames.Duerthen
+msgctxt "Town.DemolitionistNames.Duerthen"
+msgid "Duerthen"
+msgstr ""
+
+#. Town.DemolitionistNames.Durim
+msgctxt "Town.DemolitionistNames.Durim"
+msgid "Durim"
+msgstr ""
+
+#. Town.DemolitionistNames.Fikod
+msgctxt "Town.DemolitionistNames.Fikod"
+msgid "Fikod"
+msgstr ""
+
+#. Town.DemolitionistNames.Garval
+msgctxt "Town.DemolitionistNames.Garval"
+msgid "Garval"
+msgstr ""
+
+#. Town.DemolitionistNames.Gimli
+msgctxt "Town.DemolitionistNames.Gimli"
+msgid "Gimli"
+msgstr ""
+
+#. Town.DemolitionistNames.Gimut
+msgctxt "Town.DemolitionistNames.Gimut"
+msgid "Gimut"
+msgstr ""
+
+#. Town.DemolitionistNames.Jarut
+msgctxt "Town.DemolitionistNames.Jarut"
+msgid "Jarut"
+msgstr ""
+
+#. Town.DemolitionistNames.Morthal
+msgctxt "Town.DemolitionistNames.Morthal"
+msgid "Morthal"
+msgstr ""
+
+#. Town.DemolitionistNames.Norkas
+msgctxt "Town.DemolitionistNames.Norkas"
+msgid "Norkas"
+msgstr ""
+
+#. Town.DemolitionistNames.Norsun
+msgctxt "Town.DemolitionistNames.Norsun"
+msgid "Norsun"
+msgstr ""
+
+#. Town.DemolitionistNames.Oten
+msgctxt "Town.DemolitionistNames.Oten"
+msgid "Oten"
+msgstr ""
+
+#. Town.DemolitionistNames.Ovbere
+msgctxt "Town.DemolitionistNames.Ovbere"
+msgid "Ovbere"
+msgstr ""
+
+#. Town.DemolitionistNames.Tordak
+msgctxt "Town.DemolitionistNames.Tordak"
+msgid "Tordak"
+msgstr ""
+
+#. Town.DemolitionistNames.Urist
+msgctxt "Town.DemolitionistNames.Urist"
+msgid "Urist"
+msgstr ""
 
 #. Town.DemolitionistSpecialText.AfterDD2Start
 msgctxt "Town.DemolitionistSpecialText.AfterDD2Start"
@@ -80532,432 +81112,537 @@ msgstr "汪汪汪汪！"
 #. Town.DogNames_Beagle.Ali
 msgctxt "Town.DogNames_Beagle.Ali"
 msgid "Ali"
-msgstr "阿狸"
+msgstr ""
 
 #. Town.DogNames_Beagle.Copper
 msgctxt "Town.DogNames_Beagle.Copper"
 msgid "Copper"
-msgstr "铜"
+msgstr ""
 
 #. Town.DogNames_Beagle.Darwin
 msgctxt "Town.DogNames_Beagle.Darwin"
 msgid "Darwin"
-msgstr "达尔文"
+msgstr ""
 
 #. Town.DogNames_Beagle.Feena
 msgctxt "Town.DogNames_Beagle.Feena"
 msgid "Feena"
-msgstr "菲娜"
+msgstr ""
 
 #. Town.DogNames_Beagle.Fred
 msgctxt "Town.DogNames_Beagle.Fred"
 msgid "Fred"
-msgstr "弗雷德"
+msgstr ""
 
 #. Town.DogNames_Beagle.Lieselotte
 msgctxt "Town.DogNames_Beagle.Lieselotte"
 msgid "Lieselotte"
-msgstr "莉泽洛特"
+msgstr ""
 
 #. Town.DogNames_Beagle.Milo
 msgctxt "Town.DogNames_Beagle.Milo"
 msgid "Milo"
-msgstr "麦洛"
+msgstr ""
 
 #. Town.DogNames_Beagle.Navi
 msgctxt "Town.DogNames_Beagle.Navi"
 msgid "Navi"
-msgstr "纳维"
+msgstr ""
 
 #. Town.DogNames_Beagle.Odie
 msgctxt "Town.DogNames_Beagle.Odie"
 msgid "Odie"
-msgstr "欧迪"
+msgstr ""
 
 #. Town.DogNames_Beagle.Roxie
 msgctxt "Town.DogNames_Beagle.Roxie"
 msgid "Roxie"
-msgstr "罗克西"
+msgstr ""
 
 #. Town.DogNames_Beagle.Wilma
 msgctxt "Town.DogNames_Beagle.Wilma"
 msgid "Wilma"
-msgstr "威尔玛"
+msgstr ""
 
 #. Town.DogNames_Beagle.Zelda
 msgctxt "Town.DogNames_Beagle.Zelda"
 msgid "Zelda"
-msgstr "塞尔达"
+msgstr ""
 
 #. Town.DogNames_Corgi.Ammy
 msgctxt "Town.DogNames_Corgi.Ammy"
 msgid "Ammy"
-msgstr "艾美"
+msgstr ""
 
 #. Town.DogNames_Corgi.Astro
 msgctxt "Town.DogNames_Corgi.Astro"
 msgid "Astro"
-msgstr "阿斯特罗"
+msgstr ""
 
 #. Town.DogNames_Corgi.Baxter
 msgctxt "Town.DogNames_Corgi.Baxter"
 msgid "Baxter"
-msgstr "巴克斯特"
+msgstr ""
 
 #. Town.DogNames_Corgi.Bella
 msgctxt "Town.DogNames_Corgi.Bella"
 msgid "Bella"
-msgstr "贝拉"
+msgstr ""
 
 #. Town.DogNames_Corgi.Charles
 msgctxt "Town.DogNames_Corgi.Charles"
 msgid "Charles"
-msgstr "查尔斯"
+msgstr ""
 
 #. Town.DogNames_Corgi.Elizabeth
 msgctxt "Town.DogNames_Corgi.Elizabeth"
 msgid "Elizabeth"
-msgstr "伊丽莎白"
+msgstr ""
 
 #. Town.DogNames_Corgi.Ellie
 msgctxt "Town.DogNames_Corgi.Ellie"
 msgid "Ellie"
-msgstr "艾莉"
+msgstr ""
 
 #. Town.DogNames_Corgi.Estelle
 msgctxt "Town.DogNames_Corgi.Estelle"
 msgid "Estelle"
-msgstr "艾丝黛儿"
+msgstr ""
 
 #. Town.DogNames_Corgi.Maya
 msgctxt "Town.DogNames_Corgi.Maya"
 msgid "Maya"
-msgstr "玛雅"
+msgstr ""
 
 #. Town.DogNames_Corgi.Oliver
 msgctxt "Town.DogNames_Corgi.Oliver"
 msgid "Oliver"
-msgstr "奥利弗"
+msgstr ""
 
 #. Town.DogNames_Corgi.Shino
 msgctxt "Town.DogNames_Corgi.Shino"
 msgid "Shino"
-msgstr "茜罗"
+msgstr ""
 
 #. Town.DogNames_Corgi.Titus
 msgctxt "Town.DogNames_Corgi.Titus"
 msgid "Titus"
-msgstr "提图斯"
+msgstr ""
 
 #. Town.DogNames_Corgi.Victoria
 msgctxt "Town.DogNames_Corgi.Victoria"
 msgid "Victoria"
-msgstr "维多利亚"
+msgstr ""
 
 #. Town.DogNames_Corgi.Yona
 msgctxt "Town.DogNames_Corgi.Yona"
 msgid "Yona"
-msgstr "约纳"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Akane
 msgctxt "Town.DogNames_Dalmation.Akane"
 msgid "Akane"
-msgstr "阿卡内"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Aurora
 msgctxt "Town.DogNames_Dalmation.Aurora"
 msgid "Aurora"
-msgstr "奥罗拉"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Dotty
 msgctxt "Town.DogNames_Dalmation.Dotty"
 msgid "Dotty"
-msgstr "多蒂"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Firebug
 msgctxt "Town.DogNames_Dalmation.Firebug"
 msgid "Firebug"
-msgstr "纵火犯"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Lucky
 msgctxt "Town.DogNames_Dalmation.Lucky"
 msgid "Lucky"
-msgstr "幸运"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Marshall
 msgctxt "Town.DogNames_Dalmation.Marshall"
 msgid "Marshall"
-msgstr "马歇尔"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Mizore
 msgctxt "Town.DogNames_Dalmation.Mizore"
 msgid "Mizore"
-msgstr "米若蕾"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Polka
 msgctxt "Town.DogNames_Dalmation.Polka"
 msgid "Polka"
-msgstr "波尔卡"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Pongo
 msgctxt "Town.DogNames_Dalmation.Pongo"
 msgid "Pongo"
-msgstr "庞格"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Sapphire
 msgctxt "Town.DogNames_Dalmation.Sapphire"
 msgid "Sapphire"
-msgstr "萨菲"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Splat
 msgctxt "Town.DogNames_Dalmation.Splat"
 msgid "Splat"
-msgstr "斯普雷特"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Spot
 msgctxt "Town.DogNames_Dalmation.Spot"
 msgid "Spot"
-msgstr "波点"
+msgstr ""
 
 #. Town.DogNames_Dalmation.Suzy
 msgctxt "Town.DogNames_Dalmation.Suzy"
 msgid "Suzy"
-msgstr "苏西"
+msgstr ""
 
 #. Town.DogNames_Husky.Balto
 msgctxt "Town.DogNames_Husky.Balto"
 msgid "Balto"
-msgstr "巴尔托"
+msgstr ""
 
 #. Town.DogNames_Husky.Bullet
 msgctxt "Town.DogNames_Husky.Bullet"
 msgid "Bullet"
-msgstr "比莱"
+msgstr ""
 
 #. Town.DogNames_Husky.Comet
 msgctxt "Town.DogNames_Husky.Comet"
 msgid "Comet"
-msgstr "科密"
+msgstr ""
 
 #. Town.DogNames_Husky.Dogi
 msgctxt "Town.DogNames_Husky.Dogi"
 msgid "Dogi"
-msgstr "多奇"
+msgstr ""
 
 #. Town.DogNames_Husky.Hachiko
 msgctxt "Town.DogNames_Husky.Hachiko"
 msgid "Hachiko"
-msgstr "小八"
+msgstr ""
 
 #. Town.DogNames_Husky.Indiana
 msgctxt "Town.DogNames_Husky.Indiana"
 msgid "Indiana"
-msgstr "印第安那"
+msgstr ""
 
 #. Town.DogNames_Husky.Ingrid
 msgctxt "Town.DogNames_Husky.Ingrid"
 msgid "Ingrid"
-msgstr "英格丽"
+msgstr ""
 
 #. Town.DogNames_Husky.Kayla
 msgctxt "Town.DogNames_Husky.Kayla"
 msgid "Kayla"
-msgstr "凯拉"
+msgstr ""
 
 #. Town.DogNames_Husky.Miska
 msgctxt "Town.DogNames_Husky.Miska"
 msgid "Miska"
-msgstr "米斯卡"
+msgstr ""
 
 #. Town.DogNames_Husky.Rosalie
 msgctxt "Town.DogNames_Husky.Rosalie"
 msgid "Rosalie"
-msgstr "罗莎莉"
+msgstr ""
 
 #. Town.DogNames_Husky.Sasha
 msgctxt "Town.DogNames_Husky.Sasha"
 msgid "Sasha"
-msgstr "萨莎"
+msgstr ""
 
 #. Town.DogNames_Husky.Sky
 msgctxt "Town.DogNames_Husky.Sky"
 msgid "Sky"
-msgstr "天空"
+msgstr ""
 
 #. Town.DogNames_Husky.Snowdog
 msgctxt "Town.DogNames_Husky.Snowdog"
 msgid "Snowdog"
-msgstr "雪狗狗"
+msgstr ""
 
 #. Town.DogNames_Husky.Sven
 msgctxt "Town.DogNames_Husky.Sven"
 msgid "Sven"
-msgstr "斯文"
+msgstr ""
 
 #. Town.DogNames_Husky.Toya
 msgctxt "Town.DogNames_Husky.Toya"
 msgid "Toya"
-msgstr "托亚"
+msgstr ""
 
 #. Town.DogNames_Husky.Zoey
 msgctxt "Town.DogNames_Husky.Zoey"
 msgid "Zoey"
-msgstr "佐伊"
+msgstr ""
 
 #. Town.DogNames_Labrador.Arthur
 msgctxt "Town.DogNames_Labrador.Arthur"
 msgid "Arthur"
-msgstr "亚瑟"
+msgstr ""
 
 #. Town.DogNames_Labrador.Bitsy
 msgctxt "Town.DogNames_Labrador.Bitsy"
 msgid "Bitsy"
-msgstr "贝琦"
+msgstr ""
 
 #. Town.DogNames_Labrador.Buddy
 msgctxt "Town.DogNames_Labrador.Buddy"
 msgid "Buddy"
-msgstr "巴迪"
+msgstr ""
 
 #. Town.DogNames_Labrador.Calvin
 msgctxt "Town.DogNames_Labrador.Calvin"
 msgid "Calvin"
-msgstr "卡尔文"
+msgstr ""
 
 #. Town.DogNames_Labrador.Charlie
 msgctxt "Town.DogNames_Labrador.Charlie"
 msgid "Charlie"
-msgstr "查理"
+msgstr ""
 
 #. Town.DogNames_Labrador.Daisy
 msgctxt "Town.DogNames_Labrador.Daisy"
 msgid "Daisy"
-msgstr "黛西"
+msgstr ""
 
 #. Town.DogNames_Labrador.John
 msgctxt "Town.DogNames_Labrador.John"
 msgid "John"
-msgstr "约翰"
+msgstr ""
 
 #. Town.DogNames_Labrador.Kittie
 msgctxt "Town.DogNames_Labrador.Kittie"
 msgid "Kittie"
-msgstr "基蒂"
+msgstr ""
 
 #. Town.DogNames_Labrador.Lucky
 msgctxt "Town.DogNames_Labrador.Lucky"
 msgid "Lucky"
-msgstr "幸运"
+msgstr ""
 
 #. Town.DogNames_Labrador.Mike
 msgctxt "Town.DogNames_Labrador.Mike"
 msgid "Mike"
-msgstr "迈克"
+msgstr ""
 
 #. Town.DogNames_Labrador.Monroe
 msgctxt "Town.DogNames_Labrador.Monroe"
 msgid "Monroe"
-msgstr "门罗"
+msgstr ""
 
 #. Town.DogNames_Labrador.Pebbles
 msgctxt "Town.DogNames_Labrador.Pebbles"
 msgid "Pebbles"
-msgstr "卵石"
+msgstr ""
 
 #. Town.DogNames_Labrador.Penny
 msgctxt "Town.DogNames_Labrador.Penny"
 msgid "Penny"
-msgstr "佩妮"
+msgstr ""
 
 #. Town.DogNames_Labrador.Puppy
 msgctxt "Town.DogNames_Labrador.Puppy"
 msgid "Puppy"
-msgstr "小狗"
+msgstr ""
 
 #. Town.DogNames_Labrador.Sparky
 msgctxt "Town.DogNames_Labrador.Sparky"
 msgid "Sparky"
-msgstr "斯派基"
+msgstr ""
 
 #. Town.DogNames_Labrador.Trulte
 msgctxt "Town.DogNames_Labrador.Trulte"
 msgid "Trulte"
-msgstr "特拉特"
+msgstr ""
 
 #. Town.DogNames_Labrador.Willow
 msgctxt "Town.DogNames_Labrador.Willow"
 msgid "Willow"
-msgstr "威洛"
+msgstr ""
 
 #. Town.DogNames_PitBull.Bubba
 msgctxt "Town.DogNames_PitBull.Bubba"
 msgid "Bubba"
-msgstr "布巴"
+msgstr ""
 
 #. Town.DogNames_PitBull.Buster
 msgctxt "Town.DogNames_PitBull.Buster"
 msgid "Buster"
-msgstr "巴斯特"
+msgstr ""
 
 #. Town.DogNames_PitBull.Chomps
 msgctxt "Town.DogNames_PitBull.Chomps"
 msgid "Chomps"
-msgstr "琼普斯"
+msgstr ""
 
 #. Town.DogNames_PitBull.Dexter
 msgctxt "Town.DogNames_PitBull.Dexter"
 msgid "Dexter"
-msgstr "德克斯特"
+msgstr ""
 
 #. Town.DogNames_PitBull.Doug
 msgctxt "Town.DogNames_PitBull.Doug"
 msgid "Doug"
-msgstr "道格"
+msgstr ""
 
 #. Town.DogNames_PitBull.Ginger
 msgctxt "Town.DogNames_PitBull.Ginger"
 msgid "Ginger"
-msgstr "金杰"
+msgstr ""
 
 #. Town.DogNames_PitBull.Jazzy
 msgctxt "Town.DogNames_PitBull.Jazzy"
 msgid "Jazzy"
-msgstr "小爵士"
+msgstr ""
 
 #. Town.DogNames_PitBull.Keith
 msgctxt "Town.DogNames_PitBull.Keith"
 msgid "Keith"
-msgstr "基思"
+msgstr ""
 
 #. Town.DogNames_PitBull.Kona
 msgctxt "Town.DogNames_PitBull.Kona"
 msgid "Kona"
-msgstr "科娜"
+msgstr ""
 
 #. Town.DogNames_PitBull.Max
 msgctxt "Town.DogNames_PitBull.Max"
 msgid "Max"
-msgstr "马克斯"
+msgstr ""
 
 #. Town.DogNames_PitBull.Rex
 msgctxt "Town.DogNames_PitBull.Rex"
 msgid "Rex"
-msgstr "雷克斯"
+msgstr ""
 
 #. Town.DogNames_PitBull.Sampson
 msgctxt "Town.DogNames_PitBull.Sampson"
 msgid "Sampson"
-msgstr "桑普森"
+msgstr ""
 
 #. Town.DogNames_PitBull.Spike
 msgctxt "Town.DogNames_PitBull.Spike"
 msgid "Spike"
-msgstr "斯派克"
+msgstr ""
 
 #. Town.DogNames_PitBull.Toshiro
 msgctxt "Town.DogNames_PitBull.Toshiro"
 msgid "Toshiro"
-msgstr "敏郎"
+msgstr ""
+
+#. Town.DryadNames.Alalia
+msgctxt "Town.DryadNames.Alalia"
+msgid "Alalia"
+msgstr ""
+
+#. Town.DryadNames.Alura
+msgctxt "Town.DryadNames.Alura"
+msgid "Alura"
+msgstr ""
+
+#. Town.DryadNames.Ariella
+msgctxt "Town.DryadNames.Ariella"
+msgid "Ariella"
+msgstr ""
+
+#. Town.DryadNames.Caelia
+msgctxt "Town.DryadNames.Caelia"
+msgid "Caelia"
+msgstr ""
+
+#. Town.DryadNames.Calista
+msgctxt "Town.DryadNames.Calista"
+msgid "Calista"
+msgstr ""
+
+#. Town.DryadNames.Celestia
+msgctxt "Town.DryadNames.Celestia"
+msgid "Celestia"
+msgstr ""
+
+#. Town.DryadNames.Chryseis
+msgctxt "Town.DryadNames.Chryseis"
+msgid "Chryseis"
+msgstr ""
+
+#. Town.DryadNames.Elysia
+msgctxt "Town.DryadNames.Elysia"
+msgid "Elysia"
+msgstr ""
+
+#. Town.DryadNames.Emerenta
+msgctxt "Town.DryadNames.Emerenta"
+msgid "Emerenta"
+msgstr ""
+
+#. Town.DryadNames.Evvie
+msgctxt "Town.DryadNames.Evvie"
+msgid "Evvie"
+msgstr ""
+
+#. Town.DryadNames.Faye
+msgctxt "Town.DryadNames.Faye"
+msgid "Faye"
+msgstr ""
+
+#. Town.DryadNames.Felicitae
+msgctxt "Town.DryadNames.Felicitae"
+msgid "Felicitae"
+msgstr ""
+
+#. Town.DryadNames.Isis
+msgctxt "Town.DryadNames.Isis"
+msgid "Isis"
+msgstr ""
+
+#. Town.DryadNames.Lunette
+msgctxt "Town.DryadNames.Lunette"
+msgid "Lunette"
+msgstr ""
+
+#. Town.DryadNames.Nata
+msgctxt "Town.DryadNames.Nata"
+msgid "Nata"
+msgstr ""
+
+#. Town.DryadNames.Nissa
+msgctxt "Town.DryadNames.Nissa"
+msgid "Nissa"
+msgstr ""
+
+#. Town.DryadNames.Rosalva
+msgctxt "Town.DryadNames.Rosalva"
+msgid "Rosalva"
+msgstr ""
+
+#. Town.DryadNames.Shea
+msgctxt "Town.DryadNames.Shea"
+msgid "Shea"
+msgstr ""
+
+#. Town.DryadNames.Tania
+msgctxt "Town.DryadNames.Tania"
+msgid "Tania"
+msgstr ""
+
+#. Town.DryadNames.Tatiana
+msgctxt "Town.DryadNames.Tatiana"
+msgid "Tatiana"
+msgstr ""
+
+#. Town.DryadNames.Xylia
+msgctxt "Town.DryadNames.Xylia"
+msgid "Xylia"
+msgstr ""
 
 #. Town.DryadSpecialText.AfterDD2Tier1
 msgctxt "Town.DryadSpecialText.AfterDD2Tier1"
@@ -81091,6 +81776,86 @@ msgctxt "Town.DryadSpecialText.WorldStatusPure"
 msgid "{0} is completely pure. You have done an amazing job!"
 msgstr "{0}已完全变得纯净。干得漂亮！"
 
+#. Town.DyeTraderNames.Abdosir
+msgctxt "Town.DyeTraderNames.Abdosir"
+msgid "Abdosir"
+msgstr ""
+
+#. Town.DyeTraderNames.Ahinadab
+msgctxt "Town.DyeTraderNames.Ahinadab"
+msgid "Ahinadab"
+msgstr ""
+
+#. Town.DyeTraderNames.Ahirom
+msgctxt "Town.DyeTraderNames.Ahirom"
+msgid "Ahirom"
+msgstr ""
+
+#. Town.DyeTraderNames.Akbar
+msgctxt "Town.DyeTraderNames.Akbar"
+msgid "Akbar"
+msgstr ""
+
+#. Town.DyeTraderNames.Batnoam
+msgctxt "Town.DyeTraderNames.Batnoam"
+msgid "Batnoam"
+msgstr ""
+
+#. Town.DyeTraderNames.Bodashtart
+msgctxt "Town.DyeTraderNames.Bodashtart"
+msgid "Bodashtart"
+msgstr ""
+
+#. Town.DyeTraderNames.Danel
+msgctxt "Town.DyeTraderNames.Danel"
+msgid "Danel"
+msgstr ""
+
+#. Town.DyeTraderNames.Hannibal
+msgctxt "Town.DyeTraderNames.Hannibal"
+msgid "Hannibal"
+msgstr ""
+
+#. Town.DyeTraderNames.Hanno
+msgctxt "Town.DyeTraderNames.Hanno"
+msgid "Hanno"
+msgstr ""
+
+#. Town.DyeTraderNames.Hiram
+msgctxt "Town.DyeTraderNames.Hiram"
+msgid "Hiram"
+msgstr ""
+
+#. Town.DyeTraderNames.Kanmi
+msgctxt "Town.DyeTraderNames.Kanmi"
+msgid "Kanmi"
+msgstr ""
+
+#. Town.DyeTraderNames.Philosir
+msgctxt "Town.DyeTraderNames.Philosir"
+msgid "Philosir"
+msgstr ""
+
+#. Town.DyeTraderNames.Sikarbaal
+msgctxt "Town.DyeTraderNames.Sikarbaal"
+msgid "Sikarbaal"
+msgstr ""
+
+#. Town.DyeTraderNames.Tabnit
+msgctxt "Town.DyeTraderNames.Tabnit"
+msgid "Tabnit"
+msgstr ""
+
+#. Town.DyeTraderNames.Yehomilk
+msgctxt "Town.DyeTraderNames.Yehomilk"
+msgid "Yehomilk"
+msgstr ""
+
+#. Town.DyeTraderNames.Yutpan
+msgctxt "Town.DyeTraderNames.Yutpan"
+msgid "Yutpan"
+msgstr ""
+
 #. Town.DyeTraderSpecialText.Graveyard1
 msgctxt "Town.DyeTraderSpecialText.Graveyard1"
 msgid ""
@@ -81189,6 +81954,131 @@ msgid ""
 "You know, these Etherian Goblins are nothing like my people. Really rowdy "
 "bunch. Not that my people are much better..."
 msgstr "要知道，这些天国哥布林与我的人完全不同。真是一伙粗暴之徒。这并不是说我的人要优秀很多..."
+
+#. Town.GoblinTinkererNames.Arback
+msgctxt "Town.GoblinTinkererNames.Arback"
+msgid "Arback"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Dalek
+msgctxt "Town.GoblinTinkererNames.Dalek"
+msgid "Dalek"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Darz
+msgctxt "Town.GoblinTinkererNames.Darz"
+msgid "Darz"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Durnok
+msgctxt "Town.GoblinTinkererNames.Durnok"
+msgid "Durnok"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Fahd
+msgctxt "Town.GoblinTinkererNames.Fahd"
+msgid "Fahd"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Fjell
+msgctxt "Town.GoblinTinkererNames.Fjell"
+msgid "Fjell"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Gnudar
+msgctxt "Town.GoblinTinkererNames.Gnudar"
+msgid "Gnudar"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Grodax
+msgctxt "Town.GoblinTinkererNames.Grodax"
+msgid "Grodax"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Knogs
+msgctxt "Town.GoblinTinkererNames.Knogs"
+msgid "Knogs"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Knub
+msgctxt "Town.GoblinTinkererNames.Knub"
+msgid "Knub"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Mobart
+msgctxt "Town.GoblinTinkererNames.Mobart"
+msgid "Mobart"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Mrunok
+msgctxt "Town.GoblinTinkererNames.Mrunok"
+msgid "Mrunok"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Negurk
+msgctxt "Town.GoblinTinkererNames.Negurk"
+msgid "Negurk"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Nort
+msgctxt "Town.GoblinTinkererNames.Nort"
+msgid "Nort"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Nuxatk
+msgctxt "Town.GoblinTinkererNames.Nuxatk"
+msgid "Nuxatk"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Ragz
+msgctxt "Town.GoblinTinkererNames.Ragz"
+msgid "Ragz"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Sarx
+msgctxt "Town.GoblinTinkererNames.Sarx"
+msgid "Sarx"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Smador
+msgctxt "Town.GoblinTinkererNames.Smador"
+msgid "Smador"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Stazen
+msgctxt "Town.GoblinTinkererNames.Stazen"
+msgid "Stazen"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Stezom
+msgctxt "Town.GoblinTinkererNames.Stezom"
+msgid "Stezom"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Tgerd
+msgctxt "Town.GoblinTinkererNames.Tgerd"
+msgid "Tgerd"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Tkanus
+msgctxt "Town.GoblinTinkererNames.Tkanus"
+msgid "Tkanus"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Trogem
+msgctxt "Town.GoblinTinkererNames.Trogem"
+msgid "Trogem"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Xanos
+msgctxt "Town.GoblinTinkererNames.Xanos"
+msgid "Xanos"
+msgstr ""
+
+#. Town.GoblinTinkererNames.Xon
+msgctxt "Town.GoblinTinkererNames.Xon"
+msgid "Xon"
+msgstr ""
 
 #. Town.GoblinTinkererSpecialText.Graveyard1
 msgctxt "Town.GoblinTinkererSpecialText.Graveyard1"
@@ -81362,42 +82252,42 @@ msgstr "在高尔夫球运动中，得分低的才是赢家。"
 #. Town.GolferNames.Name_1
 msgctxt "Town.GolferNames.Name_1"
 msgid "Lion Pines"
-msgstr "狮子派因斯"
+msgstr ""
 
 #. Town.GolferNames.Name_2
 msgctxt "Town.GolferNames.Name_2"
 msgid "Gunner McLovin"
-msgstr "神击手麦乐文"
+msgstr ""
 
 #. Town.GolferNames.Name_3
 msgctxt "Town.GolferNames.Name_3"
 msgid "Harry Madison"
-msgstr "哈利·麦迪逊"
+msgstr ""
 
 #. Town.GolferNames.Name_4
 msgctxt "Town.GolferNames.Name_4"
 msgid "Arnie Palmfrond"
-msgstr "阿尼·帕尔玛"
+msgstr ""
 
 #. Town.GolferNames.Name_5
 msgctxt "Town.GolferNames.Name_5"
 msgid "Jake Nicklelisp"
-msgstr "杰克·尼科利斯普"
+msgstr ""
 
 #. Town.GolferNames.Name_6
 msgctxt "Town.GolferNames.Name_6"
 msgid "William"
-msgstr "威廉"
+msgstr ""
 
 #. Town.GolferNames.Name_7
 msgctxt "Town.GolferNames.Name_7"
 msgid "Billy Bones"
-msgstr "比利·博恩斯"
+msgstr ""
 
 #. Town.GolferNames.Name_8
 msgctxt "Town.GolferNames.Name_8"
 msgid "Jim Mulligan"
-msgstr "吉姆·马利根"
+msgstr ""
 
 #. Town.GolferQuestsChatterApprentice.1
 msgctxt "Town.GolferQuestsChatterApprentice.1"
@@ -81926,6 +82816,181 @@ msgid ""
 "though."
 msgstr "如果在猩红祭坛上合成晶状体，你也许能够找到召唤一个强大怪物的方法。不过，你最好等到夜晚再用它。"
 
+#. Town.GuideNames.Andrew
+msgctxt "Town.GuideNames.Andrew"
+msgid "Andrew"
+msgstr ""
+
+#. Town.GuideNames.Asher
+msgctxt "Town.GuideNames.Asher"
+msgid "Asher"
+msgstr ""
+
+#. Town.GuideNames.Bradley
+msgctxt "Town.GuideNames.Bradley"
+msgid "Bradley"
+msgstr ""
+
+#. Town.GuideNames.Brandon
+msgctxt "Town.GuideNames.Brandon"
+msgid "Brandon"
+msgstr ""
+
+#. Town.GuideNames.Brett
+msgctxt "Town.GuideNames.Brett"
+msgid "Brett"
+msgstr ""
+
+#. Town.GuideNames.Brian
+msgctxt "Town.GuideNames.Brian"
+msgid "Brian"
+msgstr ""
+
+#. Town.GuideNames.Cody
+msgctxt "Town.GuideNames.Cody"
+msgid "Cody"
+msgstr ""
+
+#. Town.GuideNames.Cole
+msgctxt "Town.GuideNames.Cole"
+msgid "Cole"
+msgstr ""
+
+#. Town.GuideNames.Colin
+msgctxt "Town.GuideNames.Colin"
+msgid "Colin"
+msgstr ""
+
+#. Town.GuideNames.Connor
+msgctxt "Town.GuideNames.Connor"
+msgid "Connor"
+msgstr ""
+
+#. Town.GuideNames.Daniel
+msgctxt "Town.GuideNames.Daniel"
+msgid "Daniel"
+msgstr ""
+
+#. Town.GuideNames.Dylan
+msgctxt "Town.GuideNames.Dylan"
+msgid "Dylan"
+msgstr ""
+
+#. Town.GuideNames.Garrett
+msgctxt "Town.GuideNames.Garrett"
+msgid "Garrett"
+msgstr ""
+
+#. Town.GuideNames.Harley
+msgctxt "Town.GuideNames.Harley"
+msgid "Harley"
+msgstr ""
+
+#. Town.GuideNames.Jack
+msgctxt "Town.GuideNames.Jack"
+msgid "Jack"
+msgstr ""
+
+#. Town.GuideNames.Jacob
+msgctxt "Town.GuideNames.Jacob"
+msgid "Jacob"
+msgstr ""
+
+#. Town.GuideNames.Jake
+msgctxt "Town.GuideNames.Jake"
+msgid "Jake"
+msgstr ""
+
+#. Town.GuideNames.Jeff
+msgctxt "Town.GuideNames.Jeff"
+msgid "Jeff"
+msgstr ""
+
+#. Town.GuideNames.Jeffrey
+msgctxt "Town.GuideNames.Jeffrey"
+msgid "Jeffrey"
+msgstr ""
+
+#. Town.GuideNames.Joe
+msgctxt "Town.GuideNames.Joe"
+msgid "Joe"
+msgstr ""
+
+#. Town.GuideNames.Kevin
+msgctxt "Town.GuideNames.Kevin"
+msgid "Kevin"
+msgstr ""
+
+#. Town.GuideNames.Kyle
+msgctxt "Town.GuideNames.Kyle"
+msgid "Kyle"
+msgstr ""
+
+#. Town.GuideNames.Levi
+msgctxt "Town.GuideNames.Levi"
+msgid "Levi"
+msgstr ""
+
+#. Town.GuideNames.Logan
+msgctxt "Town.GuideNames.Logan"
+msgid "Logan"
+msgstr ""
+
+#. Town.GuideNames.Luke
+msgctxt "Town.GuideNames.Luke"
+msgid "Luke"
+msgstr ""
+
+#. Town.GuideNames.Marty
+msgctxt "Town.GuideNames.Marty"
+msgid "Marty"
+msgstr ""
+
+#. Town.GuideNames.Maxwell
+msgctxt "Town.GuideNames.Maxwell"
+msgid "Maxwell"
+msgstr ""
+
+#. Town.GuideNames.Ryan
+msgctxt "Town.GuideNames.Ryan"
+msgid "Ryan"
+msgstr ""
+
+#. Town.GuideNames.Scott
+msgctxt "Town.GuideNames.Scott"
+msgid "Scott"
+msgstr ""
+
+#. Town.GuideNames.Seth
+msgctxt "Town.GuideNames.Seth"
+msgid "Seth"
+msgstr ""
+
+#. Town.GuideNames.Steve
+msgctxt "Town.GuideNames.Steve"
+msgid "Steve"
+msgstr ""
+
+#. Town.GuideNames.Tanner
+msgctxt "Town.GuideNames.Tanner"
+msgid "Tanner"
+msgstr ""
+
+#. Town.GuideNames.Trent
+msgctxt "Town.GuideNames.Trent"
+msgid "Trent"
+msgstr ""
+
+#. Town.GuideNames.Wyatt
+msgctxt "Town.GuideNames.Wyatt"
+msgid "Wyatt"
+msgstr ""
+
+#. Town.GuideNames.Zach
+msgctxt "Town.GuideNames.Zach"
+msgid "Zach"
+msgstr ""
+
 #. Town.GuideSpecialText.Eclipse
 msgctxt "Town.GuideSpecialText.Eclipse"
 msgid "Huh?! Where is the sun? Why is it so dark? It must be a Solar Eclipse!"
@@ -82012,6 +83077,126 @@ msgid ""
 "cup."
 msgstr "{Bartender}给了我一杯根汁饮料，我告诉他将饮料倒在方形的杯子里拿给我。"
 
+#. Town.MechanicNames.Amy
+msgctxt "Town.MechanicNames.Amy"
+msgid "Amy"
+msgstr ""
+
+#. Town.MechanicNames.Autumn
+msgctxt "Town.MechanicNames.Autumn"
+msgid "Autumn"
+msgstr ""
+
+#. Town.MechanicNames.Brooke
+msgctxt "Town.MechanicNames.Brooke"
+msgid "Brooke"
+msgstr ""
+
+#. Town.MechanicNames.Dawn
+msgctxt "Town.MechanicNames.Dawn"
+msgid "Dawn"
+msgstr ""
+
+#. Town.MechanicNames.Ella
+msgctxt "Town.MechanicNames.Ella"
+msgid "Ella"
+msgstr ""
+
+#. Town.MechanicNames.Ellen
+msgctxt "Town.MechanicNames.Ellen"
+msgid "Ellen"
+msgstr ""
+
+#. Town.MechanicNames.Ginger
+msgctxt "Town.MechanicNames.Ginger"
+msgid "Ginger"
+msgstr ""
+
+#. Town.MechanicNames.Jenny
+msgctxt "Town.MechanicNames.Jenny"
+msgid "Jenny"
+msgstr ""
+
+#. Town.MechanicNames.Kayla
+msgctxt "Town.MechanicNames.Kayla"
+msgid "Kayla"
+msgstr ""
+
+#. Town.MechanicNames.Korrie
+msgctxt "Town.MechanicNames.Korrie"
+msgid "Korrie"
+msgstr ""
+
+#. Town.MechanicNames.Lauren
+msgctxt "Town.MechanicNames.Lauren"
+msgid "Lauren"
+msgstr ""
+
+#. Town.MechanicNames.Marshanna
+msgctxt "Town.MechanicNames.Marshanna"
+msgid "Marshanna"
+msgstr ""
+
+#. Town.MechanicNames.Meredith
+msgctxt "Town.MechanicNames.Meredith"
+msgid "Meredith"
+msgstr ""
+
+#. Town.MechanicNames.Nancy
+msgctxt "Town.MechanicNames.Nancy"
+msgid "Nancy"
+msgstr ""
+
+#. Town.MechanicNames.Sally
+msgctxt "Town.MechanicNames.Sally"
+msgid "Sally"
+msgstr ""
+
+#. Town.MechanicNames.Selah
+msgctxt "Town.MechanicNames.Selah"
+msgid "Selah"
+msgstr ""
+
+#. Town.MechanicNames.Selene
+msgctxt "Town.MechanicNames.Selene"
+msgid "Selene"
+msgstr ""
+
+#. Town.MechanicNames.Shayna
+msgctxt "Town.MechanicNames.Shayna"
+msgid "Shayna"
+msgstr ""
+
+#. Town.MechanicNames.Sheena
+msgctxt "Town.MechanicNames.Sheena"
+msgid "Sheena"
+msgstr ""
+
+#. Town.MechanicNames.Shirlena
+msgctxt "Town.MechanicNames.Shirlena"
+msgid "Shirlena"
+msgstr ""
+
+#. Town.MechanicNames.Sophia
+msgctxt "Town.MechanicNames.Sophia"
+msgid "Sophia"
+msgstr ""
+
+#. Town.MechanicNames.Susana
+msgctxt "Town.MechanicNames.Susana"
+msgid "Susana"
+msgstr ""
+
+#. Town.MechanicNames.Terra
+msgctxt "Town.MechanicNames.Terra"
+msgid "Terra"
+msgstr ""
+
+#. Town.MechanicNames.Trisha
+msgctxt "Town.MechanicNames.Trisha"
+msgid "Trisha"
+msgstr ""
+
 #. Town.MechanicSpecialText.Graveyard1
 msgctxt "Town.MechanicSpecialText.Graveyard1"
 msgid "I should light up this dark and scary place to keep the monsters away."
@@ -82064,6 +83249,121 @@ msgstr "天呐！有一小股低气压正在逼近，我得确保电网安全。
 msgctxt "Town.MechanicSpecialText.Windy2"
 msgid "My wires are getting tangled in this cyclone. Watch where you step!"
 msgstr "我的电线被这股旋风缠住了。注意脚下！"
+
+#. Town.MerchantNames.Alfred
+msgctxt "Town.MerchantNames.Alfred"
+msgid "Alfred"
+msgstr ""
+
+#. Town.MerchantNames.Barney
+msgctxt "Town.MerchantNames.Barney"
+msgid "Barney"
+msgstr ""
+
+#. Town.MerchantNames.Calvin
+msgctxt "Town.MerchantNames.Calvin"
+msgid "Calvin"
+msgstr ""
+
+#. Town.MerchantNames.Edmund
+msgctxt "Town.MerchantNames.Edmund"
+msgid "Edmund"
+msgstr ""
+
+#. Town.MerchantNames.Edwin
+msgctxt "Town.MerchantNames.Edwin"
+msgid "Edwin"
+msgstr ""
+
+#. Town.MerchantNames.Eugene
+msgctxt "Town.MerchantNames.Eugene"
+msgid "Eugene"
+msgstr ""
+
+#. Town.MerchantNames.Frank
+msgctxt "Town.MerchantNames.Frank"
+msgid "Frank"
+msgstr ""
+
+#. Town.MerchantNames.Frederick
+msgctxt "Town.MerchantNames.Frederick"
+msgid "Frederick"
+msgstr ""
+
+#. Town.MerchantNames.Gilbert
+msgctxt "Town.MerchantNames.Gilbert"
+msgid "Gilbert"
+msgstr ""
+
+#. Town.MerchantNames.Gus
+msgctxt "Town.MerchantNames.Gus"
+msgid "Gus"
+msgstr ""
+
+#. Town.MerchantNames.Harold
+msgctxt "Town.MerchantNames.Harold"
+msgid "Harold"
+msgstr ""
+
+#. Town.MerchantNames.Howard
+msgctxt "Town.MerchantNames.Howard"
+msgid "Howard"
+msgstr ""
+
+#. Town.MerchantNames.Humphrey
+msgctxt "Town.MerchantNames.Humphrey"
+msgid "Humphrey"
+msgstr ""
+
+#. Town.MerchantNames.Isaac
+msgctxt "Town.MerchantNames.Isaac"
+msgid "Isaac"
+msgstr ""
+
+#. Town.MerchantNames.Joseph
+msgctxt "Town.MerchantNames.Joseph"
+msgid "Joseph"
+msgstr ""
+
+#. Town.MerchantNames.Kristian
+msgctxt "Town.MerchantNames.Kristian"
+msgid "Kristian"
+msgstr ""
+
+#. Town.MerchantNames.Louis
+msgctxt "Town.MerchantNames.Louis"
+msgid "Louis"
+msgstr ""
+
+#. Town.MerchantNames.Milton
+msgctxt "Town.MerchantNames.Milton"
+msgid "Milton"
+msgstr ""
+
+#. Town.MerchantNames.Mortimer
+msgctxt "Town.MerchantNames.Mortimer"
+msgid "Mortimer"
+msgstr ""
+
+#. Town.MerchantNames.Ralph
+msgctxt "Town.MerchantNames.Ralph"
+msgid "Ralph"
+msgstr ""
+
+#. Town.MerchantNames.Seymour
+msgctxt "Town.MerchantNames.Seymour"
+msgid "Seymour"
+msgstr ""
+
+#. Town.MerchantNames.Walter
+msgctxt "Town.MerchantNames.Walter"
+msgid "Walter"
+msgstr ""
+
+#. Town.MerchantNames.Wilbur
+msgctxt "Town.MerchantNames.Wilbur"
+msgid "Wilbur"
+msgstr ""
 
 #. Town.MerchantSpecialText.Graveyard1
 msgctxt "Town.MerchantSpecialText.Graveyard1"
@@ -82119,6 +83419,126 @@ msgctxt "Town.NurseChatter.Chatter_1"
 msgid "I keep asking for wine, but all {Bartender} gives me are mugs of ale."
 msgstr "我一直要求喝葡萄酒，但所有{Bartender}给我拿的都是用马克杯装的麦芽酒。"
 
+#. Town.NurseNames.Abigail
+msgctxt "Town.NurseNames.Abigail"
+msgid "Abigail"
+msgstr ""
+
+#. Town.NurseNames.Allison
+msgctxt "Town.NurseNames.Allison"
+msgid "Allison"
+msgstr ""
+
+#. Town.NurseNames.Amy
+msgctxt "Town.NurseNames.Amy"
+msgid "Amy"
+msgstr ""
+
+#. Town.NurseNames.Caitlin
+msgctxt "Town.NurseNames.Caitlin"
+msgid "Caitlin"
+msgstr ""
+
+#. Town.NurseNames.Carly
+msgctxt "Town.NurseNames.Carly"
+msgid "Carly"
+msgstr ""
+
+#. Town.NurseNames.Claire
+msgctxt "Town.NurseNames.Claire"
+msgid "Claire"
+msgstr ""
+
+#. Town.NurseNames.Emily
+msgctxt "Town.NurseNames.Emily"
+msgid "Emily"
+msgstr ""
+
+#. Town.NurseNames.Emma
+msgctxt "Town.NurseNames.Emma"
+msgid "Emma"
+msgstr ""
+
+#. Town.NurseNames.Hannah
+msgctxt "Town.NurseNames.Hannah"
+msgid "Hannah"
+msgstr ""
+
+#. Town.NurseNames.Heather
+msgctxt "Town.NurseNames.Heather"
+msgid "Heather"
+msgstr ""
+
+#. Town.NurseNames.Helen
+msgctxt "Town.NurseNames.Helen"
+msgid "Helen"
+msgstr ""
+
+#. Town.NurseNames.Holly
+msgctxt "Town.NurseNames.Holly"
+msgid "Holly"
+msgstr ""
+
+#. Town.NurseNames.Jenna
+msgctxt "Town.NurseNames.Jenna"
+msgid "Jenna"
+msgstr ""
+
+#. Town.NurseNames.Kaitlin
+msgctxt "Town.NurseNames.Kaitlin"
+msgid "Kaitlin"
+msgstr ""
+
+#. Town.NurseNames.Kaitlyn
+msgctxt "Town.NurseNames.Kaitlyn"
+msgid "Kaitlyn"
+msgstr ""
+
+#. Town.NurseNames.Katelyn
+msgctxt "Town.NurseNames.Katelyn"
+msgid "Katelyn"
+msgstr ""
+
+#. Town.NurseNames.Katherine
+msgctxt "Town.NurseNames.Katherine"
+msgid "Katherine"
+msgstr ""
+
+#. Town.NurseNames.Kathryn
+msgctxt "Town.NurseNames.Kathryn"
+msgid "Kathryn"
+msgstr ""
+
+#. Town.NurseNames.Katie
+msgctxt "Town.NurseNames.Katie"
+msgid "Katie"
+msgstr ""
+
+#. Town.NurseNames.Kayla
+msgctxt "Town.NurseNames.Kayla"
+msgid "Kayla"
+msgstr ""
+
+#. Town.NurseNames.Lisa
+msgctxt "Town.NurseNames.Lisa"
+msgid "Lisa"
+msgstr ""
+
+#. Town.NurseNames.Lorraine
+msgctxt "Town.NurseNames.Lorraine"
+msgid "Lorraine"
+msgstr ""
+
+#. Town.NurseNames.Madeline
+msgctxt "Town.NurseNames.Madeline"
+msgid "Madeline"
+msgstr ""
+
+#. Town.NurseNames.Molly
+msgctxt "Town.NurseNames.Molly"
+msgid "Molly"
+msgstr ""
+
 #. Town.NurseSpecialText.Graveyard1
 msgctxt "Town.NurseSpecialText.Graveyard1"
 msgid ""
@@ -82166,6 +83586,96 @@ msgctxt "Town.NurseSpecialText.Windy2"
 msgid ""
 "I've been chasing my medical instruments all day. This gale is keeping me fit!"
 msgstr "我一整天都在找我的医疗器械。大风天还能让我减肥呢！"
+
+#. Town.PainterNames.Bruno
+msgctxt "Town.PainterNames.Bruno"
+msgid "Bruno"
+msgstr ""
+
+#. Town.PainterNames.Carlo
+msgctxt "Town.PainterNames.Carlo"
+msgid "Carlo"
+msgstr ""
+
+#. Town.PainterNames.Darren
+msgctxt "Town.PainterNames.Darren"
+msgid "Darren"
+msgstr ""
+
+#. Town.PainterNames.Enzo
+msgctxt "Town.PainterNames.Enzo"
+msgid "Enzo"
+msgstr ""
+
+#. Town.PainterNames.Esreadel
+msgctxt "Town.PainterNames.Esreadel"
+msgid "Esreadel"
+msgstr ""
+
+#. Town.PainterNames.Guido
+msgctxt "Town.PainterNames.Guido"
+msgid "Guido"
+msgstr ""
+
+#. Town.PainterNames.Leonardo
+msgctxt "Town.PainterNames.Leonardo"
+msgid "Leonardo"
+msgstr ""
+
+#. Town.PainterNames.Lorenzo
+msgctxt "Town.PainterNames.Lorenzo"
+msgid "Lorenzo"
+msgstr ""
+
+#. Town.PainterNames.Luca
+msgctxt "Town.PainterNames.Luca"
+msgid "Luca"
+msgstr ""
+
+#. Town.PainterNames.Luciano
+msgctxt "Town.PainterNames.Luciano"
+msgid "Luciano"
+msgstr ""
+
+#. Town.PainterNames.Ludo
+msgctxt "Town.PainterNames.Ludo"
+msgid "Ludo"
+msgstr ""
+
+#. Town.PainterNames.Luigi
+msgctxt "Town.PainterNames.Luigi"
+msgid "Luigi"
+msgstr ""
+
+#. Town.PainterNames.Marco
+msgctxt "Town.PainterNames.Marco"
+msgid "Marco"
+msgstr ""
+
+#. Town.PainterNames.Mario
+msgctxt "Town.PainterNames.Mario"
+msgid "Mario"
+msgstr ""
+
+#. Town.PainterNames.Martino
+msgctxt "Town.PainterNames.Martino"
+msgid "Martino"
+msgstr ""
+
+#. Town.PainterNames.Mauro
+msgctxt "Town.PainterNames.Mauro"
+msgid "Mauro"
+msgstr ""
+
+#. Town.PainterNames.Raphael
+msgctxt "Town.PainterNames.Raphael"
+msgid "Raphael"
+msgstr ""
+
+#. Town.PainterNames.Stefano
+msgctxt "Town.PainterNames.Stefano"
+msgid "Stefano"
+msgstr ""
 
 #. Town.PainterSpecialText.Graveyard1
 msgctxt "Town.PainterSpecialText.Graveyard1"
@@ -82220,6 +83730,91 @@ msgstr "感觉到那股气流了吗？到处都飘着油漆味。"
 msgctxt "Town.PainterSpecialText.Windy2"
 msgid "This wind storm just blew all the fresh paint right off the wall!"
 msgstr "这场风暴把墙上刚刷的油漆都吹掉了！"
+
+#. Town.PartyGirlNames.Bailey
+msgctxt "Town.PartyGirlNames.Bailey"
+msgid "Bailey"
+msgstr ""
+
+#. Town.PartyGirlNames.Bambi
+msgctxt "Town.PartyGirlNames.Bambi"
+msgid "Bambi"
+msgstr ""
+
+#. Town.PartyGirlNames.Bunny
+msgctxt "Town.PartyGirlNames.Bunny"
+msgid "Bunny"
+msgstr ""
+
+#. Town.PartyGirlNames.Candy
+msgctxt "Town.PartyGirlNames.Candy"
+msgid "Candy"
+msgstr ""
+
+#. Town.PartyGirlNames.Cherry
+msgctxt "Town.PartyGirlNames.Cherry"
+msgid "Cherry"
+msgstr ""
+
+#. Town.PartyGirlNames.Dazzle
+msgctxt "Town.PartyGirlNames.Dazzle"
+msgid "Dazzle"
+msgstr ""
+
+#. Town.PartyGirlNames.Destiny
+msgctxt "Town.PartyGirlNames.Destiny"
+msgid "Destiny"
+msgstr ""
+
+#. Town.PartyGirlNames.Fantasia
+msgctxt "Town.PartyGirlNames.Fantasia"
+msgid "Fantasia"
+msgstr ""
+
+#. Town.PartyGirlNames.Fantasy
+msgctxt "Town.PartyGirlNames.Fantasy"
+msgid "Fantasy"
+msgstr ""
+
+#. Town.PartyGirlNames.Glitter
+msgctxt "Town.PartyGirlNames.Glitter"
+msgid "Glitter"
+msgstr ""
+
+#. Town.PartyGirlNames.Isis
+msgctxt "Town.PartyGirlNames.Isis"
+msgid "Isis"
+msgstr ""
+
+#. Town.PartyGirlNames.Lexus
+msgctxt "Town.PartyGirlNames.Lexus"
+msgid "Lexus"
+msgstr ""
+
+#. Town.PartyGirlNames.Paris
+msgctxt "Town.PartyGirlNames.Paris"
+msgid "Paris"
+msgstr ""
+
+#. Town.PartyGirlNames.Sparkle
+msgctxt "Town.PartyGirlNames.Sparkle"
+msgid "Sparkle"
+msgstr ""
+
+#. Town.PartyGirlNames.Star
+msgctxt "Town.PartyGirlNames.Star"
+msgid "Star"
+msgstr ""
+
+#. Town.PartyGirlNames.Sugar
+msgctxt "Town.PartyGirlNames.Sugar"
+msgid "Sugar"
+msgstr ""
+
+#. Town.PartyGirlNames.Trixy
+msgctxt "Town.PartyGirlNames.Trixy"
+msgid "Trixy"
+msgstr ""
 
 #. Town.PartyGirlSpecialText.AfterDD2Tier1
 msgctxt "Town.PartyGirlSpecialText.AfterDD2Tier1"
@@ -82312,6 +83907,61 @@ msgstr "这就像是，终于等到了到处抛撒彩纸的好时机！"
 msgctxt "Town.PirateChatter.Chatter_1"
 msgid "About time we gotta barkeep around here! Me rum was almost gone!"
 msgstr "差不多是时候让酒吧老板过来一趟了！我的朗姆酒都快喝没了！"
+
+#. Town.PirateNames.Black Beard
+msgctxt "Town.PirateNames.Black Beard"
+msgid "Black Beard"
+msgstr ""
+
+#. Town.PirateNames.Captain Bullywort
+msgctxt "Town.PirateNames.Captain Bullywort"
+msgid "Captain Bullywort"
+msgstr ""
+
+#. Town.PirateNames.Captain Morgan
+msgctxt "Town.PirateNames.Captain Morgan"
+msgid "Captain Morgan"
+msgstr ""
+
+#. Town.PirateNames.Captain Stoney Dirt
+msgctxt "Town.PirateNames.Captain Stoney Dirt"
+msgid "Captain Stoney Dirt"
+msgstr ""
+
+#. Town.PirateNames.David
+msgctxt "Town.PirateNames.David"
+msgid "David"
+msgstr ""
+
+#. Town.PirateNames.Gunpowder Garry
+msgctxt "Town.PirateNames.Gunpowder Garry"
+msgid "Gunpowder Garry"
+msgstr ""
+
+#. Town.PirateNames.Jack
+msgctxt "Town.PirateNames.Jack"
+msgid "Jack"
+msgstr ""
+
+#. Town.PirateNames.Jake
+msgctxt "Town.PirateNames.Jake"
+msgid "Jake"
+msgstr ""
+
+#. Town.PirateNames.James T. Beard
+msgctxt "Town.PirateNames.James T. Beard"
+msgid "James T. Beard"
+msgstr ""
+
+#. Town.PirateNames.Red Beard
+msgctxt "Town.PirateNames.Red Beard"
+msgid "Red Beard"
+msgstr ""
+
+#. Town.PirateNames.Wet Beard
+msgctxt "Town.PirateNames.Wet Beard"
+msgid "Wet Beard"
+msgstr ""
 
 #. Town.PirateSpecialText.Graveyard1
 msgctxt "Town.PirateSpecialText.Graveyard1"
@@ -82473,107 +84123,107 @@ msgstr "{?IceQueenDefeated}与冰雪女王的外事交往恐怕不大顺利。�
 #. Town.PrincessNames.Ai
 msgctxt "Town.PrincessNames.Ai"
 msgid "Ai"
-msgstr "爱"
+msgstr ""
 
 #. Town.PrincessNames.Alice
 msgctxt "Town.PrincessNames.Alice"
 msgid "Alice"
-msgstr "爱丽丝"
+msgstr ""
 
 #. Town.PrincessNames.Aria
 msgctxt "Town.PrincessNames.Aria"
 msgid "Aria"
-msgstr "阿里亚"
+msgstr ""
 
 #. Town.PrincessNames.Ariel
 msgctxt "Town.PrincessNames.Ariel"
 msgid "Ariel"
-msgstr "艾莉尔"
+msgstr ""
 
 #. Town.PrincessNames.Belle
 msgctxt "Town.PrincessNames.Belle"
 msgid "Belle"
-msgstr "贝莱"
+msgstr ""
 
 #. Town.PrincessNames.Charlotte
 msgctxt "Town.PrincessNames.Charlotte"
 msgid "Charlotte"
-msgstr "夏洛特"
+msgstr ""
 
 #. Town.PrincessNames.Christina
 msgctxt "Town.PrincessNames.Christina"
 msgid "Christina"
-msgstr "克里斯蒂娜"
+msgstr ""
 
 #. Town.PrincessNames.Elitia
 msgctxt "Town.PrincessNames.Elitia"
 msgid "Elitia"
-msgstr "伊莉莎"
+msgstr ""
 
 #. Town.PrincessNames.Emilia
 msgctxt "Town.PrincessNames.Emilia"
 msgid "Emilia"
-msgstr "艾米利亚"
+msgstr ""
 
 #. Town.PrincessNames.Faye
 msgctxt "Town.PrincessNames.Faye"
 msgid "Faye"
-msgstr "菲耶"
+msgstr ""
 
 #. Town.PrincessNames.Flora
 msgctxt "Town.PrincessNames.Flora"
 msgid "Flora"
-msgstr "弗洛拉"
+msgstr ""
 
 #. Town.PrincessNames.Hikari
 msgctxt "Town.PrincessNames.Hikari"
 msgid "Hikari"
-msgstr "光"
+msgstr ""
 
 #. Town.PrincessNames.Hime
 msgctxt "Town.PrincessNames.Hime"
 msgid "Hime"
-msgstr "姬"
+msgstr ""
 
 #. Town.PrincessNames.Liselotte
 msgctxt "Town.PrincessNames.Liselotte"
 msgid "Liselotte"
-msgstr "莉泽洛特"
+msgstr ""
 
 #. Town.PrincessNames.Lucia
 msgctxt "Town.PrincessNames.Lucia"
 msgid "Lucia"
-msgstr "露西亚"
+msgstr ""
 
 #. Town.PrincessNames.Momo
 msgctxt "Town.PrincessNames.Momo"
 msgid "Momo"
-msgstr "莫莫"
+msgstr ""
 
 #. Town.PrincessNames.Rosetta
 msgctxt "Town.PrincessNames.Rosetta"
 msgid "Rosetta"
-msgstr "罗塞塔"
+msgstr ""
 
 #. Town.PrincessNames.Sophia
 msgctxt "Town.PrincessNames.Sophia"
 msgid "Sophia"
-msgstr "索菲亚"
+msgstr ""
 
 #. Town.PrincessNames.Theresa
 msgctxt "Town.PrincessNames.Theresa"
 msgid "Theresa"
-msgstr "特丽萨"
+msgstr ""
 
 #. Town.PrincessNames.Tiara
 msgctxt "Town.PrincessNames.Tiara"
 msgid "Tiara"
-msgstr "头冠"
+msgstr ""
 
 #. Town.PrincessNames.Yuuki
 msgctxt "Town.PrincessNames.Yuuki"
 msgid "Yuuki"
-msgstr "友纪"
+msgstr ""
 
 #. Town.PrincessSpecialText.Graveyard1
 msgctxt "Town.PrincessSpecialText.Graveyard1"
@@ -82655,6 +84305,56 @@ msgctxt "Town.SantaSpecialText.Windy1"
 msgid "Ho ho! My reindeer will fly at mach speeds, tonight!"
 msgstr "哈哈！今晚，我的驯鹿将以超快的速度飞行！"
 
+#. Town.SkeletonMerchantNames.Billy Marrows
+msgctxt "Town.SkeletonMerchantNames.Billy Marrows"
+msgid "Billy Marrows"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Bones McGee
+msgctxt "Town.SkeletonMerchantNames.Bones McGee"
+msgid "Bones McGee"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Gloomy Mays
+msgctxt "Town.SkeletonMerchantNames.Gloomy Mays"
+msgid "Gloomy Mays"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Jack Sellington
+msgctxt "Town.SkeletonMerchantNames.Jack Sellington"
+msgid "Jack Sellington"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Mandible Calavera
+msgctxt "Town.SkeletonMerchantNames.Mandible Calavera"
+msgid "Mandible Calavera"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Mika
+msgctxt "Town.SkeletonMerchantNames.Mika"
+msgid "Mika"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.No-Eyed Wiley
+msgctxt "Town.SkeletonMerchantNames.No-Eyed Wiley"
+msgid "No-Eyed Wiley"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Rattles Magoo
+msgctxt "Town.SkeletonMerchantNames.Rattles Magoo"
+msgid "Rattles Magoo"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Skellington
+msgctxt "Town.SkeletonMerchantNames.Skellington"
+msgid "Skellington"
+msgstr ""
+
+#. Town.SkeletonMerchantNames.Tom
+msgctxt "Town.SkeletonMerchantNames.Tom"
+msgid "Tom"
+msgstr ""
+
 #. Town.SkeletonMerchantSpecialText.Graveyard1
 msgctxt "Town.SkeletonMerchantSpecialText.Graveyard1"
 msgid "As much as you would think I'd belong here, I really don't."
@@ -82685,6 +84385,106 @@ msgid ""
 "The world above is turbulent and chaotic. I like my bones to stay attached, "
 "as it were!"
 msgstr "地上的世界动荡不安。我只希望我的这身骨头能安然无恙！"
+
+#. Town.SteampunkerNames.Ada
+msgctxt "Town.SteampunkerNames.Ada"
+msgid "Ada"
+msgstr ""
+
+#. Town.SteampunkerNames.Cornelia
+msgctxt "Town.SteampunkerNames.Cornelia"
+msgid "Cornelia"
+msgstr ""
+
+#. Town.SteampunkerNames.Cynthia
+msgctxt "Town.SteampunkerNames.Cynthia"
+msgid "Cynthia"
+msgstr ""
+
+#. Town.SteampunkerNames.Emeline
+msgctxt "Town.SteampunkerNames.Emeline"
+msgid "Emeline"
+msgstr ""
+
+#. Town.SteampunkerNames.Fidelia
+msgctxt "Town.SteampunkerNames.Fidelia"
+msgid "Fidelia"
+msgstr ""
+
+#. Town.SteampunkerNames.Hope
+msgctxt "Town.SteampunkerNames.Hope"
+msgid "Hope"
+msgstr ""
+
+#. Town.SteampunkerNames.Isabella
+msgctxt "Town.SteampunkerNames.Isabella"
+msgid "Isabella"
+msgstr ""
+
+#. Town.SteampunkerNames.Judith
+msgctxt "Town.SteampunkerNames.Judith"
+msgid "Judith"
+msgstr ""
+
+#. Town.SteampunkerNames.Leila
+msgctxt "Town.SteampunkerNames.Leila"
+msgid "Leila"
+msgstr ""
+
+#. Town.SteampunkerNames.Lilly
+msgctxt "Town.SteampunkerNames.Lilly"
+msgid "Lilly"
+msgstr ""
+
+#. Town.SteampunkerNames.Lydia
+msgctxt "Town.SteampunkerNames.Lydia"
+msgid "Lydia"
+msgstr ""
+
+#. Town.SteampunkerNames.Minerva
+msgctxt "Town.SteampunkerNames.Minerva"
+msgid "Minerva"
+msgstr ""
+
+#. Town.SteampunkerNames.Phoebe
+msgctxt "Town.SteampunkerNames.Phoebe"
+msgid "Phoebe"
+msgstr ""
+
+#. Town.SteampunkerNames.Savannah
+msgctxt "Town.SteampunkerNames.Savannah"
+msgid "Savannah"
+msgstr ""
+
+#. Town.SteampunkerNames.Selina
+msgctxt "Town.SteampunkerNames.Selina"
+msgid "Selina"
+msgstr ""
+
+#. Town.SteampunkerNames.Verity
+msgctxt "Town.SteampunkerNames.Verity"
+msgid "Verity"
+msgstr ""
+
+#. Town.SteampunkerNames.Vivian
+msgctxt "Town.SteampunkerNames.Vivian"
+msgid "Vivian"
+msgstr ""
+
+#. Town.SteampunkerNames.Whitney
+msgctxt "Town.SteampunkerNames.Whitney"
+msgid "Whitney"
+msgstr ""
+
+#. Town.SteampunkerNames.Zelda
+msgctxt "Town.SteampunkerNames.Zelda"
+msgid "Zelda"
+msgstr ""
+
+#. Town.SteampunkerNames.Zylphia
+msgctxt "Town.SteampunkerNames.Zylphia"
+msgid "Zylphia"
+msgstr ""
 
 #. Town.SteampunkerSpecialText.Graveyard1
 msgctxt "Town.SteampunkerSpecialText.Graveyard1"
@@ -82745,6 +84545,106 @@ msgid ""
 "least worked on his mustache!"
 msgstr "我主动提出免费为{Bartender}修剪头发，但他拒绝了。我的意思是，我本来至少可以为他修剪下胡子！"
 
+#. Town.StylistNames.Annabel
+msgctxt "Town.StylistNames.Annabel"
+msgid "Annabel"
+msgstr ""
+
+#. Town.StylistNames.Biah
+msgctxt "Town.StylistNames.Biah"
+msgid "Biah"
+msgstr ""
+
+#. Town.StylistNames.Bri
+msgctxt "Town.StylistNames.Bri"
+msgid "Bri"
+msgstr ""
+
+#. Town.StylistNames.Brianne
+msgctxt "Town.StylistNames.Brianne"
+msgid "Brianne"
+msgstr ""
+
+#. Town.StylistNames.Esmeralda
+msgctxt "Town.StylistNames.Esmeralda"
+msgid "Esmeralda"
+msgstr ""
+
+#. Town.StylistNames.Flora
+msgctxt "Town.StylistNames.Flora"
+msgid "Flora"
+msgstr ""
+
+#. Town.StylistNames.Hazel
+msgctxt "Town.StylistNames.Hazel"
+msgid "Hazel"
+msgstr ""
+
+#. Town.StylistNames.Iris
+msgctxt "Town.StylistNames.Iris"
+msgid "Iris"
+msgstr ""
+
+#. Town.StylistNames.Kati
+msgctxt "Town.StylistNames.Kati"
+msgid "Kati"
+msgstr ""
+
+#. Town.StylistNames.Kylie
+msgctxt "Town.StylistNames.Kylie"
+msgid "Kylie"
+msgstr ""
+
+#. Town.StylistNames.Lola
+msgctxt "Town.StylistNames.Lola"
+msgid "Lola"
+msgstr ""
+
+#. Town.StylistNames.Meliyah
+msgctxt "Town.StylistNames.Meliyah"
+msgid "Meliyah"
+msgstr ""
+
+#. Town.StylistNames.Pearl
+msgctxt "Town.StylistNames.Pearl"
+msgid "Pearl"
+msgstr ""
+
+#. Town.StylistNames.Petra
+msgctxt "Town.StylistNames.Petra"
+msgid "Petra"
+msgstr ""
+
+#. Town.StylistNames.Rox
+msgctxt "Town.StylistNames.Rox"
+msgid "Rox"
+msgstr ""
+
+#. Town.StylistNames.Roxanne
+msgctxt "Town.StylistNames.Roxanne"
+msgid "Roxanne"
+msgstr ""
+
+#. Town.StylistNames.Ruby
+msgctxt "Town.StylistNames.Ruby"
+msgid "Ruby"
+msgstr ""
+
+#. Town.StylistNames.Scarlett
+msgctxt "Town.StylistNames.Scarlett"
+msgid "Scarlett"
+msgstr ""
+
+#. Town.StylistNames.Stella
+msgctxt "Town.StylistNames.Stella"
+msgid "Stella"
+msgstr ""
+
+#. Town.StylistNames.Tallulah
+msgctxt "Town.StylistNames.Tallulah"
+msgid "Tallulah"
+msgstr ""
+
 #. Town.StylistSpecialText.Graveyard1
 msgctxt "Town.StylistSpecialText.Graveyard1"
 msgid "Eek! This deathly atmosphere is ruining my perm!"
@@ -82795,6 +84695,101 @@ msgid ""
 "Ugh! I should just take the day off, this wind will blow away all my hard "
 "work!"
 msgstr "啊！我应该休息一天，这风会把我所有的辛劳成果都吹走！"
+
+#. Town.TaxCollectorNames.Agnew
+msgctxt "Town.TaxCollectorNames.Agnew"
+msgid "Agnew"
+msgstr ""
+
+#. Town.TaxCollectorNames.Blanton
+msgctxt "Town.TaxCollectorNames.Blanton"
+msgid "Blanton"
+msgstr ""
+
+#. Town.TaxCollectorNames.Carroll
+msgctxt "Town.TaxCollectorNames.Carroll"
+msgid "Carroll"
+msgstr ""
+
+#. Town.TaxCollectorNames.Chester
+msgctxt "Town.TaxCollectorNames.Chester"
+msgid "Chester"
+msgstr ""
+
+#. Town.TaxCollectorNames.Cleveland
+msgctxt "Town.TaxCollectorNames.Cleveland"
+msgid "Cleveland"
+msgstr ""
+
+#. Town.TaxCollectorNames.Dwyer
+msgctxt "Town.TaxCollectorNames.Dwyer"
+msgid "Dwyer"
+msgstr ""
+
+#. Town.TaxCollectorNames.Fillmore
+msgctxt "Town.TaxCollectorNames.Fillmore"
+msgid "Fillmore"
+msgstr ""
+
+#. Town.TaxCollectorNames.Grover
+msgctxt "Town.TaxCollectorNames.Grover"
+msgid "Grover"
+msgstr ""
+
+#. Town.TaxCollectorNames.Harrison
+msgctxt "Town.TaxCollectorNames.Harrison"
+msgid "Harrison"
+msgstr ""
+
+#. Town.TaxCollectorNames.Herbert
+msgctxt "Town.TaxCollectorNames.Herbert"
+msgid "Herbert"
+msgstr ""
+
+#. Town.TaxCollectorNames.Lyndon
+msgctxt "Town.TaxCollectorNames.Lyndon"
+msgid "Lyndon"
+msgstr ""
+
+#. Town.TaxCollectorNames.McKinly
+msgctxt "Town.TaxCollectorNames.McKinly"
+msgid "McKinly"
+msgstr ""
+
+#. Town.TaxCollectorNames.Millard
+msgctxt "Town.TaxCollectorNames.Millard"
+msgid "Millard"
+msgstr ""
+
+#. Town.TaxCollectorNames.Ronald
+msgctxt "Town.TaxCollectorNames.Ronald"
+msgid "Ronald"
+msgstr ""
+
+#. Town.TaxCollectorNames.Rutherford
+msgctxt "Town.TaxCollectorNames.Rutherford"
+msgid "Rutherford"
+msgstr ""
+
+#. Town.TaxCollectorNames.Theodore
+msgctxt "Town.TaxCollectorNames.Theodore"
+msgid "Theodore"
+msgstr ""
+
+#. Town.TaxCollectorNames.Tweed
+msgctxt "Town.TaxCollectorNames.Tweed"
+msgid "Tweed"
+msgstr ""
+
+#. Town.TaxCollectorNames.Warren
+msgctxt "Town.TaxCollectorNames.Warren"
+msgid "Warren"
+msgstr ""
+
+#. Town.TaxCollectorNames.Woodrow
+msgctxt "Town.TaxCollectorNames.Woodrow"
+msgid "Woodrow"
+msgstr ""
 
 #. Town.TaxCollectorSpecialText.Graveyard1
 msgctxt "Town.TaxCollectorSpecialText.Graveyard1"
@@ -85345,6 +87340,71 @@ msgctxt "Town.TownNPCMoodBiomes.Snow"
 msgid "the Snow"
 msgstr "雪地"
 
+#. Town.TravelingMerchantNames.Abraham
+msgctxt "Town.TravelingMerchantNames.Abraham"
+msgid "Abraham"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Aedan
+msgctxt "Town.TravelingMerchantNames.Aedan"
+msgid "Aedan"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Aphraim
+msgctxt "Town.TravelingMerchantNames.Aphraim"
+msgid "Aphraim"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Bohemas
+msgctxt "Town.TravelingMerchantNames.Bohemas"
+msgid "Bohemas"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Eladon
+msgctxt "Town.TravelingMerchantNames.Eladon"
+msgid "Eladon"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Gallius
+msgctxt "Town.TravelingMerchantNames.Gallius"
+msgid "Gallius"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Llewellyn
+msgctxt "Town.TravelingMerchantNames.Llewellyn"
+msgid "Llewellyn"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Mercer
+msgctxt "Town.TravelingMerchantNames.Mercer"
+msgid "Mercer"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Rawleigh
+msgctxt "Town.TravelingMerchantNames.Rawleigh"
+msgid "Rawleigh"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Riley
+msgctxt "Town.TravelingMerchantNames.Riley"
+msgid "Riley"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Romeo
+msgctxt "Town.TravelingMerchantNames.Romeo"
+msgid "Romeo"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Shipton
+msgctxt "Town.TravelingMerchantNames.Shipton"
+msgid "Shipton"
+msgstr ""
+
+#. Town.TravelingMerchantNames.Willy
+msgctxt "Town.TravelingMerchantNames.Willy"
+msgid "Willy"
+msgstr ""
+
 #. Town.TravellingMerchantSpecialText.Graveyard1
 msgctxt "Town.TravellingMerchantSpecialText.Graveyard1"
 msgid ""
@@ -85400,6 +87460,66 @@ msgid ""
 "I would sell you exotic wind socks, but I'm afraid I forgot to stock them!"
 msgstr "我会卖给你异国风情防风袜，但我忘了进货了！"
 
+#. Town.TruffleNames.Agaric
+msgctxt "Town.TruffleNames.Agaric"
+msgid "Agaric"
+msgstr ""
+
+#. Town.TruffleNames.Amanita
+msgctxt "Town.TruffleNames.Amanita"
+msgid "Amanita"
+msgstr ""
+
+#. Town.TruffleNames.Chanterelle
+msgctxt "Town.TruffleNames.Chanterelle"
+msgid "Chanterelle"
+msgstr ""
+
+#. Town.TruffleNames.Cremini
+msgctxt "Town.TruffleNames.Cremini"
+msgid "Cremini"
+msgstr ""
+
+#. Town.TruffleNames.Enoki
+msgctxt "Town.TruffleNames.Enoki"
+msgid "Enoki"
+msgstr ""
+
+#. Town.TruffleNames.Maitake
+msgctxt "Town.TruffleNames.Maitake"
+msgid "Maitake"
+msgstr ""
+
+#. Town.TruffleNames.Morel
+msgctxt "Town.TruffleNames.Morel"
+msgid "Morel"
+msgstr ""
+
+#. Town.TruffleNames.Muscaria
+msgctxt "Town.TruffleNames.Muscaria"
+msgid "Muscaria"
+msgstr ""
+
+#. Town.TruffleNames.Porcini
+msgctxt "Town.TruffleNames.Porcini"
+msgid "Porcini"
+msgstr ""
+
+#. Town.TruffleNames.Reishi
+msgctxt "Town.TruffleNames.Reishi"
+msgid "Reishi"
+msgstr ""
+
+#. Town.TruffleNames.Shiitake
+msgctxt "Town.TruffleNames.Shiitake"
+msgid "Shiitake"
+msgstr ""
+
+#. Town.TruffleNames.Shimeji
+msgctxt "Town.TruffleNames.Shimeji"
+msgid "Shimeji"
+msgstr ""
+
 #. Town.TruffleSpecialText.Graveyard1
 msgctxt "Town.TruffleSpecialText.Graveyard1"
 msgid ""
@@ -85447,6 +87567,56 @@ msgstr "我们这种生物很脆弱，在这种有微风的日子里，我会担
 msgctxt "Town.TruffleSpecialText.Windy2"
 msgid "Wind is not my friend, I like the dark, calm places."
 msgstr "我不喜欢风，我喜欢黑暗、安静的地方。"
+
+#. Town.WitchDoctorNames.Abibe
+msgctxt "Town.WitchDoctorNames.Abibe"
+msgid "Abibe"
+msgstr ""
+
+#. Town.WitchDoctorNames.Gboto
+msgctxt "Town.WitchDoctorNames.Gboto"
+msgid "Gboto"
+msgstr ""
+
+#. Town.WitchDoctorNames.Jamundi
+msgctxt "Town.WitchDoctorNames.Jamundi"
+msgid "Jamundi"
+msgstr ""
+
+#. Town.WitchDoctorNames.Kogi-ghi
+msgctxt "Town.WitchDoctorNames.Kogi-ghi"
+msgid "Kogi-ghi"
+msgstr ""
+
+#. Town.WitchDoctorNames.Konah
+msgctxt "Town.WitchDoctorNames.Konah"
+msgid "Konah"
+msgstr ""
+
+#. Town.WitchDoctorNames.Opuni
+msgctxt "Town.WitchDoctorNames.Opuni"
+msgid "Opuni"
+msgstr ""
+
+#. Town.WitchDoctorNames.Tairona
+msgctxt "Town.WitchDoctorNames.Tairona"
+msgid "Tairona"
+msgstr ""
+
+#. Town.WitchDoctorNames.U'wa
+msgctxt "Town.WitchDoctorNames.U'wa"
+msgid "U'wa"
+msgstr ""
+
+#. Town.WitchDoctorNames.Xirigua
+msgctxt "Town.WitchDoctorNames.Xirigua"
+msgid "Xirigua"
+msgstr ""
+
+#. Town.WitchDoctorNames.Zop'a
+msgctxt "Town.WitchDoctorNames.Zop'a"
+msgid "Zop'a"
+msgstr ""
 
 #. Town.WitchDoctorSpecialText.AfterDD2Tier1
 msgctxt "Town.WitchDoctorSpecialText.AfterDD2Tier1"
@@ -85502,6 +87672,116 @@ msgstr "把你的护身符看好…有得必有失。"
 msgctxt "Town.WitchDoctorSpecialText.Windy2"
 msgid "The wind blows with the leaves, the leaves blow with the wind."
 msgstr "风吹动着树叶，树叶随风摇曳。"
+
+#. Town.WizardNames.Abram
+msgctxt "Town.WizardNames.Abram"
+msgid "Abram"
+msgstr ""
+
+#. Town.WizardNames.Alasdair
+msgctxt "Town.WizardNames.Alasdair"
+msgid "Alasdair"
+msgstr ""
+
+#. Town.WizardNames.Arddun
+msgctxt "Town.WizardNames.Arddun"
+msgid "Arddun"
+msgstr ""
+
+#. Town.WizardNames.Arwyn
+msgctxt "Town.WizardNames.Arwyn"
+msgid "Arwyn"
+msgstr ""
+
+#. Town.WizardNames.Berwyn
+msgctxt "Town.WizardNames.Berwyn"
+msgid "Berwyn"
+msgstr ""
+
+#. Town.WizardNames.Dalamar
+msgctxt "Town.WizardNames.Dalamar"
+msgid "Dalamar"
+msgstr ""
+
+#. Town.WizardNames.Dulais
+msgctxt "Town.WizardNames.Dulais"
+msgid "Dulais"
+msgstr ""
+
+#. Town.WizardNames.Elric
+msgctxt "Town.WizardNames.Elric"
+msgid "Elric"
+msgstr ""
+
+#. Town.WizardNames.Fizban
+msgctxt "Town.WizardNames.Fizban"
+msgid "Fizban"
+msgstr ""
+
+#. Town.WizardNames.Gearroid
+msgctxt "Town.WizardNames.Gearroid"
+msgid "Gearroid"
+msgstr ""
+
+#. Town.WizardNames.Greum
+msgctxt "Town.WizardNames.Greum"
+msgid "Greum"
+msgstr ""
+
+#. Town.WizardNames.Gwentor
+msgctxt "Town.WizardNames.Gwentor"
+msgid "Gwentor"
+msgstr ""
+
+#. Town.WizardNames.Hirael
+msgctxt "Town.WizardNames.Hirael"
+msgid "Hirael"
+msgstr ""
+
+#. Town.WizardNames.Leomund
+msgctxt "Town.WizardNames.Leomund"
+msgid "Leomund"
+msgstr ""
+
+#. Town.WizardNames.Maelor
+msgctxt "Town.WizardNames.Maelor"
+msgid "Maelor"
+msgstr ""
+
+#. Town.WizardNames.Magius
+msgctxt "Town.WizardNames.Magius"
+msgid "Magius"
+msgstr ""
+
+#. Town.WizardNames.Merlyn
+msgctxt "Town.WizardNames.Merlyn"
+msgid "Merlyn"
+msgstr ""
+
+#. Town.WizardNames.Ningauble
+msgctxt "Town.WizardNames.Ningauble"
+msgid "Ningauble"
+msgstr ""
+
+#. Town.WizardNames.Sargon
+msgctxt "Town.WizardNames.Sargon"
+msgid "Sargon"
+msgstr ""
+
+#. Town.WizardNames.Seonag
+msgctxt "Town.WizardNames.Seonag"
+msgid "Seonag"
+msgstr ""
+
+#. Town.WizardNames.Tagar
+msgctxt "Town.WizardNames.Tagar"
+msgid "Tagar"
+msgstr ""
+
+#. Town.WizardNames.Xanadu
+msgctxt "Town.WizardNames.Xanadu"
+msgid "Xanadu"
+msgstr ""
 
 #. Town.WizardSpecialText.AfterDD2Tier1
 msgctxt "Town.WizardSpecialText.AfterDD2Tier1"

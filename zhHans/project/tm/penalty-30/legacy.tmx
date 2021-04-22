@@ -29738,14 +29738,6 @@ increasing ranged ability and reducing chance for enemies to target you but slow
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Esper</seg>
-      </tuv>
-      <tuv xml:lang="zh-CN">
-        <seg>埃斯珀</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>Essence</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
@@ -66700,7 +66692,7 @@ Please upload content responsibly</seg>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Pillagin Me Pixels</seg>
+        <seg>Pillagin' Me Pixels</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>海贼像素画</seg>
@@ -110453,6 +110445,14 @@ Dark energy jumps from enemies hit by summons</seg>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{$NPCName.ChaosBall}</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>{$NPCName.ChaosBall}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{$NPCName.DD2DarkMageT1}</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
@@ -110537,6 +110537,14 @@ Dark energy jumps from enemies hit by summons</seg>
       </tuv>
       <tuv xml:lang="zh-CN">
         <seg>{$NPCName.DD2WyvernT1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{$NPCName.VileSpit}</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>{$NPCName.VileSpit}</seg>
       </tuv>
     </tu>
     <tu>

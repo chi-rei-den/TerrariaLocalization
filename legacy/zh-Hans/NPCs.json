@@ -670,6 +670,8 @@
 		"WaterStrider": "水黾",
 		"WindyBalloon": "大风气球怪",
 		"YellowDragonfly": "蜻蜓",
-		"ZombieMerman": "僵尸人鱼"
+		"ZombieMerman": "僵尸人鱼",
+		"ChaosBallTim": "{$NPCName.ChaosBall}",
+		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}"
 	}
 }
